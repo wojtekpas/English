@@ -1,4 +1,4 @@
-proposal - an idea or plan, perhaps quite tentative and vague - idea lub plan, możliwe, że dość nieperwny i niejasny
+proposal - an idea or plan, perhaps quite tentative and vague - idea lub plan, możliwe, że dość niepewny i niejasny
 suggestion - an idea or plan, more formal and definite, and usually one that a group has to consider - idea lub plan, bardziej formalny i zdefiniowany, zwykle jeden do rozważenia
 offer - a statemant saying you will give something to someone (used mainly in negotiatons) - oświadczenie, że komuś coś dasz (stosowane głównie w negocjach)
 
@@ -7,7 +7,7 @@ accept/take up (a suggestion) - zaakceptować
 reject/dismiss (a suggestion) - odrzucić/oddalić
 come up with/think of (a suggestion) - rozważać/myśleć o
 
-take part in/be involved in - brać udział/być zaangażowanym
+take part in/be involved in - brać udział/być zaangażowanym w
 come to/reach - przejść do/osiągnąć
 raise/bring up - podnieść/wywindować
 deal with/tackle - radzić sobie z/przezwyciężać
@@ -32,11 +32,9 @@ collocate with - układać się/pasować
 hold a meeting - zorganizować spotkanie/odbyć naradę
 hold all the cards - trzymać wszystkie karty
 hold an opinion - mieć opinię
-?hold a proposal - otrzymać propozycję
-?hold sb responsible for sth - uczynić kogoś odpowiedzialnym za coś
+hold sb responsible for sth - uczynić kogoś odpowiedzialnym za coś
 
 take part in a discussion - wziąć udział w dyskusji
-take an effort to do sth - podjąć wysiłek w celu zrobienia czegoś
 take a decision - podjąc decyzję
 take up a suggestion - zaakceptować sugestię
 take another approach - zrobić kolejne podejście
@@ -45,16 +43,13 @@ reach an agreement - dojść do porozumienia
 reach a compromise - osiągnąć kompromis
 reach a dead-end - wejść w ślepy zaułek
 reach a decision - podjąć decyzję
-?reach a demand - mieć wymaganie
 
-raise awareness of the issue - podniesienie świadomości w tej kwestii
-raise a difficult challenge - podjąć ciężkie wyzwanie
-?raise the matter later - podnieść sprawę poźniej
-?raise an important objection - podnieść ważny sprzeciw
+raise awareness of the issue - podnieść świadomość w tej kwestii
+raise the matter later - podnieść sprawę poźniej
+raise an important objection - podnieść ważny sprzeciw
 raise an interesting question - podnieść ciekawe pytanie
 
 meet a challenge - napotkać wyzwanie
 meet a deadline - dotrzymać terminów
-meet an issue - napotkać problem
 meet a need - spełniać potrzebę
-meet an objective - spełniać cel
+meet an objective - spełnić cel

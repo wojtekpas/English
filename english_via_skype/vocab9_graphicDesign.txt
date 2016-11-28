@@ -1,0 +1,54 @@
+bold - pobrubiony
+import - zaimportować
+introduce - przedstawiać
+export - wyeksportować
+send off - wysłać/rozesłać
+frame - ramka
+outside - zewnętrze
+stroke - uderzenie
+fill - porcja
+fade - wyblaknięcie
+gradient - nachylenie
+curling - zakręcenie/zwijanie
+kerning - dostosowanie
+be applied to - być stosowany
+object - przedmiot/cel
+thing - sprawa/rzecz
+arrange in - układać/aranżować w
+level - poziom/piętro
+layer - warstwa/powłoka
+overlap - pokrywać się częściowo/nakładać się na siebie
+overrun - przekroczyć/najechać
+blurred - rozmyty/rozmazany
+soft - miękki/gładki
+at the edges - na brzegach
+result - wynik/rezultat
+effect - efekt/skutek
+feathering - upierzenie/odzieranie z piór
+birding - obserwowanie ptaków/polowanie na ptaki
+bleed - całkostronnicowy (bez marginesu_
+up to - aż do
+snail/slug - ślimak
+pull - ciągnąć/nakładać
+stretch - rozciągać
+press - iść do druku
+essential - niezbędny/podstawowy
+proof - dowód
+like - tak jak/podobnie
+desktop printer - drukarka biurowa
+machine - komputer/maszyna
+press - tłocznia/praska/żelazko
+cyan - niebieskozielony
+magenta - purpurowy/ciemnoróżowy
+divide into - podzielić na
+seperation - oddzielenie
+division - podział
+plate - talerz/płytka
+stamp - pieczątko/znaczek
+ink - atrament/tatuaż
+prior to - przed
+transfor - przekształcać
+convert - przerabiać/modyfikować
+display - wyświetlacz
+reprographics - reprografia
+reproduction - reprodukcja/odtwarzanie

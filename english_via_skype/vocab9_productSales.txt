@@ -16,6 +16,7 @@ mediocre - mierny
 maintainable - dający się utrzymać
 first-rate - pierwszorzędny
 well-manufactured - dobrze wyprodukowany
+sustainable - trwały
 fraction-resistant - odporny na tarcie
 water-resistant - wodoodporny
 heat-resistant - żaroodporny/termoodporny
@@ -36,7 +37,6 @@ comprehensive - obszerny/pełny
 price:
 fixed - stały
 variable - zmienny
-sustainable - trwały/nienaruszający równowagi ekologicznej
 retail - detaliczny
 money-losing - niekorzystny finansowo
 exorbitant - przesadny/wygórowany

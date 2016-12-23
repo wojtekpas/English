@@ -1,0 +1,47 @@
+rzeczowniki:
+clip - klamerka/zacisk/spinacz
+encapsulation - enkapsulacja/hermetyzacja
+equilateral triangle/a rectangle with equal sides - trójkąt równoboczny
+inheritance - dziedziczenie/dziedzictwo/spuścizna/ojcowizna
+isosceles triangle - trójkąt równoramienny
+reusability - ponowne wykorzystanie
+right triangle - trójkąt prostokątny
+welder - spawacz
+
+czasowniki:
+fetch - przynieść
+lead to - prowadzić do
+scratch - drapać się
+stitch - zszywać
+
+przymiotniki:
+composed - opanowany/spokojny
+eligible - uprawniony
+intuitive - intuicyjny
+principal - zasadniczy
+sticky - kleisty/lepki
+synchronized - zsynchronizowany
+
+przysłówki:
+rapidly - szybko/gwałtownie
+
+łączniki:
+and so on - i tak dalej
+perhaps - być może
+
+epitety:
+diverse data - zróżnicowane dane
+
+wyrażenia:
+all one has to do - wszystko co musi zrobić
+be bundled together - być powiązane ze sobą
+be key feature - być kluczową cechą
+be treated differently by - być traktowany w różny sposób
+can be packaged together into - mogą być pakowane razem w
+can easily be copied and pasted - może być łatwo kopiowany i wklejany
+contain four right angles - zawierać cztery kąty proste
+drag with a mouse - przeciągnąć za pomocą myszkę
+have four sides - mieć cztery boki
+this eliminates the need - eliminuje to konieczność/potrzebę
+this speeds up development and maintenance of programs - to przyspiesza rozwój i utrzymanie programów
+write code from scratch - pisać kod od zera

@@ -1,0 +1,30 @@
+rzeczowniki:
+cartridge - nabój/kaseta/wkład
+cover - zabezpieczenie/ubezpieczenie/polisa
+landscape - krajobraz/pejzaż
+portrait - portret
+print-head - głowica
+replacement - wymiana/zastępstwo
+
+czasowniki:
+collate - porównać/zestawić
+feed - karmić
+reload - przeładować/załadować
+
+przymiotniki:
+double-sided - dwustronny
+jammed - zaklinowany/zapakowany
+
+przysłówki:
+out - na zewnątrz
+
+łączniki:
+2 out of 5 - 2 spośród/z 5
+via - przez/poprzez
+
+wyrażenia:
+have to lift - musieć dźwigać/podnieść
+horizontal/landscape - orientacja pozioma
+the text in the top bar is reversed-out - tekst w górnym pasku jest odwrócony
+vertical/portrair orientation - orientacja pionowa
+when the ink runs out - gdy skończy się tusz

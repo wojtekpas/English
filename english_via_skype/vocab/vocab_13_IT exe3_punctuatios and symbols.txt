@@ -1,0 +1,26 @@
+punctuation mark - znak interpunkcyjny
+
+ampersand - '&'
+arrow - '->'/strzałka
+asterisk - '*'/gwiazdka
+at sign - '@'/małpa
+backward slash - '\'
+brackets - '()'/nawiasy
+colon - ':'/dwukropek
+comma - ','/przecinek
+dollar sign - '$'/znak dolara
+double quotes - '"'/cudzysłów
+equals sign - '='/znak równości
+exclamation mark - '!'/wykrzyknik
+forward slash - '/'
+full stop - '.'/kropka
+hash - '#'
+hyphen - '-'/łącznik
+left bracket - '('/lewy nawias
+percentage sign - '%'/procent
+plus sign - '+'/plus
+question mark - '?'/znak zapytania
+semicolon - ';'/średnik
+single quotes - '\''/apostrof
+square brackets - '[]'/nawiasy kradratowe
+underscore - '_'/podkreślnik

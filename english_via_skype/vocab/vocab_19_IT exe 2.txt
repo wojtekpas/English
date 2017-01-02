@@ -1,0 +1,40 @@
+rzecznowniki:
+conductor - przewodnik
+insulator - izolator
+interconnect - połączenie wzajemne
+prefix - prefiks/przedrostek
+root - korzeń/rdzeń/pień
+semiconductor - półprzewodnik
+suffix - przyrostek
+supplier - dostawca
+
+czasowniki:
+debug/to correct errors in a program or system - debugować/poprawiać błędy w programie lub systemie
+decompress/to restore compressed data back to its original size - zdekompresować/przywrócić skompresowane dane z powrotem do swojego pierwotnego rozmiaru
+decrypt/to convert secretly coded (encrypted) data back into its original form - odszyfrować/przekonwertować potajemnie zakodowane (zaszyfrowane) dane z powrotem do swojej pierwotnej postaci
+defragment/to reorganize data stored on disk by putting files into contiguous order - defregmentować/reorganizować dane przechowywane na dysku poprzez umieszczenie plików w ciągłej kolejności
+encrypt/to change data into a secret code so that only somebody with a key can read it - zaszyfrować/zmienić dane tak, że ktoś może je odczytać tylko za pomocą klucza
+retain - utrzymywać
+uninstall/to remove hardware or software from a computer system - odinstalować/usunąć sprzęt lub oprogramowanie z systemu komputerowego 
+update/to modify data in a file and thus ensure the file reflects the latest situation - zaaktualizować/modyfikować dane w pliku, a tym samym zapewnić, że plik odzwierciedla aktualną sytuację
+upgrade/to add or replace hardware or software in order to expand the computer's power - zaaktualizować/dodać lub wymienić sprzęt lub oprogramowanie w celu zwiększenia mocy komputera
+upload/to send files to a central, often remote computer - wrzucić plik/wysłać plik do centralnego, często zdalnego komputera
+
+przymiotniki:
+contiguous/adjacent - przyległy/przylegający
+
+inne:
+each other - wzajemnie/nawzajem
+
+wyrażenia:
+a microbrowser is designed to display on mobiles - miniprzeglądarka jest przeznaczona do wyświetlania na telefonach komórkowowych
+a semiconductor is neither a good conductor nor a good insulator - półprzewodnik nie jest ani dobrym przewodnikiem, ani dobrym izolatorem
+a supersite offers links to other websites on a certain topic - superstrona oferuje linki do innych stron internetowych na określony temat
+an extranet links a company with its customers and suppliers - extranet łączy firmę z jej klientami i dostawcami
+an intranet is a private network, restricted to a company's internal use - intranet jest prywatną siecią, ograniczoną do wewnętrznego użytku firmy
+an unformatted disk has not been initialized - niesformatowany dysk nie został zainicjalizowany
+data transmission can be wired or wireless - transmisja danych może być przewodowa lub bezprzewodowa
+it doesn't allow data to be stored - nie pozwala to na przychowywanie danych
+non-volatile memory retains its content when the power is turned off - pamięć nieulotna utrzymuje swoją zawartość po wyłączeniu zasilania
+teleconferencing enables users in different places to talk to and see each other - telekonferencja pozwala użytkownikom w różnych miejscach rozmawiać i widzieć się nawzajem
+the internet consists of millions of computers interconnected in a global network - internet składa się z milionów komputerów połączonych w globalną sieć

@@ -1,5 +1,9 @@
 rzecznowniki:
 conductor - przewodnik
+cyberslacking/using a company's Internet access for activities which are not work-related - używanie firmowego internetu do działań, które nie są związane z pracą
+cyberspace/the electronic space in which online communication takes place - przestrzeń elektroniczna, w której ma miejsce komunikacja online
+e-commerce/buying and selling of products or services over the Internet - kupowanie i sprzedaż produktów lub usług przez internet
+e-learning/use of ICT to provide education and training - wykorzystanie technologii informacyjno-komunikacyjnych w celu zapewnienia edukacji i szkoleń
 insulator - izolator
 interconnect - połączenie wzajemne
 prefix - prefiks/przedrostek
@@ -14,6 +18,7 @@ decompress/to restore compressed data back to its original size - zdekompresowa�
 decrypt/to convert secretly coded (encrypted) data back into its original form - odszyfrować/przekonwertować potajemnie zakodowane (zaszyfrowane) dane z powrotem do swojej pierwotnej postaci
 defragment/to reorganize data stored on disk by putting files into contiguous order - defregmentować/reorganizować dane przechowywane na dysku poprzez umieszczenie plików w ciągłej kolejności
 encrypt/to change data into a secret code so that only somebody with a key can read it - zaszyfrować/zmienić dane tak, że ktoś może je odczytać tylko za pomocą klucza
+emerge - wyłaniać się/pojawiać się
 retain - utrzymywać
 uninstall/to remove hardware or software from a computer system - odinstalować/usunąć sprzęt lub oprogramowanie z systemu komputerowego 
 update/to modify data in a file and thus ensure the file reflects the latest situation - zaaktualizować/modyfikować dane w pliku, a tym samym zapewnić, że plik odzwierciedla aktualną sytuację

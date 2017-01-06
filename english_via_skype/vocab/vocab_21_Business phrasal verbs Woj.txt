@@ -1,0 +1,51 @@
+rzeczowniki:
+bankruptcy - bankructwo/upadek
+cooperation - współpraca
+obstacle - przeszkoda
+venture - śmiałe przedsięwzięcie/wyprawa
+workload - obciążenie pracą
+
+czasowniki:
+add up - dodawać coś/sumować się
+advise about - 
+appeal to - podobać się komuś/odwołać się do
+be forced to - być zmuszony do
+bring sth up - podnieść/poruszyć/napomykać coś
+call sth off - odwołać coś/zaprzestać czegoś
+catch up with - dogonić kogoś/nadrabiać coś
+come up against - napotkać na jakieś trudności/zmagać się z jakimiś problemami
+come up with - wymyślić coś/wytrzasnąć coś
+fall in with - zgadzać się z czymś/akceptować coś
+figure out - wymyślić/wykombinować coś
+flip through - przekartować/przerzucać coś
+pay off - opłacać się
+rule out - wykluczać/odrzucać coś
+single out - wybrać kogoś/wyróżnić coś
+sort out - rozprawić/uporać się z czymś
+
+przymiotnik:
+advisable - wskazany
+beneficial - korzystny
+infeasible - niewykonalny/niemożliwy
+numerous - liczny
+profitable - opłacalny/rentowny
+vague - niejasny/ogólnikowy
+
+przysłówki:
+at stake - w zagrożeniu
+
+epitety:
+period of stagnancy - okres stagnacji
+poor attendance - słaba frekwencja
+
+wyrażenia:
+it can ruin us - to może nas zrujnować
+it is highly advisable - jest wysoce wskazane
+it looks highly profitable - wygląda na bardzo opłacalny
+measure up to one's expectations - sprostać czyimś oczekiwaniom
+reach compromise - dojść do kompromisu/osiągnąć kompromis
+there are numerous examples - istnieją liczne przykłady
+there is high probability - istnieje wysokie prawdopodobieństwo
+this venture brought up our bankruptcy - to przedsięwzięcie przyniosło nam bankructwo
+without any loss - bez żadnej straty
+work out a compromise - wypracować kompromis

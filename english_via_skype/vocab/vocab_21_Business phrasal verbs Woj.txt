@@ -6,22 +6,35 @@ venture - śmiałe przedsięwzięcie/wyprawa
 workload - obciążenie pracą
 
 czasowniki:
-add up - dodawać coś/sumować się
-advise about - 
-appeal to - podobać się komuś/odwołać się do
+add up - mieć sens/trzymać się kupy
+advise against - sprzeciwiać się
+appeal to sb - przemawiać do kogoś
+back down - pójść krok w tył
+back out - wycofać się
 be forced to - być zmuszony do
+be tight up - być uwiązany
 bring sth up - podnieść/poruszyć/napomykać coś
+bring about - spowodować
 call sth off - odwołać coś/zaprzestać czegoś
 catch up with - dogonić kogoś/nadrabiać coś
 come up against - napotkać na jakieś trudności/zmagać się z jakimiś problemami
 come up with - wymyślić coś/wytrzasnąć coś
-fall in with - zgadzać się z czymś/akceptować coś
+cut down on - ograniczyć
+fall behind with - wpaść w zaległości
 figure out - wymyślić/wykombinować coś
 flip through - przekartować/przerzucać coś
+get over - pokonać
+go in for - wejść w coś
+go over - przejść
 pay off - opłacać się
+put into practise - zastosować w praktyce
+put off sth - odłożyć
+put up with - znosić
 rule out - wykluczać/odrzucać coś
+show up - pojawić się
 single out - wybrać kogoś/wyróżnić coś
 sort out - rozprawić/uporać się z czymś
+turn down - odrzucić
 
 przymiotnik:
 advisable - wskazany

@@ -1,0 +1,41 @@
+2)
+1. customized
+2. operating system
+3. upgrade
+4. releases
+5. software licences
+6. helpdesk
+7. data format
+8. applications
+
+3)
+1. bespoke - specially produced for someone
+2. bugs - errors in a program
+3. cutover
+4. modular - gradual implementation
+5. off the shelf - 
+6. output - 
+7. robust - strong/reliable
+8. rollout - 
+9. sign off - 
+10. SME - 
+11. specyfication - detailed desciption of what is required
+12. steady state - work finished and completed
+
+14)
+1. bottleneck - blockage
+2. within scope/out of scope - suitable/unsuitable for inclusion
+3. slippage - delay
+4. rollout
+5. stick to
+6. dirty data
+7. deadline - final date for completing (a project)
+8. migrate - move data from one system to another
+
+15)
+1. 
+2. 
+3. deadline
+4. 
+5. slippage
+6. 

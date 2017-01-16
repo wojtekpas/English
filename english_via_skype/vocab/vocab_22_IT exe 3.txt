@@ -1,0 +1,42 @@
+rzeczowniki:
+blockage - niedrożność/zator/blokada
+bottleneck - wąskie gardło
+inclusion - włączenie
+manufacturer - producent/wytwórca/fabrykant
+rollout - wejście na rynek
+slippage - poślizg
+
+czasowniki:
+customize - dostosować
+outline - nakreślić/naznaczyć
+migrate - przesiedlać się/wędrować/migrować
+sign off - skończyć/pożegnać się
+underline - podkreślić
+
+przymiotniki:
+bespoke - zrobiony na zamówienie
+cutover - oczyszczony z drzeew
+gradual - stopniowy
+modular - modularny/modułowy
+off the shelf - dostępny od ręki
+robust - silny/krzepki
+
+przysłówki:
+organically - w sposób naturalny
+
+łączniki:
+even more - jeszcze bardziej
+on top of this - poza tym/w dodatku
+
+epitety:
+data format - format danych
+dirty/corrupt data - uszkodzone dane
+rapid growth - szybki wzrost
+steady state - stan ustalony
+
+wyrażenia:
+cause problems - powodować problemy
+detailed desciption of what is required - szczegółowy opis tego co jest wymagane
+it has grown rapidly - gwałtownie wzrósł
+through acquisition - poprzez przejęcie/nabytek
+within scope[out of scope] - wewnątrz zakresu[poza zakresem]

@@ -1,0 +1,27 @@
+rzeczowniki:
+errand - polecenie/sprawa do załatwienia
+
+czasowniki:
+account for - rozliczyć się z
+boil down - sprowadzić się do czegoś
+clock off - wyjść z pracy
+come through - dojść do skutku
+face up - stawiać czoła czemuś
+follow up - podążać za
+get across - wytłumaczyć coś
+hand over - przekazać coś
+kick off - rozpoczać/zacząć coś
+see through - wspierać kogoś
+see to - dopilnować
+
+przymiotniki:
+incomprehensible - niezrozumiały
+
+przysłówki:
+thoroughly - gruntownie/dokładnie
+
+wyrażenia:
+build up from scratch - stworzyć od zera
+live up to my expectations - sprostać moim oczekiwaniom
+we need to gear up fast - musimy się szybko przygotować
+you can go ahead with that - masz zielone światło/możesz iśc przodem

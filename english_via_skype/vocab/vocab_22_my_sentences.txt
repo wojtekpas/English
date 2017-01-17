@@ -1,29 +1,26 @@
 wyrażenia:
-bardzo zależy mi na sprawdzeniu tego do wieczora
-będę próbował, dopóki mi się nie uda
-będę tego próbował, aż mi się uda
-doświadczony programista powinien dzielić się wiedzą z mniej doświadczonymi współpracownikami
-dotychczas robiliśmy to w ten sposób
-jak nie zrobię tego w ciągu dwóch godzin, to poproszę o pomoc bardziej doświadczoną osobę
-jest dla mnie obojętne, czy to zostanie zrobione do czwartku
-jest dla mnie rzeczą oczywistą, że to zostanie naprawione do jutra
-muszę to skonsultować ze specjalistą
-myślałem o całkowicie czymś innym
-nic o tym nie słyszałem
-nie ma dla mnie różnicy jak to zostanie zrobione
-o to mi właśnie chodziło
-oznaczyłem to jako niepotrzebne
-popieram twoją opinię
-to jest to co być może mi pomoże
-to właśnie miałem na myśli
-w ogóle nie o to mi chodzi
-zanim na to wpadłem, próbowałem zrobić to inaczej
-zrobię wszystko, by skończyć to przed urlopem
+it a critical/vital/crucial to check it till the evening - bardzo zależy mi na sprawdzeniu tego do wieczora
+I will attempt, until managed/I achieved - będę próbował, dopóki mi się nie uda/będę tego próbował, aż mi się uda
+an old hand should share knowledge with less experienced coworkers - doświadczony programista powinien dzielić się wiedzą z mniej doświadczonymi współpracownikami
+so far we have been doing that in this way/using this method - dotychczas robiliśmy to w ten sposób
+unless I perform this activity within two hours, I will request assistance the more experienced person - I jak nie zrobię tego w ciągu dwóch godzin, to poproszę o pomoc bardziej doświadczoną osobę
+it is no difference to me, if/whether this is done till Thursday - jest dla mnie obojętne, czy to zostanie zrobione do czwartku
+it is obvious/it goes without saying/needless to say/there is no doubt that it will be fixed/repaired till tomorrow - jest dla mnie rzeczą oczywistą, że to zostanie naprawione do jutra
+I need to consult this with the specialist - muszę to skonsultować ze specjalistą
+I had sth different in mind myślałem o całkowicie czymś innym
+I haven't heard anything/a thing about that - nic o tym nie słyszałem
+it is no difference to me how is that going to be done - nie ma dla mnie różnicy jak to zostanie zrobione
+this is what I had in mind - o to mi właśnie chodziło/to właśnie miałem na myśli
+I marked as a unnecessary/needless - oznaczyłem to jako niepotrzebne
+I share your opinion/am a favour of the same solution - popieram twoją opinię
+it might come in handy/useful - to jest to co być może mi pomoże
+I meant sth totally different/this is not what i meant - w ogóle nie o to mi chodzi
+before I came up with that idea/it hit me, I had tried to do it in a different way - zanim na to wpadłem, próbowałem zrobić to inaczej
+I will do my best/go extra mile/go to great lengths to accomplish before the holiday - zrobię wszystko, by skończyć to przed urlopem
 
 pytania:
-czy jest jakiś sposób naprawy działania tego urządzenia?
-jak mogę to łatwo sprawdzić?
-możesz mi powiedzieć o tym coś więcej?
-o czym ty mówisz?
-skąd to wiesz?
-skąd masz taką informację?
+is there any way/method to fix the device - czy jest jakiś sposób naprawy działania tego urządzenia?
+how can I check it easily/in easy way - jak mogę to łatwo sprawdzić?
+can you provide more that about that/elaborate on that - możesz mi powiedzieć o tym coś więcej?
+I don't follow you, could you be more specific/put that in other words - o czym ty mówisz?
+how do you know/come up about that - skąd to wiesz?/skąd masz taką informację?

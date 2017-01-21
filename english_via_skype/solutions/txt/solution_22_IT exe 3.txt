@@ -1,26 +1,26 @@
 2)
 1. customized
-2. operating system
+2. data format
 3. upgrade
 4. releases
 5. software licences
 6. helpdesk
-7. data format
+7. operating systems
 8. applications
 
 3)
 1. bespoke - specially produced for someone
 2. bugs - errors in a program
-3. cutover
-4. modular - gradual implementation
-5. off the shelf - 
-6. output - 
-7. robust - strong/reliable
-8. rollout - 
-9. sign off - 
-10. SME - 
+3. cutover - final move to a new system
+4. modular - in a seperate, independents sections
+5. off the shelf - standard and commercially available (package)
+6. output - work finish or completed
+7. robust - strong, reliable
+8. rollout - gradual implementation
+9. sign off - finish and leave
+10. SME - small of medium-sized enterprises
 11. specyfication - detailed desciption of what is required
-12. steady state - work finished and completed
+12. steady state - working properly and reliably
 
 14)
 1. bottleneck - blockage

@@ -1,3 +1,4 @@
+proposing - proponowanie
 our basic position is - naszym postawym stanowiskiem jest
 there are several options - istnieje kilka opcji
 it’s high time to - najwyższy czas żeby
@@ -5,19 +6,62 @@ regarding your proposal, our position is - odnośnie twojej propozycji, naszym s
 would it be possible - czy byłoby możliwe
 how do you feel about - jak się z tym czujesz
 do you think you could consider - myślisz, że można rozważyć
+
+responding to suggestions - odpowiadanie na sugestie
 as far as your proposal is concerned, we think that - o ile jesteśmy zainteresowani twoją propozycją, uważamy, że
 may we offer an alternative? We propose that - może zaoferujemy coś alternatywnego? Proponujemy, że
 from where we stand, a better solution might be - zmiejsca, w którym stoimy, lepszym rozwiązaniem może być
+
+agreeing - zgadzanie się
 I agree with you on that point - zgadzam się z tobą w tej kwestii
 that's a fair suggestion - to uczciwa propozycja
 you have a strong point there - masz mocny punkt
 I think we can both agree that - myślę, że oboje zgadzamy się, że
+
+objecting - sprzeciwianie się
 if you look at it from my point of view - jeśli spojrzeć na to z mojego punktu widzenia
 I'm afraid I had something different in mind - obawiam się, że miałem na myśli co innego
 from my perspective - z mojej perspektywy
 I'd have to disagree with you there - muszę się z tobą nie zgodzić
 I'm afraid that doesn't work for me - obawiam się, że to nie działa
+
+reasoning - rozumowanie
 this is because - to dlatego, że
 the reason for that is - powodem tego jest
 it is essential and vital for our customers - to jest istotne i ważne dla naszych klientów
 the whole problem comes down to three major obstacles - cały problem sprowadza się do trzech głównych przeszkód
+
+reassuring - uspokajanie
+let me reassure you that - pozwól mi uspokoić się, że
+I can promise you that - mogę obiecać ci, że
+have no doubts that we will - nie ma wątpliwości, że będziemy
+
+giving a hint - dawanie podpowiedzi
+our main concern is - naszą główną troską jest to, że
+it is vital / crucial that - ważne jest, że
+our intention is - naszym zamiarem jest
+I am willing to accept if - jestem w stanie zaakceptować, jeżeli
+there a few things we can compromise on - istnieje kilka kwestii, w których możemy pójśc na ustępstwa
+
+clarifying - wyjaśnianie
+it means that - to znaczy, że
+are you suggesting that - sugerujesz, że 
+do you mean - czy masz na myśli
+if I understood you correctly - jeżeli cię dobrze zrozumiałem
+what exactly do you mean by? - Co dokładnie masz na myśli?
+I'm not sure I fully understand your point - nie jestem pewny, czy w pełni rozumiem twoją kwestię
+could you clarify one point for me? - czy mógłby mi pan wyjaśnić jeden punkt?
+could you be more specefic? - mogłbyś być bardziej konkretny?
+
+identifying obstacles - rozpoznawanie przeszkód
+the main thing that bothers us is - główną rzeczą, która nam przyszkadza jest
+the main obstacle to progress at the moment seems to be - główną przeszkodą do postępu w tej chwili wydaje się być
+let's take a closer look at this problem - przyjrzyjmy się bliżej problemowi
+
+compromising - wypracowywanie kompromisu
+I’m ready to accept that if you can - jestem gotowy to zaakceptować, jeżeli potrafisz
+in exchange for this, would you be willing to? - w zamian za to byłbyś gotów
+we are ready to forward your offer - jesteśmy gotowi przekazać twoją ofertę
+however, there would be one condition - jednak istnieje jeden warunek
+we would be willing to - bylibyśmy gotowi, żeby
+provided, of course, that - podwarunkiem, oczywiście, że

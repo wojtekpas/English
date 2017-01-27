@@ -1,0 +1,49 @@
+rzeczowniki:
+appetizer - przystawka/przekąska
+artichoke - karczoch
+dairy - nabiał
+lactose-intolerant - nietolerancja laktozy
+main course - danie główne
+meat - mięso
+nutritional value - wartość odżywcza
+recipe - przepis
+sauce - sos
+sparkling water - woda gazowana
+still water - woda niegazowana
+
+czasowniki:
+chew - żuć/przeżuwać
+choke - dławić/ksztusić się
+george on - obżerać się
+nibble - skubnąć, lekko ugryźć
+peck at - dziobać
+rot - gnić/próchnieć
+savour in - rozkoszować/delektować się
+slurp - siorbać
+spin - obracać się/wirować
+stir - mieszać
+wolf down - jeść łapczywie/pałaszować
+
+przymiotniki:
+bland - mdły/nijakic
+cooked - gotowany/wysmażony
+heavy - ciężki
+medium - średnio wysmażony
+nutritious - pożywczy/odżywczy
+lean - chudy/niskokaloryczny
+light - lekki
+rare - niedosmażony/krwisty
+rotten - zgniły/zepsuty
+spicy - ostry/pieprzny
+stuffed - napchany/najedzony
+well done - dobrze wysmażony
+
+przysłówek:
+whenever - kiedy tylko/ilekroć
+
+wyrażenia:
+be full - być pełnym
+be full of - mieć pełno czegoś
+fresh squeezed juice - świeżo wyciskany sok
+have two kinds of mineral water - mieć dwa rodzaje wody mineralnej
+make the sauce - robić sos

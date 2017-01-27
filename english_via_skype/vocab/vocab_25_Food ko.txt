@@ -1,24 +1,36 @@
 rzeczowniki:
 appetizer - przystawka/przekąska
 artichoke - karczoch
+bin - kosz
+coke - cola
+cousine - kuchnia
 dairy - nabiał
+delicacies - bakalie
 lactose-intolerant - nietolerancja laktozy
+leftovers - resztki/pozostałości
 main course - danie główne
 meat - mięso
+nutrient - odżywka
 nutritional value - wartość odżywcza
+penauts - orzeszki ziemne
 recipe - przepis
 sauce - sos
 sparkling water - woda gazowana
+stench - smród
 still water - woda niegazowana
+sweets - słodycze
+word of mouth - przekaz ustny
 
 czasowniki:
+adore - adorować/uwielbiać
 chew - żuć/przeżuwać
 choke - dławić/ksztusić się
 george on - obżerać się
 nibble - skubnąć, lekko ugryźć
-peck at - dziobać
+pick at - dziobać
 rot - gnić/próchnieć
 savour in - rozkoszować/delektować się
+settle up - uregulować rachunek
 slurp - siorbać
 spin - obracać się/wirować
 stir - mieszać
@@ -27,23 +39,55 @@ wolf down - jeść łapczywie/pałaszować
 przymiotniki:
 bland - mdły/nijakic
 cooked - gotowany/wysmażony
+delicious - pyszny/wyśmienity
+exquisite - wyśmienity/wyborny
+full up - najedzony
 heavy - ciężki
 medium - średnio wysmażony
+mild - łagodny/delikatny
 nutritious - pożywczy/odżywczy
 lean - chudy/niskokaloryczny
 light - lekki
+obnoxious - wstrętny/ochodny
+poisonous - trujący/toksyczny
 rare - niedosmażony/krwisty
 rotten - zgniły/zepsuty
 spicy - ostry/pieprzny
+starving - wygłodzony/głodujący
 stuffed - napchany/najedzony
 well done - dobrze wysmażony
 
 przysłówek:
 whenever - kiedy tylko/ilekroć
 
+epitety:
+dry food - suche jedzenie
+hot sauce - ostry sos
+roast meat - pieczone mięso
+tough meat - twarde mięso
+
 wyrażenia:
+add a bit of hot sauce to the soup - dodać trochę ostrego sosu do zupy
+avoid alcohol - unikać alkoholu
+be burnt to a crisp - być spalonym na popiół/węgiel
 be full - być pełnym
 be full of - mieć pełno czegoś
+be short of cash - mieć mało kasy
+eat a horse - zjeść konia
+eat like a bird - jeść jak ptaszek
 fresh squeezed juice - świeżo wyciskany sok
+grab a bite to eat - zjeść coś na szybko
+have a craving for - mieć na coś ochotę
 have two kinds of mineral water - mieć dwa rodzaje wody mineralnej
+it's rude - to jest niegrzeczne
+lack sufficient nutrients - brak wystarczających składników odżywczych
+make my mouth water - sprawiać, że komuś cieknie ślinka
 make the sauce - robić sos
+mix all the dry ingredients - wymieszać wszystkie suche składniki
+polish off - dokonczyć coś/zjeść wszystko
+smell of fresh crunchy bread - zapach świeżego chrupiącego pieczywa
+smell of home-made borsch - zapach domowego barszczu
+talk with your mouth full - mówić z pełnymi ustami
+whet my appetite - ostrzyć sobie apetyt
+made with stone - wykonane z kamienia
+would you care for a cup of coffee - czy... na filiżankę kawy

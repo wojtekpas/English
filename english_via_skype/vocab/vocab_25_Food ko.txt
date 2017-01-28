@@ -5,21 +5,20 @@ bin - kosz
 coke - cola
 cousine - kuchnia
 dairy - nabiał
-delicacies - bakalie
+delicacies - bakalie/pyszności
 lactose-intolerant - nietolerancja laktozy
 leftovers - resztki/pozostałości
 main course - danie główne
 meat - mięso
 nutrient - odżywka
-nutritional value - wartość odżywcza
 penauts - orzeszki ziemne
 recipe - przepis
 sauce - sos
 sparkling water - woda gazowana
 stench - smród
 still water - woda niegazowana
+stone - pestka
 sweets - słodycze
-word of mouth - przekaz ustny
 
 czasowniki:
 adore - adorować/uwielbiać
@@ -37,7 +36,7 @@ stir - mieszać
 wolf down - jeść łapczywie/pałaszować
 
 przymiotniki:
-bland - mdły/nijakic
+bland - mdły/nijaki
 cooked - gotowany/wysmażony
 delicious - pyszny/wyśmienity
 exquisite - wyśmienity/wyborny
@@ -48,7 +47,7 @@ mild - łagodny/delikatny
 nutritious - pożywczy/odżywczy
 lean - chudy/niskokaloryczny
 light - lekki
-obnoxious - wstrętny/ochodny
+obnoxious - wstrętny/ohydny
 poisonous - trujący/toksyczny
 rare - niedosmażony/krwisty
 rotten - zgniły/zepsuty
@@ -63,8 +62,10 @@ whenever - kiedy tylko/ilekroć
 epitety:
 dry food - suche jedzenie
 hot sauce - ostry sos
+nutritional value - wartość odżywcza
 roast meat - pieczone mięso
 tough meat - twarde mięso
+word of mouth - przekaz ustny
 
 wyrażenia:
 add a bit of hot sauce to the soup - dodać trochę ostrego sosu do zupy
@@ -81,6 +82,7 @@ have a craving for - mieć na coś ochotę
 have two kinds of mineral water - mieć dwa rodzaje wody mineralnej
 it's rude - to jest niegrzeczne
 lack sufficient nutrients - brak wystarczających składników odżywczych
+made with stone - wykonane z kamienia
 make my mouth water - sprawiać, że komuś cieknie ślinka
 make the sauce - robić sos
 mix all the dry ingredients - wymieszać wszystkie suche składniki
@@ -89,5 +91,4 @@ smell of fresh crunchy bread - zapach świeżego chrupiącego pieczywa
 smell of home-made borsch - zapach domowego barszczu
 talk with your mouth full - mówić z pełnymi ustami
 whet my appetite - ostrzyć sobie apetyt
-made with stone - wykonane z kamienia
 would you care for a cup of coffee - czy... na filiżankę kawy

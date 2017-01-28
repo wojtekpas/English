@@ -26,16 +26,16 @@
 1. bottleneck - blockage
 2. within scope/out of scope - suitable/unsuitable for inclusion
 3. slippage - delay
-4. rollout
-5. stick to
-6. dirty data
+4. rollout - implement and start using (new software)
+5. stick to - leave unchanged
+6. dirty data - information with mistake (e.g. spelling mistake)
 7. deadline - final date for completing (a project)
 8. migrate - move data from one system to another
 
 15)
-1. 
-2. 
+1. slippage
+2. stick to
 3. deadline
-4. 
-5. slippage
-6. 
+4. rollout
+5. bottlenck
+6. dirty data

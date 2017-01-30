@@ -1,9 +1,11 @@
 rzeczowniki:
 appetizer - przystawka/przekąska
 artichoke - karczoch
+bean - ziarno/fasola
 bin - kosz
 coke - cola
 cousine - kuchnia
+cucumber - ogórek
 dairy - nabiał
 delicacies - bakalie/pyszności
 lactose-intolerant - nietolerancja laktozy
@@ -12,6 +14,7 @@ main course - danie główne
 meat - mięso
 nutrient - odżywka
 penauts - orzeszki ziemne
+receipt - paragon/pokwitowanie
 recipe - przepis
 sauce - sos
 sparkling water - woda gazowana
@@ -22,8 +25,10 @@ sweets - słodycze
 
 czasowniki:
 adore - adorować/uwielbiać
+be keen on - lubić coś/być chętny na coś
 chew - żuć/przeżuwać
 choke - dławić/ksztusić się
+cry over - płakać nad czymś
 george on - obżerać się
 nibble - skubnąć, lekko ugryźć
 pick at - dziobać
@@ -33,12 +38,14 @@ settle up - uregulować rachunek
 slurp - siorbać
 spin - obracać się/wirować
 stir - mieszać
+take care - trzymaj się/uważaj na siebie
 wolf down - jeść łapczywie/pałaszować
 
 przymiotniki:
 bland - mdły/nijaki
 cooked - gotowany/wysmażony
 delicious - pyszny/wyśmienity
+easy going - wyluzowany, spokojny
 exquisite - wyśmienity/wyborny
 full up - najedzony
 heavy - ciężki
@@ -60,6 +67,8 @@ przysłówek:
 whenever - kiedy tylko/ilekroć
 
 epitety:
+couch potato - kanapowiec/leniuch
+cup of tea - czyjaś bajka/coś, co dana osoba lubi robić
 dry food - suche jedzenie
 hot sauce - ostry sos
 nutritional value - wartość odżywcza
@@ -73,7 +82,10 @@ avoid alcohol - unikać alkoholu
 be burnt to a crisp - być spalonym na popiół/węgiel
 be full - być pełnym
 be full of - mieć pełno czegoś
+be selling like hot cakes - sprzedawać się jak świeże bułeczki
 be short of cash - mieć mało kasy
+cool as a cucumber - nieporuszony/opanowany
+cry over spilt milk  - płakać nad rozlanym mlekiem
 eat a horse - zjeść konia
 eat like a bird - jeść jak ptaszek
 fresh squeezed juice - świeżo wyciskany sok
@@ -82,13 +94,13 @@ have a craving for - mieć na coś ochotę
 have two kinds of mineral water - mieć dwa rodzaje wody mineralnej
 it's rude - to jest niegrzeczne
 lack sufficient nutrients - brak wystarczających składników odżywczych
-made with stone - wykonane z kamienia
 make my mouth water - sprawiać, że komuś cieknie ślinka
 make the sauce - robić sos
 mix all the dry ingredients - wymieszać wszystkie suche składniki
 polish off - dokonczyć coś/zjeść wszystko
+split the beans/reveal the secret - wyjawić sekret/ujawnić tajemnicę/niespodziankę
 smell of fresh crunchy bread - zapach świeżego chrupiącego pieczywa
 smell of home-made borsch - zapach domowego barszczu
 talk with your mouth full - mówić z pełnymi ustami
 whet my appetite - ostrzyć sobie apetyt
-would you care for a cup of coffee - czy... na filiżankę kawy
+would you care for a cup of coffee - czy masz ochotę na filiżankę kawy

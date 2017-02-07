@@ -1,16 +1,18 @@
 rzeczowniki:
 floppy disk - dyskietka
-geek/nerd - maniak
+geek/nerd/wirehead - maniak
 hedgehog - jeż
-mindshare - publiczna świadomośc zjawiska
+mindshare - burza mózgów/publiczna świadomośc zjawiska
 
 czasowniki:
 
 przymiotniki:
 bulletproof - kuloodporny
+pessimal - źle
 true-blue - prawdziwy/oddany
 
 wyrażenia:
 be at a loss - być w rozterce/nie wiedzieć co począć
 be at a loss for words - zabraknać słów/nie wiedzieć co powiedzieć
 have a look - spójrz/rozejrzeć się/rzucić okiem
+it depends on who do they talk to/with - to zależy od tego z kim rozmawiają

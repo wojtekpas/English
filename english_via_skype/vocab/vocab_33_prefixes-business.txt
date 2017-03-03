@@ -1,25 +1,42 @@
 rzeczownki:
 consequences of - skutki/konsekwencje czegoś
 intricacy - zawiłość
+stealing - kradzenie
 
 czasowniki:
-affirm - potwierdzić/zapewniać
-employ - zatrudniać
-gain - osiągać/zdobywać
-store - przechowywać/składować
+disappear - zniknąć
+disappoint - rozczarować/zawieść kogoś
+discharge - wypisać/rozładować
+disclose - ujawniać/wyjawiać/odsłonić
+disconnect - odłączyć/rozłączyć
+discontinue - przerywać/zaprzestać
+reaffirm - potwierdzać
+reappear - pojawiać się ponownie
+recharge - doładować
+reconnect - połączyć ponownie
+reemploy - ponownie zatrudniać
+regain - odzyskać/powrócić
+restore - przywrócić/odnowić
+take back - zwracać/oddawać
 
 przymiotniki:
-accessible - dostępny/łatwy
-accurate - dokładny/trafny/celny
-active - aktywny/czynny/ruchliwy
-adequate - odpowiedni/wystarczający/adekwatny
-bearable - znośny
-foreseen - przewidywalny
+confidential - poufny/tajny
+immoral - niemoralny
+impossible - niemożliwy/beznadziejny/bez szans
+impractical - niepraktyczny/bezsensowny
+improper - niewłaściwy/nieodpowiedni
+inaccessible - niedostępny/niełatwy w odbiorze
+inaccurate - niedokładny/nieprecyzyjny
+inactive - nieczynny/bezczynny/bierny
+inadequate - nieodpowiedni/nieprzydatny/nieadekwatny
+incapable - nieudolny/nieporadny
 inexperienced - niedoświadczony
-reachable - osiągalny/uchwytny
-reasonable - rozsądny
-recognizable - rozpoznawalny
-sufficient - wystarczający/dostateczny
+insufficient - niewystarczający
+unbearable - nieznośny/nie do wytrzymania
+unforeseen - nieoczekiwany/nieprzewidziany
+unreachable - nieosiągalny/nieuchwytny
+unreasonable - nierozsądny/nadmierny/wygórowany
+unrecognizable - nierozpoznawalny/nie do odróżnienia
 
 epitety:
 applicable laws - obowiązujące przepisy

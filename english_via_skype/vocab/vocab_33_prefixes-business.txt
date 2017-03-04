@@ -10,6 +10,13 @@ discharge - wypisać/rozładować
 disclose - ujawniać/wyjawiać/odsłonić
 disconnect - odłączyć/rozłączyć
 discontinue - przerywać/zaprzestać
+miscalculate - błędnie obliczyć/przeliczyć się
+misguide - zmylić/wprowadzić w błąd/sprowadzić na złą drogę
+mishandle - zaprzepaścić/źle się obchodzić/mieć niewłaściwe podejście
+misinform - źle poinformować/wprowadzić w błąd
+misleading - wprowadzić w błąd
+mispronounce - źle wymawiać
+misunderstand - źle zrozumieć
 reaffirm - potwierdzać
 reappear - pojawiać się ponownie
 recharge - doładować
@@ -32,6 +39,10 @@ inadequate - nieodpowiedni/nieprzydatny/nieadekwatny
 incapable - nieudolny/nieporadny
 inexperienced - niedoświadczony
 insufficient - niewystarczający
+irregular - nieregularny/nieprzepisowy
+irrelevant - niezwiązany z tematem/nieistotny
+irreparable - niemożliwy do naprawienia/nieodwracalny
+irreplaceable - niezastąpiony
 unbearable - nieznośny/nie do wytrzymania
 unforeseen - nieoczekiwany/nieprzewidziany
 unreachable - nieosiągalny/nieuchwytny
@@ -40,9 +51,11 @@ unrecognizable - nierozpoznawalny/nie do odróżnienia
 
 epitety:
 applicable laws - obowiązujące przepisy
+irregular hours - nieregularne godziny
 
 wyrażenia:
 be capable of - być zdolny do
 be compatible with - być zgodny z
 be convenient for me - być wygodnym dla mnie
 gain trust of - zdobyć kogoś zaufanie
+nobody is irreplaceable - nikt nie jest niezastąpiony

@@ -1,0 +1,72 @@
+rzeczowniki:
+conclusion - wniosek/konkluzja
+consecution - kolejność/następstwo
+decision - postanowienie/decyzja
+disruption - zamęt/nieporządek
+evasion - uchylanie się/wybieg/wykręt/wymijająca odpowiedź
+invention - wynalezek
+objection - zarzut/sprzeciw/zastrzeżenie
+perception - wyobrażenie/postrzeganie
+repetition - powtórka/powtórzenie
+
+czasowniki:
+codify - kodyfikować/ustalać
+diversify - urozmaicać/różnicować
+falsify - fałszować/podrabiać/wypaczać
+identify - identyfikować/rozpoznawać
+intensify - nasilić/wzmocnić
+simplify - upraszczać/ułatwiać
+
+think out - przemyśleć coś
+
+przymiotniki:
+adjustable - regulowany
+affordable - przystępny
+changeable - zmienny/ruchomy
+deployable - zdolność do bycia rozmieszczonym/rozlokowanym/wdrożonym
+obtainable - osiągalny/do nabycia/dostępny
+preferable - bardziej pożądany/wyróżniający się/lepszy
+reasonable - rozsądny/realistyczny/osiągalny
+scalable - skalowalny
+unbeatable - beznkonkurencyjny/nie do przebicia/najlepszy
+valuable - wartościowy/cenny
+variable - zmienny/regulowany
+
+capacious - obszerny/pojemny
+cautious - ostrożny
+consciuous - świadomy/przytomny
+hazardous - ryzykowny/niebezpieczny
+suspicious - podejrzany/podejrzliwy/nieufny
+
+conclusive - ostateczny/rozstrzygający
+consecutive - kolejny/następujący
+evasive - wymijający/mało konkretny
+excessive - nadmierny/wygórowany
+imperceptive - mało pojętny
+inventive - pomysłowy
+lucrative - dochodowy/intratny/lukratywny
+objective - obiektywny
+perceptive - spostrzegawczy/wnikliwy
+repetitive - monotonny/nużący/powtarzający się
+susceptive - chłonny/podatny
+
+complementary - komplementarny/uzupełniający/dopełniający
+contemporary - współczesny
+intermediary - pośredniczący/mediacyjny
+involuntary - mimowolny
+supplementary - dodatkowy/uzupełniający/pomocniczy/nadprogramowy
+
+imperceptible - niedostrzegalny
+reversible - odwracalny/dwustronny
+susceptible - podatny/wrażliwy
+
+diverse - różnorodny
+identity - identyfikacyjny
+
+przysłówki:
+evidently - widocznie/wyraźnie/najwyraźniej
+
+epitety:
+conclusive answer - odpowiedź ostateczna/definitywna
+decisive answer - decydująca odpowiedź
+evasive answer - wymijająca odpowiedź

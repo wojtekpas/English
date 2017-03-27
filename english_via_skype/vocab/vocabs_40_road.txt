@@ -1,0 +1,36 @@
+rzeczowniki:
+bypass/ring road - obwodnica
+crossroads/junction - skrzyżowanie dróg
+diversion - objazd
+drink-driving - jazda pod wpływem alkoholu
+driving licence - prawo jazdy
+dual carriageway - droga szybkiego ruchu/dwujezdniowa
+lay-by - zatoczka
+motorway/highway/freeway - autostrada
+pile-up - karambol
+puncture - guma/kapeć
+regulations - przepisy
+road hog - pirat drogowy
+roundabout/traffic circle - rondo
+rush hour/peak hour - godzina szczytu
+side road - boczna droga
+signs - znaki drogowe
+slip road - droga wjazdowa/wyjazdowa z autostrady
+speed limit - ograniczenie prędkości
+ticket - mandat
+toll road - płatna droga
+traffic - ruch
+traffic jam/tailback/gridlock/hold-up - korek uliczny
+verge - pobocze
+
+czasowniki:
+pull over - zjechać na bok/zatrzymać się na poboczu
+
+wyrażenia:
+change the wheel - zmieniać koło
+don't observe traffic signs - nie przestrzegać znaków drogowych
+find a diversion - znaleźć objazd
+get stuck in a traffic jam/held-up - utknąć w korku
+have a puncture - mieć flaka/złapać gumę
+on my way home - w drodze to domu
+over long distances - na długich dystansach

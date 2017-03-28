@@ -1,12 +1,12 @@
 12)
 1. ticket
-2. hold-up
+2. traffic jam
 3. puncture, verge
 4. road hog, signs
 5. pile-up
 6. driving licence
 7. regulations, speed limit
-8. traffic jam
+8. hold-up
 
 13)
 1. roundabout

@@ -2,6 +2,7 @@ rzeczowniki:
 brake - hamulec
 bypass/ring road - obwodnica
 crossroads/junction - skrzyżowanie dróg
+direction - kierunek
 diversion - objazd
 drink-driving - jazda pod wpływem alkoholu
 driving licence - prawo jazdy
@@ -29,9 +30,10 @@ verge - pobocze
 
 czasowniki:
 indicate - zasygnalizować
+go pass - minąć
 overtake - wyprzedzać
 pull over - zjechać na bok/zatrzymać się na poboczu
-reverse - cofać
+reverse/go backwards - cofać
 swerve - gwałtownie skręcić
 turn - skręcać
 

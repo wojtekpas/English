@@ -1,0 +1,58 @@
+rzeczowniki:
+accelerator - pedał gazu
+bonnet - maska
+boot - bagażnik
+brake - hamulec
+clutch - sprzęgło
+cyclist - rowerzysta
+door handle - klamka
+engine - silnik
+gear stick/lever - dźwignia zmiany biegów
+headlight - przedni reflektor
+horn - klakson
+motorcyclist - motocylista
+number plate - tablica rejestracyjna
+ignition - zapłon/stacyjka
+rear-view mirror - 
+speedometer - prędkościomierz
+steering wheel - kierownica
+tyre - opona
+wheel - koło
+wing/side-view mirror - lusterko boczne
+windscreen - przednia szyba
+windscreen wiper - przednia wycieraczka
+
+czasowniki:
+accelerate/go faster - przyspieszać/jechać szybciej
+brake - hamować
+steer - prowadzić
+
+przymiotniki:
+gently - delikatnie/łagodnie/uważnie
+
+wyrażenia:
+avoid skidding - unikać poślizgów
+bad driver - słaby/kiepski kierowca
+bad road conditions - złe warunki drogowe
+be prepared for sth - być na coś przygotowany
+change gear - zmienić bieg
+don't drive too close to the vehicle in front - nie trzymać się zbyt blisko pojazdu z przodu
+drive in the rain - jechać/prowadzić w deszczu
+go over the limit - przekraczać ograniczenie prędkości 
+give someone plenty of space - dać komuś mnóstwo miejsca
+keep to speed limit - przestrzegać ograniczenie prędkości
+look at the engine - spojrzeć na silnik
+look in the mirror - spojrzeć w lusterko
+open the bonnet - otworzyć maskę
+open the boot - otworzyć bagażnik
+press the horn - nacisnąć klakson
+put your foot on the accelerator/brake/clutch - połozyć stopę na gazie/hamulcu/sprzęgle
+rather than/instead of/in place of - zamiast/raczej niż/bardziej niż
+see at night - widzieć w nocy
+store luggage - przechować bagaż
+turn a corner - skręcić za rogiem
+turn on the headlights - włączyć reflektory
+turn on the ignition - przekręcić stacyjkę
+turn on the wipers - właczyć wycieraszki
+warn someone - ostrzegać kogoś
+watch/look out for - uważaj na

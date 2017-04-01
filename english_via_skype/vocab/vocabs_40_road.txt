@@ -1,4 +1,5 @@
 rzeczowniki:
+brake - hamulec
 bypass/ring road - obwodnica
 crossroads/junction - skrzyżowanie dróg
 diversion - objazd
@@ -9,12 +10,15 @@ lay-by - zatoczka
 motorway/highway/freeway - autostrada
 pile-up - karambol
 puncture - guma/kapeć
+rear window - tylna szyba
 regulations - przepisy
+reverse - wsteczny
 road hog - pirat drogowy
 roundabout/traffic circle - rondo
 rush hour/peak hour - godzina szczytu
 side road - boczna droga
 signs - znaki drogowe
+skid - poślizg
 slip road - droga wjazdowa/wyjazdowa z autostrady
 speed limit - ograniczenie prędkości
 ticket - mandat
@@ -24,7 +28,12 @@ traffic jam/tailback/gridlock/hold-up - korek uliczny
 verge - pobocze
 
 czasowniki:
+indicate - zasygnalizować
+overtake - wyprzedzać
 pull over - zjechać na bok/zatrzymać się na poboczu
+reverse - cofać
+swerve - gwałtownie skręcić
+turn - skręcać
 
 wyrażenia:
 change the wheel - zmieniać koło

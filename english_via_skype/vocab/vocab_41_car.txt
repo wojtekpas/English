@@ -6,6 +6,7 @@ brake - hamulec
 clutch - sprzęgło
 connecting flight - lot z przesiadką
 cyclist - rowerzysta
+dashboard - deska rozdzielcza
 day return - bilet ze zniżką przy powrocie tego samego dnia
 door handle - klamka
 engine - silnik

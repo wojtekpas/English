@@ -39,6 +39,7 @@ windscreen wiper
 3. backwards
 4. advice
 5. direction
+6. instead
 
 6)
 1. prepared
@@ -60,12 +61,12 @@ windscreen wiper
 
 2)
 1. due
-2. connecting flight
-3. 
-4. 
+2. connecting
+3. troubles, held up
+4. delayed
 5. meant, held
-6. arrive in
-7.
+6. get
+7. pick
 8. warning
 
 4)
@@ -81,7 +82,7 @@ on the way
 
 5)
 1. trip
-2. 
+2. heavy trafic
 3. overnight
 4. hire
 5. nightmare

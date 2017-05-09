@@ -4,7 +4,8 @@ path = "D:\English\english_via_skype\scripts"
 print ("Pliki w folderze: ")
 filenames = os.listdir(path)
 print (filenames)
-id = 51
+id = 53
+
 for filename in filenames:
     names = str(filename).split(".docx")
     if len(names) == 2:

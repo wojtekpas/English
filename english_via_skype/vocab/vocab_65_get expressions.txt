@@ -1,6 +1,6 @@
 get:
 get a shock - doznać wstrząsu/szoku
-get hold of - złapać coś
+get hold of - załapać/złapać coś
 get into trouble - wpaść w tarapaty
 get out of the way - usunąć się/zejść z drogi
 get rid of - uwolnić kogoś od czegoś/pozbyć się czegoś
@@ -26,14 +26,13 @@ get over - pogodzić się/dać sobie z kimś spokój/otrząsnąć się
 get on with sth - radzić sobie/robić w czymś postępy
 get through to - skonsultować/połaczyć się
 get into - dostać się
-get around - rozprzestrzeniać/rozpowszechniać
+get around - rozprzestrzeniać/rozpowszechniać/podróżować
 get away with - ujść z czymś na sucho/uniknąć kary za coś
 get by - radzić sobie finansowo/dawać sobie radę
 get behind - spóźniać/opóźniać się
 get sb down - zasmucić/zmartwić kogoś
 get out of - wymigać się od czegoś
 get back to - wrócić
-
 
 rzeczowniki:
 crossword - krzyżówka
@@ -43,4 +42,5 @@ czasowniki:
 break up - rozbić się
 depress - przygnębiać/smucić
 recover - wyzdrowieć/dojść do siebie
+take no notice - nie zwracać uwagi
 walk past - przejść obok

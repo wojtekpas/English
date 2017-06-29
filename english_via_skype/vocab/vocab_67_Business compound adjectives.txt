@@ -1,0 +1,30 @@
+rzeczowniki:
+backlash - gwałtowna reakcja/ostry sprzeciw
+breakdown - rozpad załamanie
+buzzword - modne powiedzonko/popularny zwrot
+dealing - postępowanie/traktowanie
+downturn - schyłek/tenderncja zniżkowa
+drawback - wada/minus/mankament
+frontline - linia walki
+nonconformity - nonkonformizm/niezgodność
+setback - komplikacja/problem
+shortfall - niedobór/brak/dziura
+timekeeping - punktualność/mierzenie czasu
+
+czasowniki:
+
+przymiotniki:
+accountable for sth - odpowiedzialny za coś
+compound - złożony
+forthcoming - nadchodzący
+handheld - ręczny
+inevitable - nieunikniony/nieuchronny
+noteworthy - godny uwagi/interesujący
+outgoing - wypływający/wychodzący
+overdraft - debet
+overstretched - nadmiernie napięty
+praiseworthy - chwalebny/godny pochwały
+subprime - o zwiększonym ryzyku
+upmarket - ekskluzywny/z wyższej półki
+withhold - wstrzymać/zatrzymać
+worthwhile - wartościowy/opłacalny/wart zachodu

@@ -2,14 +2,17 @@ rzeczowniki:
 backlash - gwałtowna reakcja/ostry sprzeciw
 breakdown - rozpad załamanie
 buzzword - modne powiedzonko/popularny zwrot
+compel - zmuszać/wzbudzać
 dealing - postępowanie/traktowanie
 downturn - schyłek/tenderncja zniżkowa
 drawback - wada/minus/mankament
 frontline - linia walki
+hunting - szukanie/polowanie
 nonconformity - nonkonformizm/niezgodność
 setback - komplikacja/problem
 shortfall - niedobór/brak/dziura
 timekeeping - punktualność/mierzenie czasu
+venture - przedsięwzięcie/interes
 
 czasowniki:
 
@@ -24,6 +27,8 @@ outgoing - wypływający/wychodzący
 overdraft - debet
 overstretched - nadmiernie napięty
 praiseworthy - chwalebny/godny pochwały
+reluctant to - niechętny do
+remarkable - warty odnotowania/godny uwagi
 subprime - o zwiększonym ryzyku
 upmarket - ekskluzywny/z wyższej półki
 withhold - wstrzymać/zatrzymać

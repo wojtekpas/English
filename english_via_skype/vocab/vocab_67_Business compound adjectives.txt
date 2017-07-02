@@ -3,33 +3,77 @@ backlash - gwałtowna reakcja/ostry sprzeciw
 breakdown - rozpad załamanie
 buzzword - modne powiedzonko/popularny zwrot
 compel - zmuszać/wzbudzać
+data-mining - pozyskiwanie/analiza danych
 dealing - postępowanie/traktowanie
+delivery - dostawa
 downturn - schyłek/tenderncja zniżkowa
 drawback - wada/minus/mankament
+freshman - świeżak/pierwszoroczniak
 frontline - linia walki
+growth - wzrost/rozwój
+guideline - wskazówka/drogowskaz
 hunting - szukanie/polowanie
 nonconformity - nonkonformizm/niezgodność
+off-hour - czas wolny od pracy
+self-esteem/self-efficacy - poczucie własnej wartości
+self-evident - oczywisty
 setback - komplikacja/problem
 shortfall - niedobór/brak/dziura
+speech - mowa/przemówienie
+start-up - rozruch/młody biznes/nowe przedsięwzięcie
+thought - myśl/zdanie/opinia
 timekeeping - punktualność/mierzenie czasu
+troubleshooting - rozwiązywanie problemów
 venture - przedsięwzięcie/interes
+work-in-progress - prace w toku
 
 czasowniki:
 
 przymiotniki:
 accountable for sth - odpowiedzialny za coś
+agree upon - uzgodniony
 compound - złożony
+concurrent - równoczesny/jednoczesny
+cost-effective - wydajny/opłacający się/drogi, ale wart zainwestowanych pieniędzy
+counter-productive - przynoszący efekt przeciwny do zamierzonego/neproduktywny
+cross-functional - wielofunkcyjny
+customer-driven - ukierunkowany na potrzeby klienta
+cut-throat - zaciekły/ostry/bezwględny/bez skrupułów
+double-digit - dwucyfrowy
+fast-paced - szybki/o szybkim tempie
 forthcoming - nadchodzący
 handheld - ręczny
+hands-on - praktyczny/bezpośredni
+hands-off - dający wolną rękę
+high-profile - szeroko znany
 inevitable - nieunikniony/nieuchronny
+intuitive - intuicyjny
+long-lasting - długotrwały
+mind-blowing - zadziwiający/szokujący
 noteworthy - godny uwagi/interesujący
+off-hand - z marszu/bez przygotowania
 outgoing - wypływający/wychodzący
 overdraft - debet
 overstretched - nadmiernie napięty
 praiseworthy - chwalebny/godny pochwały
 reluctant to - niechętny do
 remarkable - warty odnotowania/godny uwagi
+self-employed - pracujący na własny rachunek/samozatrudniony
+self-sufficient - niezależny/samowystarczalny
 subprime - o zwiększonym ryzyku
+thought-provaking - zastanawiający/dający do myślenia
+time-saving - pozwalający zaoszczędzić czas
+time-sensitive - uwarunkowany czsowo/wymagający szybkiego doręczenia
+top-of-the-range - najwyższej klasy
+trouble-free - wolny od kłopotów/bezproblemowy
+up-and-coming - dobrze zapowiadający się/wróżący sukces
+up-and-up - uczciwy/porządny
 upmarket - ekskluzywny/z wyższej półki
 withhold - wstrzymać/zatrzymać
 worthwhile - wartościowy/opłacalny/wart zachodu
+
+przysłówek:
+long-lost - dawno niwidziany
+
+wyrażenia:
+just in time - w samą porę/w ostatniej chwili

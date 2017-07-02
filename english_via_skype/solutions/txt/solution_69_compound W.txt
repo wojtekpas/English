@@ -1,0 +1,30 @@
+rzeczowniki:
+cancellation - odwołanie/anulowanie/unieważnienie
+community - społeczność/wspólnota
+consequence - konsekwencja/następstwo/znaczenie/ważność
+excuse - wymówka
+favourite - faworyt
+fibre/fiber - błonnik/włókno
+optical fibre/fiber - światłowód
+
+czasowniki:
+
+przymiotniki:
+action-packed - pełen wrażeń
+all-out - całkowity/totalny
+badly-run - źle zarządzany
+close-knit - zżyty
+declining - spadający
+far-fetched - naciągany/przesadny/zbyt daleko idący
+far-reaching - obszerny/daleko idący/doniosły
+increasing - wzrastający/rosnący
+last-minute - w ostatniej chwili
+long-winded - rozwlekły/nużący
+nerve-racking/nerve-wracking - wykańczający nerwowo/stresujący 
+odds-on - wysoce prawdopodobny/niemal pewny
+so-called - rzekomy/tak zwany
+well-earned - zasłużony
+
+przysłówek:
+painfully - boleśnie/nieznuśnie
+ridiculously - śmiesznie/absurdalnie

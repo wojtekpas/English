@@ -1,6 +1,6 @@
 rzeczowniki:
 backlash - gwałtowna reakcja/ostry sprzeciw
-breakdown - rozpad załamanie
+breakdown - rozpad/załamanie
 buzzword - modne powiedzonko/popularny zwrot
 compel - zmuszać/wzbudzać
 data-mining - pozyskiwanie/analiza danych

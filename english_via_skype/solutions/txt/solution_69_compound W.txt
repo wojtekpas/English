@@ -1,13 +1,17 @@
 rzeczowniki:
 cancellation - odwołanie/anulowanie/unieważnienie
+clash - starcie/potyczka/konflikt
 community - społeczność/wspólnota
 consequence - konsekwencja/następstwo/znaczenie/ważność
 excuse - wymówka
 favourite - faworyt
 fibre/fiber - błonnik/włókno
 optical fibre/fiber - światłowód
+rhetoric/sztuka wymowy
+verge - brzeg/kraniec/pobocze
 
 czasowniki:
+
 
 przymiotniki:
 action-packed - pełen wrażeń

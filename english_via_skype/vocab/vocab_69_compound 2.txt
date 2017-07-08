@@ -1,0 +1,102 @@
+rzeczowniki:
+abolition - zniesienie/obalenie/uchylenie
+allowance - dodatek/zasiłek
+animal rights - prawa zwierząt
+apple core - ogryzek
+armed guard - straż zbrojna
+back seat - tylne siedzenie
+back seat driver - pasażer pouczający kierowcę
+bride-to-be - przyszła żona/narzeczona
+bunch of roses - bukiet róż
+car door - drzwi do samochodu
+clear-cut case - jasna sprawa
+cloudy/covered sky - zachmurzone niebo
+cold-blooded murder - morderstwo z premedytacją/zimną krwią
+collapse - zawalenie się/upadek/krach
+common sense - zdrowy rozsądek
+comrade in arms - towarzysz broni
+condemnation - potępienie/skazanie
+contributor - ofiarodawca
+cookery book - książka kucharska
+cost of living - koszty życia
+day's work - ilość pracy w ciągu jednego dnia
+death penalty - kara śmierci
+donors - dawca
+end of the world - koniec świata
+entitlement - prawo/program pomocowy
+estate agent - agent nieruchomości
+European Court of Human Rights - Europejski Trybunał Praw Człowieka
+evening classes - zajęcia wieczorowe
+five-year prison sentence - wyrok pięciu lat więzienia
+fizzy drink/aerated drinks - napoje gazowane
+flowchart - diagram sekwencji działań
+fork-lift truck - wózek widłowy
+four-storeyed/storied - czteropiętrowy
+frontier - granica/niezamieszkany obszar
+general public - ogół społeczeństwa
+generation gap - różnica pokoleń
+guided missile - pocisk kierowany
+high blood pressure - wysokie ciśnienie
+law and order - ład i porządek publiczny
+loudspeaker - megafon/głośnik
+malfunction - niesprawność/awaria
+missile - pocisk rakietowy
+modern time - czas współczesny
+moment of hesitation - moment zawachania
+motorway service area/station - miejsce obsługi podróżnych
+nervous breakdown - załamanie nerwowe
+news bulletin - wiadomości z ostatniej chwili
+old age/oldness - starość
+parting shot - niemiła uwaga przed odejściem
+pen friend - przyjaciel korespondencyjny
+point of law - kwestia prawna
+price of gas - cena gazu
+public sector worker - pracownik sektora publicznego
+punishment - kara
+road tax disc - dowód opłacenia podatku drogowego
+seafood - owoce morza
+shirt button - buzik od bluzki
+ski boot - but narciarski
+social services - opieka społeczna
+sound/sonic barrier - bariera dźwięku
+volunteer blood donors - chonorowy dawca krwi
+walking stick - laska
+watch-strap - pasek do zegarka
+willpower - siła woli
+
+czasowniki:
+be attributed - przypisywać coś komuś
+be fluent in - być biegłym w czymś
+condemn - potępiać/piętnować
+devoid of sth - pozbawiony czegoś
+pan-fry - usmażyć na patelni
+suffer from sth - cierpieć na coś/z powodu czegoś
+
+przymiotniki:
+abolished - zniesiony/uchylony
+absent-minded - nieuważny/roztargniony
+all-around - wszechstronny/uniwersalny
+armed - uzbrojony
+big-headed - zarozumiały
+chronic - chroniczny/przewlekły
+commander-in-chief - głównodowodzący
+commercial - komercyjny/handlowy
+contaminated - zanieczyszczony/skażony
+devastating - dewastujący/niszczycielski/druzgocący
+flat-footed - z płaskostopiem/niezdarny
+good-looking - przystojny/atrakcyjny
+grass roots - obywatelski/u podstaw
+keep-fit - gimnastyczny
+pleasent - przyjemny/miły
+run-down - zniszczony
+shop-soiled - przestarzały
+short-lived - krótkotrwał/przelotny
+supporting - drugoplanowy/wspierający
+two-handed - oburęczny
+
+przysłówki:
+as a punishment - za karę
+profoundly - wnikliwie/gruntownie/rzeczowo
+profoundly deaf - całkowicie głuchy
+remarkably - wielce/wielce/niezwykle
+throughout - na wskroś/na całym/po całym

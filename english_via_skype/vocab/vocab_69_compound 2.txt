@@ -3,6 +3,7 @@ abolition - zniesienie/obalenie/uchylenie
 allowance - dodatek/zasiłek
 animal rights - prawa zwierząt
 apple core - ogryzek
+armed forces - siły zbrojne
 armed guard - straż zbrojna
 back seat - tylne siedzenie
 back seat driver - pasażer pouczający kierowcę
@@ -59,6 +60,7 @@ shirt button - buzik od bluzki
 ski boot - but narciarski
 social services - opieka społeczna
 sound/sonic barrier - bariera dźwięku
+summing-up - podsumowanie
 volunteer blood donors - chonorowy dawca krwi
 walking stick - laska
 watch-strap - pasek do zegarka

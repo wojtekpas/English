@@ -3,6 +3,7 @@ ache - ból
 blood pressure - ciśnienie krwi
 bruise - siniak
 canrek - rak/nowotwór
+chicken-pox - ospa wietrzna
 chills - dreszcze
 cure - lekarstwo/lek
 diagnosis - rozpoznanie/diagnoza
@@ -11,15 +12,18 @@ dose - dawka
 examination/check-up - badanie lekarskie/kontrolne
 faint - omdlenie
 fever - gorączka
+flu/influenza - grypa
 hangover - kac
 headache - ból głowy
 heart attack - zawał serca
 infectious diseases - choroba zakaźna
 injection - zastrzyk
 leaflet - ulotka/broszurka
+mosquito bite - ukąszenie komara/ugryzienie przez komara
 ointment - maść
 overdose - przedawkować
 painkiller - środek/lek przeciwbólowy
+penicillin - penicylina
 pills - piguły/narkotyki
 practitioner - praktyk
 rash - wysypka
@@ -35,14 +39,18 @@ syrup - syrop
 tablets - tabletki
 tumor - góz/nowotwór
 undergo an operation - przejść operację
+upset stomach - roztrój żołądka
+wool - wełna
 
 czasowniki:
-admit to hospital - przyjąć do szpitala
-look after sb - zajmować/opiekować się kimś
 recover - wyzdrowieć/wrócić do zdrowia
 recuperate - odzyskiwać siły/wracać do zdrowia
 rub - pocierać/wcierać/trzeć
+scratch - drapać
+shiver - drzeć/dygotać
 sneeze - kichać
+spin - obracać się/wirować
+swallow - połykać/łykać/przełakać ślinę
 treat - leczyć
 vomit/throw up - wymiotować
 wear off - mijać/przechodzić/ustępować/przestawać działać
@@ -59,8 +67,12 @@ spotless - nieskazitelnie czysty
 swollen - spuchnięty/opuchnięty
 
 wyrażenia:
+admit to hospital - przyjąć do szpitala
+be allergic to sth - być uczulonym na coś
 be on the mend - wracać do zdrowia
 catch a flu - zachorować na grypę/złapać grypę
 ease/alleviate the pain - łagodzić ból
+have a cold - być przeziębionym
+look after sb - zajmować/opiekować się kimś
 safe and sound - cały i zdrowy
 up to scratch - spełniający wymogi

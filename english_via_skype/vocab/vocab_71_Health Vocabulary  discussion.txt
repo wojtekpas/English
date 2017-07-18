@@ -1,0 +1,66 @@
+rzeczowniki:
+ache - ból
+blood pressure - ciśnienie krwi
+bruise - siniak
+canrek - rak/nowotwór
+chills - dreszcze
+cure - lekarstwo/lek
+diagnosis - rozpoznanie/diagnoza
+diarrhea - biegunka
+dose - dawka
+examination/check-up - badanie lekarskie/kontrolne
+faint - omdlenie
+fever - gorączka
+hangover - kac
+headache - ból głowy
+heart attack - zawał serca
+infectious diseases - choroba zakaźna
+injection - zastrzyk
+leaflet - ulotka/broszurka
+ointment - maść
+overdose - przedawkować
+painkiller - środek/lek przeciwbólowy
+pills - piguły/narkotyki
+practitioner - praktyk
+rash - wysypka
+referral - skierowanie
+resistence - odporność
+scratch - zadrapanie
+second opinion - dodatkowa opinia
+sore throat - ból gardła
+stomachache - ból brzucha
+stroke - udar mózgu
+surgery - chirurgia/operacja/gabinet lekarski/zabiegowy
+syrup - syrop
+tablets - tabletki
+tumor - góz/nowotwór
+undergo an operation - przejść operację
+
+czasowniki:
+admit to hospital - przyjąć do szpitala
+look after sb - zajmować/opiekować się kimś
+recover - wyzdrowieć/wrócić do zdrowia
+recuperate - odzyskiwać siły/wracać do zdrowia
+rub - pocierać/wcierać/trzeć
+sneeze - kichać
+treat - leczyć
+vomit/throw up - wymiotować
+wear off - mijać/przechodzić/ustępować/przestawać działać
+
+przymiotniki:
+allergic - uczulony/alergiczny
+contagious - zaraźliwy/zakażny
+dizzy - cierpiący na zawroty głowy
+itchy - swędzący/gryzący
+nauseated - mający uczucie mdłości
+painful - bolesny
+runny - cieknący z nosa/płynny/rzadki
+spotless - nieskazitelnie czysty
+swollen - spuchnięty/opuchnięty
+
+wyrażenia:
+be on the mend - wracać do zdrowia
+catch a flu - zachorować na grypę/złapać grypę
+ease/alleviate the pain - łagodzić ból
+safe and sound - cały i zdrowy
+up to scratch - spełniający wymogi

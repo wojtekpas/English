@@ -37,7 +37,6 @@ surgery - chirurgia/operacja/gabinet lekarski/zabiegowy
 syrup - syrop
 tablets - tabletki
 tumor - góz/nowotwór
-undergo an operation - przejść operację
 upset stomach - roztrój żołądka
 wool - wełna
 
@@ -75,4 +74,5 @@ ease/alleviate the pain - łagodzić ból
 have a cold - być przeziębionym
 look after sb - zajmować/opiekować się kimś
 safe and sound - cały i zdrowy
+undergo an operation - przejść operację
 up to scratch - spełniający wymogi

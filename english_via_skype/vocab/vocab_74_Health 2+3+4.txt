@@ -17,7 +17,7 @@ receptionist - recepcjonistka
 recovery - powrót do zdrowia
 spreading - roznoszenie się choroby
 suffering - cierpienie
-symptoms - przejaw
+symptom - objaw/oznaka
 temperature - temperatura/gorączka
 thermometer - termometr
 vaccine - szczepionka

@@ -25,6 +25,7 @@ waiting room - poczekalnia
 wound - rana
 
 czasowniki:
+ail - boleć/dolegać
 amputate - amputować/odciąć
 bruise - stłuc
 come down - uspokoić się
@@ -50,7 +51,20 @@ spread - rozłożyć/rozkładać
 suffer - cierpieć/znosić/tolerować
 
 przymiotniki:
+ailing - bolący/trapiący/chory/niedomagający/cierpiący
+blooming - kwitnący
 drowned - umarły przez utopienie
+indisposed - niedysponowany
+robust - zdrowy/silny/krzepki
+sickly - słabowity/chorowity
+unsound - fałszywy/niezdrowy
+vigorous - silny/energiczny/pełen wigoru
 
 wyrażenia:
+as fit as a fiddle/as right as rain - zdrów jak ryba
+be off colour - marnie wyglądać/czuć się źle/być w złej formie
+be on the sick list - być chorym
+be out of sorts - być nie w sobie
+hale and hearty/in the pink - w świetnej formie
 relapse of illness - nawrót choroby
+under the weather - chory/pijany

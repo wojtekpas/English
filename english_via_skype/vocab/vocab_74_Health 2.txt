@@ -1,0 +1,38 @@
+rzeczowniki:
+appointment - wizyta u lekarza
+attack - atak
+cold - przeziębienie
+condition - niedomaganie/dolegliwość/choroba
+cough - kaszel/kaszlnięcie
+health - zdrowie
+heart rate - tętno
+infection - infekcja/zarażenie
+outbreak - wybuch epidemii
+prescription - recepta
+pulse - tętno
+reception - przyjęcie/powitanie
+receptionist - recepcjonistka
+recovery - powrót do zdrowia
+symptoms - przejaw
+temperature - temperatura/gorączka
+thermometer - termometr
+vaccine - szczepionka
+waiting room - poczekalnia
+
+czasowniki:
+come down - uspokoić się
+contract - zarazić się wirusem
+deteriorate - pogarszać się/podupadać
+develop - rozwijać się
+ease - złagodnieć
+heal - leczyć
+infect - zakażać/zarażać
+inoculate - zaszczepić
+prescribe - przypisywać
+regain - odzyskać
+respond - reagować/odpowiadać
+spread - rozłożyć/rozkładać
+suffer - cierpieć/znosić/tolerować
+
+przymiotniki:
+

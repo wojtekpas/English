@@ -15,11 +15,13 @@ pulse - tętno
 reception - przyjęcie/powitanie
 receptionist - recepcjonistka
 recovery - powrót do zdrowia
+specialist - specjalista
 spreading - roznoszenie się choroby
 suffering - cierpienie
 symptom - objaw/oznaka
 temperature - temperatura/gorączka
 thermometer - termometr
+turn - kolej
 vaccine - szczepionka
 waiting room - poczekalnia
 wound - rana
@@ -36,6 +38,7 @@ disinfect - dezynfekować/odkażać
 dislocate - zwichnąć/wybić
 drown - utopić się/utonąć/zapijać/topić smutki
 ease - złagodnieć
+get out - wysiadać
 heal - leczyć
 infect - zakażać/zarażać
 inoculate - zaszczepić
@@ -54,17 +57,27 @@ przymiotniki:
 ailing - bolący/trapiący/chory/niedomagający/cierpiący
 blooming - kwitnący
 drowned - umarły przez utopienie
+flushed - poczerwieniały/zarumieniony
 indisposed - niedysponowany
 robust - zdrowy/silny/krzepki
 sickly - słabowity/chorowity
+terminal - nieuleczalny
 unsound - fałszywy/niezdrowy
 vigorous - silny/energiczny/pełen wigoru
 
+przysłówki:
+unusually - wyjątkowo/nadzwyczajnie/niezwykle
+
 wyrażenia:
 as fit as a fiddle/as right as rain - zdrów jak ryba
+be alarmed - niepokoić się czymś
 be off colour - marnie wyglądać/czuć się źle/być w złej formie
 be on the sick list - być chorym
 be out of sorts - być nie w sobie
 hale and hearty/in the pink - w świetnej formie
+make an appointment - umówić się na wizytę u lekarza
 relapse of illness - nawrót choroby
+sort of - tak jakby
+take sb's pulse - zbadać komuś puls
+take sb's temperature - mierzyć czyjąć temperaturę
 under the weather - chory/pijany

@@ -1,0 +1,28 @@
+8)
+1. chills
+2. temperature
+3. dizzy
+4. heart rate
+5. pulse
+6. symptoms
+7. infection
+8. appoinment
+9. reception
+
+10. surgery
+11. waiting room
+12. receptionist
+13. condition
+14. cough
+15. aches
+16. runny
+
+17. examination
+18. attack
+19. terminal
+20. outbreaks
+21. cold
+22. prescription
+23. recovery
+24. vaccine
+25. health

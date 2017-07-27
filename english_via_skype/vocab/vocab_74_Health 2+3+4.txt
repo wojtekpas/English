@@ -5,10 +5,13 @@ bone - kość/ość
 cold - przeziębienie
 condition - niedomaganie/dolegliwość/choroba
 cough - kaszel/kaszlnięcie
+drowsiness - senność
 fracture - złamanie/pęknięcie
 health - zdrowie
 heart rate - tętno
+hiker - turysta/wczasowicz
 infection - infekcja/zarażenie
+lung - płuco
 outbreak - wybuch epidemii
 prescription - recepta
 pulse - tętno
@@ -27,9 +30,11 @@ waiting room - poczekalnia
 wound - rana
 
 czasowniki:
+administer - zaaplikować/podawać lek
 ail - boleć/dolegać
 amputate - amputować/odciąć
 bruise - stłuc
+call off - odwołać
 come down - uspokoić się
 contract - zarazić się wirusem
 deteriorate - pogarszać się/podupadać
@@ -54,6 +59,7 @@ spread - rozłożyć/rozkładać
 suffer - cierpieć/znosić/tolerować
 
 przymiotniki:
+acute - przenikliwy/przeszywający/ostry/poważny
 ailing - bolący/trapiący/chory/niedomagający/cierpiący
 blooming - kwitnący
 drowned - umarły przez utopienie
@@ -66,6 +72,7 @@ unsound - fałszywy/niezdrowy
 vigorous - silny/energiczny/pełen wigoru
 
 przysłówki:
+throughout - na wskroś/wsędzie
 unusually - wyjątkowo/nadzwyczajnie/niezwykle
 
 wyrażenia:
@@ -76,7 +83,9 @@ be on the sick list - być chorym
 be out of sorts - być nie w sobie
 hale and hearty/in the pink - w świetnej formie
 make an appointment - umówić się na wizytę u lekarza
+no wonder/it is no wonder that - nic dziwnego, że
 relapse of illness - nawrót choroby
+right after/just after - zaraz po
 sort of - tak jakby
 take sb's pulse - zbadać komuś puls
 take sb's temperature - mierzyć czyjąć temperaturę

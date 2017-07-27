@@ -1,0 +1,29 @@
+rzeczowniki:
+acknowledgment - podziękowanie/potwierdzenie/uznanie/wdzięczność
+appraisal - wycena/oszacowanie
+deteriorating - pogarszanie się czgoś/podupadanie
+
+przypiotniki:
+aggravating - denerwujący/irytujący
+cutting-edge - nowatorski
+deceptive/delusive - oszukańczy/pozorny/zwodniczy/złudny
+extraordinary - niezwykły/zadziwiający/niesłychany
+flawless - nieskazitelny/doskonały
+flourishing  - rozkwitający/dobrze prosperujący
+implausible - nieprzekonujący/mało prawdopodobny
+incoherent - chaotyczny/nieskładny/niespójny
+irreconcilable - nieprzejednany/nierozwiązywalny
+meticulous - dokładny/drobiazgowy/skrupulatny
+pervasive - wszechobecny/wszechogarniający
+rigorous/stringent - rygorystyczny/surowy
+staggering - zdumiewający/szokujący/oszałamiający
+thriving - prosperujący/kwitnący
+top-of-the-range - najwyższej klasy
+underlying - zasadniczny/podstawowy/fundamentalny
+unimaginable - niewyobrażalny/nie do pomyślenia
+unprecedented - bezprecedensowy/niespotykany
+vulnerable - bezbronny/odsłonięty/czuły/wrażliwy
+widespread - powszechny/szeroko rozpowszechniony
+
+wyrażenia:
+be susceptible to - być podatnym na coś

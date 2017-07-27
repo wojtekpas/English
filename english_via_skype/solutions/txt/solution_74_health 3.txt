@@ -1,11 +1,22 @@
 9)
-1. 
-2. 
-3. 
+1. made
+2. deteriorate
+3. suffered
 4. 
 5. 
-6. 
-7. 
+6. treat
+7. lost
 8. 
-9. 
-10. 
+9. recovered
+10. fight
+
+11. heal
+12. prescribed
+13. spread
+14. inoculated
+15. contracted
+16. ease
+17. regain
+18. infected
+19. responding
+20. recuperate

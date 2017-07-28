@@ -63,7 +63,7 @@ acute - przenikliwy/przeszywający/ostry/poważny
 ailing - bolący/trapiący/chory/niedomagający/cierpiący
 blooming - kwitnący
 drowned - umarły przez utopienie
-flushed - poczerwieniały/zarumieniony
+flushed - poczerwieniały/zarumieniony/rozpalony
 indisposed - niedysponowany
 robust - zdrowy/silny/krzepki
 sickly - słabowity/chorowity
@@ -80,7 +80,7 @@ as fit as a fiddle/as right as rain - zdrów jak ryba
 be alarmed - niepokoić się czymś
 be off colour - marnie wyglądać/czuć się źle/być w złej formie
 be on the sick list - być chorym
-be out of sorts - być nie w sobie
+be out of sorts - być nie w sosie
 hale and hearty/in the pink - w świetnej formie
 make an appointment - umówić się na wizytę u lekarza
 no wonder/it is no wonder that - nic dziwnego, że

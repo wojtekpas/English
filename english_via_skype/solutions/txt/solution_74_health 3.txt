@@ -2,13 +2,13 @@
 1. made
 2. deteriorate
 3. suffered
-4. 
-5. 
-6. treat
+4. treated
+5. developed
+6. taken
 7. lost
-8. 
+8. come down
 9. recovered
-10. fight
+10. fighting
 
 11. heal
 12. prescribed
@@ -19,4 +19,4 @@
 17. regain
 18. infected
 19. responding
-20. recuperate
+20. recuperating

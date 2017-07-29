@@ -62,7 +62,7 @@ przymiotniki:
 acute - przenikliwy/przeszywający/ostry/poważny
 ailing - bolący/trapiący/chory/niedomagający/cierpiący
 blooming - kwitnący
-drowned - umarły przez utopienie
+drowned - topiący się/umarły przez utopienie
 flushed - poczerwieniały/zarumieniony/rozpalony
 indisposed - niedysponowany
 robust - zdrowy/silny/krzepki
@@ -78,6 +78,7 @@ unusually - wyjątkowo/nadzwyczajnie/niezwykle
 wyrażenia:
 as fit as a fiddle/as right as rain - zdrów jak ryba
 be alarmed - niepokoić się czymś
+be in a coma - być w spiączce
 be off colour - marnie wyglądać/czuć się źle/być w złej formie
 be on the sick list - być chorym
 be out of sorts - być nie w sosie
@@ -87,6 +88,7 @@ no wonder/it is no wonder that - nic dziwnego, że
 relapse of illness - nawrót choroby
 right after/just after - zaraz po
 sort of - tak jakby
+take ill - zachorować
 take sb's pulse - zbadać komuś puls
 take sb's temperature - mierzyć czyjąć temperaturę
 under the weather - chory/pijany

@@ -1,0 +1,23 @@
+rzeczowniki:
+courtesy - uprzejmość/grzeczność/kurtuazja
+devotion - oddanie się jakieś sprawie/poświęcenie się
+fund - fundusz
+kindness - dobroć/życzliwość/przysługa
+management board - zarząd
+misunderstanding - nieporozumienie
+trend - kierunek/tendencja/trend
+
+przymiotniki:
+appreciative - doceniający/wdzięczny
+attentive - baczny/uważny/pilny/zainteresowany
+coherent - logiczny/spójny/zrozumiały
+competent - kompetentny
+conducive - sprzyjający
+deceptive - oszukańczy/mylny/pozorny/zwodniczy
+disruptive - zakłócający spokój/destrukcyjny
+mandatory - obowiązkowy/obligatoryjny
+meticulous - dokładny/drobiazgowy/skrupulatny
+pervasive - wszechobecny
+prevalent - przeważający/powszechnie występujący
+stringent - rygorystyczny/surowy
+thoughtless - bezmyślny/nierozważny/lekkomyślny

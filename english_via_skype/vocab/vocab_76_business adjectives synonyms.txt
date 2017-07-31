@@ -1,6 +1,6 @@
 rzeczowniki:
 acknowledgment - podziękowanie/potwierdzenie/uznanie/wdzięczność
-appraisal - wycena/oszacowanie
+appraisal - wycena/oszacowanie/ocena
 deteriorating - pogarszanie się czgoś/podupadanie
 
 przypiotniki:
@@ -17,6 +17,7 @@ meticulous - dokładny/drobiazgowy/skrupulatny
 pervasive - wszechobecny/wszechogarniający
 rigorous/stringent - rygorystyczny/surowy
 staggering - zdumiewający/szokujący/oszałamiający
+susceptible to - podatny na coś
 thriving - prosperujący/kwitnący
 top-of-the-range - najwyższej klasy
 underlying - zasadniczny/podstawowy/fundamentalny
@@ -24,6 +25,3 @@ unimaginable - niewyobrażalny/nie do pomyślenia
 unprecedented - bezprecedensowy/niespotykany
 vulnerable - bezbronny/odsłonięty/czuły/wrażliwy
 widespread - powszechny/szeroko rozpowszechniony
-
-wyrażenia:
-be susceptible to - być podatnym na coś

@@ -1,23 +1,49 @@
 rzeczowniki:
+bailiff - komornik
+cause of - przyczyna czegoś
 courtesy - uprzejmość/grzeczność/kurtuazja
 devotion - oddanie się jakieś sprawie/poświęcenie się
 fund - fundusz
 kindness - dobroć/życzliwość/przysługa
 management board - zarząd
 misunderstanding - nieporozumienie
+possession - posiadanie/dobytek
+tender - przetarg
+trade fair/show - targi
 trend - kierunek/tendencja/trend
+turnover - obrót finansowy
+
+czasowniki:
+conduct - prowadzić/kierować/przewodzić
+convince  - przekonać/namówić
+plummet - runąć w dół/spadać/obniząć się
+surpass - przewyższać/być lepszym
 
 przymiotniki:
 appreciative - doceniający/wdzięczny
 attentive - baczny/uważny/pilny/zainteresowany
+bankrupt - zbankrutowany/pozbawiony wartości
 coherent - logiczny/spójny/zrozumiały
 competent - kompetentny
+compromising - kompromitujący
 conducive - sprzyjający
 deceptive - oszukańczy/mylny/pozorny/zwodniczy
+disastrous - fatalny/katastrofalny/zgubny
 disruptive - zakłócający spokój/destrukcyjny
+feasible - wykonalny/możliwy/prawdopodobny
+inexhaustible - niewyczerpany
 mandatory - obowiązkowy/obligatoryjny
-meticulous - dokładny/drobiazgowy/skrupulatny
 pervasive - wszechobecny
 prevalent - przeważający/powszechnie występujący
+prominent - znaczący/wybitny/czołowy
+puzzling - zagadkowy/niezrozumiały
+reconcilable - do pogodzenia
+relentless - bezwzględny/nieugięty/nieustający
+shattered - wstrząśnięty/zdruzgotany/zrujnowany
+smashing - miażdżący/druzgocący
+striking - uderzający/ogromny/imponujący
 stringent - rygorystyczny/surowy
+tender - miękki/czuły/wrażliwy
 thoughtless - bezmyślny/nierozważny/lekkomyślny
+unaffected - niewzruszony
+unmissable - obowiązkowy/wart uwagi/rzucający się w oczy

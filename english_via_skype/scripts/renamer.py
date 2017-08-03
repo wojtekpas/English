@@ -4,7 +4,7 @@ path = "D:\English\english_via_skype\scripts"
 print ("Pliki w folderze: ")
 filenames = os.listdir(path)
 print (filenames)
-id = 76
+id = 79
 
 for filename in filenames:
     names = str(filename).split(".docx")
@@ -16,6 +16,7 @@ for filename in filenames:
         copyfile(filename, newname_edit)
     else:
         names = str(filename).split(".pdf")
-        oldname = names[0]
-        newname = "lesson_%d_%s.pdf" % (id, oldname)
-        copyfile(filename, newname)
+        if len(names) == 2:
+            oldname = names[0]
+            newname = "lesson_%d_%s.pdf" % (id, oldname)
+            copyfile(filename, newname)

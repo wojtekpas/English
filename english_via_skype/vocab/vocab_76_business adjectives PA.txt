@@ -1,9 +1,11 @@
 rzeczowniki:
 bailiff - komornik
 cause of - przyczyna czegoś
+commitment - poświęcenie/zobowiązanie
 courtesy - uprzejmość/grzeczność/kurtuazja
 devotion - oddanie się jakieś sprawie/poświęcenie się
 fund - fundusz
+growth - wzrost/rozwój
 kindness - dobroć/życzliwość/przysługa
 management board - zarząd
 misunderstanding - nieporozumienie
@@ -14,12 +16,15 @@ trend - kierunek/tendencja/trend
 turnover - obrót finansowy
 
 czasowniki:
+breach - naruszyć/pogwałcić
 conduct - prowadzić/kierować/przewodzić
 convince  - przekonać/namówić
+foresee - przewidywać
 plummet - runąć w dół/spadać/obniząć się
 surpass - przewyższać/być lepszym
 
 przymiotniki:
+applicable - odpowiedni/mający zastosowanie
 appreciative - doceniający/wdzięczny
 attentive - baczny/uważny/pilny/zainteresowany
 bankrupt - zbankrutowany/pozbawiony wartości
@@ -31,9 +36,13 @@ deceptive - oszukańczy/mylny/pozorny/zwodniczy
 disastrous - fatalny/katastrofalny/zgubny
 disruptive - zakłócający spokój/destrukcyjny
 feasible - wykonalny/możliwy/prawdopodobny
+immeasurable - kolosalny/niezmierzony
+inestimable - nieoceniony/nieobliczalny
+inevitable - nieunikniony/nieuchronny
+inexcusable - niewybaczalny
 inexhaustible - niewyczerpany
 mandatory - obowiązkowy/obligatoryjny
-pervasive - wszechobecny
+perceived - zauważony/zaobserwowany
 prevalent - przeważający/powszechnie występujący
 prominent - znaczący/wybitny/czołowy
 puzzling - zagadkowy/niezrozumiały
@@ -43,7 +52,21 @@ shattered - wstrząśnięty/zdruzgotany/zrujnowany
 smashing - miażdżący/druzgocący
 striking - uderzający/ogromny/imponujący
 stringent - rygorystyczny/surowy
+suitable - odpowiedni/nadający się
+sustainable - nienaruszający równowagi ekonomicznej/zrównoważony
+tedious - monotonny/żmudny
 tender - miękki/czuły/wrażliwy
 thoughtless - bezmyślny/nierozważny/lekkomyślny
+tremendous - zawrotny/olbrzymi/ogromny
+ubiquitous - wszechobecny
 unaffected - niewzruszony
+unattainable - nieosiągalny/niedościgły
+undeniable - niezaprzeczalny
+unjustifiable - nieuzasadniony/niedający się usprawiedliwić
 unmissable - obowiązkowy/wart uwagi/rzucający się w oczy
+zealous - gorliwy/żarliwy/zagorzały
+
+wyrażenia:
+be blind - być ślepym
+no matter - nieważne/nie ma sprawy
+to my way of thinking - moim zdaniem

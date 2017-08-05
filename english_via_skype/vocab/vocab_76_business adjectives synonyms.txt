@@ -4,7 +4,7 @@ appraisal - wycena/oszacowanie/ocena
 deteriorating - pogarszanie się czgoś/podupadanie
 
 przypiotniki:
-aggravating - denerwujący/irytujący
+aggravating - denerwujący/irytujący/pogarszający
 crisis - kryzys
 cutting-edge - nowatorski
 deceptive/delusive - oszukańczy/pozorny/zwodniczy/złudny

@@ -1,0 +1,22 @@
+rzeczowniki:
+interaction - interakcja
+misconception - błędne mniemanie/przesąd
+misprint - błąd druku
+
+czasowniki:
+miscalculate - błędnie obliczyć/przeliczyć się
+misdiagnose - postawić złą diagnozę
+misfire - nie udać się/nie wypalić
+mishandle/mismanage - źle się obchodzić/mieć niewłaściwe podejście/znęcać się
+misinform - źle poinformować/wprowadzić w błąd
+misjudge - mylnie oceniać/źle oszacować
+mislay/misplace - zgubić/zapodziać/zawieruszyć
+mistreat - znęcać się/maltretować
+
+przymiotniki:
+ill-advised - nieroztropny/nierozważny
+ill-informed - źle poinformowany
+ill-prepared - nieprzygotowany
+ill-treated - pomiatany/poniewierany/szykanowany
+interdependent - współzależny
+interrelated - powiązany/współzależny

@@ -1,0 +1,57 @@
+rzeczowniki:
+armchair - fotel
+disagreement - różnica zdań/konflikt/niezgoda
+embarrassment - zażenowanie/wstyd
+fist - pięść
+handkerchief - chustka/chusteczka
+pavement - chodnik/jezdznia/bruk
+
+czasowniki:
+blush - rumienic się/zaczerwienić się
+bow - ukłonić się
+clench - ćsiskać/zaciskać
+cran - wyciągnąć szyję/dźwigać
+crawl - czołgać się
+creep - skradać się
+curtsey - dygać/dygnąć
+dash - lecieć/zasuwać
+doze - zdrzemnać się/drzemać
+faint - zemdleć
+fidget - wiercić/kręcić się
+flex - napinać/spinać
+fold - zginać/złożyć
+hold - trzymać
+limp - utykać
+march - maszerować
+nod - kiwnąć/skinąć głową
+rub - pocierać/trzeć
+salute - zalutować/wychwalać/witać się
+scratch - drapać się
+shiver - drżeć/dygotać
+shook - potrząsnąć
+shrug - wzruszyć ramionami
+slip - poślizgnąć się
+snap - pękać/łamać się
+sob - łkać/szlochać
+stagger - zataczać się
+stray - błąkać się
+stroll - przechadzać się
+sweat - tyrać/ciężko pracować
+tap - stuknąć/puknąć
+tremble - drżeć/trząść się
+trip over - potknąć się o coś
+trudge - brnąć/iść z trudem
+wander - wędrować
+wave - machać
+wipe - wycierać
+
+przymiotniki:
+painful - bolesny
+pleasent - przyjemny/miły
+
+przysłówki:
+angrily - ze złością/gniewnie
+thoughtfully - życzliwie/zapobiegliwie/refleksyjnie
+
+wyrażenia:
+with no particular purpose - bez szczególnego powodu

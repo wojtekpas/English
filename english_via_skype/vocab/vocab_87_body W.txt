@@ -1,0 +1,20 @@
+rzeczowniki:
+bending - zgięcie/zginanie
+eyebrow - brew
+
+czasowniki:
+crouch - przykucnąć
+curl up - zwijać się w kłębek
+duck - robić unik/dać nura
+flinch - wdrygać się
+frown - zmarszczyć brwi
+kneel - klęczeć
+shake - potrząsnać
+shudder - drzeć
+
+przysłówki:
+momentarily - chwilowo
+
+wyrażenia:
+keep still - nie ruszać się/pozostać bez ruchu
+whilst/while - podczas

@@ -1,14 +1,3 @@
-punch - uderzyć
-grope - obmacywać/chodzić po omacku
-grab - chwycić
-stretch - rozciągać
-pat - poklepać
-slap - uderzyć
-squeeze - ściskać
-nudge - szturchnąć
-beckon - skinąć/przywołać skinieniem
-stroke - głaskać
-
 rzeczowniki:
 armchair - fotel
 disagreement - różnica zdań/konflikt/niezgoda
@@ -18,6 +7,7 @@ handkerchief - chustka/chusteczka
 pavement - chodnik/jezdznia/bruk
 
 czasowniki:
+beckon - skinąć/przywołać skinieniem
 blush - rumienic się/zaczerwienić się
 bow - ukłonić się
 clench - ćsiskać/zaciskać
@@ -31,22 +21,31 @@ faint - zemdleć
 fidget - wiercić/kręcić się
 flex - napinać/spinać
 fold - zginać/złożyć
+grab - chwycić
+grope - obmacywać/chodzić po omacku
 hold - trzymać
 limp - utykać
 march - maszerować
 nod - kiwnąć/skinąć głową
+nudge - szturchnąć
+pat - poklepać
+punch - uderzyć
 rub - pocierać/trzeć
 salute - zalutować/wychwalać/witać się
 scratch - drapać się
 shiver - drżeć/dygotać
 shook - potrząsnąć
 shrug - wzruszyć ramionami
+slap - uderzyć
 slip - poślizgnąć się
 snap - pękać/łamać się
 sob - łkać/szlochać
 stagger - zataczać się
 stray - błąkać się
+stretch - rozciągać
+stroke - głaskać
 stroll - przechadzać się
+squeeze - ściskać
 sweat - tyrać/ciężko pracować
 tap - stuknąć/puknąć
 tremble - drżeć/trząść się

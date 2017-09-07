@@ -1,13 +1,29 @@
 1)
-1. shudder
+1. flinch
 2. kneel
 3. duck
 4. nudge
 5. curl up
 6. crouch
 7. shiver
-8. flinch
+8. shudder
 9. tremble
 10. frown
 11. nod
 12. fidget
+
+3)
+1. throat
+2. eye lid
+3. shoulders
+4. legs
+5. arms
+6. toe
+7. muscles
+8. fist
+9. heart
+10. head
+11. ankle
+12. eyebrows
+13. stomach
+14. teeth

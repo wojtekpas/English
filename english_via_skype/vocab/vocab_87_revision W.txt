@@ -1,0 +1,31 @@
+rzeczowniki:
+relief - ulga/ukojenie
+sore throat - chore gardło
+stroke - uderzenie/cios
+tiredness - zmęczenie
+treadmill - monotonna praca/kołowrotek dla gryzoni/stacjonarna bieżnia
+uncertainty - niepewność
+
+czasowniki:
+gargle - płukać gardło
+gasp - dyszeć/sapać/wzdychać
+mumble - mamrotać/bełkotać
+mutter - mamrotać
+rumble - burczeć w brzuchu
+sigh - wzdychać/westchnąć
+sip - popijać/sączyć
+snore - chrapać
+stammer - jękać się/dukać coś/zacinać się
+sunder - rozdzielać/rozrywać
+yawn - ziewać
+
+przymiotniki:
+
+przysłówek:
+restlessly - niespokojnie/nerwowo
+
+wyrażenia:
+get something off one's chest - zrzucić kamień z serca/wyrzucić coś z siebie
+set your mind to sth - starać się o coś/być zdeterminowany
+sigh of relief - westchnienie wyrażające ulgę
+under one's nose - pod czyimś nosem

@@ -1,12 +1,13 @@
 rzeczowniki:
 bending - zgięcie/zginanie
 eyebrow - brew
+shudder - dreszcz/ciarki
 
 czasowniki:
 crouch - przykucnąć
 curl up - zwijać się w kłębek
 duck - robić unik/dać nura
-flinch - wdrygać się
+flinch - wzdrygać się
 frown - zmarszczyć brwi
 kneel - klęczeć
 shake - potrząsnać

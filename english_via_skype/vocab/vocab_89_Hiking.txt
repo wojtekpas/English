@@ -1,0 +1,51 @@
+rzeczowniki:
+abrasion - ścieranie/wytarcie
+backpack/rucksack - placak
+blister - bąbel/odcisk/pęcherz
+compass - kompas
+excursion - wycieczka/wyprawa
+gravel - żwir
+hazard - niebezpieczeństwo/ryzyko
+insulation - izolacja
+lightwood - podpałka/rozpałka
+mark - ślad
+multi-tool - narzędzie uniwersalne
+obstacle - przeszkoda
+overheating - przegrzanie
+precaution - środek ostrożności/antykoncepcja
+terrain - teren
+thorn - cierń/kolec
+trail - szlak/smuda/ślady
+trekking - pójście na wyprawę/długą wędrówkę
+
+czasowniki:
+bear - ścierpieć/znieść/wytrzymać
+deter - odstraszać
+dress - ubierać się
+equip - wyposażać/zaopatrywać
+familiarize - zaznajomić się/zapoznać
+mark - oznaczać
+trip over - potknąć się o coś
+turn out - okazać się
+
+przymiotniki:
+bumpy - nierówny/wyboisty
+effortless - niewymagający wysiłku
+enjoyable - miły/przyjemny
+even - równy/płaski
+hazardous/risky - niebezpieczny/ryzykowny
+indispensable - nieodzowny
+lightweight - lekki
+marked - oznaczony/wyraźny
+overloaded - przeciążony
+repellent - wstrętny/odrażający
+stout - solidny/mocny
+treacherous - podstępny/zdradziecki/oszukańczy
+unwanted - niechciany/zbędny
+winding - wijący się/kręty
+
+przysłówki:
+comfortably - wygodnie
+
+wyrażenia:
+bear in mind - brać pod uwagę/pamiętać o czymś

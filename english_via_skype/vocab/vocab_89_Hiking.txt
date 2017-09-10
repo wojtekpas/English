@@ -1,51 +1,110 @@
 rzeczowniki:
 abrasion - ścieranie/wytarcie
+ailment - choroba/dolegliwość
+altitude - wysokość
+back pain - ból pleców/kręgosłupa
 backpack/rucksack - placak
 blister - bąbel/odcisk/pęcherz
+bonfire - ogrnisko
+bottom - dół/dno
+bruise - siniak/stłuczenie
+brushwood - chrust
 compass - kompas
+cramp - kurcz/skurcz
 excursion - wycieczka/wyprawa
+gradient - pochyłość/nachylenie
 gravel - żwir
 hazard - niebezpieczeństwo/ryzyko
+hinder - utrudniać/przeszkadzać
+humidity - wilgotność
 insulation - izolacja
 lightwood - podpałka/rozpałka
 mark - ślad
+misstep - pomyłka/nieporozumienie
+mud - błoto
 multi-tool - narzędzie uniwersalne
+muscle sores - zakwasy
 obstacle - przeszkoda
 overheating - przegrzanie
 precaution - środek ostrożności/antykoncepcja
+precipice - przepaść/urwisko
+ranging - obejmowanie zasięgiem/rozciąganie się od czegoś do czegoś
+safety precautions - środki bezpieczeństwa
+shelter - schronienie
+strain - napięcie/natężenie/naciągnięcie
+sweat - pot
 terrain - teren
 thorn - cierń/kolec
+threat - zagrożenie
+tough - trudny/wymagający
 trail - szlak/smuda/ślady
+traveller - podróżnik
 trekking - pójście na wyprawę/długą wędrówkę
 
 czasowniki:
+ascend - iść w górę
+backfire - obracać się przeciwko komuś/odnosić odwrotny skutek
 bear - ścierpieć/znieść/wytrzymać
+descend - schodzić
 deter - odstraszać
 dress - ubierać się
 equip - wyposażać/zaopatrywać
+evaporate - odparowuje/wyparowuje
 familiarize - zaznajomić się/zapoznać
 mark - oznaczać
+spark - wywołać coś
 trip over - potknąć się o coś
+trudge - brnąć/iść z trudem
 turn out - okazać się
 
 przymiotniki:
 bumpy - nierówny/wyboisty
+dehydrated - odwodniony/suchy
 effortless - niewymagający wysiłku
 enjoyable - miły/przyjemny
 even - równy/płaski
 hazardous/risky - niebezpieczny/ryzykowny
+impassable - nieprzejezdny
 indispensable - nieodzowny
+ingenious - pomysłowy
+innumerable - niezliczony
+insurmountable - nie do pokonania
 lightweight - lekki
 marked - oznaczony/wyraźny
+narrow - wąski
 overloaded - przeciążony
+reckless - nierozważny/brawurowy
 repellent - wstrętny/odrażający
+resourceful - pomysłowy/zaradny
+secluded - ustronny/zaciszny
+split - rozdzielić się
+steep - stromy
 stout - solidny/mocny
+strenuous - wyczerpujący/męczący
+stuffy - duszny
+swampy - bagnisty/bagienny
+sweaty - spocony
+thick - gruby/gęsty
+thoughtless - bezmyślny/lekkomyślny
 treacherous - podstępny/zdradziecki/oszukańczy
+unable - niezdolny/nie będący w stanie czegoś zrobić
+unadjusted - niedopasowany
+uninhibited - nieskrępowany/swobodny
+unrestrained - nieograniczony/swobodny
+unsuspecting - niepodejrzewający/niepodejrzliwy
 unwanted - niechciany/zbędny
 winding - wijący się/kręty
+worn-out - wyczarpany/wykończony
 
 przysłówki:
 comfortably - wygodnie
+regrettably - niestety/na nieszczęście
 
 wyrażenia:
 bear in mind - brać pod uwagę/pamiętać o czymś
+due to sth - z powodu czegoś
+get soaked - przemoknąć
+off the beaten track - na uboczu/w ustronnym miejscu
+reach the summit - dotrzeć do szczytu/zdobyć szczyt
+soaked to the skin - przemoczony do suchej nitki
+walk through sth - spacer przez coś

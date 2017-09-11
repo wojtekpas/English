@@ -26,6 +26,7 @@ multi-tool - narzędzie uniwersalne
 muscle sores - zakwasy
 obstacle - przeszkoda
 overheating - przegrzanie
+plant - roślina
 precaution - środek ostrożności/antykoncepcja
 precipice - przepaść/urwisko
 ranging - obejmowanie zasięgiem/rozciąganie się od czegoś do czegoś
@@ -73,6 +74,7 @@ lightweight - lekki
 marked - oznaczony/wyraźny
 narrow - wąski
 overloaded - przeciążony
+poisonous - trujący
 reckless - nierozważny/brawurowy
 repellent - wstrętny/odrażający
 resourceful - pomysłowy/zaradny
@@ -101,6 +103,7 @@ comfortably - wygodnie
 regrettably - niestety/na nieszczęście
 
 wyrażenia:
+be lost - zgubić się
 bear in mind - brać pod uwagę/pamiętać o czymś
 due to sth - z powodu czegoś
 get soaked - przemoknąć

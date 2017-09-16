@@ -22,3 +22,29 @@
 22. heart
 23. feet
 24. heart
+
+1. head
+2. minds
+3. head
+4. brain
+5. heads
+6. head
+7. head
+8. head
+9. mind
+10. mind
+11. mind
+12. heads
+
+1. ear
+2. eye
+3. eye
+4. eye to eye
+5. face
+6. eyes/ears
+7. nose
+8. nose
+9. faced
+10. face
+11. eyes
+12. 

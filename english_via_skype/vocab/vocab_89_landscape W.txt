@@ -1,0 +1,17 @@
+rzeczowniki:
+bay - zatoka
+dune - wydma
+hill - wzgórze/pagórek/wzniesienie
+jungle - dżungla
+meadow/mead - łąka
+mountain range - łańcuch góski/pasmo górskie
+mountainpeak/summit - szczyt
+peninsula - półwysep
+plain - równina
+platenau - płaskowyż
+pond - staw/sadzawka/oczko wodne
+rain forest - las deszczowy/tropikalny
+seashore - wybrzeże/brzeg morski
+stream - strumieć
+waterfall - wodospad
+woods - 

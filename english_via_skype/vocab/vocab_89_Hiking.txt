@@ -5,7 +5,7 @@ altitude - wysokość
 back pain - ból pleców/kręgosłupa
 backpack/rucksack - placak
 blister - bąbel/odcisk/pęcherz
-bonfire - ogrnisko
+bonfire - ognisko
 bottom - dół/dno
 bruise - siniak/stłuczenie
 brushwood - chrust
@@ -50,7 +50,7 @@ descend - schodzić
 deter - odstraszać
 dress - ubierać się
 equip - wyposażać/zaopatrywać
-evaporate - odparowuje/wyparowuje
+evaporate - odparowywać/wyparowywać
 familiarize - zaznajomić się/zapoznać
 mark - oznaczać
 spark - wywołać coś

@@ -1,10 +1,10 @@
 rzeczowniki:
-entail - ordynacja/majorat
 canoeing - kajakarstwo
 recreation - odpoczynek/rozrywka/rekreacja/zabawa
 survival - przetrwanie
 
 czasowniki:
+entail - wiązać się z czymś
 
 przymiotniki:
 minor - drobny/niewielki/drugorzędny

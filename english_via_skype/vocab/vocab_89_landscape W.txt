@@ -2,6 +2,7 @@ rzeczowniki:
 bay - zatoka
 dune - wydma
 hill - wzgórze/pagórek/wzniesienie
+hollow - kotlina
 jungle - dżungla
 meadow/mead - łąka
 mountain range - łańcuch góski/pasmo górskie
@@ -14,4 +15,4 @@ rain forest - las deszczowy/tropikalny
 seashore - wybrzeże/brzeg morski
 stream - strumieć
 waterfall - wodospad
-woods - 
+woods - las

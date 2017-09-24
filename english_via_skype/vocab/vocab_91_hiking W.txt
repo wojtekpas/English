@@ -1,10 +1,61 @@
 rzeczowniki:
+anaphylactic shock - szok anafilaktyczny
+ankle sprain - zwichnięcie stawu skokowego
+backpacking - wędrówka z plecakiem
+bee/honeybee - pszczoła
+black bear - baribal/niedźwiedź czarny
 canoeing - kajakarstwo
-recreation - odpoczynek/rozrywka/rekreacja/zabawa
+clapping - klaskanie/huk
+conditioning - uwarunkowanie
+cougar - puma/kuguar
+danger - niebezpieczeństwo
+encounter - spotkanie/konktakt/zetknięcie/potyczka
+exhaustion - zmęczenie/wyczerpanie
+flea - pchła
+friction - tarcie/napięcie/pocieranie
+harm - szkoda/krzywda/uszkodzenie
+inattention - niedbałośc/nieuwaga
+judgment - osąd/ocena sytuacji
+likelihood - prawdopodobieństwo
+load - ładunek/dopuszczalne obciążenie
+mammal - ssak
+mosquito - komar
+noisemaker - hałaśliwa zabawka
+occurrence - występowanie
+rabies - wścieklizna
+raid - napaść/grabież
+recreation - rekonstrukcja
+sprain - zwichnięcie
 survival - przetrwanie
+thumb - kciuk
+tick - kleszcz
+yelling - krzyk/wrzask
 
 czasowniki:
+carry - nosić/przenosić
+come upon sth - natknąć się na coś
 entail - wiązać się z czymś
+get into - wsiadać/wchodzić
+irritate - drażnić/podrażniać
+seek out - odszukiwać
+strengthen - umacniać/wzmacniać
 
 przymiotniki:
+cumbersome - nieefektywny/zawikłany/powolny
+harmful - szkodliwy/krzywdzący
+infectious - zakaźny/zarażliwy/zakaźny
 minor - drobny/niewielki/drugorzędny
+predatory - drapieżny
+slippery - śliski
+unsuspecting - niepodejrzewający/niepodejrzliwy
+venomous - jadowity/złośliwy/pełen złości
+weighted - wzmocniony
+
+przysłówki:
+aggressively - agresywnie
+particularly - szczególnie/w szczególności
+the least - najmniej
+
+wyrażenia:
+combined with sth - w połączeniu z czymś
+overall - w sumie/ogólnie/ogólnie rzecz biorąc

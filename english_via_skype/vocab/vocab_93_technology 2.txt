@@ -1,0 +1,43 @@
+rzeczowniki:
+adjustment - regulacja/nastawienie
+appliance - urządzenie w domu
+blade/edge - ostrze
+bolt - bolec/śruba
+cassette - kaseta/rolka z kliszą fotograficzną
+chisel - dłuto/przecinak
+coffee bean - ziarno kawy
+electrician - elektryk
+electricity - elektryczność
+fuse - bezpiecznik
+grinder - młynek do kawy
+hairdrier - suszarka do włosów
+impact - wpływ/siła uderzenia/wstrząs
+joint - styk/złącze
+jolt/shock - wstrząs/szok
+link - łącze/połączenie
+machinery - maszyny/maszyneria
+pliers - szczypce/obcęgi
+plug - wtyczka
+proceeding - postępowanie/proces/procedura
+screwdriver - śrubokręt
+spanner - klucz
+tightness - zwartość/naprężenie/ciasność/szczeglność
+valve - zawór/zastawka
+wire - drut/przewód
+
+czasowniki:
+come with - być sprzedawanym/być produkowanym w zestawie z czymś
+engage - zajmować się/podejmować/wciągać
+transcribe - przepisywać/zapisywać
+twist - skręcić
+
+przymiotniki:
+cylindric/cylindrical - cylindryczny/walcowaty
+electrical - elektryczny
+energy-efficient - energooszczędny
+powered - napędzany
+rotating - obracający się/obrotowy
+
+przysłówki:
+free of charge - za darmo/bezpłatnie/gratis
+get a shock - doznać porażenia/szoku

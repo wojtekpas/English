@@ -1,3 +1,8 @@
+2)
+a) contraption
+b) appliance
+c) component
+
 a) 4
 b) 6
 c) 7
@@ -12,14 +17,14 @@ j) 5
 5)
 1. installation
 2. maintainence
-3. adjustment
+3. adjustable
 4. electrical
 5. appliance
 6. cylindric
-7. tightness
+7. tighten
 8. safety
-9. protections.
-10. proceeding
+9. protective
+10. procedure
 
 6)
 a) socket
@@ -34,5 +39,5 @@ i) motor
 j) electrical
 k) pliers
 l) grinder
-m) edge
+m) blade
 n) spanner

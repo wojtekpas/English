@@ -32,6 +32,7 @@ transcribe - przepisywać/zapisywać
 twist - skręcić
 
 przymiotniki:
+adjustable - regulowany
 cylindric/cylindrical - cylindryczny/walcowaty
 electrical - elektryczny
 energy-efficient - energooszczędny

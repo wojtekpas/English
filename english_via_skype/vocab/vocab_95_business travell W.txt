@@ -1,0 +1,29 @@
+rzeczowniki:
+boarding - wejście na pokład/abordaż
+business executive - kierownik w korporacji handlowej
+disembarkation - rozładunek/wyładowanie
+economy class - klasa ekonomiczna
+embarkation - załadunek
+flying club - aeroklub
+pier - molo/pomost
+transit - transport/przewóz
+transition - przemiana/przekształcenie/przejście
+
+czasowniki:
+
+przymiotniki:
+cancelled - odwołany/anulowany
+delayed - opóźniony
+direct/non-stop - bezpośredni
+diverted - zmieniony
+double-booked - zarezerwowan podwójnie, dla dwóch różnych osób
+indirect - okrężny
+one-way - w jedną stronę
+overbooked - przepełniony
+postponed - odłożony/odroczony
+rerouted - przekierowany na inną trasę
+transitive - przechodni
+transitory - przejściowy/chwilowy/przemijający
+
+przysłówki:
+en route - w drodze/po drodze

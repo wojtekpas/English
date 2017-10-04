@@ -1,0 +1,29 @@
+rzeczowniki:
+accomodation - zakwaterowanie/nocleg
+airport security - ochrona lotniska
+bellboy - boy hotelowy
+cardholder - posiadacz karty kredytowej
+check-in - zameldowanie się/odprawa
+check-out - wymeldowanie
+continental breakfast - śniadanie kontynentalne/lekkie śniadanie
+double bed - podwójne łóżko
+safe - sejf
+
+czasowniki:
+be listed under - być skatalogowanym pod
+dial - wybierać numer telefonu
+hesitate - wahać się
+make a reservation - rezerwować
+
+przymiotniki:
+
+przysłówki:
+anyway - w każdym razie/tak czy tak
+shortly - wkrótce/niedługo
+
+wyrażenia:
+a room overlooking the sea - pokój z widokiem na morze
+my pleasure - cała przyjemność po mojej stronie
+on business - w interesach
+on file - w aktach
+whoa - hola/powoli

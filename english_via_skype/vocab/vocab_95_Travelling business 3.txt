@@ -1,0 +1,30 @@
+rzeczowniki:
+baggage allowance - dozwolona ilość bagażu
+carry–on - bagaż podręczny
+compartment - przedział
+excess - nadmiar/nadwyżka
+fare - opłata za przejazd/pasażer
+fee - opłata/honorarium
+lounge - pokój wypoczynkowy/salon
+luggage - bagaż
+proximity - sąsiedztwo/bliskość
+round-trip - podróż tam i z powrotem/w obie strony/bilet powrotny
+vacancy - wolny pokój/wolne miejsce
+waiting lounge - poczekalnia
+
+czasowniki:
+appreciate - doceniać/być wdzięcznym
+declare - oświadczać/oznajmiać/ogłaszać
+embark - wchodzić na pokład
+fasten - zapiąć pasy
+take off - startować
+touch down - wylądować
+waive - rezygnować/zaniechać/zrzekać się
+
+przymiotniki:
+occupied - zajęty
+prescribed - określony przepisami/zalecony
+unaccompanied - bez opieki/bez towarzystwa/samotny
+
+wyrażenia:
+embark on a journey - wyruszyć w podróż

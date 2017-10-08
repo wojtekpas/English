@@ -6,3 +6,18 @@
 5. transit
 6. gate
 7. direct
+8. domestic
+9. single/one way, round-trip
+10. credit limit
+11. crew
+12. commuters
+13. airline
+14. comprehensive
+15. 4x4
+
+2)
+1. itinerary
+2. trip
+3. valid
+4. expires
+5. visa

@@ -1,23 +1,69 @@
 rzeczowniki:
+4x4(four-by-four) - samochodów z napędem na cztery koła
+aircraft - statek powietrzny
+airline - linia lotnicza
+airliner - samochód pasażerski
+airway - trasa/droga lotnicza
 boarding - wejście na pokład/abordaż
 business executive - kierownik w korporacji handlowej
+cabin - kajuta/kabina
+car hire - wynajem/wypożycalnia samochodów
+carrier - przwoźnik/kurier/transporter
+clerk - sprzedawca/ekspedient
+commission rate - stawka/wysokość/koszt prowizji
+commuter - dojeżdzający
+credit limit - limit kredytowy
+crew member - członek załogi
 disembarkation - rozładunek/wyładowanie
+domestic flight - lot krajowy
+domesticity - zacisze domowe/obowiązki domowe
+domicile - miejsce stałego zamieszkania
 economy class - klasa ekonomiczna
 embarkation - załadunek
+expatriate - uchodźca/wygnaniec/emigrant
+expire - upływać/tracić ważność/przeterminować się
 flying club - aeroklub
+gang member - członek gangu
+immigrant - imigrant
+insurance policy - polisa ubezpieczeniowa
+international flight - lot międzynarodowy
+itinerary - plan podróży/przwodnik
+junction/intersection - skrzyżowanie
+migrant - kocznownik
+mpv(multipurpose vehicle)/van - minivan
 pier - molo/pomost
+profit margin - marża zysku
+punctuality - punktualność/dokładność
+return trip - podróż powrotna
+saloon - samochód typu sedan
+signle/one-way ticket - bilet w jednąstronę
+staff member - członek kadry/pracownik
+team member - członek zespołu/drużyny
 transit - transport/przewóz
 transition - przemiana/przekształcenie/przejście
+visa - wiza
+visor - przyłbica/osłona/daszek czapki
 
 czasowniki:
+take out - wypłacić z bankomatu
+hire - wynajmować/zatrudniać/najmować
+run out - kończyć/wyczerpywać się/tracić ważność
+sort out - uporządkować/rozwiązywać coś
 
 przymiotniki:
+adhesive - lepki/przeklejający się
+apprehensive - bojaźliwy/lękliwy
 cancelled - odwołany/anulowany
+comprehensive - obszerny/wszechstronny
+defensive - defensywny/obronny
 delayed - opóźniony
 direct/non-stop - bezpośredni
 diverted - zmieniony
+domestic - wewnętrzny/krajowy
+domesticated - udomowiony/oswojony
 double-booked - zarezerwowan podwójnie, dla dwóch różnych osób
 indirect - okrężny
+inflight - odbywający się w czasie lotu
 one-way - w jedną stronę
 overbooked - przepełniony
 postponed - odłożony/odroczony
@@ -27,3 +73,8 @@ transitory - przejściowy/chwilowy/przemijający
 
 przysłówki:
 en route - w drodze/po drodze
+first of all - po pierwsze/przede wszystkim
+firstly/secondly/thirdly - po pierwsze/drugie/trzecie
+
+wyrażenia:
+full of holes - mający wiele niedociągnieć

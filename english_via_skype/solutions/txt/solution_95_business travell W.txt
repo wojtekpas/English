@@ -7,7 +7,7 @@
 6. gate
 7. direct
 8. domestic
-9. single/one way, round-trip
+9. single/one way, return trip/round-trip
 10. credit limit
 11. crew
 12. commuters

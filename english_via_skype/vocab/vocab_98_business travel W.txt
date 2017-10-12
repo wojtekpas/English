@@ -1,0 +1,43 @@
+rzeczoniwki:
+air traffic controller - kontroller lotów
+boot - bagażnik
+cancelled flight - odwołany lot
+cockpit - kapina pilota
+deck - pokład/piętro
+departure lounge/hall - hala odlotów
+detour/diversion - objazd/zmiana kierunku
+dock - dok/nabrzeże
+double-decker - autobus piętrowy
+freight/goods train - pociąg towarowy
+fishing boat - łódź rybacka
+fligh attendant/stewardess - stewardessa
+harbour/port - port/przystań
+hijack - porwanie
+jet - odrzutowiec
+jet lag - zaburzenie rytmu dobowego wynikającego z różnicy czasu
+lorry - ciężarówka
+lost luggage - zgubiony bagaż
+mechanic - mechanik
+passenger train - pociąg pasażerski
+plane crash - katastrofa lotnicza
+puncture - przebita opona/guma/kapeć
+restaurant car - wagon restauracyjny
+road accident - wypadek drogowy
+runway - pas startowy
+seasickness - choroba morska
+shipwreck - wrak statku/katastrofa morska
+sleeping-car - wagon sypialny
+sport car - samochoód sportowy
+steering wheel - kierownica
+subway/underground - metro
+taxi rank - postój taksówek
+ticket inspector - kontroler biletów
+travel/motion sickness - choroba lokomocyjna
+wing - skrzydło
+
+czasowniki:
+derail - wykoleić się
+
+przymiotniki:
+duty-free - wolny od cła
+

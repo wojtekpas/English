@@ -1,0 +1,30 @@
+12)
+1. excursion
+2. voyage
+3. tour
+4. journey
+5. trip
+6. travel agency
+   tour operator
+7. aisle
+8. boarding card/pass
+9. passport
+   issurance
+   cheques
+   foreign currency
+   suitcase
+   shoulder ba
+10. bed and breakfast
+    half-board
+    full-board
+    self-catering
+    all-invlusive
+11. single
+    twin
+    double
+    family
+    en-suitetarrace
+    twin balcony
+    reservation
+
+13) 

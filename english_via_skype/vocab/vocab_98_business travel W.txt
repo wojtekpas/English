@@ -1,18 +1,32 @@
 rzeczoniwki:
 air traffic controller - kontroller lotów
+aisle - przejście/nawa/alejka
+bargain - okazja/dobry interes/układ
+bed and breakfast - zakwaterowanie ze śniadaniem
+boarding card/pass - karta pokładowa
 boot - bagażnik
 cancelled flight - odwołany lot
+cheque/check - czek
 cockpit - kapina pilota
+crowd - tłum/paczka znajomych
 deck - pokład/piętro
 departure lounge/hall - hala odlotów
 detour/diversion - objazd/zmiana kierunku
 dock - dok/nabrzeże
 double-decker - autobus piętrowy
+excursion - wycieczka/wyprawa
+family room - pokój rodzinny/duży pokój hotelowy
 freight/goods train - pociąg towarowy
 fishing boat - łódź rybacka
 fligh attendant/stewardess - stewardessa
+foreign currency - dewizy
+full boad - pełne wyżywienie
+guided tour - zwiedzanie z przewodnikiem
+half-board - zakwaterowanie z częściowym wyżywieniem
 harbour/port - port/przystań
 hijack - porwanie
+hilltop - szczyt/wierzchołek pagórka
+insurance - ubezpieczenie
 jet - odrzutowiec
 jet lag - zaburzenie rytmu dobowego wynikającego z różnicy czasu
 lorry - ciężarówka
@@ -21,23 +35,54 @@ mechanic - mechanik
 passenger train - pociąg pasażerski
 plane crash - katastrofa lotnicza
 puncture - przebita opona/guma/kapeć
+reservation - zastrzeżenie
 restaurant car - wagon restauracyjny
 road accident - wypadek drogowy
 runway - pas startowy
 seasickness - choroba morska
+seaside - nad morzem/wybrzeże/tereny nadmorskie
 shipwreck - wrak statku/katastrofa morska
+shoulder bag - torbę na ramię
 sleeping-car - wagon sypialny
 sport car - samochoód sportowy
 steering wheel - kierownica
 subway/underground - metro
+suitcase/case - walizka
 taxi rank - postój taksówek
+terrace taras
 ticket inspector - kontroler biletów
+tour operator - biuro podróży/organizator wycieczek
+train journey - podróż pociągiem
 travel/motion sickness - choroba lokomocyjna
+travel agency - biuro podróży
+voyage - rejs
 wing - skrzydło
 
 czasowniki:
 derail - wykoleić się
 
 przymiotniki:
+all-inclusive - łączny koszt/wliczający wszystkie opłaty
 duty-free - wolny od cła
+en-suite - z przyległą łazienką
+magnificent - wspaniały/wyśmienity
+own - własny
+self-catering - z wyżywieniem we własnym zakresie
+twin - podwójny
 
+wyrażenia:
+appeal to sb - podobać się komuś/pociągać kogoś
+be an expert on sth - być ekspertem w czymś
+be enthusiastic about sth - być pełnym entuzjazmu dla czegoś
+be experienced in sth - być doświadczonym w czymś
+be familiar to sb - być komuś znany
+be familiar with sth - znać się na czymś
+be famous for sth - słynąć z czegoś
+bits and pieces - drobiazgi
+date back to sth - pochodzić z jakiegoś okresu/sięgać wstecz czasów
+eager for sth - spragniony czegoś
+ideal to sb - idealny dla kogoś
+on the day of the sale - w dniu sprzedaży
+put (a lot of) effort into sth - włożyć w coś wiele wysiłku
+put special emphasis on sth - kłaść szczególny nacisk na coś
+so that - żeby/po to/aby

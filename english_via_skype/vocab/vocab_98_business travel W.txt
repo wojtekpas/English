@@ -11,6 +11,7 @@ cockpit - kapina pilota
 crowd - tłum/paczka znajomych
 deck - pokład/piętro
 departure lounge/hall - hala odlotów
+derail - wykolejenie
 detour/diversion - objazd/zmiana kierunku
 dock - dok/nabrzeże
 double-decker - autobus piętrowy
@@ -59,7 +60,7 @@ voyage - rejs
 wing - skrzydło
 
 czasowniki:
-derail - wykoleić się
+dine - jeść obiad
 
 przymiotniki:
 all-inclusive - łączny koszt/wliczający wszystkie opłaty

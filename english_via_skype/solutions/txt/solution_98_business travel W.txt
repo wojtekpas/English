@@ -13,7 +13,7 @@
    cheques
    foreign currency
    suitcase
-   shoulder ba
+   shoulder bag
 10. bed and breakfast
     half-board
     full-board
@@ -23,7 +23,8 @@
     twin
     double
     family
-    en-suitetarrace
+    en-suite
+    tarrace
     twin balcony
     reservation
 
@@ -37,11 +38,26 @@ f. for
 g. in
 h. on
 i. to
-j. 
-k. 
+j. in
+k. in
 l. on
-m. 
+m. to
 n. to
-o. 
-p. 
+o. to
+p. with
 q. to
+
+14.
+a. suitcase
+b. line
+c. feet
+d. move
+e. weather
+f. time
+
+15.
+a. lendh an ear
+b. early days
+c. costing the fortune
+d. edge of my seat
+e. make ends meet

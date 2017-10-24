@@ -1,4 +1,22 @@
 rzeczowniki:
 
 czasowniki:
+call in - zadzwonić/zameldować się
+clean up - posprzątać/robić porządek
+cut out - wycinać/usuwać/pomijać coś/zgasnąć
+get in - wchodzić/wsiadać
+lubricate - natłuścić/oliwić/smarować
+reorder - przestawiać/zmieniać położenie
+run out - kończyć się/wyczerpywać
+seize up - zaciąć się
+switch off/turn off - wyłączyć
+tighten up - zaostrzyć przepisy/regulacje
+turn up - podkręcać/zwiększać
 
+przymiotniki:
+out of sale/stock - wyprzedany
+
+wyrażenia:
+call sb in/call in sb - wezwać kogoś na pomoc
+top sth up - dopełnić coś
+wrong with sth - nie tak/nie w porządku z czymś

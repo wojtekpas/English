@@ -1,0 +1,46 @@
+rzeczowniki:
+analyst - analityk
+artificial intelligence - sztuczna inteligencja
+data mining - pozyskiwanie danych/głęboka analiza danych
+decision maker - osoba decyzyjna
+fidelity - dokładność/ścisłość/wierność
+handout - materiały od nauczyciela/ulotka prospekt
+mining - górnictwo
+motherboard/mainboard - płyta główna
+resource - zasób/źrodło
+warehouse - magazyn
+
+czasowniki:
+advertise - reklamować/promować/ogłaszać
+back up - cofać/popierać
+build up - gromadzić się/zbierać/wzrosnąć
+catch up - nadrabiać stratę/doganiać
+cleanse - zmyć/oczyścić
+keep up - trwać/nadążać/trzymać się na odpowiednim poziomie
+mine - wydobywać
+start up - zacząć/otworzyć/ruszyć
+upload - wysyłać
+
+przymiotniki:
+appropriate - odpowiedni/właściwy
+convergent - zbieżny/zbiegający się/schodzący się
+convertible - przekształcalny/przemienny
+cumbersome - nieefektywny/zawikłany/uciążliwy
+disruptive - zakłócający spokój/destrukcyjny/rewolucyjny/przełomowy
+distorted - zniekształcony
+exploitable - przydatny
+refined - oczyszczony/udoskonalony
+hand-held - przenośny/podręczny
+jumbled - w nieładzie/pomieszany
+noiseless - bezgłośny/bezszelestny/cichobieżny
+retrievable - odzyskiwalny/naprawialny/dostępny
+unusable - bezużyteczny
+volatile - ulotny/nieprzewidywalny/zmienny
+
+wyrażenia:
+back up sth - zrobić kopię zapasową czegoś
+free sb up - zwolnić kogoś przez zastąpienie go
+free sth up - udostępnić coś
+keep up with sb - dotrzymywać komuś kroku/utrzymywać ten sam poziom
+set sth up - zakładać/tworzyć/przygotowywać 
+take/follow/do a course - brać udział w zajęciach/chodzić na kurs

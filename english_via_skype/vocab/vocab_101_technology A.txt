@@ -1,19 +1,33 @@
 rzeczowniki:
+bearing - łożysko
+bolt - zasuwa/rygiel/bolec/śruba
+cursor - kursor
+fault - wina/wada/usterka/niedociągnięcie
 
 czasowniki:
 call in - zadzwonić/zameldować się
 clean up - posprzątać/robić porządek
+crash - rozbić się
 cut out - wycinać/usuwać/pomijać coś/zgasnąć
+expand - zwiększać/rozszerzać
+fault - zarzucać komuś coś
 get in - wchodzić/wsiadać
+jam - wpychać się/zatkać się/zakleszczyć się
+leak - cieknąć/przeciekać/ujawniać
+loose - wyzwalać/uwalniać/wypuszczać
 lubricate - natłuścić/oliwić/smarować
 reorder - przestawiać/zmieniać położenie
 run out - kończyć się/wyczerpywać
 seize up - zaciąć się
-switch off/turn off - wyłączyć
+snap - pękać/łamać się/zatrzaskiwać
+switch off/turn off/snap off - wyłączyć
 tighten up - zaostrzyć przepisy/regulacje
+trip - iść lekkim krokiem
 turn up - podkręcać/zwiększać
 
 przymiotniki:
+blown - nadmuchany/spuchniety/sfatygowany
+lubricated - potraktowany środkiem nawilżającym/smarem
 out of sale/stock - wyprzedany
 
 wyrażenia:

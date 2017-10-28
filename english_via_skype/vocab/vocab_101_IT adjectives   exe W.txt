@@ -29,10 +29,10 @@ cumbersome - nieefektywny/zawikłany/uciążliwy
 disruptive - zakłócający spokój/destrukcyjny/rewolucyjny/przełomowy
 distorted - zniekształcony
 exploitable - przydatny
-refined - oczyszczony/udoskonalony
 hand-held - przenośny/podręczny
 jumbled - w nieładzie/pomieszany
 noiseless - bezgłośny/bezszelestny/cichobieżny
+refined - oczyszczony/udoskonalony
 retrievable - odzyskiwalny/naprawialny/dostępny
 unusable - bezużyteczny
 volatile - ulotny/nieprzewidywalny/zmienny

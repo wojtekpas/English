@@ -1,14 +1,29 @@
 rzeczowniki:
 analyst - analityk
 artificial intelligence - sztuczna inteligencja
+backbone - kręgosłup
+biometrics - biometria
+compartment - przedział
+copper - miedź
 data mining - pozyskiwanie danych/głęboka analiza danych
 decision maker - osoba decyzyjna
+downtime - okres przestoju
+electricity - elektryczność
+fibre/fiber - błonnik/włókno
 fidelity - dokładność/ścisłość/wierność
 handout - materiały od nauczyciela/ulotka prospekt
+happening - wydarzenie/happening
+implementing - implementowanie/wdrażanie
 mining - górnictwo
 motherboard/mainboard - płyta główna
+outage - przestój/przerwa w dostawie
+power cut/outage - przerwa w dostawie prądu
+redundancy - zbędność/nadmiar/redundancja
+resilience - wytrzymałość/odporność/sprężystość
 resource - zasób/źrodło
+setback - komplikacja/problem
 warehouse - magazyn
+weakness - wada/słabość
 
 czasowniki:
 advertise - reklamować/promować/ogłaszać
@@ -16,10 +31,20 @@ back up - cofać/popierać
 build up - gromadzić się/zbierać/wzrosnąć
 catch up - nadrabiać stratę/doganiać
 cleanse - zmyć/oczyścić
+discover - odkrywać/odnaleźć
+figure out - zrozumiec czyjeś zachowanie
+find out - dowiadywać się
+go on - dziać się dalej/iść do przodu/kontynuować/trwać bez przerwy
+install - instalować/umieszczać
 keep up - trwać/nadążać/trzymać się na odpowiednim poziomie
 mine - wydobywać
+put in - włożyć/wkładać
+roll out - rozszerzyć działalność marketingową danej firmy na nowym terenie
+seal off - zabezpieczać/otaczać
 start up - zacząć/otworzyć/ruszyć
 upload - wysyłać
+think about - myśleć o czymś
+withstand - wytrzymywać/być opdpornym
 
 przymiotniki:
 appropriate - odpowiedni/właściwy
@@ -28,9 +53,11 @@ convertible - przekształcalny/przemienny
 cumbersome - nieefektywny/zawikłany/uciążliwy
 disruptive - zakłócający spokój/destrukcyjny/rewolucyjny/przełomowy
 distorted - zniekształcony
+expanding - rozwijający się/rosnący/rozciągający się
 exploitable - przydatny
 hand-held - przenośny/podręczny
 jumbled - w nieładzie/pomieszany
+mission critical - kluczowy/decydujący
 noiseless - bezgłośny/bezszelestny/cichobieżny
 refined - oczyszczony/udoskonalony
 retrievable - odzyskiwalny/naprawialny/dostępny
@@ -39,8 +66,15 @@ volatile - ulotny/nieprzewidywalny/zmienny
 
 wyrażenia:
 back up sth - zrobić kopię zapasową czegoś
+dig sth up - odkopać/odgrzebać coś
+finish with sth - skończyć z czymś/przestać się czymś zajmować
 free sb up - zwolnić kogoś przez zastąpienie go
 free sth up - udostępnić coś
+get information - otrzymywać informacje
 keep up with sb - dotrzymywać komuś kroku/utrzymywać ten sam poziom
+look at sth - patrzeć/spojrzeć na coś/przyglądać się czemuś
+phase sth out - wycofywać coś stopniowo/etapami
 set sth up - zakładać/tworzyć/przygotowywać 
 take/follow/do a course - brać udział w zajęciach/chodzić na kurs
+take out sth - wyjmować/wyciągać coś
+travel around sth - podróżować po czymś/wokół czegoś

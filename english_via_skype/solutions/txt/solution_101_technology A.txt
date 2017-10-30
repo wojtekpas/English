@@ -12,7 +12,7 @@ b. run out
 c. turn up
 d. clean up
 e. switch off
-f. cout out
+f. cut out
 g. seize up
 h. call in
 
@@ -20,21 +20,21 @@ h. call in
 1. f
 2. e
 3. h
-4. a
+4. b
 5. d
 6. g
 7. c
-8. b
+8. a
 
 4)
-a. 
+a. expand
 b. crashed
 c. jammed
 d. restore
-e. leak
-f. 
+e. tripped
+f. snapped
 g. cursor
-h. lubricated
-i. 
+h. leak
+i. loose
 j. fault
-k. expand
+k. lubricated

@@ -11,13 +11,14 @@ downtime - okres przestoju
 electricity - elektryczność
 fibre/fiber - błonnik/włókno
 fidelity - dokładność/ścisłość/wierność
+fingerprint - odcisk palca/linia papilarnia
 handout - materiały od nauczyciela/ulotka prospekt
 happening - wydarzenie/happening
 implementing - implementowanie/wdrażanie
 mining - górnictwo
 motherboard/mainboard - płyta główna
 outage - przestój/przerwa w dostawie
-power cut/outage - przerwa w dostawie prądu
+power cut/power outage/blackout - przerwa w dostawie prądu
 redundancy - zbędność/nadmiar/redundancja
 resilience - wytrzymałość/odporność/sprężystość
 resource - zasób/źrodło

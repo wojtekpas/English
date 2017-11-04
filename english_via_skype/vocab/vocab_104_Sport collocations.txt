@@ -2,8 +2,9 @@ rzeczoniwki:
 blinder - olśniewające zagranie/wyczyn
 crod - tłum/paczka znajomych
 delight - wielka przyjemność/zachwyt/rozkosz
+feeder - zasi
 fever - gorączka
-fever pitch - stan wielko podekscytowania
+fever pitch - stan wielkiego podekscytowania
 own goal - samobój/strzał w kolano
 
 czasowniki:
@@ -13,6 +14,7 @@ secure - uzyskiwać/zapewniać/zabezpieczać
 
 przymiotniki:
 awarded - nagrodzony/odznaczony
+convincing - przekonujący/przekonywający
 determined - określony/zdeterminowany/zdecydowany
 formidable - ogromny/budzący grozę/budzący szacunek/bardzo trudny
 

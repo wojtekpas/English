@@ -1,29 +1,80 @@
 rzeczoniwki:
+bar/crossbar - poprzeczka
 blinder - olśniewające zagranie/wyczyn
+check-up - badanie kontrolne
+complaint - skarga/zażalenie/dolegliwość/reklamacja
+corner flag - chorągiewka w narożniku boiska
 crod - tłum/paczka znajomych
 delight - wielka przyjemność/zachwyt/rozkosz
 feeder - zasi
 fever - gorączka
 fever pitch - stan wielkiego podekscytowania
+foul - faul
+goal line - linia bramkowa
+goalkeeper/keeper - bramkarz
+hypochondriac - hipochondryk
+junk food - niezdrowe/śmieciowe jedzenie
+laces - sznurówki/sznurowadła/proste podbicie
+moderation - umiar/umiarkowanie
+net - siatka
 own goal - samobój/strzał w kolano
+penalty area - pole karne
+penalty spot - punkt karny
+post - słupek
+rowing - wioślarstwo
+scratch - zadrapanie/rysa
+shape - kształt/kondycha/zarys
+shin pad - nagollennik/ochraniacz
+sideline/touchline - linia obczna
+sit-ups - brzuszki/skłony w pozycji siedzącej
+six-pack - sześciopak/kaloryfer na brzuchu/doskonale ukształtowane mięśnie
+studs - korki
+supplement - dodatek
+symptom - symptom/objaw/oznaka
+vice - występek/zły nawyk/wada
 
 czasowniki:
+dominate - dominować/wyróżniać się
 go wild - szaleć/wściekać się
 miss - chybić/nie trafić
+obsess - prześladować/stale o czymś myśleć/dręczyć/opętać
 secure - uzyskiwać/zapewniać/zabezpieczać
+snack - podjadać/przekąsić
+work out - ćwiczyć
 
 przymiotniki:
 awarded - nagrodzony/odznaczony
 convincing - przekonujący/przekonywający
 determined - określony/zdeterminowany/zdecydowany
+fanatic - fanatyczny
 formidable - ogromny/budzący grozę/budzący szacunek/bardzo trudny
+imaginary - zmyślony/wymyślony/urojony/wyimaginowany
+nasty - złośliwy/okropny
+processed - przetworzony
+stuck - zablokowany/zatrzymany
+undone - niezrobiony/niewykonany/nieruszony
 
 przyimek
 among/amongst/mongst - pośród/wśród/między/pomiędzy
+in moderation - z umiarem
 
 wyrażenia:
 break through sth - przedzierać się przez coś/przebijać się przez coś/pokonać
+cut down on sth - ograniczać/redukować coś
 formidable/wothy opponent - godny przeciwnik
+from scratch - od zera/początku
+get sb wrong - źle zrozumiec kogoś
+get sth wrong - źle coś zrozumieć
+go in - schować się/zachodzić/wpasować się do
+go on about - mówić za dużo o czymś
+healthy diet - dieta optymalna
+keep active - zachować aktywność fizyczną
 play a blinder - dobrze zagrać/zrobić coś świetnie w sporcie
+snack on sth - podjadać coś miedzy posiłkami
+steer clear of sth - trzymać się od czegoś z dala
+stick to sth - trzymać się czegoś/przestrzegać czegoś
 take the field - wyjść na boisko/ruszyć do boju/przystąpić do dzieła
+tip over - wywrócić/wywrócić się
+trip over sth - potknąć się o coś
 to sb's delight - ku czyjemuś zachwytowi
+wide of sth - daleki od czegoś/omijający coś

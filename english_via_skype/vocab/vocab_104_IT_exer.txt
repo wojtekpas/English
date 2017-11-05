@@ -1,6 +1,7 @@
 rzeczowniki:
 acquaintance - znajomy/znajomość
 capital - duża litera
+fan - wiatrak
 pretending - udawanie/twierdzenie
 receipt - paragon/potwierdzenie/pokwitowanie
 
@@ -17,6 +18,7 @@ grow up - dorastać/wyrastać
 hack into - włamać się
 log on - zalogować się
 ought to - powinien
+overheat - przegrzewać
 penetrate - przebijać się/przedzierać/przedostawać się/penetrować
 phone up - telefonować/dzwonić
 print out - wydrukować

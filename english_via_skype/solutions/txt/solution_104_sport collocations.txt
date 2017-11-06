@@ -11,7 +11,7 @@ complaint
 check-up
 3.
 fanatic
-shape
+six-pack
 sit-ups
 shape
 dominates
@@ -25,16 +25,19 @@ dominates
 6. j
 7. i
 8. d
-9. f
+9. c
 10. e
-11. c
-12. l
+11. l
+12. c
+
+3)
+1. cramps, stiff, overdo
 
 4)
 1. net
 2. bar
 3. keeper
-4.
+4. post
 5. corner flag
 6. penalty spot
 7. penalty area
@@ -50,6 +53,16 @@ dominates
 3. laces
 4. penalty area
 5. net
-6. post
+6. bar
 7. goal-line
 8. touchline
+
+7)
+1. sights
+2. shot
+3. sailed
+4. court
+5. towel
+6. horse
+7. game
+8. fish, sea

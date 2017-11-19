@@ -1,11 +1,20 @@
 rzeczowniki:
+admiration - zachwyt/podziw
 anger - złość/gniew
+appreciation - uznanie/wdzięczność
+bond - więź
 marriage - malżenstwo/ślub
-things/stuff - rzeczy/ciuchy/narzędzia/sprzęt
+respect - respekt/podziw/szacunek
+sacrifice - poświęcenie/ofiara
+things/stuff - rzeczy/sprawy
 
 czasowniki:
+appreciate - doceniać/być wdzięcznym
 compliment - gratulować/komplementować
+gain - osiągać/zdobywać
 resent - czuć się urażonym/obrzać się/mieć pretensje/nienawidzić/nie cierpieć
+respect - szanować/poważać/honorować
+sacrifice - poświecać/świadomie zrezygnować z czegoś
 
 przymiotniki:
 calm - spokojny/opanowany
@@ -13,20 +22,30 @@ complimentary - pochlebny/bezpłatny/gratisowy
 inevitable - nieunikniony/nieuchronny/to, co nieuniknione
 instant - natychmiastowy/niewymagający gotowania
 relaxed - zrelaksowany/rozluźniony
+reuluctant/unwilling
 shocked - wstrząśnięty/zszokowany
 strict - surowy/wymagający/rygorystyczny
 tough - trudny/wymagający
 unfair - nieucziwy/krzywdzący/niesprawiedliwy
 unkind - niegrzeczny/nieuprzejmy
+widespread - powszechny/rozległy
 
 przysłówki:
 fortunately - na szczęście/szczęsliwie
 inevitably - nieuchronnie/nieuniknienie
+initially - początkowo/wstępnie/na początku
 
 wyrażenia:
+accept responsiblity - przyjmować na siebie odpowiedzialność
+as it is - faktycznie/w obecnej sytuacji
 as time went by - z biegiem czasu
+be grateful for sth - być wdzięczny za coś
 compliment sb on sth - prawić komuś komplementy na jakiś temat
+confide in sb - zwierzać się/zaufać komuś
 deal with sth - radzić sobie z czymś/mieć z czymś do czynienia
+good(bad) times - szczęśliwy (zły) okres życia
+how's life? - co słychać?
+look up - patrzeć w górę/poprawiać się/wyglądać coraz lepiej
 make sb redundant - zwolnić kogoś w ramach redukcji etatów
 on top of sth - na wierzchu czegoś/na samym szczycie czegoś
 over a period - w ciągu okresu

@@ -4,6 +4,7 @@ companion - towarzysz/niezbędnik/podręcznik
 mishap - nieszczęście/nieszczęsliwy wypadek
 resentment - gniew/niechęć/frustracja
 salesperson - sprzedawca
+self-esteem - samoocena
 strain - napięcie/stres/obciążenie
 
 czasowniki:
@@ -18,13 +19,16 @@ make out - powodzić się/całować się/obściskiawć się
 przymiotniki:
 agreeable - miły/przyjemny/akceptowalny
 arguable - sporny/dyskusyjny
+cheeky - bezczelny/impertynencki/zuchwały
 compromising - kompromitujący
+conceited - zarozumiały
 enraged - wściekły
 harsh - brutalny/okrutny/surowy
 hostile - nieprzyjazny/wrogi
 indignant - oburzony
 irritating - irytujący/denerwujący/drażniący
 inseparable - nierozlączny/nieodłączny
+intimidated - onieśmielony/przestraszony
 kind-hearted - życzliwy
 lifelong - dożywotni/dozgonny/na całe życie
 malicious - złośliwy/podły
@@ -45,6 +49,7 @@ by sight - z widzenia
 crash out of sth - odpaść z zawodów/być pokonanym
 don’t get me wrong - nie zrozum mnie źle
 draw sb to sth - przyciągać kogoś do czegoś/zainteresować kogoś czymś
+drive somebody crazy/nuts - doprowadzić kogoś do wciekłości/szaleństwa
 find common ground - odnaleźć współny język/znaleźć wspólną płaszczyznę
 get on well with/get on fine with sb - być w dobrych stosunkach z kimś
 get on with sb/get along with sb - mieć z kimś dobre stosunki/dobrze sięz kimś dogadywać

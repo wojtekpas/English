@@ -4,3 +4,4 @@ czasowniki:
 
 przymiotniki:
 hectic/hectical - nerwowy/gorączkowy/napięty
+peripheral - zewnętrzny

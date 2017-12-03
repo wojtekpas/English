@@ -1,0 +1,31 @@
+rzeczowniki:
+bar of soap - 23
+bath - 4
+bathroom cabinet - 15
+cistern - 11
+curtain rail - 3
+drain - 6
+face cloth - 7
+floor tiles - 29
+hair drier - 26
+laundry basket - 27
+medicine cabinet - 24
+mirror - 25
+plug - 5
+roll holder - 13
+rubbish bin - 28
+shampoo - 9
+shower - 1
+shower curtain - 2
+sponge - 8
+tap - 20
+toilet - 10
+toilet brush - 14
+toilet paper - 12
+toiletries - 16
+toothbrush - 21
+toothpaste - 22
+towel - 18
+towel rail - 17
+wall tiles - 30
+wash basin - 19

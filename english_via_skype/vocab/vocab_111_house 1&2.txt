@@ -1,0 +1,28 @@
+rzeczowniki:
+bar of soap - kostka mydła
+bath - kąpiel/łazienka/wanna
+bathroom cabinet - szafka łazienkowa 
+cistern - zbiornik na wodę/cysterna
+curtain rail - karnisz
+drain - odpływ/studzienka/kanał
+face cloth - ręcznik do twarzy
+floor tiles - płytka podłogowa/posadzkowa
+hair drier - suszarka do włosów
+laundry basket - kosz na pranie
+medicine cabinet - apteczka/półka na lekarstwa
+plug - wtyczka/korek
+roll holder - 
+rubbish bin - kubeł/kontener na śmieci
+shampoo - szampon
+shower curtain - zasłona prysznicowa
+sponge - gąbka
+tap - kran
+toilet brush - szczotka toaletowa 
+toilet paper - papier toaletowy
+toiletries - przybory toaletowe/kosmetyki do higieny osobistej
+toothbrush - szczotka do zebów
+toothpaste - pasta do zębów
+towel - ręcznik
+towel rail - wieszak na ręcznik
+wall tiles - płytka ścienna
+wash basin - umywalka

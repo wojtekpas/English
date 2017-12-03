@@ -1,0 +1,21 @@
+rzeczowniki:
+air conditioner - klimatyzator
+alarm clock - budzik
+bed - łóżko
+bedside lamp - lampka nocna
+bedside rug - dywanik przy łóżku
+bedside table - stolik/szafka nocna
+bedspread - narzuta/kapa na łóżko
+blanket - koc
+blinds - żaluzje
+bolster - wałek/podgłówek
+brush - szczotka/pędzel
+chest of drawers - komoda
+curtains - zasłony/firany
+duvet - kołdra
+headboard - zagłówek
+mirror - lustro
+pillow - poduszka
+pillowcase - powłoczka/poszewka na poduszkę
+sheet - prześcieradło
+wardrobe - ubrania/garderoba

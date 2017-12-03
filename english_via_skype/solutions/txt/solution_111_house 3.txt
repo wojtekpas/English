@@ -1,7 +1,21 @@
-1.
--
--
--
-bedside rug 15
-bed spread 4
-blind 13
+11)
+air conditioner - 14 
+alarm clock - 19
+bed - 1
+bedside lamp - 11
+bedside rug - 15
+bedside table - 10
+bedspread - 4
+blanket - 5
+blind - 13
+bolster - 6
+brush - 18
+chest of drawers - 17
+curtains - 12
+duvet - 3
+headboard - 7
+mirror - 20
+pillow - 9
+pillowcase - 8
+sheet - 2
+wardrobe - 16

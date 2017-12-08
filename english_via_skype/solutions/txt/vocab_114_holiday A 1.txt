@@ -1,0 +1,38 @@
+rzeczowniki:
+camp - obóz/obozowisko/kolonie
+charm - czar/urok/wdzięk
+city-break - krótki wyjazd turysztyczny do dużego miasta
+opportunity - okazja/możliwość
+restoration - przywrócenie/renowacja/odbudowa
+traveller - podróżny/podróżnik
+undergoing - poddawanie się/odbywanie/znoszenie
+
+czasowniki:
+retain - zachowywać/zatrzymywać
+soak - namoczyć/przysiąknąć
+stroll - przechadzać się
+unwind - rozluźniać się/odwijać/odkręcać
+wander - wędrować/włóczyć się/szwendać się
+
+przymiotniki:
+cobbled - brukowany/wybrukowany
+diverse - różnorodny
+rural - wiejski/rolniczy
+spectacular - widowiskowy/spektakularny/imponujący/popisowy
+stunning - zachwycający/oszałamiający
+thriving - prosperujący/kwitnący
+vibrant - dynamiczny/jaskrawy/żywy
+unique - wyjątkowy/świetny/unikalny
+unspoilt - niezepsuty/zachowany w naturalnym stanie
+
+przysłówki:
+adventurous - lubiący przygodę/żądny przygód/śmiały/odważny
+amazingly - zdumiewająco/niesłychanie
+around - około/mniej więcej
+away - daleko/z daleka/w inną stronę/stąd
+remarkably - wybitnie/wielce/niezwykle
+remote - daleki/odległy
+
+wyrażenia:
+apart from sth - poza czymś/pomijająć coś
+get away from it all - uciec od wszystkiego

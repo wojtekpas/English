@@ -5,6 +5,7 @@ city-break - krótki wyjazd turysztyczny do dużego miasta
 opportunity - okazja/możliwość
 restoration - przywrócenie/renowacja/odbudowa
 traveller - podróżny/podróżnik
+trek - wyprawa/długa wędrowka piesza
 undergoing - poddawanie się/odbywanie/znoszenie
 
 czasowniki:
@@ -24,6 +25,7 @@ thriving - prosperujący/kwitnący
 vibrant - dynamiczny/jaskrawy/żywy
 unique - wyjątkowy/świetny/unikalny
 unspoilt - niezepsuty/zachowany w naturalnym stanie
+untouched - nienaruszony/niezmieniony
 
 przysłówki:
 adventurous - lubiący przygodę/żądny przygód/śmiały/odważny
@@ -36,3 +38,7 @@ remote - daleki/odległy
 wyrażenia:
 apart from sth - poza czymś/pomijająć coś
 get away from it all - uciec od wszystkiego
+go for/take/have a wander - pójść na przechadzkę
+laze around/about - obijać się/lenić się
+off the beaten track - na uboczu/w ustronnym miejscu
+soak up sth - napawać się czymś

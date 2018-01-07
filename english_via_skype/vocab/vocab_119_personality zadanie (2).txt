@@ -1,0 +1,143 @@
+cautious - ostrożny
+earnest - rzetelny/sumienny/gorliwy
+easy-going - wyluzowany/spokojny
+enthusiastic - entuzjastyczny 
+frivolous - lekkomyślny/niepoważny
+gregarious - stadny/towarzyski
+introverted - zamknięty w sobie/introwertyczny
+out-going - otwarty/towarzyski
+outspoken - szczery do bólu/mówiący bez ogródek
+passionate - namiętny/żarliwy/pełen pasji
+reserved - powściągliwy/skryty
+resourceful - przedsiębiorczy/obrotny
+ruthless - bezlitosny/bezwzględny
+self-confident - pewny siebie
+sensitive - wrażliwy/czuły
+serious - poważny
+shy - nieśmiały/bojaźliwy
+spontaneous - żywiołowy/spontaniczny
+
+clever - bystry/sprytny/cwany/przebiegły
+generous - hojny
+kind - uprzejmy/życzliwy/przyjazny
+modest - skromny
+narrow-minded - ograniczony/o wąskich horyzontach/ciasny
+prejudiced - uprzedzony/stronniczy
+relaxed - zrelaksowany/rozluźniony
+sensible - rozsądny/sensowny
+shy - nieśmiały
+sophisticated - wyrafinowany/wyszukany/obyty w świecie
+
+conceited - zarozumiały
+cruel - okrutny/brutalny
+mean/stingy - skąpy
+naive - naiwny
+nervous - zdenerwowany/nerwowy
+open-minded - otwarty/wolny od uprzedzeń
+self-confident - pewny siebie
+silly/foolish - głupi
+stupid - głupi/tępy
+tolerant - tolerancyjny/odporny/wytrzymały
+
+cunning - chytry/przebiegły/cwany/sprytny
+excitable - pobudliwy/wrażliwy na bodźce
+fair - sprawiedliwy
+forgetful - zapominalski/roztrzepany
+frank - szczery
+glum - ponury/posępny
+good-natured - dobroduszny/pogodny/łagodny
+jolly - radosny/wesoły/przyjemny
+level-headed - zrównoważony/opanowany
+reliable - niezawodny/wiarygodny/rzetelny
+snobbish - snobistyczny/pretensjonalny
+surly - gburowaty/opryskliwy/zgryźliwy
+two-faced - obłudny/dwulicowy
+
+absent-minded - nieuważny/roztargniony
+bright - rozgarnięty/byrstry/inteligentny
+cheerful - radosny/pogodny/wesoły
+crafty - chytry/przebiegły
+direct - bezpośredni/otwarty
+even-handed - bezstronny
+grumpy - gderliwy/zrzędliwy
+highly-strung - napięty emocjonalnie/bardzo nerwowy
+insincere - nieszczery/obłudny
+miserable - smutny/przygnębiony/marudzący/niezadowolony
+self-assured - pewny siebie 
+stuck-up - nadęty/zarozumiały
+trustworthy - godny zaufania
+
+agreeable - miły/przyjemny
+approachable - przystępny
+articulate - jasno wysławiający się/elokwentny/klarowny/jasny
+biased - stronniczny/tendencyjny
+competent - kompetentny
+considerate - taktowny/liczący się z innymi/uprzejmy
+contented - zadowolony
+decisive - stanowczy/zdecydowany
+dependable - godny zaufania/niezawodny
+discreet - dyskretny/rozważny
+efficient - kompetentny/skuteczny/wydajny
+enthusiastic - entuzjastyczny/rozentuzjazmowany/pełen uniesienia
+flexible - giętki/elastyczny
+friendly - przyjazny/życzliwy
+helpful - pomocny
+hospitable - gościnny/sprzyjający/przyjazny
+imaginative - obdarzony wyobraźnią/pomysłowy/twórczy
+intelligent - inteligentny/myślący/rozumny
+likeable - miły/sympatyczny
+logical - logiczny
+loyal - lojalny
+mature - dojrzały/dorosły
+obedient - posłuszny
+organised - zorganizowany/uporządkowany
+practical - praktyczny/odpowiedni/nadający się
+predictable - przewidywalny
+reasonable - rozsądny
+respectful - pełen szacunku
+sociable - towarzyski
+tactful - taktowny/dyplomatyczny
+thoughtful - troskiwy/myślący o innych/zadumany/zamyślony/przemyślany
+
+disagreeable - niemiły/niegrzeczny/przykry
+discontented - niezadowolony/rozgoryczony
+dislikeable - zasługujący na bycie nielubianym
+disloyal - nielojalny
+disobedient - nieposłuszny
+disorganised - chaotyczny/zdezorganizowany
+disrespectful - nieokazujący szacunku/niegrzeczny/lekceważący/obraźliwy
+
+illogical - niedorzeczny/bezsensowny/nielogiczny
+
+immature - niedojrzały/dziecinny
+impatient - niecierpliwy
+
+inarticulate - niezrozumiały/mówiący niewyraźnie/niepotrafiący się wysłowić
+incompetent - niekompetentny
+inconsiderate - nieliczący się z innymi/nieokazujący szacunku/bezmyślny/nierozważny
+indecisive - niezdecydowany/chwiejny/niepewny
+indiscreet - niedyskretny/nietaktowny/nieroztropny
+inefficient - nieudolny/niewydajny/nieskuteczny
+inflexible - nieelastyczny/nieugięty/sztywny
+inhospitable - niegościnny/surowy
+insensitive - nietaktowny/niewraźliwy/bezduszny
+insociable - nietowarzyski
+intolerant - nietolerancyjny
+
+thoughtless - bezmyślny/nierozważny/lekkomyślny
+
+unapproachable - nieprzystępny/trudno przystępny/niedościgniony
+unbiased - bezstronny
+undependable - zawodny
+unenthusiastic - nastawiony niezbyt entuzjastycznie
+unfriendly - nieprzyjazny/wrogi/nieprzychylny
+unhelpful - nieskory do pomocy/mało pomocny
+unimaginative - bez wyobraźni/prozaiczny/niewyszukany
+unintelligent - nieinteligentny
+unkind - niegrzeczny/nieuprzejmy
+unorganised - niezorganizowany
+unpractical - niepraktyczny
+unpredictable - nieprzewidywalny/nieobliczalny
+unreasonable - niedorzeczny/nierozsądny/niemądry
+unreliable - niesolidny/niepewny/niemiarodajny
+untactful - nietaktowny

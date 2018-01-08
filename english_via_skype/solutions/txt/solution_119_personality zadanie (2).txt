@@ -1,12 +1,12 @@
 clever - stupid
 generous - mean/stingy
 kind - cruel
-modest - conceited
+modest - self-confident
 narrow-minded - open-minded
 prejudiced - tolerant
 relaxed - nervous
 sensible - naive
-shy - self-confident
+shy - conceited
 sophisticated - silly/foolish
 
 clever - bright

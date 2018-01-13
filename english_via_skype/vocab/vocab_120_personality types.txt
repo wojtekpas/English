@@ -1,0 +1,36 @@
+rzeczowniki:
+bee - pszczoła
+bookworm - mól książkowy/osoba bardzo lubiąca czytać
+butterfingers - niezdra/fajtłapa/niedojda
+chatterbox - gaduła
+clockwork - mechanizm zegarowy
+copycat - papuga/naśladowca
+daredevil - śmiałek/szaleniec/ryzykant
+fox - lis
+go-getter - osoba, która uzyskuje to, o co walczy
+killjoy - malkontent/psujący innym humor
+lamb - owieczka/jagnię/baranek
+lame-duck - kulejący/słabo prosperujący/nieskuteczny/nieudolny
+lazybones - leń/leniuch/wałkoń
+lone wolf - samotnik/samotny wilk
+owl - sowa
+ox - wół
+peacock - paw
+smart aleck - mądrala, cwaniak
+snail - ślimak
+spoil - zepsuć/zmarnować/psuć
+stalking - prześladowanie/tropienie
+
+czasowniki:
+stay out - przebywać poza domem
+
+przymiotniki:
+cunning - chytry/przebiegły/cwany
+determined - zdeterminowany/zdecydowany/określony
+dexterous  - sprawny/zręczny/bystry/rezolutny
+gentle - delikatny/łagodny/subtelny
+lone - odlutny/samotny
+prosperous - zamożny/bogaty/dobrze prosperujący
+
+wyrażenia:
+as busy as a bee - bardzo zajęty/pracujący jak pszczoła/pracowity

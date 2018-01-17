@@ -1,0 +1,18 @@
+przymiotniki:
+diligent - pilny/staranny/sumienny/gorliwy
+down-to-earth - przyziemny/praktyczny/twardo stąpający po ziemi
+dutiful - posłuszny/obowiązkowy/sumienny
+gullible - łatwowierny
+hasty - gwałtowny/pospieszny/pochopny/szybki
+impulsive - impulsywny/porywczy/pochopny/spontaniczny
+incapable - nieudolny/nieporadny
+industrious - pracowity/pilny
+intimidated - onieśmielony/przestraszony
+negligent  - niesumienny/niestaranny/nonszalancki/lekceważący
+resourceful - przedsiębiorczy/obrotny/pomysłowy/zaradny
+sloppy - niedbały/niechlujny
+tranquil - cichy/spokojny
+
+wyrażenia:
+beat around/around the bush - owijać w bawełnę/mówić ogródkami
+lose one’s temper - stracić panowanie nad sobą

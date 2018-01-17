@@ -1,0 +1,17 @@
+czasowniki:
+approach - zbliżać się/podchodzić
+overreact - przesadnie reagować/przesadzać
+
+przymiotniki:
+absent-minded - nieuważny/roztargniony
+bad-tempered - wybochowy/szybko irytujący się
+big-headed - zarozumiały
+cool-headed - opanowany/spokojny
+laid-back - wylozowany/zrelaksowany/niefrasobliwy/naćpany/pijany
+offensive - obraźliwy/chamski/atakujący
+open-minded - otwarty/wolny od uprzedzeń
+quick-witted - bystry/błyskotliwy
+reasonable - rozsądny/realistyczny/osiągalny
+self-centered - egocentryczny
+sharp-tongue - z ostrym/ciętym językiem
+straightforward - jasny/prosty/przystępny/prostolinijny/szczery

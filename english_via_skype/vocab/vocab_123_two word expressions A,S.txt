@@ -15,8 +15,8 @@ knowledgeable - mądry/znający się na rzeczy/obeznany/wnikliwy
 particular - konkretny/szczególny/wybredny/grymaśny
 
 przysłówki:
-at call - na wezwanie/żądanie
-at large - na wolności/w całości/w ogólnym ujęciu
+at hand - w pobliżu/w zasięgu ręki
+at large - w całości/w ogólnym ujęciu
 at once - natychmiast/od razu
 by force - siłą
 in hand - w zapasie/pod kontrolą
@@ -25,9 +25,10 @@ in particular - w szczególności/zwłaszcza
 in place - na swoim miejscu/stosowny
 in principle - w zasadzie
 in question - wspomniany/wymieniony/wątpliwy/pod znakiem zapytania
-in tune - czysto śpiewać/grać
+in tune - zgodnie z/czysto śpiewać/grać
 in turn - w rezultacie/po kolei/z kolei
 in vain - na próżno/bez celu
+on call - w pogotowiu/pod telefonem
 on impulse - pod wpłwem impulsu
 
 wyrażenia:

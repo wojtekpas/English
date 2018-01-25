@@ -1,0 +1,31 @@
+rzeczowniki:
+account - relacja/raport/sprawozdanie/opowieść
+amount - ilość/liczba/suma
+binding - oprawa/okładka
+blue-collar worker - pracownik fizyczny
+breakdown - rozpad/załamanie/rozbicie na czynniki pierwsze
+facilities - udogodnienia/pomieszczenia/obiekty/sprzęt lub usługi służące określonemu celowi
+figure - wykres/ilustracja/rysunek/diagram
+fresher/freshman - pierwszak/pierwszoroczniak
+labor - praca/robota/siła robocza/robocizna
+minority - mniejszość/niepełnoletność
+royalty - tantiemy/wynagrodzenie z tytułu praw autorskich
+summarizing  - streszczenie
+undergraduate - student na studiach licencjackich
+
+czasowniki:
+arrive at - przybywać do/nadchodzić do
+constitute - stanowić/reprezentować
+portray - przedstawiać/ukazywać
+
+przysłówki:
+a little more - trochę więcej
+a little less - trochę mniej
+about/almost/approximately - około/mniej więcej/w przybliżeniu
+almost - prawie/niemal
+hereinafter/hereinbelow - w dalszym ciągu niniejszego pisma/dalej
+just about - prawie/ledwie
+more or less - mniej więcej
+nearly - niemal/prawie/blisko
+respectively - odpowiednio
+roughly - z grubsza/mniej więcej

@@ -12,6 +12,7 @@ dedication - oddanie/poświęcenie/zadedykowanie
 edge - krawędź/brzeg/skraj
 endeavour - próba/staranie/wysiłek
 fear - strach/lęk
+first-aid kit - apteczka pierwszej pomocy
 fluctuations - wahania
 gear - bieg
 helmet - hełm/kask
@@ -97,3 +98,4 @@ push up - podnosić/podwyższać
 put in jeopardy - narażać się na niebezpieczeństwo
 rush of adrenaline - przypływ adrenaliny
 throw in the towel - rzucić ręcznik/poddać się
+throw oneself into sth - rzucić się w wir czegoś

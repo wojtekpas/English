@@ -1,0 +1,35 @@
+rzeczowniki:
+aim - cel/zamiar/dążenie
+award - nagroda
+beat - pokonywać/wygrywać
+commitment - poświęcenie/oddanie/zobowiązanie
+essence - istota/sedno
+feast - uczta
+flexibility - elastyczność/giętkość/umiejętność dostosowania się do danej sytuacji
+freedom - wolność/swoboda
+interaction - interakcja/wzajemne relacje/komunikowanie się
+pride - duma
+trek - wyprawa/długa wędrówka
+
+czasowniki:
+allow - pozwalać/zezwalać/dawać
+engage - ścierać się/zainteresować/przyciągać
+interact - oddziaływać na siebie wzajemnie
+
+przymiotniki:
+first-hand - z pierwszej ręki
+flexible - giętki/elastyczny
+forgettable - niewart zapamiętania/przeciętny
+intrepid - nieustraszony
+proud - dumny
+unbeaten - niepokonany/niezwyciężony
+unforgettable - niezapomniany
+
+wyrażenia:
+allow oneself sth - dać sobie coś/pozwalać sobie na coś
+among other sth - między innymi
+combine sth with sth - połaczyć coś z czymś/wykonywać dwie rzeczy równocześnie/naraz
+commit oneself to sth - zobowiązywać się do czegoś/poświęcać się czemuś
+commit sb to sth - zobowiązywać kogoś do czegoś
+meet/fulfill requirements - spełniać wymagania
+put emphasis on sth/emphasize sth - kłaść naciśk na coś

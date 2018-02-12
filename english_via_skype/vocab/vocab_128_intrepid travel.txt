@@ -25,6 +25,9 @@ proud - dumny
 unbeaten - niepokonany/niezwyciężony
 unforgettable - niezapomniany
 
+przysłówki:
+essentially - zasadniczo/w zasadzie/przede wszystkim
+
 wyrażenia:
 allow oneself sth - dać sobie coś/pozwalać sobie na coś
 among other sth - między innymi

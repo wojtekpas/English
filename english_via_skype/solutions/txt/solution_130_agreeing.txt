@@ -1,0 +1,19 @@
+6)
+1. e
+2. g
+3. d
+4. a
+5. h
+6. i
+7. j
+8. c
+9. b
+10. f
+
+13)
+1. What do you think about that?
+2. Yes, That's a very good suggestion.
+3. I'm not so sure about that to be honest.
+4. I agree up to a point.
+5. I'm afraid that I don't agree with that at all.
+6. How about if we visit the company in person.

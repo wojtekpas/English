@@ -1,0 +1,38 @@
+rzeczowniki:
+brother-in-law - szwagier
+charm - czar/zaklęcie/urok/talizman/amulet
+lipstick - szminka/pomadka do ust
+motive - motyw/powód
+niece - bratanica/siostrzenica
+thinker - myśliciel/mędrzec
+
+czasowniki:
+
+przymiotniki:
+bizarre - dziwaczny/cudaczny
+clumsy - niezgrabny/niezdarny/nietaktowny/niezręczny
+cynical - cyniczny
+dynamic - dynamiczny
+eldest - najstarszy
+elegant - elegancki/wytworny/zgrabny
+genuine - szczery/uczciwy
+gullible - łatwowierny
+illiterate - nieumiejący czytać ani pisać/niedouczony/nieudolny
+intellectual - intelektualny
+intimidating - przerażający/zastraszający/onieśmielający
+skillful - sprytny/zręczny/umiejętny
+superstitious - przesądny/zabobonny
+tolerant - tolerancyjny/odporny/wytrzymały
+tough - trudny/wymagający/twardy/nieustępliwy/silny
+versatile - uniwersalny/wszechstronny
+weird - dziwaczny/dziwny
+
+przysłówki:
+never ever - nigdy w życiu/nigdy przenigdy
+
+wyrażenia:
+care about sb - troszczyć się o kogoś/zależeć na kimś
+contradict oneself - przeczyć samemu sobie
+contradict sb - sprzeciwiać się komuś
+get on with sb - mieć z kimś dobre stosunki/dobrze się z kimś dogadywać
+push sb around rozkazywać komuś/pomiatać kimś

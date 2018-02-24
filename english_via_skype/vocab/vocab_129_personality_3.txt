@@ -10,6 +10,7 @@ sex - płeć
 slob - leniuch/nierób
 telly - telewizja
 whinger - malkontent
+workaholic - pracoholik
 
 przymiotniki:
 bitchy - jędzowaty/złośliwy/ględzący

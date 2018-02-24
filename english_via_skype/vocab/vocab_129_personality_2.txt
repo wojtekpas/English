@@ -1,0 +1,41 @@
+rzeczowniki:
+authority - autorytet/ekspert/włacza/moc/zwierzchnictwo
+extrovert - ekstrawertyk
+introvert - introwertyk
+intuition - intuicja/przeczucie
+judging - osądzanie/sądzenie/rozstrzyganie
+nitpicker - osoba czepiająca się, szukająca dziury w całym
+perceiving - odbieranie w pewien sposób/postrzeganie
+sensing - czucie/wyczucie/przeczywanie
+sweeping generaliser - osoba, która mocno generalizuje,uogólnia
+yes-man - potakiwacz
+
+czasowniki:
+dislike - nie lubić
+disobey - nie słuchać/być nieposłusznym
+obey - przestrzegać/być posłusznym
+
+przymiotniki:
+apathetic - apatyczny/obojętny
+conscientious - sumienny/skrupulatny
+inquisitive - dociekliwy/ciekawski/wścibski
+insensitive - nietaktowny/gruboskórny/niewrażliwy/bezuczuciowy
+inspirational - inspirujący/natchniony
+neurotic - nerwicowy/znerwicowany
+obsessive - natrętny/obsesyjny
+obstinate - zawzięty/uparty/uporczywy
+over-ambitious - nad wyraz ambitny
+perceptive - spostrzegawczy/wnikliwy
+prejudiced - uprzedzony/nieprzychylny/stronniczy
+rebellious - nieposłuszny/buntowniczy
+solitary - samotniczy/ustronny/odosobniony
+thoughtful - troskliwy/zadumany/zamyślony
+unreasonable - niedorzeczny/nierozsądny/niemądry
+
+przysłówki:
+deliberately - umyślnie/celowo/rozmyślnie/specjalnie
+unreasonably - nierozsądnie/niedorzecznie
+
+wyrażenia:
+flat-pack furniture - meble do samodzielnego montażu
+recharge one's batteries - odzyskać siły i energię

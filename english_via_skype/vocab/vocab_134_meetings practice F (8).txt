@@ -1,0 +1,11 @@
+rzeczowniki:
+shortage - brak/niedobór
+standpoint - stanowisko/punkt widzenia
+timeline - oś czasu
+
+czasowniki:
+put - sugerować
+
+wyrażenia:
+follow sb - nadążać za kimś/rozumieć kogoś
+run out of time - nie mieć już czasu/nie mieć wystarczająco dużo czasu

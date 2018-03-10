@@ -1,0 +1,12 @@
+rzeczowniki:
+jog - trucht/bieg/jogging/przebieżka
+
+czasowniki:
+bother - silić się/starać się/przejmować się/kłopotać się/przeszkadzać
+fancy - mieć ochotę
+shortlist - lista finalistów/końcowa lista kandydatów
+
+wyrażenia:
+be shortlisted - być na krótkiej liście
+it's not the end of the world - to nie koniec świata
+wash up - myć naczynia/ręcę/twarz

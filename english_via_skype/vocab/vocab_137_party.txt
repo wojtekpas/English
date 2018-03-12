@@ -1,14 +1,15 @@
-rzeczoniwki:
+rzeczowniki:
 bloke - facet/gość/koleś
 do - impreza
-flatmate/roomie - współlokator 
+flatmate/roomie - współlokator
+get-together - spotkanie towarzyskie 
 loo - toaleta/wc
 moaning - jęk/biadolenie/narzekanie
 pound/quid - funt
 rip-off - zdzierstwo
 
 czasowniki:
-overchange - przeciążyć/przeładować
+overcharge - przeciążyć/przeładować
 pinch/nick - podwędzić/zakosić
 
 przymiotniki:

@@ -1,0 +1,107 @@
+rzeczowniki:
+accused - oskrarżony
+arson - podpalenie
+assassination - zamach
+assault - napaść/napad/atak/ofensywa/natarcie/szturm
+bribery - przekupstwo/łapówkarstwo
+burglary - kradzież z włamaniem
+case - sprawa/rozprawa sądowa/proces
+charge - zarzut/oskarżyciel
+compensation/damages - odszkodowanie
+convict - więzień/skazaniec
+court - sąd
+drugs - narkotyki
+evidence - dowód/dowody
+expense - wydatek/nakład pieniężny
+fine - mandat/grzywna
+fraud - oszustwo/oszust/naciągacz
+gun - pistolet
+hearing - przesłuchanie/rozprawa
+hijacking - porwanie/uprowadzenie
+investigation - dochodzenie/śledztwo
+jail - areszt tymczasowy/więzienie
+judge - sędzia/arbiter
+jury - ława przysięgłych
+juvenile - młodzieniec/nieletni
+kidnapping - porwanie/uprowadzenie
+lawn - trawnik
+murdering - zamordowanie
+offender - przestępca/winowajca/sprawca
+perpetrator - przestępca/sprawca przestępstwa
+pick-pocketing - kradzież kieszonkowa
+prisoner - więzień
+proof - dowód
+prosecutor - prokurator - oskarżyciel
+provision - świadczenie/dostarczanie/postanowienie/klauzula
+provisions - zaopatrzenie/prowiant
+publicity - rozgłos/reklama
+release - uwolnienie/wypuszczenie
+robbery - rabunek/kradzież/napad
+sentence - wyrok
+shoplifter - złodziej sklepowy
+shoplifting - kradzież sklepowa
+smuggling - przemyt
+suspect - podejrzany
+terrorism - terroryzm
+testimony - zeznania/świadectwo/dowód
+theft - kradzież
+trespassing - wtargnięcie/naruszenie
+trial - proces/próba/test/problem
+vandalism - wandalizm/chuligaństwo
+verdict - werdykt/wyrok/orzeczenie/opinia
+witness - świadek
+
+czasowniki:
+abide - mieszkać/przebywać/obstawać/tolerować/wytrzymywać
+adhere - przylegać/przywierać
+conduct - przeprowadzać/dyrygować/przewodzić/kierować
+confess - przyznawać się/wyznawać grzechy/spowiadać się
+convict - uznawać za winnego/obciążać
+drag on - ciągnąć się
+hit - urzerzyć/bić/napasć/zaatakować i obrabować
+interrogate - przesłuchiwać/pytać/zapytywać
+mitigate - łagodzić/uspokajać/uśmierzać
+murder - zamordować kogoś
+penalize/penalise - karać/skazać na karę
+punish - ukarać/wymierzyć karę
+violate - naruszać/zakłócać/profanować/gwałćić
+
+przymiotniki:
+acquitted - uwolniony/uniewinniony
+irredeemable - zatwardziały/niereformowalny/nieuleczalny
+law-abiding - praworządny/przestrzegający prawa
+lenient - pobłażyliwy/łagodny
+long-winded - rozwlekły/nużący
+notorious - notoryczny/cieszący się złą sławą/znany/głośny
+stringent - rygorystyczny/surowy
+surrounding - okoliczny/otaczający
+
+wyrażenia:
+accuse sb of sth - oskrazyć kogoś o coś/zarzucić komuś coś
+adhere to sth - stosować się do czegoś/trzymać się czegoś
+administer justice - wymierzać sprawiedliwość
+be acquitted of all charges - być oczyszczonym ze wszystkich zarzutów
+be in contradiction with sth - być zaprzeczeniem czegoś
+burn down - spalić doszczętnie/wypalić się
+charge sb with sth - oskarżać kogoś o coś
+commit a crime - popełnić przestępstwo
+cross-examine - zadawać pytanie swiadkowi strony przyciwnej
+demand sth - żądać czegoś/domagać się czegoś
+exercise authority - sprawować zwierzchnictwo
+guilty of sth - winny/odpowiedzialny za coś
+have a brush with the law - wejść w konflikt z prawem
+heavy fine - wysoki mandat
+legal battle - walka sądowa
+major offence - poważne wykroczenie
+minor offence - drobne wykroczenie
+over and over/again and again - stale/wciąż/wiele razy
+release sb from prison/jail - zwolnić kogoś z więzienia
+sentence sb to sth  skazać kogoś na coś
+serve a sentence - odsiedzieć wyrok
+set sb free - wypuścić kogoś na wolność
+suffer/take/face the consequences - ponieść konsekwencje
+take over - objąć/przejąć
+take sth over - zdobywać/przejmować/zawładnąć
+take a revenge - brać odwet/mścić się
+turn a blind eye to sth - przymykać na coś oko
+wriggle out of sth - wykręcać się od czegoś

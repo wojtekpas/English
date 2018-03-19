@@ -6,7 +6,7 @@ assault - napaść/napad/atak/ofensywa/natarcie/szturm
 bribery - przekupstwo/łapówkarstwo
 burglary - kradzież z włamaniem
 case - sprawa/rozprawa sądowa/proces
-charge - zarzut/oskarżyciel
+charge - zarzut/oskarżenie
 compensation/damages - odszkodowanie
 convict - więzień/skazaniec
 court - sąd
@@ -16,7 +16,7 @@ expense - wydatek/nakład pieniężny
 fine - mandat/grzywna
 fraud - oszustwo/oszust/naciągacz
 gun - pistolet
-hearing - przesłuchanie/rozprawa
+hearing - przesłuchanie/rozprawa/wysłuchanie
 hijacking - porwanie/uprowadzenie
 investigation - dochodzenie/śledztwo
 jail - areszt tymczasowy/więzienie
@@ -31,7 +31,7 @@ perpetrator - przestępca/sprawca przestępstwa
 pick-pocketing - kradzież kieszonkowa
 prisoner - więzień
 proof - dowód
-prosecutor - prokurator - oskarżyciel
+prosecutor - prokurator/oskarżyciel
 provision - świadczenie/dostarczanie/postanowienie/klauzula
 provisions - zaopatrzenie/prowiant
 publicity - rozgłos/reklama
@@ -57,14 +57,15 @@ adhere - przylegać/przywierać
 conduct - przeprowadzać/dyrygować/przewodzić/kierować
 confess - przyznawać się/wyznawać grzechy/spowiadać się
 convict - uznawać za winnego/obciążać
+dismiss - zakończyć sprawę
 drag on - ciągnąć się
 hit - urzerzyć/bić/napasć/zaatakować i obrabować
 interrogate - przesłuchiwać/pytać/zapytywać
 mitigate - łagodzić/uspokajać/uśmierzać
-murder - zamordować kogoś
+murder - zamordować
 penalize/penalise - karać/skazać na karę
 punish - ukarać/wymierzyć karę
-violate - naruszać/zakłócać/profanować/gwałćić
+violate - naruszać/zakłócać/profanować/gwałcić
 
 przymiotniki:
 acquitted - uwolniony/uniewinniony
@@ -75,6 +76,9 @@ long-winded - rozwlekły/nużący
 notorious - notoryczny/cieszący się złą sławą/znany/głośny
 stringent - rygorystyczny/surowy
 surrounding - okoliczny/otaczający
+
+przysłówki:
+severely - ciężko/poważnie
 
 wyrażenia:
 accuse sb of sth - oskrazyć kogoś o coś/zarzucić komuś coś
@@ -87,6 +91,7 @@ charge sb with sth - oskarżać kogoś o coś
 commit a crime - popełnić przestępstwo
 cross-examine - zadawać pytanie swiadkowi strony przyciwnej
 demand sth - żądać czegoś/domagać się czegoś
+drop charges - wycofać zarzuty
 exercise authority - sprawować zwierzchnictwo
 guilty of sth - winny/odpowiedzialny za coś
 have a brush with the law - wejść w konflikt z prawem

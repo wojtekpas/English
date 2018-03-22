@@ -1,0 +1,40 @@
+rzeczowniki:
+abolition/abolishment - zniesienie/obalenie/uchylenie
+capital punishment/death penalty - kara śmierci
+criminal - kryminalista/przestępca
+danger - niebezpieczeństwo/zagrożenie
+deterrent - czynnik powstrzymujący/środek odstraszający/odstraszacz
+existence - istnienie/egzystencja
+imprisonment - uwięzienie/więzienie
+life sentence/imprisonment - dożywocie
+occupational hazard/risk - ryzyko zawodowe
+punishment - kara
+rehabilitation - rehabilitacja/resocjalizacja
+reoffender/recidivist/repeat offender - recydywista
+retribution - sroga kara
+uncertainty - niepewność/niejasność/wątpliwość/krychość
+
+czasowniki:
+abolish - uchylać/unieważniać/likwidować/obalać/znosić
+deter - odstraszać
+imprison - uwięzić/wsadzić do więzienia
+justify - usprawiedliwiać
+punish - ukarać/wymierzyć karę/dać wycisk
+regard - mieć na względzie/brać pod uwagę
+rehabilitate - rehabilitować/resocjalizować/przywrócić/poprawić
+reoffend - ponownie popełnić wykroczenie
+satisfy - satysfakcjonować/zaspokajać
+
+przymiotniki:
+criminal - kryminalny/przestępczy/karny
+fair - sprawiedliwy/należny/równy
+justifiable - słuszny/uzasadniony
+
+wyrażenia:
+be in crisis - być w kryzysie
+for live - dożywotnio
+furthermore - co więcej, ponadto
+look sb up - zamykać kogoś/aresztować kogoś
+regard sth as sth - uważać coś za coś
+think of sth - myśleć o czymś/przypominać sobie coś/przychodzić do głowy
+turn over a new leaf - rozpoczynać nowy rodział/życie

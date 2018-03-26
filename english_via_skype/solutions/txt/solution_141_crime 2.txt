@@ -1,0 +1,36 @@
+1)
+1. kidnap
+2. murder
+3. hijacking
+4. rape
+5. break in/burgle
+6. hack
+7. sell drugs
+8. smuggle
+9. vandalize
+10. blackmail
+11. robbery
+12. commit fraud
+13. bribe
+14. set off bombs
+15. steal
+16. mug
+17. stalk
+
+2)
+1. committed
+2. investigated
+3. caught
+4. arrested
+5. questioned
+6. charged
+7. court
+8. accused
+9. witnesses
+10. jury, evidence
+11. verdict
+12. guilty
+13. judge, punishment
+14. sentenced
+15. proof
+16. acquitted

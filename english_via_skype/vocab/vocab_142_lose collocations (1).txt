@@ -6,6 +6,9 @@ emergency - nagły wypadek/sytuacja awaryjna/krytyczna
 slope - zbocze/stok
 temper - charakter/temperament/usposobienie/nastrój/morale
 
+czasowniki:
+humiliate - upokarzać/kompromitować
+
 przysłówki:
 halfway - w miarę/w pół drogi
 regularly - regularly

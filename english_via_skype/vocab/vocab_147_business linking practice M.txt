@@ -1,7 +1,7 @@
 rzeczowniki:
 admittance - wstęp/pozwolenie na wejście dokądś
 advertising/publicity/marketing campaign - kampania reklamowa
-assortment/stock/range/choice/selection - asostyment
+assortment/stock/range/choice/selection - asortyment
 bound - granice/skok/sus
 comprehension - zrozumienie/zdolność pojmowania
 concession - ustępstwo/kompromis/zniżka/ulga/koncecja
@@ -46,7 +46,7 @@ above all - ponad wszystko
 admittedly - co prawda/wprawdzie
 as follows - jak następujące/następująco
 apropos - przy sposobności/ w związku z kimś/czymś
-be above sb - przestać kogoś
+be above sb - przerastać kogoś
 be in touch - być w kontakcie
 contrary to sth - niezgodny z czymś
 hold sth dear - cenić coś
@@ -69,9 +69,9 @@ owing to - z powodu/ponieważ/dzięki
 put/keep sb in the picture - objaśnić komuś sytuację
 prior to sth - przed czymś/wcześniej od czeogś
 speaking of which - skoro o tym mowa
-that being the case - powiedziawszy to/w takim przypadku
+that being the case - w takim przypadku/powiedziawszy to
 this is to say - to znaczy
 thus - stąd/tym samym/tak o to
 upon - od/na/przed
-with a view to - mając coś na względzie/mając coś na uwadze
+with a view to - mając coś na względzie/uwadze
 with sth in mind - z myślą o czymś

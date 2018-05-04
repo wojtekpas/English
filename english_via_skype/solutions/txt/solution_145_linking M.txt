@@ -1,5 +1,5 @@
 41)1)
-2. Although
+2. although
 3. despite
 4. while
 5. whereas
@@ -50,7 +50,4 @@ We can handle both the transport arrangements and the insurance.
 9. nevetherless
 10. so
 
-
-
-
-49)5)
+43) 5)

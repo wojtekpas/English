@@ -1,7 +1,12 @@
 rzeczowniki:
 advertiser/advertising agency - agencja reklamowa
 assembly/gathering/reunion - zgromadzenie
+associate/coworker/collaborator/contributor/fellow - współpracownik
+calculation/computation - obliczenie/wyliczenie
+comparison/profile/tally/matching - zestawienie
+consensus - konsensus/jednomyślność/zgodna opinia
 cooperation/collaboration/liaison/alignment - współpraca
+deputy/lieutenant - zastępca
 turnover - obrót
 
 czasowniki:
@@ -14,11 +19,14 @@ prolong - przedłużać
 stall - przeciągać
 
 przymiotniki:
-walne - plenary
+reluctant/unwilling - niechętny
+plenary - walne
 
 wyrażenia:
 acquaint/familiarize with sth - zaznajomić/zapoznać sie z czymś
 at/on short notice - w ostatniej chwili/bez uprzedzenia/w krótkim czasie
 draw conclusions/inferences - wyciągać/wnioski
 drag out - przeciągać/przedłużać
+in contrast to - w przeciwieństwie do
 what is more - co więcej
+win-win situation - sytuacja, w której nie ma przegranych/wilk syty i owca cała

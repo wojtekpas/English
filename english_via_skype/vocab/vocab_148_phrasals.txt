@@ -1,3 +1,6 @@
+rzeczowniki:
+measles - odra
+
 czasowniki:
 criticize - krytykować/skrytykować
 persuade - namawiać/przekonywać/perswadować
@@ -8,7 +11,22 @@ glad - zadowolony/wdzięczny
 naughty - nieposłuszny/niesforny/niegrzeczny
 
 wyrażenia:
-be getting st sth - zmierzać do czegoś/insynuować coś
+be getting at sth - zmierzać do czegoś/insynuować coś
+come across sth - natknąć się na coś
+come along - pośpiesz się
+come down with sth - zachorować na coś
+come off - wyjść/udać się/wypaść
+come into - dziedziczyć w spadku
+come out in sth - dostawać czegoś, np. wysypki
+come through - nadchodzić
+come to - odzyskać przytomność
+come up against sth - napotkać na jakieś trudności/zmagać się z jakimiś problemami
+come up to sth - podejść do kogoś/zbliżyć się
+come up with - znaleźć coś/wymyślić coś
+cut back/cut down on - redukować/ograniczać
+cut in - wcinać się/zajachać drogę
+cut off - odcinać/wyłączać/przerywać
+cut out - wycinać/zaprzestać/kończyć/usuwać/pomijać
 get across - przekazywać/wyjasniać
 get at sb - naskoczyć na kogoś/skrytykować/zastraszać
 get at sth - sięgać po coś/dowiadywać się prawdy o czymś/sugerować/implikować

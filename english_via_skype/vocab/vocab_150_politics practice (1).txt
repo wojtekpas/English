@@ -1,0 +1,27 @@
+rzeczowniki:
+department head - kierownik działu/ordynator
+risk assessment - ocena ryzyka
+workplace - miejsce pracy
+
+czasowniki:
+adhere - przelegać/przywierać
+breach - naruszyć/pogwałcić/uchybić/przełamywać
+carry - nosić/dżwigać/doprowadzać
+comply - zastosować się/stosować się/odpowiadać czemuś
+implement - implementować/wprowadzać/wdrażać/urzeczywistniać
+mitigate - ładogodzić/uspokajać/uśmierzać/złagodzić
+standardize - normalizować/ujednolicać
+
+przymiotniki:
+enclosed - załączony/osłonięty/obudowany
+
+przysłówki:
+across - poprzez/w poprzek/wszerz/na drugą stronę
+carefully - ostrożnie/starannie/uważnie
+
+wyrażenia:
+adhere to sth - stosować się do czegoś/trzymać się czegoś
+carry out sth - przeprowadzać/realizować/wykonywać/zrealizować/wprowadzać coś w życie
+failure to do sth - niepowodzenie w robieniu czegoś
+have an obligation to do sth - mieć obowiązek coś zrobić
+pass out - mdleć/zdawać/zaliczać

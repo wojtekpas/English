@@ -1,14 +1,24 @@
 rzeczowniki:
+back - tył/plecy
+cottage - chata/domek wiejski/publiczna toaleta
+disease - choroba
+fax/fax machine - faks
+inspection - kontrola/wizytacja/zbadanie/inspekcja
 measles - odra
+zip - zamek błyskawiczny
 
 czasowniki:
 criticize - krytykować/skrytykować
+dig - kopać/wykopać/zanurzyć/wsadzić głęboko
+dump - wyrzucać/pozbywać się
+fasten - zapiąć
 persuade - namawiać/przekonywać/perswadować
 recover - dochodzić do siebie/powracać do zdrowia/odzyskiwać/wychodzić z krezysu
 
 przymiotniki:
 glad - zadowolony/wdzięczny
 naughty - nieposłuszny/niesforny/niegrzeczny
+unpleasent - niemiły/nieprzyjemny/niesympatyczny
 
 wyrażenia:
 be getting at sth - zmierzać do czegoś/insynuować coś
@@ -23,10 +33,15 @@ come to - odzyskać przytomność
 come up against sth - napotkać na jakieś trudności/zmagać się z jakimiś problemami
 come up to sth - podejść do kogoś/zbliżyć się
 come up with - znaleźć coś/wymyślić coś
+could do with sth - chcieć czegoś
 cut back/cut down on - redukować/ograniczać
 cut in - wcinać się/zajachać drogę
 cut off - odcinać/wyłączać/przerywać
 cut out - wycinać/zaprzestać/kończyć/usuwać/pomijać
+do away with sth - pozbyćsię czegoś/przestać czegoś używać
+do sb in - zabić/zameczyć/wykonczyć kogoś
+do up sb - zapiąć/zawiązać/odnowić/ozdobić coś
+do without sth - obyć się bez czegoś
 get across - przekazywać/wyjasniać
 get at sb - naskoczyć na kogoś/skrytykować/zastraszać
 get at sth - sięgać po coś/dowiadywać się prawdy o czymś/sugerować/implikować
@@ -37,6 +52,7 @@ get down to - zabrać się do czegoś
 get on - wsiadać/odnosić sukces/radzić sobie/dawać sobie radę
 get out of - wyjeżdzać skądś/opuścić jakieś miejsce/uniknąć czegoś/wymigać się od czegoś
 get over sth - wyzdrowieć/dochodzć do siebie/otrząsnąc się/radzić sobie/pogodzić się z czymś/dawać sobie z czymś spokój/odpuszczać coś sobie
+get rid of sth - uwolnić się od czegoś
 get round to sth - zabrać sie do czegoś, co było długo odkładane
 get round sb - przekonać/przekabacić kogoś
 get through sth - wykonywać coś/przebrnąć przez coś/przetrwać coś/radzić sobie z czymś

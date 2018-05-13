@@ -3,3 +3,7 @@
 2. vote
 3. answer
 4. meeting
+5. election
+6. policy
+7. opinion
+8. goal

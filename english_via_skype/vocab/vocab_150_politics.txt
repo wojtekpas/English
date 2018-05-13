@@ -1,0 +1,77 @@
+rzeczowniki:
+abortion - aborcja/kompletna porażka/totalna klapa
+apathy - apatia/obojętność
+civil right - prawo obywatelskie
+commentator - komentator
+debate - dyskusja/debata
+economy - gospodarka/oszczędność/gospodarność
+election - wybory
+foreign policy - polityka zagraniczna
+government reform - reforma rządowa
+health care - opieka zdrowotna/opieka medyczna
+immigration - imigracja
+infrastructure - infrastruktura
+law and order - ład/praworządność i porżadek publiczny
+local election - wybory lokalne
+participation - udział/uczestnictwo
+peace - pokój/spokój
+pensions - ubezpieczenia społeczne
+policy - polityka/zasady/polisa
+politician - polityk
+poverty - bieda/ubóstwo
+privatisation - prywatyzacja
+public opinion - opinia publiczna
+puppet - kukiełka/marionetka
+run-up - czas poprzedzający/rozbieg
+turnout - frekwencja
+voter - elektor/wyborca/głosujący
+welfare - zasiłek/świadczenie/dobro społeczne/interes społeczny/opieka społeczna/dobrobyt
+
+czasowniki:
+adopt - adoptować/przyjąć/przybrać
+cast - rzucać ogien/odlewać/przydzielać rolę/uważać/snuć domysły
+crack - pękać/rozłupać/strzaskać/załamać się
+demand - żądać - wymagać
+disrupt - zakłócać/pokrzyżować
+divice - podzielić/dzielić/oddzielić
+rig - zmanipulować/sfałszować/stroić/wystroić
+
+przymiotniki:
+aimed - zamierzony
+controversial - kontrowersyjny
+forthcoming - przyszły/nadchodzący
+humble - pokorny/skromny/prosty/niski
+immediate - najbliższy/bezpośredni/pilny/natychmiastowy
+long-term - długoterminowy
+mock - sztuczny/podrobiony/pozorny/udawany
+personal - osobisty/personalny
+unrealistic - nierealistyczny/niewykonalny
+
+przymiotniki:
+dryly/drily - sucho/oschle
+
+wyrażenia:
+aim at/for sth - dążyć do czegoś
+be aimed at sth - mieć coś na celu/za cel
+cabinet meeting - posiedzenie gabinetu
+cast a vote - głosować w wyborach
+cast one's vote - oddać swój głos
+crack a joke - opowiedzieć kawał
+difference of opinion - różnica zdań
+dirty/blue joke - sprośny żart
+get sb's vote - mieć czyjeś poparcie/głos
+hold a meeting - prowadzić spotkanie
+in one's humble opinion - czyimś skromnym zdaniem
+long-term goal - cel długofalowy/długoterminowy
+opinion poll - badanie/sondaż opinii publicznej
+party line - linia partyjna/stanowisko parti
+put sb forward - nominować kogoś na stanowisko
+put sth forward - proponować/przedstawiać coś/poruszać jakiś temat
+rig an election - fałszować wybory
+set a goal - wyznaczyć cel
+sick joke - niesmaczny żart
+straight answer - szczera odpowiedź
+top-level meeting - spotkanie na najwyższym szczeblu
+yes-vote - głos za
+vote of confidence - wotum zaufania
+whilst - podczas/w trakcie/podczas gdy/pomimo że/dopóki

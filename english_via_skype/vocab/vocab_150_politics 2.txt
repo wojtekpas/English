@@ -1,0 +1,38 @@
+rzeczowniki:
+bill - projekt ustawy
+boycott - bojkot/odmowa
+coalition - koalicja/przymierze/sojusz
+dictatorship - dyktatura
+disarray - nieład/nieporządek/zamęt
+government - rząd
+landslide - walne zwycięstwo
+majority - większość/pełnoletność
+manifesto - manifest
+opposition - sprzeciw/opozycja/przeciwnik/konkurencja
+parliament - parlament
+rigging - zmanipulowanie/sfałszowanie
+scandal - skandal/afera
+
+czasowniki:
+call - ogłaszać/zwoływać
+collapse - zawalić się/runąć/opaść/bankrutować
+form - formować/zakładać/tworzyć/kształtować
+hang - wieszać/powiesić
+invade - najeżdzać/nadchodzić/wtargnąć/naruszać
+outline - naszkicować/przedstawić w skrócie
+
+przymiotniki:
+abandoned - opuszczony/porzucony
+fair - sprawiedliwy/należny/równy/spory
+main - główny
+right-wing - prawicowy
+rushed - pochopny/zrobiony w pośpiechu/zabiegany
+
+przysłówki:
+relatively - relatywnie/stosunkowo/względnie
+
+wyrażenia:
+be accused of sth - być oskarżonym o coś
+bring sb down - zmniejszać/obnizać/obalać/doprowadzać coś do upadku
+stand for sth - znaczyć coś/udzielać poparcia czemuś/godzić się z czymś/tolerować coś
+result in sth - kończyć się czymś/doprowadzić do czegoś/spowodować coś

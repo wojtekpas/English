@@ -7,12 +7,20 @@
 6. rigging
 7. boycotted
 8. dictatorship
-9. election
+9. policy
 10. dictatorship
-11. 
-12. 
-13. coalition
+11. parliament
+12. coalition
+13. party
 14. election
-15.
-16. 
-17. 
+15. government
+16. rights
+17. government
+
+6)
+1. crake, fell
+2. got, confidence
+3. stormy, disrupted
+4. run-up, mock, rig
+5. adopted, aimed
+6. divided, differences

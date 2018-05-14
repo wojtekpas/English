@@ -5,11 +5,13 @@ coalition - koalicja/przymierze/sojusz
 dictatorship - dyktatura
 disarray - nieład/nieporządek/zamęt
 government - rząd
+hung parliament - parlament mniejszościowy
 landslide - walne zwycięstwo
 majority - większość/pełnoletność
 manifesto - manifest
 opposition - sprzeciw/opozycja/przeciwnik/konkurencja
 parliament - parlament
+puppet government - rząd marionetkowy
 rigging - zmanipulowanie/sfałszowanie
 scandal - skandal/afera
 

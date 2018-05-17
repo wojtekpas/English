@@ -1,0 +1,44 @@
+rzeczowniki:
+boss/boss lady/taskmistress/manageress - szefowa
+concession - pozwolenie
+conversation/talk/discourse - rozmowa
+negligence - niedbalstwo
+mistake/slip/lapse/blounder - pomyłka/błąd
+strategy - strategia
+surgeon - chirurg
+
+czasowniki:
+accuse - oskarżać/obwiniać
+admit - przyznawać
+announce - ogłaszać/zapowiadać/oznajmiać/komunikować/zawiadamiać
+beg - prosić/błagać/żebrać
+boast - chwalić się/przechwalać się/chlubić się/szczycić się
+claim - twierdzić/utrzymywać/domagać się/żądać
+declare - oświadczać/oznajmiać/ogłaszać
+deny - zaprzeczać/wypierać się/dementować/odmawiać/odrzucać
+dissuade - odwodzić/odwieść
+encourage - zachęcać/mobilizować/przekonywać/wspierać
+insist - nalegać/domagać się/uparcie twierdzić
+instruct - instruować/zlecać/uczyć/brać adwokata
+nag - zrzędzić/dręczyć/dokuczać
+order - zamawiać/nakazać/rozkazać
+permit - pozwalać/zezwalać/umożliwiać
+persuade - namawiać/przekonywać/perswadować
+reassure - uspokajać/pokrzepiać/utwierdzać/zapewniać
+reprimand - ganić/udzielać nagany/skarcić
+threaten - grozić/straszyć/zagrażać/stanowić zagrożenie
+warn - ostrzegać/upominać/uprzedzać
+whisper - szeptać
+
+przymiotniki:
+careless/casual/unfocused - nieuważny
+distinct/decisive/outright/authoritative - zdecydowany
+growing - rosnący
+prior - wcześniejszy
+
+przysłówki:
+unforgivable/inexcusable - niewybaczalny
+
+wyrażenia:
+agree to concession - zgadzadzać się na ustępstwa
+straight low/the whole/complete/full truth - cała prawda

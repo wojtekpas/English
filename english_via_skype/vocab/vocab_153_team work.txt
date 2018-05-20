@@ -1,0 +1,63 @@
+rzeczowniki:
+chairperson - przewodniczący/prezes
+complication - komplikowacja/dodakowy problem/powikłanie
+confrontation - konfrontacja/starcie/scysja/kłótnia/zetknięcie się
+coordinator - koordynator
+delegating - delegowanie
+delegator - delegujący
+evaluator - tester
+handling - osługiwanie/posługiwanie się/radzenie sobie
+momentum - rozpęd/impet/pęd
+perfectionist - perfekcjonista
+plant - roślina/fabryka/zakład
+seeming - wydawanie/zdawanie się/wyglądanie na
+shaper - strugarka/obrabiarka
+specialist - specjalista/ekspert
+spur - zachęta/bodziec
+technicality - strona prawna/techniczna
+
+czasowniki:
+assess - oceniać/oszacować/określać/nakładać podatek
+contribute - wnosić/przyczyniać się
+deviate - odchylać sie/zbaczać/odbiegać
+persue - dążyć do/realizować/scigać/nagabywać/prześladować
+thread - nawlec/przewlec/zakładać
+thrive - pięknie rosnąć/dobrze się rozwijać/prosperować/odnosić sukcesy/cieszyć się powodzeniem
+upset - zmartwić/zasmucić
+
+przymiotniki:
+boundless - bezgraniczny/bezkresny/nieograniczony/nieskończony
+disciplined - zdyscyplinowany/karny/metodyczny
+painstaking - drobiazgowy/skrupulatny/staranny/mozolny
+
+przysłówki:
+equally - równie/jednakowo/tak samo
+excessively - zbyt/ponad miarę/bez umiaru/nadmiernie/wyjątkowo/na wyrost
+highly - wysoce/bardzo
+logically - logicznie
+objectively - obiektywnie
+particularly - szczególnie/w szczególności
+periodically - okresowo
+practically - praktycznie/właściwie/niemal/roztropnie/z sensem
+quietly - cicho/po cichu/spokojnie
+vigorously - energicznie/z wigorem
+
+wyrażenia:
+be capable of sth - być zdolnym do czegoś
+be guilty/to blame - zawinić/być winnym czegoś
+concentrate on sth - skoncentować się na czymś
+cope with sth - radzić sobie z czymś
+drive to do something - starania aby coś zrobić
+fall short of sth - nie dorównywać czemuś/być mnijeszym niż coś
+find sth difficult/hard - przychodzić komuś z trudnością/stwierdzić, że coś jest trudne
+focus on sth - skupić się na czymś
+keep to sth - trzymać się czegoś
+last-minute - w ostatniej chwili
+sales figures - wielkość sprzedaży
+sales targets - zakładana wysokość sprzedaży
+spend time on sth - spędzać nad czymś czas
+steer clear of sth - trzymać się od czegoś z daleka
+take sides - zajmować stanowisko/opowiadać się
+take sth on board - brać pod uwagę/uwzględniać/akceptować/przyjmować coś
+talk through - omówić/przedyskutować wytłumaczyć coś krok po kroku
+tend to sth - pilnować/doglądać czegoś/zajmować się czymś

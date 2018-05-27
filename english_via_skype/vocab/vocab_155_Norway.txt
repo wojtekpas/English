@@ -1,0 +1,40 @@
+rzeczowniki:
+association - stowarzyszenie/związek
+attitude - nastawienie/stosunek
+glacier - lodowiec
+green space - zielona przestrzeń
+horseshoe/shoe - podkowa
+hugging - ściskanie/przytulanie
+midnight sun - dzień polarny
+nation - państwo/kraj/naród
+northern lights - zorza polarna
+pastime - rozrywka/hobby/zajęcie
+perpetual night - noc polarna
+seafaring  - żegluga morska
+shore - brzeg
+sightseeing - zwierdzanie
+summit - szczyt
+transit - przejazd/transport/przewóz
+traveller - podróżnik
+wonder - cud/zdumienie
+
+czasowniki:
+encompass - obejmować/ogarniać/zajmować/otaczać
+get around - rozprzestrzeniać się/podróżować
+
+przymiotniki:
+cosmopolitan - kosmopolityczny
+endless - niekończący się/wieczny/bezkresny
+laid-back - wyluzowany
+lively - tętniący życiem/żywy
+northern - północny
+populated - zaludniony
+prosperous - zamożny/bogaty/dostatni/pomyślny
+snow-capped - zaśnieżony/pokryty śniegiem
+spectacular - widowiskowy/spektakularny/imponujący
+stunning - zachwycający/oszałamiający
+vibrant - dynamiczny/ekscytujący/pełen energi/podniecający
+well-marked - wyraźny/oznakowany
+
+przysłówki:
+culturally - kulturowo

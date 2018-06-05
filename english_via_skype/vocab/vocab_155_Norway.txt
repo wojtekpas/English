@@ -20,7 +20,6 @@ wonder - cud/zdumienie
 
 czasowniki:
 encompass - obejmować/ogarniać/zajmować/otaczać
-get around - rozprzestrzeniać się/podróżować
 
 przymiotniki:
 cosmopolitan - kosmopolityczny
@@ -38,3 +37,6 @@ well-marked - wyraźny/oznakowany
 
 przysłówki:
 culturally - kulturowo
+
+wyrażenia:
+get around - rozprzestrzeniać się/podróżować

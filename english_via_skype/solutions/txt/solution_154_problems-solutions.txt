@@ -36,3 +36,15 @@
 4. incompatible
 5. unintelligible
 6. insoluble
+
+4)
+1. a
+2. b
+3. b
+4. c
+5. b
+6. c
+7. d
+8. b
+9. c
+10. c

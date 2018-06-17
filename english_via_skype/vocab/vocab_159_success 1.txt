@@ -1,0 +1,55 @@
+rzeczowniki:
+accomplishment - dokonanie/osiągnięcie/wykończenie/spełnienie/zakończenie/realizacja
+breakdown - rozpad/załamanie/awaria
+breakthrough - punkt zwrotny/przełom
+courage - odwaga
+leukemia - białaczka/leukemia
+morale - morale/duch
+pacifist - pacyfista
+prospect - perspektywa/wizja/szansa/możliwość/wizja/nadzieja
+resort - kurort/miejscowość wypoczynkowa/ośrodek wczasowy
+room - sposobność
+spirit - dusza/nastrój/zapał/animusz
+
+czasowniki:
+abandon - porzucać/opuszczać/rezygnować/zaniechać
+attract - przyciągać
+dash - rzucić się/roztrzaskiwać/rozbryzgiwać się
+
+przymiotniki:
+charming - czarujący/uroczy
+crowning - koronny/największy/szczytowy
+likeable/likable - miły/sympatyczny
+mediocre - mierny/średni/przeciętny
+miraculous - cudowny
+phenomenal - fenomenalny/wyjątkowy/nadzwyczajny
+prestigious - prestiżowy/renomowany/znakomity
+remarkable - niezwykły/warty odnotowania/godny uwagi/wybitny
+supernatural - nadprzyrodzony/niezwykły/w najwyższym stopniu
+theatrical - teatralny/przesadnie dramatyczny
+unethical - nieetyczny
+unprecedented - bezprecedensowy/niespotykany
+
+przysłówki:
+inadequately - nieadekwatnie/nieodpowiednio/niewystarczająco
+inexperienced - niedoświadczony
+miserably - załośnie/w opłakany sposób/sromotnie/nędznie
+richly - bogato/sycie/obficie
+sharply - nagle/gwałtownie/uszczypliwie/ostro/bardzo/rażąco
+strongly - intensywnie/silnie/głęboko/mocno/zdecydowanie/stanowczo
+way off - bardzo daleko
+
+wyrażenia:
+as a last resort - w ostateczności
+be a recipe for disaster - być przepisem na klęskę
+be doomed to failure - być skazanym na niepowodzenie
+bring out the best in sb - ujawnić najlepsze cechy kogoś
+go under - pasować pod/upaść/zatonąć
+if all else fails - jeżeli wszystko inne zawiedzie
+lose sb's heart/nerve - stracić odwagę
+make a breakthrough - dokonać przełomu
+modest success - skromny/umiarkowany sukces
+pull sth off - osiągnąć coś/dokonywać czegoś
+spectacular failure - spektakularna porażka
+teen pregnancy - ciąża u nastolatek
+turn down - odrzucać/odmawiać

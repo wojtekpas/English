@@ -1,0 +1,35 @@
+rzeczowniki:
+assignment - zadanie
+interval - przerwa/interwał
+occasion - sposobność/okazja/wydarzenie/powód
+spot-check - wyrywkowa/niezapowiedziana kontrola
+tendency - tendencja/skłonność/kierunek/zwyczaj
+
+czasowniki:
+contribute - wnosić/przyczyniać się/pisać/składać
+insure - zapewniać/zagwarantować/zabezpieczać/upewniać się
+
+przymiotniki:
+alarming - alarmujący
+borne - przenoszony/unoszony
+carried - niesiony/przenoszony
+cooperative wspólny/skłonny do współpracy/chętny do pomocy
+intermittent - sporadyczny/przerywany
+liable - odpowiedzialny/zobowiązany/narażający/skłonny/podatny
+odd - dziwny
+prone - skłonny
+sporadic - sporadyczny/rzadki
+stern - srogi/nieugięty/surowy
+uncommon - rzadki
+unheard-of - niespotykany/nieznany/niesłychany/niebywały/niespotykany
+violent - pełen przemocy/agresywny/brutalny/gwałtowny
+
+przysłówki:
+consistently - konsekwetnie/spójnie
+fortnightly - co dwa tygodnie
+non-stop - nieprzerywanie/bez przerwy
+unfailingly - niezawodnie/niesłabnąco
+
+wyrażenia:
+all/only too often - aż za często
+to say the least - mówiąc najdelikatniej/delikatnie mówiąc

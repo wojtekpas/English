@@ -1,5 +1,6 @@
 rzeczowniki:
 assignment - zadanie
+humming - nucenie/śpiewanie pod nosem
 interval - przerwa/interwał
 occasion - sposobność/okazja/wydarzenie/powód
 spot-check - wyrywkowa/niezapowiedziana kontrola
@@ -7,6 +8,7 @@ tendency - tendencja/skłonność/kierunek/zwyczaj
 
 czasowniki:
 contribute - wnosić/przyczyniać się/pisać/składać
+disown - wyrzec się/wyprzeć się
 insure - zapewniać/zagwarantować/zabezpieczać/upewniać się
 
 przymiotniki:
@@ -18,18 +20,48 @@ intermittent - sporadyczny/przerywany
 liable - odpowiedzialny/zobowiązany/narażający/skłonny/podatny
 odd - dziwny
 prone - skłonny
+relentless - bezwzględny/surowy/nieugięty/nieustający/nieustanny
 sporadic - sporadyczny/rzadki
 stern - srogi/nieugięty/surowy
 uncommon - rzadki
+underlying - zasadniczy/podstawowy/fundamentalny/leżący poniżej/ukryty/niejasny
 unheard-of - niespotykany/nieznany/niesłychany/niebywały/niespotykany
+unusual - niezwykły/niespotykany/niebanalny
 violent - pełen przemocy/agresywny/brutalny/gwałtowny
 
 przysłówki:
 consistently - konsekwetnie/spójnie
+constantly - stale/ciągle
 fortnightly - co dwa tygodnie
+invariably - niezmiennie/zawsze
 non-stop - nieprzerywanie/bez przerwy
+normally - zazwyczaj/zwykle
+regularly - regularnie
+repeatedly - ciągle/raz za razem/wielokrotnie
 unfailingly - niezawodnie/niesłabnąco
+unwaveringly - uporczywie
 
 wyrażenia:
+again and again/over and over - stale/wciąż/wiele razy
+all the time/the whole time - cały czas/ciągle
 all/only too often - aż za często
+be in the/have a habit of doing sth - mieć nawyk robienia czegoś/mieć w nawyku robienie czegoś
+be liable to sth - podlegać czemuś
+be susceptible to sth - być podatnym na coś
+break/kick/shake a habit - zerwać z nawykiem/nałogiem
+every so often - czasami/co jakiś czas/od czasu do czasu
+from time to time - od czasu do czasu
+get out of the habit of doing something - przestać coś robić nawykowo
+have a tendency to do sth - mieć tendencję do robienia czegoś
+high street - reprezentacyjna/główna ulica w mieście
+make a habit of something - przyjąć coś jako zwyczaj/uczynić z czegoś zwyczaj
+meet up - spotykać się
+now and then/again - czasami/od czasu do czasu
+on and off/off and on - nieregularnie/od czasu do czasu
+once in a blue moon - raz na ruski rok/od wielkie dzwonu
+once in a while - raz na jakiś czas
+pay rise/raise - podwyżka płac
+prone to - podatny na
+set the trend - nadawać ton/kierunek
+tend to sth - pilnować/doglądać czegoś/zajmować się czymś
 to say the least - mówiąc najdelikatniej/delikatnie mówiąc

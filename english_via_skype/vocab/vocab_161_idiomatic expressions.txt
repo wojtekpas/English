@@ -6,7 +6,7 @@ detriment - szkoda/uszczerbek/krzywda
 gut - odwaga/jelito/kiszka/będen/brzuch
 guts - wnętrzności/bebechy
 high place - świątynia/miejsce kultu/wysokie stanowiska
-tenterhook - jeden z szeregu haczyków lub zgiętych gwiętych gwoździ użytych do utrzymania ściereczki na rozciągarce
+tenterhook - jeden z szeregu haczyków lub zgiętych gwoździ użytych do utrzymania ściereczki na rozciągarce
 string - sznurek/napis/struna
 willingness - chęć/ochota/gotowość
 
@@ -21,6 +21,8 @@ tempting - kuszący/nęcący
 wyrażenia:
 a far cry from sth - coś zupełnie innego/coś zupełnie odwrotnego
 be a far cry from sth - być daleko do czegoś/bardzo się różnić od czegoś
+be in store for sb - czekać na kogoś
+be on tenterhooks - siedzieć jak na szpilkach
 behind the scenes - za kulisami
 draw the line at something - nie posunąć się poza linię
 executive - dyrektor/kierownik/władze/zarząd
@@ -30,3 +32,4 @@ play it safe - być ostrożnym/nie podejmować zbędnego ryzyka
 pull strings - pociągać za sznurki/używać wpływów
 take over - objąć/przejąć
 the exception proves the rule - wyjątek potwierdza regułę
+to the detriment of sth - ze szkodą dla kogoś

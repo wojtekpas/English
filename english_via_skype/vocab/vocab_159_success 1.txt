@@ -3,7 +3,7 @@ accomplishment - dokonanie/osiągnięcie/wykończenie/spełnienie/zakończenie/r
 breakdown - rozpad/załamanie/awaria
 breakthrough - punkt zwrotny/przełom
 courage - odwaga
-leukemia - białaczka/leukemia
+leukemia - białaczka
 morale - morale/duch
 pacifist - pacyfista
 prospect - perspektywa/wizja/szansa/możliwość/wizja/nadzieja
@@ -19,6 +19,7 @@ dash - rzucić się/roztrzaskiwać/rozbryzgiwać się
 przymiotniki:
 charming - czarujący/uroczy
 crowning - koronny/największy/szczytowy
+inexperienced - niedoświadczony
 likeable/likable - miły/sympatyczny
 mediocre - mierny/średni/przeciętny
 miraculous - cudowny
@@ -32,7 +33,6 @@ unprecedented - bezprecedensowy/niespotykany
 
 przysłówki:
 inadequately - nieadekwatnie/nieodpowiednio/niewystarczająco
-inexperienced - niedoświadczony
 miserably - załośnie/w opłakany sposób/sromotnie/nędznie
 richly - bogato/sycie/obficie
 sharply - nagle/gwałtownie/uszczypliwie/ostro/bardzo/rażąco

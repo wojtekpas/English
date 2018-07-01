@@ -81,10 +81,5 @@ C)
 4. pay, raise, collect
 5. offered, resist, raise, lose
 6. leads, runs, strike
-
-
-
-
-
-
-
+7. , paying,
+8. raised, made, cancel

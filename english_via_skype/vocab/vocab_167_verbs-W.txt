@@ -1,0 +1,54 @@
+rzeczowniki:
+pie - placek/ciasto/keks/zapiekanka w cieście/pasztet/pasztecik/pierożek
+smell - zapach/smród/węch
+
+czasowniki:
+bound - biec szybko/biec susami/pośpieszać
+burst - wyskakiwać/wskakiwać
+drag - wlec/ciagnąć/wyciągnać/przeciągnąć
+drift - dryfować/unosić się na wodzie/sunąć/odpływać
+dump - wyrzucać/pozbywać się/zrzucać/rzucić/zostawiać
+face - stawiać czoła/zmierzać się z czymś/przyjmować/uznawać/radzić sobie
+float - unosić się/dryfować/być zawieszonym/sunąć/nieść się/roznosić się/rozchodzić się
+force - zmuszać/wymuszać/sforsować/wyważać/wyłamywać/wpychać/wtłaczać
+hurry - śpieszyć się/pospieszać
+invite - prowokować
+lean - przechylać się/odchylać się/pochylać się/chylić się
+leap - przeskoczyć/skakać
+limp - chromać/kuleć/kuśtykać/utykać
+load - ładować/brać ładunek/obciążać
+lower - obnizać/redukować/spuszczać/zniżać (np. głowę)/ściszać (np. głos)
+pop - wyskakiwać/wsuwać/wkładać/wystrzeliwać/strzelać/przebijać
+position - ustawiać/umieszczać/lokować
+plunge - wpaść/gwałtownie spaść/rzucać się/spadać gwałtownie/kołysać się/dryfować
+pour - nalewać/wlewać się/wdzierać się/rozlewać się/wsypywać
+race - ścigać się/pędzić/gnać
+remain - pozostawać/uchować się/zachowywać się/pozostawać
+screw - przykręcić/przyśrubować/zakręcić
+settle - rozstrzygać/ustalać/decydować/osiedlać się/zasiedlać
+shuffle - szurać/powłóczyć/włóczyć się
+skid - poślizgnąć się/wpaść w poślizg
+slide - ślizgać się/obsunąć się/osunąć się/wysunąć się
+speed - pędzić/mknąć
+stagger - ciągnąć się/słaniać się/zataczać/chwiać
+steer - sterować/prowadzić/nakierować/odwieść/być na czele
+stick - przyklejać/wbijać/wtykać/wpychać/wystawić/wychylić
+stretch - rozciągać się/przeciągać się/ciągnać się/rozpościerać
+storm - szturmować/atakować
+stuff - upychać/napychać/wypychać/napełniać/faszerować
+tempt - kusić/nakłaniać
+thrust - pchnąć/popychać/przepychać/przeć/naciskać/forsować
+toss - rzucać/podrzucać/targać/miotać
+transfer - przenosić się/przeprowadzać się/zmieniać miejsce/przekładać
+turn - obracać się/odwracać/obracać/skręcać
+urge - popędzać/zaganiać/naglić/nawoływać do/zalecać
+waft - nieść/unosić się/rozchodzić się w powietrzu
+
+przymiotniki:
+boiling - upalny/gotujący się
+
+wyrażenia:
+end up - skończyć się
+pick up - zaczynać na nowo/podejmować na nowo/poprawiać się/polepszać się/odbierać/nabierać sił/zwiększać się
+pull in - wjechać i zatrzymać się
+set off - wyruszyć/rozpocząć

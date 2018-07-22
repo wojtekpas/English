@@ -1,0 +1,134 @@
+rzeczowniki:
+affections - uczucia/względy
+flattery - pochlebstwo
+gaol/jail - więzienie/areszt tymczasowy
+hideaway - kryjówka/schronienie
+humility - pokora/skromność
+ledge - gzyms
+pie - placek/ciasto/keks/zapiekanka w cieście/pasztet/pasztecik/pierożek
+pole - tyczka/kijek/pręt
+smell - zapach/smród/węch
+wire fence - płot z drutu kolczastego
+
+czasowniki:
+amble - iśc spokojnym krokiem
+blast - wysadzić w powietrze/spustoszyć/zniszczyć/ryknąć/zahuczeć/surowo skrytykować/strofować
+bound - biec szybko/biec susami/pośpieszać
+burrow - wykopać jamę/norę/przytulić się/wtulić się/przekopać/przetrząsnąć
+burst - wyskakiwać/wskakiwać
+buy - dać się nabrać/kupić/kupować/przekupywać
+charm - omamić/zauroczyć/oczarować/zachwycić/zaczarować
+climb - wspinać się/wdrapywać/wzrastać/wgramolić się
+club - pałować/tłuc pałką
+crawl - raczkować/pełznąć/pełzać/wlec się/czołgać się
+crease - pognieść/zgnieść/zniatać/uprasować na kant/pognieść się/zmiąć się
+creep - skradać się/podkradać się/pełzać/podlizywać się
+dig - kopać/wykopać/zanurzyć/wsadzić głęboko/lubić/spojrzeć/rzucić okiem/czaić/kumać
+dive - nurkować/dać nura
+drag - wlec/ciagnąć/wyciągnać/przeciągnąć
+drift - dryfować/unosić się na wodzie/sunąć/odpływać
+dump - wyrzucać/pozbywać się/zrzucać/rzucić/zostawiać
+edge - przesuwać/otaczać/ograniczać
+emerge - wyłaniać się/pojawiać się/ukazywać się/wychodzić/wydostawać się (np. z kłopotów)/ocknąć się
+face - stawiać czoła/zmierzać się z czymś/przyjmować/uznawać/radzić sobie
+fare - mieć się/czuć się/radzić sobie
+float - unosić się/dryfować/być zawieszonym/sunąć/nieść się/roznosić się/rozchodzić się
+force - zmuszać/wymuszać/sforsować/wyważać/wyłamywać/wpychać/wtłaczać
+handle - zajmować się/wykonywać/radzić sobie/kierować/prowadzić
+hurry - śpieszyć się/pospieszać
+inch - posuwać się wolno
+invite - prowokować
+lean - przechylać się/odchylać się/pochylać się/chylić się
+leap - przeskoczyć/skakać
+lie - istnieć/leżeć/kłamać/znajdować się/pozostawać w jakimś miejscu
+limp - chromać/kuleć/kuśtykać/utykać
+load - ładować/brać ładunek/obciążać
+lower - obnizać/redukować/spuszczać/zniżać (np. głowę)/ściszać (np. głos)
+munch - przeżuwać/żuć/spałaszować
+negotiate - negocjować/pokonać/poradzić sobie/upłynnić/zrealizować
+pop - wyskakiwać/wsuwać/wkładać/wystrzeliwać/strzelać/przebijać
+position - ustawiać/umieszczać/lokować
+plunge - wpaść/gwałtownie spaść/rzucać się/spadać gwałtownie/kołysać się/dryfować
+pour - nalewać/wlewać się/wdzierać się/rozlewać się/wsypywać
+race - ścigać się/pędzić/gnać
+react - reagować
+record - pisać/notować/nagrywać
+remain - pozostawać/uchować się/zachowywać się/pozostawać
+rise - wzrastać/wstawać/powstać
+scratch - drapać się
+screw - przykręcić/przyśrubować/zakręcić
+settle - rozstrzygać/ustalać/decydować/osiedlać się/zasiedlać
+shove - posuwać/pchać/popychać/przepychać się/wsadzić/wpakować/rzucić niedbale (coś)
+shuffle - szurać/powłóczyć/włóczyć się
+skid - poślizgnąć się/wpaść w poślizg
+slide - ślizgać się/obsunąć się/osunąć się/wysunąć się
+smash - stłuc/rozwalić/rozbić/zmiażdzyć/walnąć (np. pieśćią w stół)/uderzyć (np. samochodem)/obalić (teorię)/rozpracować (spisek)/ściąć (piłkę w tenisie)
+squeeze - ściskać/uściskać/wyciskać
+speed - pędzić/mknąć
+stagger - ciągnąć się/słaniać się/zataczać/chwiać
+steer - sterować/prowadzić/nakierować/odwieść/być na czele
+stick - przyklejać/wbijać/wtykać/wpychać/wystawić/wychylić
+storm - szturmować/atakować
+stretch - rozciągać się/przeciągać się/ciągnać się/rozpościerać
+stroll - przechadzać się
+stuff - upychać/napychać/wypychać/napełniać/faszerować
+survive - przetrwać/przeżyć/ocalać/zachowywać się
+tempt - kusić/nakłaniać
+thrust - pchnąć/popychać/przepychać/przeć/naciskać/forsować
+toss - rzucać/podrzucać/targać/miotać
+transfer - przenosić się/przeprowadzać się/zmieniać miejsce/przekładać
+trick - oszukać/naciągnąć/wyrwać kogoś na jedną noc
+turn - obracać się/odwracać/obracać/skręcać
+urge - popędzać/zaganiać/naglić/nawoływać do/zalecać
+waft - nieść/unosić się/rozchodzić się w powietrzu
+wander - wędrować/włóczyć się/szwendać się/błąkać się/błądzić/zbaczać/oddalać się/odłączać się
+worm - odrobaczyć
+
+przymiotniki:
+boiling - upalny/gotujący się
+embarrassing - żenujący/wprawiający w kłopoty
+outstretched - rozpostarty/otwarty
+subtle - subtelny/delikatny
+way up - wysokiej klasy/wyśmienity/z wyższych sfer
+well-deserved - zasłużony
+
+przysłówki:
+badly - źle/kiepsko/ciężko/dotkliwie/silnie/brzydko/bardzo/strasznie
+bravely - dzielnie/odważnie
+clearly - wyraźnie/w wyraźny sposób/czytelnie/dobrze/jasno/najwyraźniej/najwidoczniej
+convincingly - przekonująco
+dramatically - radykalnie/drastycznie/gwałtownie/dramatycznie/w dramatyczny sposób
+easily - z łatwością/bez trudu/bez stresu/na luzie
+healthily - higienicznie/zdrowo
+nicely - ładnie/grzecznie/uprzejmie/precyzyjnie/dokładnie/miło/przyjemnie
+promptly - bezzwołocznie/natychmiast/szybko/punktualnie
+remarkably - wybitnie/wielce/niezwykle
+smoothly - płynnie/bez zakłóceń/gładko/bez zająknienia
+steadily - równomiernie/miarowo/stopniowo/jednostajnie/stale/mocno/pewnie/uważnie/bacznie
+sweatly - mile/słodko/ślicznie/gładko
+way up - bardzo wysoko
+
+wyrażenia:
+at the back - z tyłu
+break off - przestać mówić/ułamać/oderwać się
+carry away - porwać/unieść/zabierać
+come along - pojawiać się/zbliżać się/dołączyć/robić postępy
+crawl up - wdrapywać się/wpełznąć
+dig/get sb out of a whole - wyciągnać kogoś z kłopotów
+end up - skończyć się
+get carried away - dać się ponieść (np. emocjom)
+get on - wsiadać/odnosić sukces
+head of department - kierownik działu/ordynator
+knock around - obijać się/włóczyć się/szlajać się
+mock- - udawany
+mock-humility - udawana skromność
+move in - wprowadzić się/wkraczać do akcji/posuwać się naprzód
+new moon - nów księżyca
+no-man's-land - ziemia niczyja/coś pomiędzy dwoma rodzajami czegoś
+pick up - zaczynać na nowo/podejmować na nowo/poprawiać się/polepszać się/odbierać/nabierać sił/zwiększać się
+pull in - wjechać i zatrzymać się
+set off - wyruszyć/rozpocząć
+stick together - trzymać się razem/wspierać się
+wander around/about - przechadzać się
+way out - daleko poza
+way up - porządek/pozycja

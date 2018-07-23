@@ -1,31 +1,42 @@
 1)
-1. slid
-2. leapt
+1. laept
+2. crawled
 3. dived
 4. dug
-5. crept
-6. crawled
-7. burrowed
+5. burrowed
+6. crept
+7. slid
 8. ambled through
 9. strolled across
 10. got on
 
 2)
-a. 
-b. reacted 
-c. 
-d. 
-e. 
-f. 
-g. 
+a. creases easily
+b. have fallen dramatically
+c. reacted badly
+d. eat healthily
+e. run smoothly
+f. have been rising steadily
+g. behave badly
 h. start promptly
 
 3)
-a. lay
-b. found
-c. worked
-d. fighted
+a. worked
+b. find
+c. lied
+d. wormed
 e. smashed
 f. inched
 g. dug
-h. wormed
+h. fought
+
+4)
+1. meet/converge
+2. ends/stops
+3. begins
+4. extends/stretches
+5. facing the
+6. racing/flooding
+7. racing in my direction/running towartds meet/converge
+8. don't die/live on/remain
+9. remain

@@ -1,0 +1,45 @@
+rzeczowniki:
+
+czasowniki:
+
+przymiotniki:
+booming - gromki/grzmiący/prosperujący/kwitnący
+brisk - energiczny/pełen werwy/szybki/dziarski/żwawy/rześki
+buoyant - pływający/nośny/pełen życia/pogodny/lekki/sprężysty/zwyżkujący/rosnący/prężny
+competitive - zmuszający do rywalizacji/ambitny/konkurencyjny/wyczynowy
+considerable - znaczny/niemały
+declining - zmniejszający się/spadający
+disappointing - niespełniający oczekiwań/niezadowalający/rozczarowujący/denerwujący
+disastrous - fatalny/katastrofalny/zgubny
+encouraging - zachęcający/ośmielający/dopingowy
+enormous - olbrzymi/ogromny
+excellent - doskonały/znakomity
+excessive - nadmierny/wygórowany/ponadnormatywny
+expanding - rozwijający/powiększający się/rosnący/rozciągający się
+first-class - pierwszej klasy/pierwszorzędny
+flat - płaski/równinny/jednakowy/stały/bez powietrza/sflaczały/niski/cienki/wygazowany/nudny
+growing - rosnący/rozwijający się
+negligible - nieisotny/bez znaczenia/pomijalny
+poor - biedny/kiepski/lichy/marny/słaby/zły
+reasonable - rozsądny/realistyczny/osiągalny/niewygórowany/odpowiedni/niezbyt duży
+saturated - przemoczony/nasycony
+slack - luźny/wiszący/wiotki/sflaczały/wolny/powolny/leniwy/bezczynny
+sluggish - niemrawy/ociężały/ospały/powolny/wolno działający
+sound - rozsądny/logiczny/solidny/godny zaufania/staranny/skropulatny/zdrowy/glęboki/mocny (np. sen)
+stable - stateczny/trwały/stały
+strony - solidny/dzielny/twardy/ważny/wpływowy/intensywny/dobitny/zdrowy/z dużą zawartością alkoholu
+thriving - prosperujący/kwitnący
+unbeatable - bezkonkurencyjny/nie do przebicia/najlepszy/nie do pokonania/nie do prześcignięcia
+unsatisfactory - satysfakcjonujący/niezadowalający
+weak - mało stanowczy/słaby/kiepski/nieprzekonujący/słaby/niskoprocentowy
+
+przysłówki:
+absolutely - całkowicie/kompletnie/bezwarunkowo/bezwzględnie/absolutnie/koniecznie/oczywiście/zdecydowanie
+extremely - skrajnie/nadzwyczaj/wyjątkowo/niezwykle
+fairly - raczej/dosyć/całkiem/całkowicie/zupełnie/bardzo/nieomalże/prawie/wyraźnie
+highly - wysoce/w wysokim stopniu/bardzo/wysoko
+relatively - relatywnie/stosunkowo/względnie
+totally - całkowicie/zupełnie/totalnie
+virtually - praktycznie
+
+wyrażenia:

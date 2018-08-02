@@ -1,10 +1,12 @@
 rzeczowniki:
 deluge - potop/powódź/ulewa/lawina/potok
+flair - wrodzony talent/smykałka/jakość czegoś/wysoka klasa
 hurdle - płot/płotek/przeszkoda/problem
 matters - sprawy/tematyka/zagadnienia
 outcome - wynik/rezultat
 par - norma/stan równowagi
 scrutiny - szczegółowe badanie/analiza/przypatrywanie się/obserwacja/nadzór
+troubleshooting - wykrywanie i usuwanie usterek/rozwiązywanie problemów
 
 czasowniki:
 bear - ścierpieć/znieść/wytrzymać/ponieść/dzwigać/udźwignąć
@@ -12,6 +14,8 @@ pencil - pisać/rysować ołówkiem
 
 przymiotniki:
 half-baked - niewydarzony/nieprzemyślany
+inherent - przyrodzony/nieodłączny
+unprecedented - bezprecedensowy/niespotykany
 
 wyrażenia:
 at the helm - na czele/pod przewództwem
@@ -23,6 +27,7 @@ catch up - nadrobić stratę/zaległości/dogonoić/doścignąć
 due date - termin porodu/zwrotu/płatności
 fit in - pasować/mieścić się
 fit/work sb in - zorganizować spotkanie z kimś/chociaż jest się bardzo zajętym
+flair for sth - talent do czegoś/smykałka do czegoś
 go the extra mile - postarać się bardziej/poświęcić się bardziej, żeby osiągnąć cel
 hand it over to sb - przekazywać coś komuś
 hold with sth - zgadzać się z czymś/być zwolennikiem czegoś
@@ -32,11 +37,14 @@ keep track of sth - mieć poczucie czegoś/być z czymś na bieżąco/śledzić 
 lay emphasis/stress on sth - kłaść nacisk na coś
 leave a lot/much to be desired - pozostawiać wiele do życzenia
 make an appointment - umówić się na wizytę
+measure up - być wystarczająco dobrym/dorównywać
 move in circles - obracać się w świecie
 nonetheless - niemniej jednak/jednakże
 on top of sth - na wierzchu czegoś/na samym szczycie czegoś/w sytuacji panowania nad czymś/na dodatek czegoś/na domiar czegoś
 pencil sth in - wpisać coś wstępnie
 poke/stick one's nose into sth - wsadzać/wścibiać noc w coś/wtykać w cośnoc/interesować się czymś niepotrzebnie
+pull out - wjeżdzać na drogę/opuszczać/wycofać się/oddalić/wyciągnać
 pull out all the stops - dać z siebie wszystko/wyprować z siebie żyły
+rope up - przywiązać się liną/ubezpieczyć się przy pomocy liny
 rub shoulders with sb - obracać się w czyimś towarzystwie/mieć szansę spędzać z nim czas/kolegować się z kimś
 run out - kończyć się/wyczerpywać/zabraknąć/tracić ważność/wybiec

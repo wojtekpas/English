@@ -18,6 +18,7 @@ inherent - przyrodzony/nieodłączny
 unprecedented - bezprecedensowy/niespotykany
 
 wyrażenia:
+all being well - jeśli wszystko dobrze pójdzie/pójdzie po myśli
 at the helm - na czele/pod przewództwem
 be below/under par - być poniżej oczekiwanego poziomu/oczekiwań/źle się czuć/nie być w formie
 be in the loop - mieć wpływ na podejmowanie decyzji

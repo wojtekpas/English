@@ -1,9 +1,7 @@
-rzeczowniki:
-
-czasowniki:
-
 przymiotniki:
+bleak - ponury/przygnębiający/smętny/niewesoły/marny
 booming - gromki/grzmiący/prosperujący/kwitnący
+bright - świetlany/optymistyczny/radosny/pogodny/promienny/rozpromieniony
 brisk - energiczny/pełen werwy/szybki/dziarski/żwawy/rześki
 buoyant - pływający/nośny/pełen życia/pogodny/lekki/sprężysty/zwyżkujący/rosnący/prężny
 competitive - zmuszający do rywalizacji/ambitny/konkurencyjny/wyczynowy
@@ -11,6 +9,7 @@ considerable - znaczny/niemały
 declining - zmniejszający się/spadający
 disappointing - niespełniający oczekiwań/niezadowalający/rozczarowujący/denerwujący
 disastrous - fatalny/katastrofalny/zgubny
+dramatic - dramatyczny/radykalny/robiący wrażenie/oszałamiający
 encouraging - zachęcający/ośmielający/dopingowy
 enormous - olbrzymi/ogromny
 excellent - doskonały/znakomity
@@ -18,18 +17,36 @@ excessive - nadmierny/wygórowany/ponadnormatywny
 expanding - rozwijający/powiększający się/rosnący/rozciągający się
 first-class - pierwszej klasy/pierwszorzędny
 flat - płaski/równinny/jednakowy/stały/bez powietrza/sflaczały/niski/cienki/wygazowany/nudny
+fruitless - bezowocny/bezpłodny/jałowy/nieprzynoszący rezultatów
+gradual - stopniowy/łagodny
 growing - rosnący/rozwijający się
+inconclusive - niedecydujący/nierozstrzygający/niejednoznaczny/bezproduktywny/bezowocny/nieprzekonujący
+insignificant - mało znaczący/nieistotny
+involved - zangażowany/będący częścią/zainteresowany/zawiły/niejasny/w związku
+limited - ograniczony/limitowany
+minor - drobny/niewielki/drugorzędny/pomniejszony
+modest - skromny/niewielki
 negligible - nieisotny/bez znaczenia/pomijalny
+non-existent - nieistniejący
 poor - biedny/kiepski/lichy/marny/słaby/zły
+prohibitive - zaporowy/zakazujący/wyśrubowany
+promising - obiecujący
+rapid - szybki/gwałtowny
 reasonable - rozsądny/realistyczny/osiągalny/niewygórowany/odpowiedni/niezbyt duży
 saturated - przemoczony/nasycony
 slack - luźny/wiszący/wiotki/sflaczały/wolny/powolny/leniwy/bezczynny
 sluggish - niemrawy/ociężały/ospały/powolny/wolno działający
 sound - rozsądny/logiczny/solidny/godny zaufania/staranny/skropulatny/zdrowy/glęboki/mocny (np. sen)
 stable - stateczny/trwały/stały
+steady - regularny/stały/ciągły/jednostajny/zrównoważony/opanowany
 strony - solidny/dzielny/twardy/ważny/wpływowy/intensywny/dobitny/zdrowy/z dużą zawartością alkoholu
+substantial - obfity/pokaźny/znaczny/ważny/istotny/rzeczywistny/namacalny/zamożny/wpływowy
 thriving - prosperujący/kwitnący
 unbeatable - bezkonkurencyjny/nie do przebicia/najlepszy/nie do pokonania/nie do prześcignięcia
+uncertain - niepewny/wątpliwy
+uncompetitive - niekonkurencyjny
+unmarketable - trudny do sprzedania/niechodliwy
+unprofitable - niekorzystny/bezproduktywny/bezskuteczny/niedochodowy/nierentowny
 unsatisfactory - satysfakcjonujący/niezadowalający
 weak - mało stanowczy/słaby/kiepski/nieprzekonujący/słaby/niskoprocentowy
 
@@ -41,5 +58,3 @@ highly - wysoce/w wysokim stopniu/bardzo/wysoko
 relatively - relatywnie/stosunkowo/względnie
 totally - całkowicie/zupełnie/totalnie
 virtually - praktycznie
-
-wyrażenia:

@@ -1,0 +1,38 @@
+rzeczowniki:
+classroom - sala lekcyjna/klasa
+kindergarten/nursery school/preschool - przedszkole
+toy - zabawka
+
+czasowniki:
+cross - przechodzić/przekroczyć/przeprawić się/przemierzyć
+haunt - nawiedzać/straszyć/niepokoić/często odwiedzać/być stałym bywalcem
+remind - przypominać
+
+przymiotniki:
+blank - pusty/niewypełniony/czysty/niezapisany/zaskoczony/zmieszany/jałowy/obojętny
+dying - przedśmiertny/ostatni przed śmiercią/wymierająćy/zanikający
+fallible - omylny/zwodny
+fond - przyjemny/czuły/delikatny
+memorable - pamiętny/godny zapamiętania/zapadający w pamięć
+pleasant - przyjemny/sympatyczny/miły
+profound - przymożny/przenikliwy/głeboki/gruntowny/wnikliwy/dogłębny/całkowity/zupełny
+selective - wybiórczy
+traumatic - traumatyczny/urazowy/pourazowy
+
+przysłówki:
+afternoons - popołudniami/po południu
+constantly - stale
+distinctly - wyraźnie/dokładnie/zdecydowanie/ogromnie/bardzo
+gently - delikatnie/łagodnie/lekko
+vaguely - jak przez mgłę/niejasno/nieco/lekko/odruchowo/wymijająco/ogólnikowo/mętnie
+
+wyrażenia:
+bring back sth - przywracać/wskrzeszać/przypominać/oddawać coś
+clean up - posprzątać
+come back - wracać/powrać
+come to mind - przyjść/strzelić do głowy
+go blank - mieć lukę w pamięci/pustkę w głowie
+make a bad impression - zrobić złe wrażenie
+pay attention - uważać/uważnie słuchać/zwracać uwagę
+refresh sb's memory - odswieżyć komuś pamięć/przypomnić komuś o czymś
+the other day - niedawno

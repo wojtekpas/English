@@ -1,13 +1,51 @@
+rzeczowniki:
+gerund - rzeczownik odczasownikowy
+infinitive - bezokolicznik
+listening - słuchanie
+microwave - podgrzać w kuchence mikofalowej
+scholarship - studium (szczegółowa rozprawa na jakiś temat)/nauka/stypendium naukowe
+writing - pisanie
+
+czasowniki:
+rescue - uratować/ocalić/oswobodzić
+
+przymiotniki:
+anxious - zaniepokojony/zatroskany/pragnący/żądny
+arabic - arabski
+crucial - kluczowy/niezbędny/istotny/ważny
+delighted - zachwycony/uszczęśliwiony
+disappointed - rozczarowany/zawiedziony
+eager - chętny/ochoczy/skoro/przejęty/podekscytowany/podniecony/spragniony/żądny/niecierpliwy/zagorzały/gorący/entuzjastyczny
+essential - niezbędny/podstawowy/konieczny/zasadniczy/podstawowy
+exciting - pasjonujący/fascynujący/ekscytujący/emocjonujący
+impossible - niemożliwy/beznadziejny/bez szans/niewykonalny/nie do wytrzymania
+sure - pewien/pewny/niezawodny
+surprised - zdziwiony/zaskoczony
+unnecessary - niepotrzebny/zbędny
+vital - niezbędny/decydujący/istotny/podstawowy/witalny/żywotny/pełen energi/pełen życia/życiowy
+winding - wijący się/kręty
+
 wyrażenia:
 advise sb to do sth - poradzić komuś zrobienie czegoś
 allow sb to do sth - pozwolić komuś coś zrobić
 be afraid of sth/the subject is afraid that sth may happen - bać się czegoś
 be afraid to do sth/the subject is unwilling to do sth - obawiać się czegoś zrobić
+be anxious to do sth - pragnąć coś zrobić
+be capable of sth - być zdolnym do czegoś
+be delighted - zachwycać się/być zachwyconym
+be eager to do sth - być chętnym do zrobienia czegoś/zapalać się do zrobienia czegoś
+be famous for sth - słynąć z czegoś
+be glad to do sth - cieszyć się z możliwości zrobienia czegoś
+be good for sth - mający szanse poprawić stan czegoś
+be happy to do sth - chętnie coś zrobić
+be pleased to do something - mieć przyjemność coś zrobić/z przyjemnością coś zrobić
 be sorry for sth/apologise for an earlier action  - przepraszać za coś
 be sorry to do sth/apologise for an earlier action - być zawiedzionym zrobieniem czegoś
+come/go to the rescue - przyjść na ratunek
 encourage sb to do sth - zachęcać/przekonywać kogoś do zrobienia czegoś
 forgot doing sth/not recall - zapomnieć, że coś się zrobiło
 forgot to do sth/not remember - zapomnieć coś zrobić
+get up - wstać z łóżka/podnieść się/podnosić się
 go on doing sth/continue - dalej coś robić
 go on to do sth/then - przejść do robienia czegoś
 like sb to do sth/think that sth is good or right to do by sb - chcieć aby ktoś coś zrobił

@@ -20,11 +20,11 @@
 20. to buy
 
 13)
-2. too small
-3. too difficult
-4. loud enough
-5. tall enough
-6. hot enough
+2. too small to fit/hear
+3. too difficult to do
+4. loud enough to hear
+5. tall enough to reach
+6. too hot
 7. too tired
 8. sweet enough
 
@@ -33,8 +33,8 @@
 3. tall enough to reach
 4. old enough to attend
 5. too cold to go
-6. too boring to watching
-7. quite enoush to work
+6. too boring to watch
+7. quite enough to work
 8. too heavy to carry
 
 15)
@@ -46,4 +46,4 @@
 7. It's too hot outside to wear a coat.
 8. Mary is mature enough to make her own decisions.
 9. This flat is too small to live in it any more.
-10. Ron has enough patience to look after the childer.
+10. Ron has enough patience to look after the children.

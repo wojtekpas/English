@@ -1,0 +1,34 @@
+rzeczowniki:
+battle - bitwa/bój/batalia
+casulty - ofiara
+casualties - straty w ludziach
+decade - dekada/dziesięciolecie
+hotch-potch - mieszanina/galimatias/miszmasz
+indication - oznaczenie/znak/oznaka/przejaw/objaw/symptom/zwiastun/wskazówka
+interlocutor - interlokutor/rozmówca
+rememberance - cześć/pamięć/wspomnienie/pamiątka
+sieve - sito/sitko/durszlak
+
+czasowniki:
+born - urodzić się
+elapse - upływać/mijać/przemijać
+honour - wypełniać/poważać/szanować/honorować/uczcić
+log - rejestrować/notować/rąbać/ciosać
+shape - kształtować
+
+przymiotniki:
+dim - przyćmiony/ciemny/niewyraźny/słaby/marny/ciemny/miniaturowy/mały/drobny
+distant - daleki/odległy/chłodny/nieprzyjazny/nieobecny/nieprzytomny
+foreseeable - dający się przewidzieć/do przewidzenia
+living - żywy/żyjący/bytowy
+photographic - fotograficzny
+shaped - ukształtowany
+
+wyrażenia:
+cross sb's mind - przejść komuś przez myśl
+dim and distant past - daleka przeszłość
+photographic memory - pamięć fotograficzna
+play tricks on somebody - plątać komuś figle/żartować sobie z kogoś
+ring a bell - brzmieć znajomo
+slip sb's mind/memory - wylecieć komuś z pamięci/wypaść z głowy/zapomnieć o czymś
+suffer from sth - cierpieć na coś/z powodu czegoś

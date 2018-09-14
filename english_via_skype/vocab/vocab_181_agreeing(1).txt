@@ -1,36 +1,57 @@
 rzeczowniki:
+affection - uczucie/przywiązanie/sympatia/sentyment/wzruszenie/tkliwość
 allowance - dodatek/zasiłek/przydział/rabat/bonifikata/zniżka
+amazement - zdumienie/osłupienie/zaskoczenie
 argument - kłótnia/sprzeczka/dyskusja/spór/rozumowanie/argumentacja
 clearance - pozwolenie/zezwolenie/rozliczenie
 compromise - kompromis/ugoda/ustępstwo
+dispute - spór/kłotnia/sprzeczka/różnica zdań/kontrowersja
+graduate - absolwent
 heel - pięta/obcaj/drań/gnojek
 heels - szpilki
+oppressor - ciemiężca
 overview - przegląd/ogólny zarys
+prospect - perspektywa/szansa/możliwość/wizja/nadzieja/widoki
+pupil - uczeń
 quandary - rozterka/dylemat
 sort - rodzaj/typ
+survival - przetrwanie
 
 czasowniki:
 balance - balansować/wyważać/wypośrodkować/bilansować
+buckle - odkształcić się/wypaczyć/zginać się/ugiąć się pod naciskiem
 budge - poruszyć/ruszyć/nakłonić/drgnąć/ustapić/ustępować/ugiąć się/zmienić zdanie
+cave - ustąpić pod presją/poddać się
 concede - przyznawać się/oddawać/ustępować/dawać za wygraną
 ignore - ignorować/lekceważyć/nie zważać/pomijać/nie zwracać uwagi/nie doceniać/bagatelizować/uchylać
 ponder - rozważać/rozmyślać/zastanawiać się
 
 przymiotniki:
 adamant - twardy/stanowczy/niewzruszony
+discounted - przeceniony
 dogmatic - dogmatyczny
 educational - edykacyjny/oświatowy/pedagogiczny/dydaktyczny/pouczający
+expectant - pełen oczekiwań/wyczekujący
 firm - solidny/twardy/jędrny/stały/pewny/stanowczy/mocny/silny
+mad - wściekły/zły/szalony/zwariowany/obłąkany
+pleased - zadowolony/usatysfakcjonowany
+preparatory - przygotowawczy
 satisfactory - satysfakcjonujący/zadowalający
+speechless - oniemiały/milczący/niemy/niewypowiedziany
 
 przysłówki:
 certainly - z pewnością/na pewno/oczywiście
+full-time - na pełny etat
 mutually - nawzajem/wzajemnie/wspólnie
 point-blank - bezpośrednio/wprost/bez ogródek/kategorycznie/stanowczo
 remarkably - wybitnie/wielce/niezwykle
+somewhat - nieco/do pewnego stopnia
+uneventfully - spokojnie/bez zakłoceń
 
 wyrażenia:
+admit defeat - przyznać się do porażki
 albeit - aczkolwiek/chociaż/jednak
+all sorts of sth - wszystie rodzaje czegoś
 be at a loss - być w rozterce/nie wiedzieć co począć
 be in a dilemma - mieć dylemat/być w rozterce
 be in a quandary - być w rozterce/mieć dylemat
@@ -38,11 +59,14 @@ be in two minds - bić się z myślami/być niezdecydowanym
 be torn between - być rozdartym wewnętrznie/nie móc się zdecydować
 bear in mind - brać pod uwagę
 bear/keep sth in mind - pamiętać o czymś
+cave in to sth - uginać się pod czymś
 concede ground - ustąpić pola
 considering - zważywszy/biorąc pod uwagę/wobec/mimo wszystko
 dig in one's heels - zapierać się/opierać się
+down below - na dole/u dołu/poniżej
 en suite - z przyleglą łazienką
 free hand - wolna ręka
+full-time job - praca na pełen etat
 give and take - dawać i brać
 give-and-take - kompromis/wzajemne ustępstwa
 give ground - ustąpić/zmienić opinię
@@ -52,20 +76,25 @@ give sb the go-ahead - dać komuś zielone światło
 give up - poddać się/zrezygnować/przestać próbować
 give way - ustępować pierwszeństwa/być zastąpionym/ustąpić/ugiąć się pod ciężarem/naciskiem
 have/get one's way - postawić na swoim
+hold a position - zajmować pozycję
+hold on to something - trzymać się czegoś/zachowywać coś/nie oddawać czegoś
 hold out for sth - domagać się/żądać czegoś
 I'll give you that - przyznaję ci rację
 irrespective - nie mając baczenia/nie mając względu
 issue a blank cheque - wystawić czek in blanco
 leave a free hand - pozostawić wolną rękę
 let/get sb off the hook - wybawić kogoś z opresji
+look back - oglądać się za siebie/patrzeć wstecz/wracać pamięcią
 make a decision - podjąć decyzję
 make an exception - zrobić wyjątek
 make allowance/allowances for sth - wziąć coś pod uwagę/brać na coś poprawkę
 make up one's mind - postanowić/namyślić się
+not bring oneself to do sth - nie być w stanie zrobić czegoś/nie być w stanie zmusić się do zrobienia czegoś
 not give/budge an inch - nie ustąpić ani na krok
 not take no for an answer - nie akceptować odmowy
 pros and cons - za i przeciw/zalety i wady
 put one's foot down - postawić na swoim/jeździć bardzo szybko autem
+refuse to do sth - nie zgodzić się na zrobie czegoś
 regardless - pomimo tego/mimo wszystko/i tak
 rule sth out - wykluczać/odrzucać coś
 sit on the fence - być niezdecydowanym/siedzieć okrakiem/wyczekiwać/wahać się

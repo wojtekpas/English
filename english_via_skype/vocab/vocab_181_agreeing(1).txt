@@ -5,17 +5,21 @@ amazement - zdumienie/osłupienie/zaskoczenie
 argument - kłótnia/sprzeczka/dyskusja/spór/rozumowanie/argumentacja
 clearance - pozwolenie/zezwolenie/rozliczenie
 compromise - kompromis/ugoda/ustępstwo
+creed - wyznawane poglądy/wyznanie wiary/kredo
 dispute - spór/kłotnia/sprzeczka/różnica zdań/kontrowersja
 graduate - absolwent
 heel - pięta/obcaj/drań/gnojek
 heels - szpilki
+liberties - swoboty/prawa
 oppressor - ciemiężca
 overview - przegląd/ogólny zarys
 prospect - perspektywa/szansa/możliwość/wizja/nadzieja/widoki
 pupil - uczeń
 quandary - rozterka/dylemat
+risk - ryzyko/zagrożenie
 sort - rodzaj/typ
 survival - przetrwanie
+upset - wstrząs/wstrząs emocjonalny/niespodziewana porażka
 
 czasowniki:
 balance - balansować/wyważać/wypośrodkować/bilansować
@@ -24,24 +28,32 @@ budge - poruszyć/ruszyć/nakłonić/drgnąć/ustapić/ustępować/ugiąć się/
 cave - ustąpić pod presją/poddać się
 concede - przyznawać się/oddawać/ustępować/dawać za wygraną
 ignore - ignorować/lekceważyć/nie zważać/pomijać/nie zwracać uwagi/nie doceniać/bagatelizować/uchylać
+overcome - pokonywac/przezwyciężąć/opanowywać/uporać się/ogarnąć/owładnąć
 ponder - rozważać/rozmyślać/zastanawiać się
 
 przymiotniki:
 adamant - twardy/stanowczy/niewzruszony
+devoid - pozbawiony
 discounted - przeceniony
 dogmatic - dogmatyczny
 educational - edykacyjny/oświatowy/pedagogiczny/dydaktyczny/pouczający
 expectant - pełen oczekiwań/wyczekujący
 firm - solidny/twardy/jędrny/stały/pewny/stanowczy/mocny/silny
 mad - wściekły/zły/szalony/zwariowany/obłąkany
+mindful - świadomy/pamiętający
 pleased - zadowolony/usatysfakcjonowany
 preparatory - przygotowawczy
+radical - drastyczny/radykalny/zasadniczy
+reluctant - niechętny
+ruled - liniowy
 satisfactory - satysfakcjonujący/zadowalający
 speechless - oniemiały/milczący/niemy/niewypowiedziany
+welcome - mile widziany/pożądany/upragniony
 
 przysłówki:
 certainly - z pewnością/na pewno/oczywiście
 full-time - na pełny etat
+head-on - bezpośrednio/z determinacją
 mutually - nawzajem/wzajemnie/wspólnie
 point-blank - bezpośrednio/wprost/bez ogródek/kategorycznie/stanowczo
 remarkably - wybitnie/wielce/niezwykle
@@ -60,6 +72,7 @@ be torn between - być rozdartym wewnętrznie/nie móc się zdecydować
 bear in mind - brać pod uwagę
 bear/keep sth in mind - pamiętać o czymś
 cave in to sth - uginać się pod czymś
+come over - przyjeżdzać/wpadać/odnieść zamierzony efekt lub wrażenie/grać/udawać/blefować/oszukiwać
 concede ground - ustąpić pola
 considering - zważywszy/biorąc pod uwagę/wobec/mimo wszystko
 dig in one's heels - zapierać się/opierać się
@@ -80,6 +93,7 @@ hold a position - zajmować pozycję
 hold on to something - trzymać się czegoś/zachowywać coś/nie oddawać czegoś
 hold out for sth - domagać się/żądać czegoś
 I'll give you that - przyznaję ci rację
+iron sth out - rozwiązywać coś
 irrespective - nie mając baczenia/nie mając względu
 issue a blank cheque - wystawić czek in blanco
 leave a free hand - pozostawić wolną rękę
@@ -107,4 +121,6 @@ take sth into account - wziąć coś pod uwagę/uwzględniać coś
 take sth into consideration - brać coś pod uwagę/rozważać coś
 throw in the towel/sponge - rzucić ręcznik/poddać się
 weigh up - rozważać/porównywać/ważyć
+wipe out - zderzyć się/pokonać/wykończyć/zajechać na śmierć
 without wishing/wanting to do sth - nie chcąc czegośrobić/nie mając zamiaru czegoś robić
+worked out - całkowicie wydobyty

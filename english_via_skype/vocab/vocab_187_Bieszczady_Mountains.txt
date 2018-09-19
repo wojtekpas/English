@@ -1,0 +1,37 @@
+rzeczowniki:
+district - dzielnica/część miasta/rejon
+ecosystem - ekosystem
+expulsion - usunięcie/wyrzucenie/wydalenie/wypuszczenie
+monument - pomnik/monument/zabytek
+pastures - użytki zielone/pastwiska
+range - łańcuch górski/preria
+sanctuary - rezerwat/azyl/sanktuarium/świątynia
+scenery - sceneria/krajobraz/dekoracja
+visitor - odwiedzający/gość
+wildlife - flora i fauna/dzika przyroda/dzikie zwierzęta
+
+czasowniki:
+flourish - dobrze prosperować/kwitnąć/rozkwitać
+resist - opierać się/stawiać opór/sprzeciwiać się/odpierać
+stretch - rozciągać się/rozpościerać
+
+przymiotniki:
+appealing - pociągający/kuszący
+caring - opiekuńczy/troskliwy
+destitute - ogołocony/bez środków do życia/w nędzy
+forested - zalesiony
+hospitable - gościnny/sprzyjający/przyjazny
+magnificient - wspaniały/wyśmienity
+numerous - liczny
+splendid - znakomity/genialny/piękty/przepyszny/okazały/wyborny
+tremendous - zawrotny/obrzymi/kolosalny/niesamowity/wspaniały/straszny/budzący lęk
+
+przysłówki:
+largely - wyraźnie/w dużej mierze/w znacznym/przeważającym stopniu
+scarcely - niewiele/prawie wcale/dopiero co/przed chwilą/na pewno nie/definitywnie nie/definitywnie
+warmly - ciepło/gorąco/serdecznie
+
+wyrażenia:
+due to sth - z powodu czegoś/dzięki czemuś
+force out - wypchnąć/usunąć siłą
+plenty - mnóstwo/dużo/wiele

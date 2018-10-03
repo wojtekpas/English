@@ -1,0 +1,24 @@
+rzeczowniki:
+bother - kłopot/zmartwienie/udręka
+
+czasowniki:
+
+przymiotniki:
+bottomless - bez dna/niewyczerpany/nieprzebrany
+cloudless - bezchmurny/pogodny/jasny/niczym nie zmącony
+delicious - pyszny/wyśmienity/doskonały/wspaniały
+elegant - elegancki/wytworny/zgrabny
+endless - niewyczerpany/niezliczony/nieograniczony/niekończący się/wieczny/bezkresny/bez końca
+luxurious - luksusowy/wykwintny
+modern - współczesny/nowoczesny
+overpriced - zbyt drogi
+peaceful - spokojny/pokojowy/pojednawczy
+spacious - przestronny
+towering - wysoki/górujący/strzelisty/gwałtowny/nadzwyczajny/wybitny
+uncomfortable - niewygodny/niekomfortowy/kłopotliwy/zawstydzający
+unpolluted - czysty/nieskażony
+vast - obszerny/ogromny/rozległy/nieprzebrany
+welcoming - serdeczny/ciepły/gościnny/przyjemny/miły/powitalny
+
+wyrażenia:
+sparkling/carbonated/fizzy/seltzer water - woda gazowana/sodowa

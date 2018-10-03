@@ -1,0 +1,27 @@
+rzeczowniki:
+glimpse - mignięcie
+kingfisher - zimorodek
+landscape - krajobraz/pejzaż
+setting - otoczenie/miejsce/plener
+slope - zbocze/stok/nachylenie/spadek
+
+czaowniki:
+destroy - zniszczyć/zrujnować/rozbić/rozgromić/zabić/wytępić
+safeguard - chronić/zabezpieczać
+
+przymiotniki:
+dense - zwarty/zbity/gęsty
+familiar - znajomy/znany/swojski
+fast-flowing - warki/szybko płynący
+steep - strony
+unspoilt - niezepsuty/zachowany w naturalnym stanie
+
+wyrażenia:
+catch sight of sth - dostrzegać coś w biegu
+follow a path - podążać ścieżką
+go into ruin/go to ruin - popaść w ruinę
+lie in ruins - leżeć w gruzach
+look out - wyglądać
+look over sth - patrzeć/spoglądać za coś
+take a picture/photo - robić zdjęcie
+turn the corner - dochodzić do siebie/skręcić za rogiem

@@ -1,0 +1,30 @@
+rzeczowniki:
+earring - kolczyk
+goods - dobra/towary/dobytek/wyroby
+lawnmower - kosiarka do trawy
+packaging - opakowanie
+reproduction - reprodukcja/kopia/rozmnażanie/odtwarzania/kopiowanie
+
+czasowniki:
+award - przyznawać nagrodę/nagradzać/zasądzać/przyznawać
+recondition - odnowić/remontować/naprawić
+reproduce - reprodukować/powielać/kopiować
+wrap - zawinąć/owinąć/zapakować/opleść
+
+przymiotniki:
+ancient - starożytny/wiekowy/bardzo stary/starodawny
+antique - antyczny/zabytkowy/starożytny/starodawny
+authentic - tradycyjny/oryginalny/prawdziwy/originalny/autentyczny/wiarygodny
+brand new - nowiuteńki/nowiutki/zupełnie nowy
+cutting-edge - nowatorski/odkrywczy
+genuine - prawdziwy/szczery/realny
+innovative - innowacyjny/nowatorski
+old-fashioned - staromodny/staroświecki/niedzisiejszy/przestarzały
+out of date - nieaktualny/nieważny/przedawniony/staromodny
+second-hand - używany/z drugiej ręki
+up to date - aktualny/nowoczesny/modny/aktualny/najświeższy
+
+wyrażenia:
+good as new/like new/as god as new - jak nowy/w idealnym stanie
+in mint condition - w idealnym stanie/w bardzo dobrym stanie/w doskonałym stanie/jak nowy
+in perfect condition - w doskonałym stanie

@@ -1,0 +1,9 @@
+przymiotniki:
+dense - gęsty
+familiar - znajomy/znany/swojski/poufały/zażyły
+sandy - piaskowy
+snow-capped/covered - ośnieżony/zaśnieżony/pokryty śniegiem
+
+wyrażenia:
+in the distance - daleko
+take a picture/photopraph/photo - robić zdjęcie

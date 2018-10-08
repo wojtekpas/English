@@ -29,9 +29,9 @@ B)
 4)
 1. device
 2. antique
-3. ancient
+3. ancient, reproduction
 4. reconditioned
-5. 
-6. 
-7. 
+5. genuine
+6. window
+7. manufactures
 8. up, cutting-edge

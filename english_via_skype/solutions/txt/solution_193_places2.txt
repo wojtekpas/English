@@ -1,0 +1,45 @@
+2)
+1. P
+2. P
+3. P
+4. N
+5. N
+6. N
+7. P
+8. N
+9. N
+10. N
+11. N
+12. P
+13. N
+14. N
+15. N
+16. N
+17. P
+
+3)
+1. touristy
+2. stuffy/musty
+3. picterusque
+4. poky
+5. gloomy
+6. unspoiled
+7. plush
+8. seedy
+9. dreary
+10. draughty
+11. remote
+12. dingy
+13. drab
+14. spacious
+15. dreary
+16. seedy
+17. bustling
+
+4)
+1. sleepy
+2. bustling
+3. touristy
+4. picturesque
+5. remote
+6. unspoiled

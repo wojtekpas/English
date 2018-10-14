@@ -1,0 +1,80 @@
+rzeczowniki:
+conditions - warunki/okoliczności
+feelings - uczucia/emocje
+
+przymiotniki:
+absurd - absurdalny/bezsensowny/głupi/idiotyczny/niedorzeczny
+adverse - niekorzystny/szkodliwy/niepożadany/wrogi/przeciwny
+appaling - niesmaczny/wstrząsający/szokujący
+appetizing - nieapetyczny
+awkward - niewygodny/niezręczny/niewygodny/zdenerwowany/kłopotliwy/uciążliwy
+brand new - nowiuteńki/nowiutki/zupełnie nowy
+breathtaking - zapierający dech
+dead-end - bez odwrotu/bez wyjścia/bez perspektyw
+decent - godziny/przyzwoity/porządny/przyzwoity/miły/ubrany/cenzuralny/przyzwoity
+delightful - zachwycający/rozkoszny/wspaniały
+derelict - opuszczony/porzucony/niedbały/nieuważny/winny
+detailed - dokładny/szczegółowy
+dilapidated - podupadły/walący się/zniszczony
+disastrous - fatalny/katastrofalny/zgubny
+disgusting - wstrętny/obrzydliwy
+dreadful - okropny/straszny/fatalny/okropny/potworny/straszliwy
+dull - nieciekawy/nudny/monotonny/nijaki/pochmurny/tępy/głuchy/stłumiony
+enjoyable - miły/przyjemny
+exhilarated - radosny/rozradowany/szczęśliwy/w doskonałym nastroju
+exhilarating - ekscytujący/porywający/radosny
+exquisite - znakomity/wyborny/wyśmienity/wykwintny/wytworny/kunsztowny
+extraordinary - niezwykły/zadziwiający/zdumiewający/niesłychany/wyjątkowy
+far-reaching - obszerny/daleko idący/doniosły
+filling - sycący/pożywny
+filthy - obrzydliwy/bardzo brudny/paskudny/ohydny/sprośny/wulgarny
+fruitful - owocny/cenny/płodny/żyzny
+further - dalszy/dodatkowy
+gradual - stopniowy/łagodny
+grumpy - gderliwy/zrzędliwy
+hectic - nerwowy/gorączkowy/napięty/zaczerwieniony
+hilarious - wesoły/zabawny/komiczny
+impressive - imponujący/robiący wrażenie
+inconclusive - niedecydujący/nierozstrzygający/niejednoznaczny/bezproduktywny/bezowocny/nieprzekonujący
+inedible - niejadalny
+inevitable - nieunikniony/nieuchronny
+inspirational - inspirujący/natchniony
+intense - wielki/głęboki/intensywny/dotkliwy/reagujący emocjonalnie/zasadniczny/intensywny/poważny
+knackered - potwornie zmęczony/wykończony/zabity/rozsypujący się
+latest - najnowszy/najświeższy/ostatni
+lousy - parszywy/nędzny/kiepski/podły/okropny/mizerny/wstrętny/zawszony
+magnificent - wspaniały/wyśmienity
+mediocre - mierny/średni/przeciętny
+nourishing - odżywczy/pożywczy
+obnoxious - wstrętny/okropny/ohydny/nieznośny/odpychający
+obsolete - przestarzały
+outrageous - oburzający/skandaliczny/bulwersujący/horrendalny/ekstrawagancki/szokujący
+outstanding - wyrózniający się/wybitny/zaległy/nieuregulowany/bardzo ważny/nierozstrzygnięty/niedokończony
+petrified - skamieniały ze strachu/sparaliżowany/osłupiały/przerażony
+picturesque - malowniczy/barwny
+profound - przemożny/przenikliwy/głęboki/gruntowny/wnikliwy/całkowity/zupełny
+reasonable - rozsądny/realistyczny/osiągalny/odpowiedni/niewygórowany
+ridiculous - bezsensowny/absurdalny/niepoważny/śmieszny/idiotyczny
+scruffy - niechlujny/brudny
+secluded - ustronny/zaciszny/odosobniony/samotny
+sophisticated - wyrafinowany/obyty w świecie/wyszukany/zaawansowany
+spectacular - widowiskowy/spektakularny/imponujący/popisowy
+spontaneous - żywiołowy/spontaniczny
+stunning - zachwycający/oszałamiający/szokujący
+substandard - poniżej normy/gorszej jakości
+tense - napięty/nerwowy/spięty/zdenerwowany
+ultra-modern - ultranowoczesny/supernowoczesny
+undisputed - bezsporny/niepodważalny/niekwestionowany
+unrealistic - nieralistyczny/niewykonalny
+wide-ranging - o szerokim zasięgu
+worn out - wyczerpany/wykończony/wycieńczony/zużyty/zniszczony/znoszony/przetarty
+yummy - pyszny/przepyszny/mniam
+
+przysłówki:
+aback - w tył/ku tyłowi/wstecz/z powrotem
+unmitigatedly - absolutnie
+
+wyrażenia:
+be taken aback - zostać zaskoczonym
+dead end - ślepa uliczka
+take sb aback - zbić kogoś z tropu/zaskoczyć/zszokować kogoś

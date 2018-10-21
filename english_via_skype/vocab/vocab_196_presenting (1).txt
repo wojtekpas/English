@@ -1,0 +1,49 @@
+rzeczowniki:
+plant - fabryka/zakład/wytwórnia
+privatization - prywatyzacja
+reconstructing - odtwarzanie/zrekonstruowanie
+referring - odwoływanie się/nazwiązywanie/dotyczenie/przekazywanie
+reminding - przypominanie
+seriousness - powaga
+signpost - drogowskaz
+staff - personel/kadra/pracownicy/sztab
+
+czasowniki:
+address - rozwiązywać/zajmować się
+outline - naszkicować/przedstawiać w skrócie/zarysie
+preview - przeglądać
+regard - mieć wzgląd/brać pod uwagę/cenić/odnosić się/dotyczyć/obserwować
+underestimate - zbyt nisko oszacować/nie doceniać
+underline - podkreślać/kłaść nacisk
+undermine - podważać/podkopywać/nadszarpywać/podmywać
+
+przymiotniki:
+end-of-year - na koniec roku/kończący rok
+massive - masywny/ogromny/duży/świetny
+
+wyrażenia:
+aim at sth - dążyć do czegoś
+answer a question - odpowiedzieć na pytanie
+ask a question - zadać pytanie
+attract attention - przyciągać uwagę
+deal with sth - radzić sobie z czymś/mieć z czymś do czynienia/zajmować się czymś/traktować o czymś
+draw attention to sth - zwrócić uwagę na coś
+draw sth out - podejmować coś(np. temat)
+drive at sth - zmierzać do czegoś
+focus attention on sth - skupiać uwagę na czymś
+get across sth - przekazać coś/tłumaczyć coś
+get through sth - radzić coś z czymś/wykonywać coś/przebrnąć przez coś
+get to sth - zabrać się do czegoś/zacząć coś robić/wziąć/brać coś na warsztat
+go through - przejść (zostać uzgodnionym)
+look at sth - patrzeć na coś/przeglądać coś/analizować coś/przyglądać się czemuś
+point sth out - wskazywać na coś/zwrócić uwagę na coś/wytykać coś
+put a question - stawiać pytania
+put sth forward - proponować coś/przedstawiać coś/poruszać jakiś temat
+put sth out - ogłaszać/prezentować/wydawać coś/publikować/produkować
+put sth over - przekonywać do czegoś/mówić o czymś
+raise a question - zadawać pytanie/poruszać kwestię
+spell sth out - przedstawiać/wyjaśniać
+start off - ruszać/zacząć się
+stress sth - podkreslić coś/zaakcentować coś
+think sth out - przemyśleć coś/rozważać coś
+turn your attention to sth - zwrócić swoją uwagę na coś

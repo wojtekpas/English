@@ -1,0 +1,73 @@
+rzeczowniki:
+halt - postój/przystanek/stacja
+initiative - inicjatywa
+offender - przestępca/winowajca/sprawca
+supplier - dostawca
+
+czasowniki:
+permit - pozwalać/zezwalać/umożliwiać
+
+przymiotniki:
+imitative - naśladowczy/naśladujący/odtwórczy/imitatorski
+innovative - innowacyjny/nowatorski
+over-the-counter - bez recepty/pozagiełdowy/w wolnym obrocie
+preclinical - przedkliniczny
+projected - planowany/proponowany/przewidywany/prognozowany
+
+przysłówki:
+bestselling - najlepiej sprzedający się/bestselerowy/popularny
+consistently - konsekwentnie/spójnie
+fortunately - na szczeście/szczęśliwie
+virtually - praktycznie/niemalże
+
+wyrażenia:
+come to a halt - zakończyć się/całkowicie się zatrzymać
+do a surway - przeprowadzać badanie
+do damage - wyrządzić szkody
+extent of losses - rozmiar strat
+fall behind - pozostawać w tyle/zwalniać kroku/być gorszym
+get away from sth - odchodzić od tematu/uciec od czegoś/wyrwać się skądś
+get down to business - przystępować do rzeczy
+get oneself into a mess - znaleźć się w trudnej sytuacji/tarapatach
+get to the bottom - dotrzeć do sedna
+give example - dać przykład
+give sb a lead - daćkomuś przykład
+give sb the idea - wywołać u kogoś wyobrażenie
+give sb the impression - wywołać u kogoś wrażenie
+go back - wracać/powracać/datować się wstecz/znać się od dawna/cofnąć się w czasie
+go fine - pójść dobrze
+go for it - dawaj!, próbuj!
+go from bad to worse - pogorszyć się
+go without sth - obyć się bez czegoś
+go wrong - popsuć się/pójść źle/popełnić błąd
+have a long way to go - mieć jeszcze dużo do zrobienia
+have an impact on sth - wywrzećna coś wpływ/wpływać na coś/mieć na coś wpływ
+have an initiative - mieć inicjatywę
+in a few minutes time - za parę minut
+let sb down - zawieść kogoś/przynieść komuś zawód
+make a breakthrough - dokonać przełomu
+make a comparison - porównywać/robić porównanie
+make a difference - robić/stanowić różnicę/mieć znaczenie/wpływ/zmieniać/wprowadzać zmiany
+make a distinction - rozróżniać/odróżniać
+make a good job of doing sth - robić coś dobrze
+make a mess of sth - psuć coś
+make a surway - dokonać przeglądu
+make headway - robić postępy
+make minutes - sporządzać protokół
+make progress - robić postępy
+make/find time to do sth - znaleźć czas na coś
+nothing to do with it - nie mieć z czymś nic wspólnego
+on/to hand - pod ręką
+settle for sth - zadowolić się czymś/przystać na coś
+so much for sth - to tyle, jeśli chodzi o coś
+take a chance on sth - podjąć ryzyko związane z czymś/postawić na coś
+take a real bite - skosztować/spróbować czegoś
+take action against sb - wszcząć działania przeciwko komuś/wyciągnąć konsekwencje
+take advantage of sth - skorzystać z czegoś/wykorzystać coś
+take/embrace a risk - podejmować ryzyko
+take/face/suffer the consequences - ponieść konsekwencje
+take it from me/my word for it - możesz mi wierzyć/wierz mi na słowo
+take off - odnieść nagły sukces/ruszyć/nabierać tempa/nabierać rozpędu
+take shape - przyjąć kształt
+take the lead - przejąć inicjatywę/dowodzenie/objąć przywództwo/wyjść na prowadzenie
+take the opportunity - korzystać ze sposobności

@@ -1,35 +1,70 @@
 1)
 a) take
+b) taking
+c) give
+d) doing
+e) made
+f) made
 
 2)
-a)
-b) 
-c)
+a) take
+b) give
+c) doing
 d) make
-e) makes
+e) takes
 f) made
+g) making
 
 3)
 a) make
-b) takes
-c) 
-d) makes
-e) having
-f) having
+b) take
+c) make
+d) make
+e) taking
+f) making
 g) do
 h) taking
 i) making
-j) 
+j) making
 
 4)
-a)
-b) made
+a) making
+b) making
 c) taken
 d) give
 e) make
-f) made
+f) done
 g) take
 h) done
 i) give
 j) give
 k) done
+
+1)
+a) get
+b) getting
+c) got
+d) getting
+e) got
+f) get
+g) got
+h) get
+
+2)
+a) taking
+b) take
+c) taken
+d) take
+e) take
+f) take
+g) take
+h) taking
+
+3)
+a) going
+b) go
+c) gone
+d) goes
+e) go
+f) going
+g) go

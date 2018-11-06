@@ -8,6 +8,7 @@ czasowniki:
 permit - pozwalać/zezwalać/umożliwiać
 
 przymiotniki:
+bestselling - najlepiej sprzedający się/bestselerowy/popularny
 imitative - naśladowczy/naśladujący/odtwórczy/imitatorski
 innovative - innowacyjny/nowatorski
 over-the-counter - bez recepty/pozagiełdowy/w wolnym obrocie
@@ -15,7 +16,6 @@ preclinical - przedkliniczny
 projected - planowany/proponowany/przewidywany/prognozowany
 
 przysłówki:
-bestselling - najlepiej sprzedający się/bestselerowy/popularny
 consistently - konsekwentnie/spójnie
 fortunately - na szczeście/szczęśliwie
 virtually - praktycznie/niemalże
@@ -41,7 +41,7 @@ go from bad to worse - pogorszyć się
 go without sth - obyć się bez czegoś
 go wrong - popsuć się/pójść źle/popełnić błąd
 have a long way to go - mieć jeszcze dużo do zrobienia
-have an impact on sth - wywrzećna coś wpływ/wpływać na coś/mieć na coś wpływ
+have an impact on sth - wywrzeć na coś wpływ/wpływać na coś/mieć na coś wpływ
 have an initiative - mieć inicjatywę
 in a few minutes time - za parę minut
 let sb down - zawieść kogoś/przynieść komuś zawód

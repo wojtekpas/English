@@ -1,5 +1,5 @@
 2)
-goint
+going
 move
 return
 digress

@@ -1,0 +1,64 @@
+rzeczowniki:
+acquisition - nabytek/zakup/zdobycie/nabywanie/kupno/przejęcie/nabycie nowych klientów
+backing - wsparcie/poparcie/podkład/podkładka/spód/aprobata
+board - rada/komisja/zarząd/dyrekcja
+chairman - przewodniczący/prezes
+dividend - dzielna/dywidenda/wygrana
+inflation - inflacja/pompowanie/nadmuchiwanie/nadętość/pompatyczność
+merge/merger - połączenie/fuzja/łączenie
+obligation - zobowiązanie/obowiązek
+protest - protest
+rejection - odmowa/nieprzyjęcie/odrzucenie/niezaakceptowanie/wykluczenie/odtrącenie/wyrzeczenie się/zaprzeczenie
+stakeholder - interesariusz/partner/bukmacher/osoba zainteresowana
+support - wsparcie/pomoc/współczucie/podpora/podpórka
+takeover - przejęcie/przejęcie władzy/zagarnięcie/przywłaszczenie/przewrót
+uncertainty - niepewność/niejasność/wątpliwość/kruchość
+venture - przedsięwzięcie/interes/wyprawa
+
+czaswoniki:
+bid - licytować/składać ofertę/oferować
+entice/lure/tempt - kusić/nęcić/wabić/nakłaniać
+fuel - podsycać/napędzać/tankować
+interfere - wtrącać się/kolidować/mieszać się/wtrącać się/ingerować/majstrowaćprzy czymś/ruszać coś/przeszkadzać/zakłócać/ograniczać
+mount - organizować/urządzać/pietrzyć się/nagromadzać się/montować/pokrywać/dosiadać
+persuade - namawiać/przekonywać/perswadować
+settle - rozstrzygać/ustalać/decydować/osiedlać się/zasiedlać/osiadać/osadzać się/opadać/siadać/uregulować
+
+przymiotniki:
+disapproving - krzywy/wyrażający dezaprobatę
+disturbed - niezrównoważony/zaniepokojny/poruszony/niespokojny
+former - dawny/były
+imminent - nadciągający/bliski/nieuchronny/groźny/bezpośrednio grożący
+joint - wspólny/łączny/ex aequo
+rejected - odrzucony
+
+przysłówki:
+jointly - wspólnie
+possibly - być może/możliwe/możliwie/w ogóle
+
+wyrażenia:
+be in/on the cards - być pewny, że coś się wydarzy
+be over - skończyć się/zakończyć się
+bid for sth - podać swoją cenę/wycenić/ubiegać się o coś/wznosić swoją ofertę
+buy shares - kupować udziały
+clinch a/the deal - przypieczętować interes/zaklepać umowę/finalizować kontrakt/transakcję/umowę
+course of action - sposób postępowania/kierunek działania
+do sth on one's own - robić coś samodzielnie
+go bankrupt - zbankrutować
+go under - pasować pod/upaść/zatonąć
+in sb's favor - na czyjąś korzyść
+joint account - wspólny rachunek bankowy/wspólne konto
+joint venture - wspólne przedsięwzięcie/spółka z kapitałem mieszanym
+make a bid for sth - składać ofertę kupna czegoś
+mount/launch a campaign - rozpocząć kampanię
+not take sth lying down - nie skarżyć się na coś
+on the cards - bardzo prawdopodobnie
+open up - otworzyć/otierać/rozpoczynać działalność
+set off/out - wyruszyć/rozpocząć
+set sth off - spowodować/wywołać/włączyć/podkreślić/zdetonować coś/spowodować wybuch czegoś
+step down/aside - ustępować/ustąpić miejsca/zrezygnować na korzyść kogoś innego
+tighten one's belt - zaciskać pasa
+tip the balance/scales - przechylić szalę
+turn sth down - odrzucać/ściszać/zmniejszać coś
+wind sth up - zakończyć/skończyć/zlikwidować coś
+wriggle out of sth - wykręcać/wywinąć się od czegoś

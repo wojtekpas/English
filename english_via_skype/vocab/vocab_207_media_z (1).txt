@@ -1,0 +1,21 @@
+rzeczowniki:
+censorship - cenzura/cenzurowanie
+independence - niezależność/niepodległość/samodzielność/niezawisłość
+outcry - głosy protestu/krzyk protestu
+spotlight - centrum uwagi/światło reflektora punktowego
+
+czasowniki:
+constrain - zmuszać/zahamowywać/ograniczać
+enact - odgrywać/grać/uchwalać/wcielać w życie
+foster - pielęgnować/rozwijać/wspierać/brać na wychowanie
+impose - narzucać/nakładać/wymuszać
+invoke - odwoływać/przywoływać
+reinforce - popierać/wspierać/wzmacniać/umacniać/czyniść coś mocniejszym
+
+przymiotniki:
+implausible - nieprzekonująćy/nieprawdopodobny/mało prawdopodobny
+
+wyrażenia:
+lay sth down - ustanawiać coś/zaprzestawać czegoś/połozyć/kłaść coś
+pose a threat to sth - stanowić zagrożenie dla czegoś
+trigger sth - wyzwalać/uruchamiać/powodować/wywółać coś/pociagnąć za sobą

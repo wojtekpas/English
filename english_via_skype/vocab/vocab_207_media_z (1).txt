@@ -1,21 +1,57 @@
 rzeczowniki:
 censorship - cenzura/cenzurowanie
+circulation - nakład/krążenie/obieg/wymiana/cyrkulacja
+confidentiality - poufność/dyskrecja
+coverage - relacja/sprawozdanie/zasięg/nagłośnienie/uwaga/zainteresowanie
+diversity - różnorodność/rozmaitość/różnorodność/bogactwo/zróżnicowanie/wielostronność
+endangering - zagrożenie/zagrażanie/narażanie na szwank
+flow - przepływ/strumień/potok/napływ/przepływ/flow/płynność/lekkie pióro
+freedom - wolność/swoboda
 independence - niezależność/niepodległość/samodzielność/niezawisłość
+interference - ingerencja/wtrącanie się/interferencja/zakłócenia
+minority - mniejszość/niepełnoletność
 outcry - głosy protestu/krzyk protestu
+quality - jakość/cecha/przymiot/właściwość/wysoka klasa
+regime - rządy autorytarne lub totalitarne/reżim/ustrój polityczny
 spotlight - centrum uwagi/światło reflektora punktowego
+surveillance - inwigilacja/obserwacja/nadzór
+untrue - nieprawda
+watchdog - organ nadzorczy/ciało nadzorujące
 
 czasowniki:
 constrain - zmuszać/zahamowywać/ograniczać
+debunk - demaskować/obalać
 enact - odgrywać/grać/uchwalać/wcielać w życie
 foster - pielęgnować/rozwijać/wspierać/brać na wychowanie
 impose - narzucać/nakładać/wymuszać
 invoke - odwoływać/przywoływać
+libel - zniesławiać/zniesławić/oczerniać/spotwarzać
+plummet - runąć/spadać/obniżać się/runąć w dół/spadać
+portray - portretować/przedstawiać/ukazywać
 reinforce - popierać/wspierać/wzmacniać/umacniać/czyniść coś mocniejszym
 
 przymiotniki:
+balanced - pełnowartościowy/zbilansowany/równy/zrównoważony/wyważony
+credulous - łatwowierny/naiwny
+editorial - redakcyjny/wydawniczy/edytorski
+enforced - przymusowy/narzucony
+far-fetched - naciągany/przesadny/nieprzekonujący/zbyt daleko idący
 implausible - nieprzekonująćy/nieprawdopodobny/mało prawdopodobny
+naive - naiwny
+one-sided - jednostronny/nierówny
+safeguard - asekuracyjny
+threatened - zagrożony/zagrażający/wymierający
+unbiased - bezstronny
+vulnerable - odsłonięty/wystawiony na ciosy/trudny do obrony/czuły/bezbronny/wrażliwy/czuły
+
+przysłówki:
+objectively - obiektywnie
 
 wyrażenia:
+confidentiality of sources of information - tajemnica źródeł informacji
+impose censorship - wprowadzać cenzurę
+keep an eye on sth - mieć coś na oku/mieć na coś oko
 lay sth down - ustanawiać coś/zaprzestawać czegoś/połozyć/kłaść coś
 pose a threat to sth - stanowić zagrożenie dla czegoś
 trigger sth - wyzwalać/uruchamiać/powodować/wywółać coś/pociagnąć za sobą
+vital role - kluczowa rola

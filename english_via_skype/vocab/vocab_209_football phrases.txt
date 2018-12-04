@@ -1,0 +1,30 @@
+rzeczownki:
+activity - aktywność/ożywienie/działanie
+delivery - dostawa/przesyłka
+equalizer - wyrównujący gol
+flurry - poruszenie/nagłe ożywienie/tuman/podmuch
+lead - prowadzenie
+possesion - posiadanie
+post - słupek
+progression - postęp/rozwój/poprawa
+
+czasowniki:
+cushion - zamortyzować/osłabić/ochronić
+deflect - odpierać/odwracać/załamywać/odbijać/zbaczać/odbiegać/oddalać się
+
+przymiotnki:
+ragged - wykończony/padnięty/skonany
+successive - kolejny/następujący po sobie
+
+przysłówki:
+purposefully - celowo/z determinacją
+
+wyrażenia:
+at the top - na górze/u góry/na szczycie
+at the top of sth - na szczycie czegoś
+clean sheet - czyste konto
+gain an advantage - zyskać przewagę
+gain ground - stać się znanym/popularnym/zyskać popularność/odnosić coraz większy sukces
+gain ground on sb - odrobić straty do kogoś
+have an advantage over sb - mieć nad kimś przewagę
+make the cut - przejść eliminacje

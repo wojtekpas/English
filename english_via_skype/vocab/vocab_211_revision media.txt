@@ -1,0 +1,6 @@
+rzeczowniki:
+headline - nagłówek
+headlines - skrót wiadomości/nagłówki wiadomości
+judgement - osąd/ocena sytuacji/rozsądek/orzeczenie/wyrok
+sympathy - współczucie/wsparcie/zrozumienie
+tabloid - brukowiec/gazeta brukowa

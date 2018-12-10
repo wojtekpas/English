@@ -12,7 +12,7 @@ drip - kroplówka
 drop - kropla
 emergence - pojawienie się/wyjście na jaw/wynurzenie
 headteacher - dyrektor
-lapse - błąd/pomyłka/potknięcie/ostępstwo/chwila słabości/zapomnienia
+lapse - błąd/pomyłka/potknięcie/odstępstwo/chwila słabości/zapomnienia
 legislation - ustawodawstwo/legislacja
 metaphor - metafora/przenośnia
 official - urzędnik/urzędniczka/funkcjonariusz

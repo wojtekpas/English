@@ -4,6 +4,7 @@ circulation - nakład/krążenie/obieg/wymiana/cyrkulacja
 confidentiality - poufność/dyskrecja
 coverage - relacja/sprawozdanie/zasięg/nagłośnienie/uwaga/zainteresowanie
 diversity - różnorodność/rozmaitość/różnorodność/bogactwo/zróżnicowanie/wielostronność
+editorial - artykuł wstępny/wstępniak
 endangering - zagrożenie/zagrażanie/narażanie na szwank
 flow - przepływ/strumień/potok/napływ/przepływ/flow/płynność/lekkie pióro
 freedom - wolność/swoboda

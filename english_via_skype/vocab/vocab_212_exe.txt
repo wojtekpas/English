@@ -15,9 +15,10 @@ treaten - grozić/straszyć/zagrażać/stanowić zagrożenie
 przymiotniki:
 soul-destroying - śmiertelnie nudny/monotonny/żmudny/przytłaczający/przygnębiający
 trembling - drżący/roztrzęsiony
-viable - wykonalny/realny/rentowny/opłcalny
+viable - wykonalny/realny/rentowny/opłacalny
 
 wyrażenia:
+at stake - w zagrożeniu/zagrożony/na szali
 balancing act - próba godzenia sprzecznych interesów/gimnastykowanie się
 blame sb for sth - obarczyć kogoś winą za coś
 bury ones's head/hide one's hand in the sand - chować głowę w piasek/unikać konfrontacji
@@ -33,6 +34,7 @@ have an eye for detail - mieć wyczucie szczgółu/zauważać szczegóły
 hear from sb - mieć od kogoś wiadomości/wysłuchać relacji kogoś
 in the long run - na dłuższą metę
 keep in touch - pozostać w kontakcie/utrzymać kontakt z kimś
+keep sb waiting - kazać komuś czekać
 learn to live with sth - nauczyć się żyć z czymś
 make a payment - dokonać płatności
 pour money down the drain - wyrzucać pieniądze w błoto

@@ -33,16 +33,30 @@
 4. subsidised
 5. compassionate
 6. minimum
-7. swingeing
+7. early
 8. state
 
-2
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
+2)
+1. early retirement
+2. industrial tribunal
+3. state pension
+4. minimal wage
+5. voluntary redundancy
+6. compensation leave
 
 
 3)
+1.
+2. subsidised
+3.
+4.
+5. 
+6. 
+
+6)
+1. impressed
+2. developped
+3. awarded
+4. relished
+5. demonstrate
+6. realise

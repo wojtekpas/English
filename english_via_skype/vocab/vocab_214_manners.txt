@@ -1,0 +1,64 @@
+rzeczowniki:
+bowl - miska/miseczka
+chopsticks - pałeczki do ryżu
+comment - komentarz/uwaga/objaśnienie/ilustracja
+courtesy - uprzejmość/grzeczność/kurtuazja
+dining - obiadowanie/jedzenie obiadu
+disgrace - hańba/wstyd/kompromitacja
+etiquette - etykieta/protokół/normy postępowania/ceremoniał
+insolence - bezczelność
+manners - mianiery
+remark - spostrzeżenie/komentarz/uwaga/obserwacja
+
+czasowniki:
+disapprove - nie pochwalać/nie aprobować/oponować/nie zgadzać się
+emphasize - podkreślać/uwypuklać/eksponować/akcentować/uwydatniać
+perceive - odebrać w pewien sposób/postrzegać/zauważać/uświadamiać sobie/spostrzegać
+stab - pchnąć/dźgnąć/zasztyletować/ugodzić/zranić
+
+przymiotniki:
+cheeky - pyskaty/bezczelny/impertynencki/zawadiacki/zuchwały
+considered - przemyślany/rozważny/uważany za/brany pod uwagę
+cooked - gotowany
+courteous - uprzejmy
+customary - zwykły/normalny/powszechny/przyjęty/zwyczajowy
+discourteous - niegrzeczny
+disrespectful - nieokazujący szacunku/niegrzeczny/lekceważący/obraźliwy
+downright - jawny/kategoryczny/stanowczy/skończony/szczery/otwarty
+excellent - doskonały/znakomity
+exemplary - przykładowy/wzorowy/doskonały
+impeccable - nienaganny/bez zarzutu/bezgrzeszny/nieskazitelny/bez zarzutu
+inoffensive - nieszkodliwy
+insolent - bezczelny
+offended - urażony/obrażony
+offensive - obraźliwy/chamski/ordynarny/odrażający/ofensywny/atakujący
+put out - zdenerwowany/podminowany/zmartwiony/zasmucony
+respectful - pełen szacunku/poważania
+rude - niegrzeczny/nieprzyzwoity/wulgarny/prymitywny/prosty
+unacceptable - nie do przyjęcia/niedopuszczalny
+upwards - zwrócony ku górze
+
+przysłówki:
+downwards - w dół/do dołu/ku dołowi
+upwards - w górę/pod górę
+
+wyrażenia:
+be considered sth - być uznawanym za coś
+be on one's best behaviour - zachowywać się wzorowo
+carrot top - rudzielec
+cross sth out - przekreślić/wykreślić
+frown on/upon sb - krzywo patrzeć na kogoś
+in bad taste - w złym guście
+lower class - klasa niższa
+make a remark - zgłaszać uwagę
+middle class - klasa średnia
+not at all- nie ma za co/wcale nie/skądże
+put one's foot in it - strzelić gafę/chlapnąć/palnąć/wyskoczyć
+take exception to sth - poczuć się czymś urażonym/dotkniętym
+take offence - obrażać się
+the elderly - ludzie starsi/w podesłym wieku
+towards - w kierunku/w stronę/wobec/w celu/w kierunku
+upper class - klasa wyższa
+view sth as sth - rozważać coś jako coś
+what a cheek - co za tupets
+working class - klasa pracująca

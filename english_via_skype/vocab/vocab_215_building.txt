@@ -1,0 +1,108 @@
+rzeczowniki:
+angle - kąt
+base - podstawa/baza/spód/podkład/nasada
+beam - belka nośna/dźwigar
+bolt - zasuwa/rygiel/śruba
+bolting - przyśrubowanie
+bracket - wspornik/kinkiet
+climate - klimat
+cold - zimno/niska temperatura
+compliance/compliancy - zastosowanie się/stosowanie się/podporządkowanie się/uległość/zgodność/podatność
+concrete - beton
+constraints - ograniczenie/przymus
+construction - budawa/konstrukcja
+crane - dżwig/żuraw/suwnica
+discomfort - niewygoda/dolegliwość/zdenerwowanie/skrępowanie
+extent - zakres/zasięg/rozmiar/stopień/waga/obszar
+fence - płot/ogrodzenie
+footing - oparcie/podstawa/położenie/fundament
+framework - struktura/szkielet
+geology - geologia
+girder - dżwigar(element konstrukcyjny potrzebujący stropy/mosty, itp.)
+heat - ciepło/upał/gorąc
+hole - dziura/dół
+load - ładunek/ładowność/obciążenie
+mixture - mieszanka/mieszanina
+motion - ruch/poruszanie się
+occupant - lokator/mieszkaniec
+panel - płycina/tafla/panel/deska/tablica
+pressure - nacisk/napięcie
+resident - mieszkaniec/rezydent
+restriction - ograniczenie/restrykcja/obostrzenie/zastrzeżenie/zacieśnienie
+rock - głaz/duży kamień/skała
+sand - piasek/piach
+skyscraper - drapacz chmur/wieżowiec
+structure - struktura/budowla/budynek/konstrukcja
+support - podpora/podpórka
+vision - wizja/idea
+
+czasowniki:
+anchor - umocować/przymocować/zakorzeniać/dać oparcie
+calculate - obliczać/kalkulować/oceniać/wyceniać/szacować
+comply - zastosować się/stosować się/odpowiadać czemuś
+comprise - zawierać/obejmować/składać się/tworzyć
+constrain - zmuszać/zahamowywać/ograniczać
+counteract - przeciwdziałać/zapobiegać/zneutralizować/zwównoważyć
+determine - ustalać/określać/determinować/wyznaczać/rozstrzygać/decydować
+dig - kopać/wykopać/zanurzyć/wsadzić głęboko
+enclose - załączać/dołączać/otaczać/ogradzać
+establish - zakładać/tworzyć/ustanawiać/ugruntować/ustalać/dowodzić
+fix - przymocować
+form - formować/zakładać/tworzyć/kształtować/stanowić/być/wytwarzać/wyrabiać
+hold - trzymać/podtrzymywać
+insert - wkładać/wstawiać/wkłuwać
+limit - limitować/ograniczać
+obey - przestrzegać/być posłusznym/postępować zgodnie z/zastosowywać się do/podporządkowywać się/słuchać
+pour - nalewać/wlewać się/wdzierać się/rozlewać się/wsypywać
+prevent - zapobiegać/uniemożliwiać
+resist - opierać się/stawiać opór
+satisfy - satysfakcjonować/zaspokajać/przekonywać/zapewniać/spełniać
+secure - zabezpieczać/umocować/zamocować
+sway - chwiać/kołysać się
+translate - tłumaczyć/przetłumaczyć/przekładać się/oznaczać/przybierać formę/przenosić
+undergo - poddawać się/odbywać/przechodzić
+withstand - wytrzymywać/być odpornym/opierać się/oponować/stawiać opór
+
+przymiotniki:
+aesthetic/esthetic - estetyczny
+detailed - dokładny/szczegółowy
+emotional - emocjonalny/uczuciowy
+exterior - zewnętrzny
+horizontal - poziomy/horyzontalny
+massive - masywny/ogromny/duży
+physical - fizyczny/cielesny/materialny
+rectangular - prostokątny
+reinforced - wzmocniony/zbrojony
+restrict - ograniczać/ścieśniać/zastrzegać/zawężać/wyznaczać limit/utrudniać
+rigorous - rygorystyczny/surowy/dokładny/ścisły
+sound - rozsądny/logiczny/solidny/godny zaufania/staranny/skrupulatny
+steel - stalowy
+strict - surowy/wymagający/bezwzględny/dokładny/ścisły/nieelastyczny
+stringent - rygorystyczny/surowy
+thorough - gruntowny/dokładny/skrypulatny
+unharmed - nietknięty/bez uszczerbku(cały i zdrowy)
+vertical - pionowy
+
+przysłówki:
+excessively - zbyt/ponad miarę/bez umiaru/nadmiernie/wyjątkowo/na wyrost
+firmly - mocno/pewnie/stanowczo
+merely - zaledwie/jedynie/tylko
+structurally - strukturalnie
+
+wyrażenia:
+attention to detail - przykładanie uwagi do szczegółów
+be in motion - być w ruchu/w trakcie działania
+comply with sth - być zgodny z czymś/podporządkować się czemuś
+fasten sth to sth - przymocować coś do czegoś
+go down - ogniżać się
+go up - wznieść/wznosić
+high wind - silny wiatr
+in motion - w ruchu
+meet sb's needs - spełniać/zaspokajać czyjeś potrzeby
+on top - na wierzchu/na czubku/na czele
+reinforced concrete - beton zbrojny/żelbet/żelbeton
+safety regulations - przepisy bezpieczeństwa
+stand up - wytrzymywać/być odpornym
+such as - taki jak
+whether - czy/alaliż
+wind tunnel - tunel aerodynamiczny

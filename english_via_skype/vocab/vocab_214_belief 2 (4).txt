@@ -1,0 +1,74 @@
+rzeczowniki:
+belief - przekonanie/przeświadczenie/pogląd/wierzenie
+consideration - namysł/rozwaga
+destiny - przeznaczanie/los
+doubt - wątpliwość
+fate - los/przeznaczenie/fatum/zgubny koniec/śmierć
+forming - formowanie/zakładania/utworzenie/kształtowanie/wytwarzane/wyrabianie
+feeling - wrażenie/opinia/nastawienie
+indication - oznaczenie/znak/oznaka/przejaw/objaw/symptop/zwiastów/wskazówka/wskazanie
+inference - wnioskowanie/wniosek/sugestia
+misconception - błędne mniemanie/pojęcie/niewłaśiwe zrozumienie/przesąd
+misconstruction - błędna interpretacja
+misunderstanding - nieporozumienie
+researcher - badacz/pracownik naukowy/naukowiec/analityk prasowy
+scientist - naukowiec
+superstitions - przesąd/zabobon
+
+czasowniki:
+arise - powstawać/pojawiać się/wynikać
+attain - zdobywać/osiągać/realizować/zdobywać
+bother - martwić się/przejmować się/kłopotać się/dręczyć/przeszkadzać/powodować ból/dokuczać/niepokoić
+convince - przekonać/namówić
+dispel- rozpędzić/rozwiać
+reexamine - zrewidować/powtórnie zbadać/przemysleć/przeanalizować
+reinforce - popierać/wspierać/wzmacniać/umacniać
+rethink - przemyśleć ponownie
+strengthen - umacniać/utrwalać/cementować/wzmacniać
+undermine - podważać/podkopywać/nadszarpywać
+weaken - osłabiać/nadwyrężać
+
+przymiotniki:
+cunning - chytry/przebiegły/cwany/zręczny/wdzięczny/uroczy
+enlarged - powiększony
+erroneous - błędny/mylny
+gnawing - gryzący
+hardened - stwardniały/utwardzony/nałogowy
+harmful - szkodliwy/krzywdzący
+irrational - irracjonalny/nieuzasadniony/bezrozumny
+lingering - ociągający się/zwlekający
+nagging - dokucziwy/dręczący/narzekający/zrzędzący
+niggling - dręczący/uporczywy/czpialski
+persistent - wytrwały/uparty/nieustępliwy/uporczywy/przewkekły/chroniczny
+sneaking - potajemny/podstępny/nurtujący/wewnętrzny
+strengthened - obostrzony
+subconscious - podświadomy
+supplemental - dodatkowy/uzupełniający
+tricky - trudny/podchwytliwy/zawiły/podstępny/chytry
+unaware - nieświadomy/niezdający sobie sprawy
+unfeasible - niewygodnie/niepraktycznie
+unlikeable - niesympatyczny/antypatyczny/nieprzyjemny
+unlucky - fatalny/nieszczęśliwy/pechowy
+unshakable - niezwruszony/niezachwainy/niezmienny/nieporuszony
+
+przysłówki:
+psychic - paranormalny/parapsychuczny/psychiczny
+securely - pewnie/zdecydowanie/bezpiecznie/trwale/mocno
+strongly - inensywnie/silnie/głęboko/mocno/zdecydowanie/stanowczo
+
+wyrażenia:
+arrive at a conclusion - dochodzić do wniosku
+beyond/without a shadow of a doubt - bez cienia wątpliwości
+blind faith - ślepa wiara
+cast doubt on sth - podać coś w wątpliwość
+come from sth - wynikać z czegoś/być rezultatem czegoś
+common misconception - błędne przekonanie (ogólnie przyjte jako prwada)
+contrary to sth - niezgodny z czymś
+deeply held - głęboko żywiony (np. wiara, przekonanie)
+further consideration - falsze rozpatrzenie
+have a sneaking suspicion - mieć przeczucie/podjrzewać
+lead to sth - prowadzić do czegoś
+make an assumption - zakładać (np. że coś jest prawdą)
+nagging doubt - dręcząca wątpliwość
+strongly believe - być mocno przekonanym
+voice doubts - wyrazić wątpliwości

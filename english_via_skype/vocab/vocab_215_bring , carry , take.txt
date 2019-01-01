@@ -1,0 +1,49 @@
+rzeczowniki:
+illness - choroba
+recipe book - książka kucharska
+
+czasowniki:
+appreciate - doceniać/być wdzięcznym/cenić sobie
+deceive - okłamywać/oszukiwać/zwodzić/mamić/mylić
+overwork - przeciążąć pracą/przemęczać/nadużywać/przepracowywać się/pracować za dużo/zmuszać do zbyt ciężkij pracy
+persuade - namawiać/przekonywać/perswadować
+reassemble - ponownie gromadzić/złożyć/składać
+undertake - podjąć się/przedsięwziąć
+
+przymiotniki:
+brilliant - olśniewający/udany/doskonały/kapitalny/genialny/błyskotliwy/znakomity
+idiomatic - idiomatyczny
+
+wyrażenia:
+back door - tylne drzwi/ukryty sposób
+bring about sth - spowodować coś/doprowadzić do czegoś/prowokować coś/wywoływać coś
+bring forward - dać wynik/dać rezultat
+bring forward sth - przyspieszać coś/przenosić coś na wcześniejszą datę/przenieść coś/przenosić coś
+bring on sth - wywoływać coś/spowodować coś/przyspieszać coś/przyspieszać wzrost czegoś
+bring out sth - wydobywać/uwydatniać/uwypuklić/podkreślić/wydawać coś/wprowadzać coś na rynek/wyjmować/wyciągać coś
+bring sth round to sth - kierować rozmowę na jakiś temat
+bring up sb - wychować kogoś/zaprowadzić/przyprowadzić kogoś na górę
+bring up sth - podnosić/poruszać coś/napomykać o czymś/wyświetlać/pokazywać coś/zwiększać coś/wymiotować/zwymiotować/zwracać czymś
+care for sb - troszczyć się o kogoś/opiekować się kimś/zależeć na kimś/lubić kogoś
+carry away - porwać/unieść/zabirać
+carry on with sth - kontynuować coś/nie przerywać czegoś
+carry out sth - przeprowadzać/realizować/wykonywać coś/wprowadzać coś w życie
+get/be carried away - dać się ponieść/stracić panowanie nad emocjami
+split up - rozstać się
+take a day off - wziąć dzień wolnego
+take in sb - przyjmować/nocować/gościć kogoś/zatrzymać kogoś (np. na policji)/nabierać/oszukiwać/zwodzić kogoś
+take in sth - pojąć/przyjmować/zapamiętywać/przyswajać/zawierać/włączać/wliczać/odbierać/zarobić/zwęzić coś/odwiedzić coś/uczestniczyć spontanicznie w jakimś wydarzeniu/obejrzeć coś
+take on - zatrudniać/przyjmować/nabywać/godzić się na coś/rywalizować/wykazywać wielkie emocje
+take on sb - przyjmować/zatrudniać kogoś/wyzywyać kogoś do walki lub współzawodnictwa
+take on sth - zmagać się z czymś/stawiać czoła czemuś/brać odpowiedzialność za coś/przybierać coś (np. jakiś wyraz twarzy)/ładować coś
+take part - brać udział
+take sb for granted - nie doceniać kogoś
+take sb for sth - uważać coś na czyjś temat
+take sb's part - wspierać kogoś/wziąć czyjąś stronę
+take sth/it for granted - uważać coś za rzecz oczywistą/brać coś za pewnik
+take to sb - polubić kogoś/przekonać się do kogoś
+take to sth - zacząć cośuprawiać/zainteresować się czymś
+take up - obejmować (np. stanowisko)/zajmować (czas, pozycję)
+take up sth - skracać coś (materiał)/podjąć/podchwycić/przejmować/akceptować coś/zainteresować się czymś/podejmować się czegoś/zajmować się czymś
+take-off - start (samolotu)/parodia/naśladownictwo/wybicie/skocznia
+upstairs - na górze/piętrze

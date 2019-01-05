@@ -6,6 +6,7 @@ doubt - wątpliwość
 fate - los/przeznaczenie/fatum/zgubny koniec/śmierć
 forming - formowanie/zakładania/utworzenie/kształtowanie/wytwarzane/wyrabianie
 feeling - wrażenie/opinia/nastawienie
+honesty - prawość/uczciwość/szczerośćś
 indication - oznaczenie/znak/oznaka/przejaw/objaw/symptop/zwiastów/wskazówka/wskazanie
 inference - wnioskowanie/wniosek/sugestia
 misconception - błędne mniemanie/pojęcie/niewłaśiwe zrozumienie/przesąd
@@ -13,6 +14,7 @@ misconstruction - błędna interpretacja
 misunderstanding - nieporozumienie
 researcher - badacz/pracownik naukowy/naukowiec/analityk prasowy
 scientist - naukowiec
+superiority - przewaga/starszeństwo
 superstitions - przesąd/zabobon
 
 czasowniki:

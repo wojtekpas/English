@@ -1,4 +1,5 @@
 rzeczowniki:
+anchor - kotwica/oparcie/ostoja
 angle - kąt
 base - podstawa/baza/spód/podkład/nasada
 beam - belka nośna/dźwigar
@@ -34,6 +35,7 @@ sand - piasek/piach
 skyscraper - drapacz chmur/wieżowiec
 structure - struktura/budowla/budynek/konstrukcja
 support - podpora/podpórka
+swaying - chwianie/kołysanie
 vision - wizja/idea
 
 czasowniki:
@@ -58,6 +60,7 @@ prevent - zapobiegać/uniemożliwiać
 resist - opierać się/stawiać opór
 satisfy - satysfakcjonować/zaspokajać/przekonywać/zapewniać/spełniać
 secure - zabezpieczać/umocować/zamocować
+stiffen - usztywnieć/utwardzać/umacniać/zagęścić
 sway - chwiać/kołysać się
 translate - tłumaczyć/przetłumaczyć/przekładać się/oznaczać/przybierać formę/przenosić
 undergo - poddawać się/odbywać/przechodzić

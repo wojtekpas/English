@@ -1,0 +1,73 @@
+rzeczowniki:
+acceptance - akceptacja/zaakceptowanie/aprobata/zgoda
+adherence - przestrzeganie/przyleganie/przywieranie/przywiązanie/wierność
+adherent - stronnik/zwollennik/członek
+advance - osiągnięcie/rozwój/postęp/zaliczka/zadatek/zwyżka/natarcie
+advances - zabiegi/zaloty
+assumption - przypuszczenie/założenie/objęcie/przejęcie/wniebowzięcie
+awareness - świadomość/wiedza/znajomość
+bigotry - dewocja/fanatyzm
+consciousness - przytomność/świadomość
+conversion - nawrócenie
+credence - wiara
+exploitation - wyzysk
+fanatic - fanatyk/entuzjasta
+fanaticism - fanatyzm
+historian - historyk
+radical - radykła/radykalista
+radicalism - radykalizm
+feminism - feminizm
+movement - ruch/manewr/zmiana
+origin - źrodło/pochodzenie
+philosophy - filozofia/dywiza/zasada
+postulate - założenie/postulat
+poverty - bieda/ubóstwo
+reaction - reakcja/odruch/odziaływanie/przemiana
+reactionary - reakcjonista (przciwnik zmian społecznych i politycznych)
+relationship - relacja/stosunek/związek/pokrewieństwo
+religion - religia
+tenet - dogmat/doktryna/zasada
+weapon - broń
+
+czasowniki:
+abolish - uchylać/unieważniać/likwidować/obalać/znosić/usuwać/kasować
+ascribe - przypisywać
+eradicate - wykorzeniać/wyplewić/wypleniać/zwalczać/pozbywać się
+introduce - przedstawiać/wprowadzać/sprowadzać/wnosić/zapoznawać/zaznajamiać
+lend - pozyczać (coś komuś/o banku)
+pinch - szczypać/uściskać/uwierać/cisnąć/aresztować/podwędzić/zakosić
+postulate - zakładać/twierdzić/postulować/domagać się
+seek - ubiegać się o/dążyć do/zabiegać o/szukać/poszukiwać
+stem - pochodzić/wynikać/pojawiać się
+
+przymiotniki:
+anxious - zaniepokojony/zatroskany/pragący/żądny
+bigoted - fanatyczny/świętoszkowaty
+credulous - łatwowierny/naiwny
+credible - wiarygodny
+disapproving - krzywy/wyrażający dezaprobatę
+fanatical - fanatyczny/obsesyjny
+implausible - nieprzekonujący/nieprawdopodobny/mało prawdopodobny
+ingenuous - naiwny/prostoduszny
+plausible - prawdopodobny/wiarygodny/przekonujący
+primary - główny/podstawowy/początkowy/elementarny/pierwotny
+radical - drastyczny/radykalny/zasadniczy/dobry/udany
+reactionary - konserwatywny/przeciwdziałający zmianom
+self-professed - samo-zadeklarowany
+theoretical - teoretyczny/akademicki
+unquestioning - bezwzględny/ślepy
+
+przysłówki:
+fairly - raczej/dość/dosyć/całkiem/całkowicie/zupełnie
+
+wyrażenia:
+adhere to sth - stosować się do czegoś/trzymać się czegoś
+attribute sth to sb - przypisywać coś komuś (np. autorstwo)
+convert to sth - nawrócić się na coś (np. na Chrześcijaństwo)/przejść na coś
+derive from sth - pochodzić z/od czegoś
+get rid of sth - pozbyć się czegoś
+I don't buy it - nie kupuję tego (nie wierzę w to)
+put sth forward - proponować coś/przestawiać coś do przodu/przedstawiać coś/poruszać jakiś temat
+social rights - prawa socjalne
+stem from sth - wynikać z czegoś
+usher in - zapoczątkować (coś)

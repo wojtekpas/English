@@ -1,0 +1,62 @@
+rzeczowniki:
+authority - władza/moc/zwierzchnictwo/autorytet
+caution - ostrożność/uwaga/ostrzeżenie/przestroga/pouczenie
+childhood - dzieciństwo
+council - rada/kolegium/zarząd
+expedition - ekspedycja/wyprawa/wycieczka
+facilities - udogodnienia/pomieszczenia/obiekty
+fence - płot/ogrodzenie
+gunpoint - muszka/celownik
+holidaymaker - letnik/urlopowicz/wczasowicz/turysta
+liberty - wolność/swoboda
+tap - kran
+
+czasowniki:
+convey - przekazywać/komunikować/oddawać/wyrażać/dostarczać/doprowadzać
+harm - powodować/przynosić/wyrządzać szkodę/niszczyć
+persuade - namawiać/przekonywać/perswadować
+recapture - odtwarzać/przywoływać/złapać/schwytać/ponownie przejąć
+trick - oszukać/naciągnąć
+trouble - niepokoić/kłopotać/zmartwić/przeszkadzać/dokuczać/powodować problemy
+trust - ufać/wierzyć/polegać
+vie - współzawodniczyć
+
+przymiotniki:
+foolish - durny/głupi/nierozsądny/pochopny
+lit - oświetlony
+tailored - dopasowany/szyty na miarę/dopasowany do indywidualnych potrzeb
+unenjoyable - nieprzyjemny
+
+przysłówki:
+poorly - kiepsko/słabo/źle
+
+wyrażenia:
+at a loss - poniżej kosztów/w rozterce
+at a push - na siłę/na upartego
+at random/on a random basis - na chybił trafił/losowo
+at all costs - za wszelką cenę
+at gunpoint - na muszce
+at length - przez długi czas/w końcu/obszernie/szczegółowo
+at long last - w końcu/wreszcie/nareszcie/koniec końców
+at sb's disposal - do czyjeś dyspozycji
+at short notice - w krótkim terminie/czasie/w ostatnie chwili/na ostatnią chwilę/bez uprzedzenia
+at stake/risk - w zagrożeniu/na szali
+at the most - najwyżej/co najwyżej
+at the latest - najpóźniej
+at this rate - jak tak dalej pójdzie
+be at liberty to st - być wolnym od/być upoważnionym do czegoś
+be at stake - być zagrożonym/wątpliwym/pod znakiem zapytania
+give up on sth - zrezygnować z czegoś
+have taste in sth - mieć upodobanie w czymś
+keep sth at bay - trzymać coś na dystans/z dala od siebie
+put sb at a disadvantage - postawić kogoś w niekorzystnej sytuacji
+steer clear of sth - trzymać się od czgoś z daleka
+talk sense - mówić z sensem/na temat/do rzeczy
+tap water - woda z kranu
+think nothing of doing sth - uważać coś za rzecz łatwą
+thrive on sth - rozwijać się na czymś
+teeming with sth - obfitujący w coś
+unique to sb - będący wyłączną cechą kogoś
+update sb on sth - przekazać komuś najświeższe nowiny na temat czegoś
+venture out of sth - zaryzykować wyjście z czegoś
+withdraw money - wybierać/wypłacać/pieniądze

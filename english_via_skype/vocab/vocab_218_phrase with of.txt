@@ -8,11 +8,19 @@ facilities - udogodnienia/pomieszczenia/obiekty
 fence - płot/ogrodzenie
 gunpoint - muszka/celownik
 holidaymaker - letnik/urlopowicz/wczasowicz/turysta
+leopard - lampart
 liberty - wolność/swoboda
+mosquito - komar
+parrot - papuga
+ranch - farma/ranczo
+species - gatunek
+speedometer - prędkościomierz
 tap - kran
+wildlife - fauna i flora/dzika przyroda/dzikie zwierzęta
 
 czasowniki:
 convey - przekazywać/komunikować/oddawać/wyrażać/dostarczać/doprowadzać
+divulge - ujawniać
 harm - powodować/przynosić/wyrządzać szkodę/niszczyć
 persuade - namawiać/przekonywać/perswadować
 recapture - odtwarzać/przywoływać/złapać/schwytać/ponownie przejąć
@@ -22,7 +30,11 @@ trust - ufać/wierzyć/polegać
 vie - współzawodniczyć
 
 przymiotniki:
+appalling - przerażający/przeraźliwy/okropny/potworny/niesmaczny/wstrząsający
+escaped - zbiegły
 foolish - durny/głupi/nierozsądny/pochopny
+infected - zakażony/zarażony/zainfekowany
+infectious - zakaźny/zarażony/zaraźliwy
 lit - oświetlony
 tailored - dopasowany/szyty na miarę/dopasowany do indywidualnych potrzeb
 unenjoyable - nieprzyjemny
@@ -33,30 +45,40 @@ poorly - kiepsko/słabo/źle
 wyrażenia:
 at a loss - poniżej kosztów/w rozterce
 at a push - na siłę/na upartego
-at random/on a random basis - na chybił trafił/losowo
 at all costs - za wszelką cenę
 at gunpoint - na muszce
+at large - na wolności/w całości/w ogólnym ujęciu
 at length - przez długi czas/w końcu/obszernie/szczegółowo
+at liberty - na wolności
 at long last - w końcu/wreszcie/nareszcie/koniec końców
+at random/on a random basis - na chybił trafił/losowo
 at sb's disposal - do czyjeś dyspozycji
-at short notice - w krótkim terminie/czasie/w ostatnie chwili/na ostatnią chwilę/bez uprzedzenia
+at/on short notice - w krótkim terminie/czasie/w ostatnie chwili/na ostatnią chwilę/bez uprzedzenia
 at stake/risk - w zagrożeniu/na szali
 at the most - najwyżej/co najwyżej
 at the latest - najpóźniej
 at this rate - jak tak dalej pójdzie
+be at a disadvantage - być w niekorzystnej sytuacji
+be at large - być na wolności
 be at liberty to st - być wolnym od/być upoważnionym do czegoś
 be at stake - być zagrożonym/wątpliwym/pod znakiem zapytania
+be wary - mieć się na baczności/uważać/wystrzegać się
+drop out - rzucić szkołę/uczelnie/studia
 give up on sth - zrezygnować z czegoś
 have taste in sth - mieć upodobanie w czymś
+in/by cash - w gotówce/gotówką
 keep sth at bay - trzymać coś na dystans/z dala od siebie
 put sb at a disadvantage - postawić kogoś w niekorzystnej sytuacji
 steer clear of sth - trzymać się od czgoś z daleka
+stick to sth - trzymać się planu
 talk sense - mówić z sensem/na temat/do rzeczy
 tap water - woda z kranu
+teeming with sth - obfitujący w coś
 think nothing of doing sth - uważać coś za rzecz łatwą
 thrive on sth - rozwijać się na czymś
-teeming with sth - obfitujący w coś
+translate sth into sth - coś przekładać na coś innego
 unique to sb - będący wyłączną cechą kogoś
 update sb on sth - przekazać komuś najświeższe nowiny na temat czegoś
 venture out of sth - zaryzykować wyjście z czegoś
+why on earth - dlaczego u licha/dlaczego niby
 withdraw money - wybierać/wypłacać/pieniądze

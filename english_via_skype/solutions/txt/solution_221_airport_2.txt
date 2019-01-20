@@ -1,0 +1,16 @@
+A)
+1. departures
+2. arrivals
+3. passport control
+4. departure lounge
+5. gate
+6. baggage reclaim
+7. customs
+8. check-in desk
+
+B)
+1. boarding card, flight
+2. aboard
+3. hand luggage, overhead locker
+4. life jacket
+5. take-off, landing

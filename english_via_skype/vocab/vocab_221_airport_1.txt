@@ -1,0 +1,25 @@
+rzeczowniki:
+aisle seat - siedzenie przy przejściu
+boarding card/pass - karta pokładowa
+departure/boarding gate - wejście do smamolotu/bramka
+departure lounge/hall - hala odlotów
+hand/carry-on baggage/luggage - bagaż podręczny
+match - zapałka
+lighter - zapalniczka
+lounge - poczekalnia pokój wypoczynkowy/salon/komfortowy bar/hol (w hotelu)
+pack - pakunek/plecak/paczka/opakowanie
+parcel - paczka pocztowa
+window seat - miejsce przy oknie
+
+czasowniki:
+pack - pakować
+
+przymiotniki:
+chemical - chemiczny
+flammable - łatwopalny
+sharp - ostry
+unattended - bez opieki/nie pilnowany/zautomatyzowany/samoobsługowy
+
+wyrażenia:
+on behalf of sb - w czyimś imieniu
+pick up sth - podnosić coś

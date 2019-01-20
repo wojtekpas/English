@@ -1,0 +1,23 @@
+rzeczowniki:
+air travel - podróż lotnicza
+flight attendant/stewardess - stewardessa
+pilot - pilot
+
+czasowniki:
+board - wsiąść (do autobusu, pociągu, samolotu)
+carry - nosić/dzwigać/przewozić (pasażerów)
+check - odprawić/nadać
+hurry - spieszyć się
+land - lądować
+serve - podawać/serwować
+spend - wydawać
+
+wyrażenia:
+business class - klasa biznesowa
+check in - odprawić/nadać/zameldować się/zgłosić się do opdrawy
+economy/coach class - klasa ekonomiczna
+first class - pierwsza klasa
+jet lag - zaburzenie rytmu dobowego wynikającego z różnicy czasu
+outside - na zewnątrz
+spend money - wydawać pieniądze
+take off - startować

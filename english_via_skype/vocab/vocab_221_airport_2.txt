@@ -1,0 +1,22 @@
+rzeczowniki:
+arrivals - przyloty
+baggage reclaim/claim - miejsce odbioru bagażu
+check-in desk - stanowisko odprawy
+crew - załoga
+customs - odprawa celny/urząd celny
+departure - odlot/odjazd
+departures - odloty
+emergency - nagły wypadek
+flight - lot
+gate - bramka/wyjście
+goods - dobra/towary
+landing - lądowanie
+life jacket/preserver - kamizelka ratunkowa
+overhead locker/bin/compartment - schowek bagażowy
+passport control - kontrola paszportowa
+take-off - start
+
+wyrażenia:
+aboard - na pokładzie
+get on - wsiadać
+get off/out - wysiadać

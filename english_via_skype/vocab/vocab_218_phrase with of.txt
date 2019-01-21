@@ -8,6 +8,7 @@ facilities - udogodnienia/pomieszczenia/obiekty
 fence - płot/ogrodzenie
 gunpoint - muszka/celownik
 holidaymaker - letnik/urlopowicz/wczasowicz/turysta
+implication - konsekwencja/implikacja/aluzja/sugestia
 leopard - lampart
 liberty - wolność/swoboda
 mosquito - komar

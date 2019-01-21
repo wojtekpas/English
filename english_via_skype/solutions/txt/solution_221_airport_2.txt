@@ -1,12 +1,12 @@
 A)
 1. departures
-2. arrivals
+2. check-in desk
 3. passport control
 4. departure lounge
 5. gate
 6. baggage reclaim
 7. customs
-8. check-in desk
+8. arrivals
 
 B)
 1. boarding card, flight

@@ -2,11 +2,13 @@ rzeczowniki:
 arrivals - przyloty
 baggage reclaim/claim - miejsce odbioru bagażu
 check-in desk - stanowisko odprawy
+compressed gas - gaz sprężony
 crew - załoga
 customs - odprawa celny/urząd celny
 departure - odlot/odjazd
 departures - odloty
 emergency - nagły wypadek
+firearm - broń palna
 flight - lot
 gate - bramka/wyjście
 goods - dobra/towary
@@ -16,7 +18,11 @@ overhead locker/bin/compartment - schowek bagażowy
 passport control - kontrola paszportowa
 take-off - start
 
+przymiotniki:
+compressed - sprężony
+
 wyrażenia:
 aboard - na pokładzie
 get on - wsiadać
 get off/out - wysiadać
+make one's way - pokonać drogę/zmierzać/postępować

@@ -1,8 +1,11 @@
 rzeczowniki:
 aisle seat - siedzenie przy przejściu
+allowance - dozwolona ilość/przydział
 boarding card/pass - karta pokładowa
+connecting flight - lot z przesiądką
 departure/boarding gate - wejście do smamolotu/bramka
 departure lounge/hall - hala odlotów
+direct/non-stop flight - lot bezpośredni
 hand/carry-on baggage/luggage - bagaż podręczny
 match - zapałka
 lighter - zapalniczka

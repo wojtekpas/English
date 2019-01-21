@@ -1,0 +1,88 @@
+rzeczowniki:
+accomodation - zakwaterowanie/nocleg/kwatera/mieszkanie
+airline - linia lotnicza
+atmosphere - nastrój/atmosfera
+berth - koja/kuszetka
+cabin - kajuta/kabina
+camping - obozowanie/biwakowanie/spanie pod namiotem/rozbijanie obozu
+caravan - wóz/karawan/przyczepa kempingowa
+carriage - wagon osobowy
+carrier - przewoźnik/transprter/dostawca
+catering - zaopatrzenie gastronomiczne/wyżywienie
+chalet - domek letniskowy/szałas pasterski/domek w górach
+cottage - chata/domek wiejski
+crossing - przeprawa
+cruise - rejs wycieczkowym statkiem
+extras - rzeczy płatne dodatkowo
+fare - pasażer
+guest house - domek gościnny/pensjonat
+inn - gospoda/zajazd/karczma
+insurance - ubezpieczenie
+mileage - przebieg samochodu/zużycie paliwa/spalanie/dodatek na pokrycie kosztów podróży
+railway/railroad - kolej
+restrictions - ograniczenia
+route - trasa/droga/linia
+ship - statek
+sightseeing - zwiedzanie/turystyka krajoznawcza
+snack - przekąska
+stopover/layover - przesiadka/międzylądowanie
+tent - namiot
+transfer - przesiadka
+
+czasowniki:
+book - rezerwować
+cruise - pływać/odbywać rejs
+hire - wynajmować/zatrudniać/najmować/wynająć
+link - łączyć/złączyć/wiązać
+mind - mieć coś przeciwko/uważać/zachować ostrożność/przejmować się czymś
+please - życzyć sobie/dogadzać/zadowalać
+
+przymiotniki:
+all-inclusive - łączny (koszt)
+budget - tani/na każdą kieszeń
+cosy - przytulny/wygodny/komfortowy
+deluxe - luksusowy
+exhilarating - eksytujący/porywający/radosny
+exotic - egzotyczny
+historic - dziejowy/wiekopomny/historyczny/zabytkowy
+lovely - śliczny/piękny/przyjemny/miły/czarujący/uroczy
+low-cost - tani/niskonakładowy/niskokosztowy
+luxury - luksusowy
+non-refundable - nierefundowany
+unlimited - bezgraniczny/ogromny/nieograniczony
+unusual - niezwykły/niespotykany/niebanalny
+
+przysłówki:
+relatively - relatywnie/stosunkowo/względnie
+
+wyrażenia:
+be one's own boss - być samemu sobie szefem
+cancellation fee/charge opłata za rezygnację
+car hire - wynajem/wypożyczalnia samochodów
+change trains - przesiadać się z jednego pociągu w drugi
+charter flight - lot/rejs czarterowy
+come and go - zmieniać się regularnie
+direct/through train - pociąg bezpośredni
+drift along - wałęsać się/chodzić bez celu
+entrance fee - opłata za wstęp
+for my money - moim zdaniem
+full board/American plan - pełne wyżywienie
+get/catch a train - złapać pociąg
+get around - podróżować
+get away from it all - uciec od wszystkiego
+get one's money back - odzyskać swoje pieniądze
+go on a cruise - wyruszyć w rejs/popłynąc w rejs
+guided tour - zwiedzanie z przewodnikiem
+half board - zakwaterowanie z częściowym wyżywieniem
+holiday of a lifetime - wakacje życia
+lounge arround/about/away - obijać się/próżnować
+package holiday/vacation - wakacje zorganizowane
+rough it - żyć w siężkich warunkach
+scheduled flight - lot rejsowy
+self-catering - z wyżywieniem we własnym zakresie
+shuttle bus - autobus wahadłowy (np. na lotnisko)
+stay overnight/the night - zostać na noc/zanocować
+unlimited mileage - nieograniczony przebieg
+upper deck - górne piętro
+value for money - wart swojej ceny
+whether - czy

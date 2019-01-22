@@ -1,0 +1,90 @@
+rzeczowniki:
+beef - wołowina
+bit - część/kawałek
+bunch - pęk/kukiet/pęczek/wiązka/kiść
+butter - masło
+carrot - marchewka
+clove - goździk/ząbek
+core - ogryzek
+cube - kostka
+dash - kropla/odrobina
+dollop - porcyjka/dawka
+drumstick - podudzie/nóżka kurczaka
+fat - tłuszcz
+fatty - grubas/tłuścioch
+flavor - smak/posmak/aromat
+flavouring - przyprawa
+garlic - czosnek
+grape - winogrono
+grater - tarkas
+gristle - chrząstka
+herring - śledź
+lemon - cytryna
+loaf - bochenek/kawałek
+lump - kostka/bryła/gruda/kawałek
+onion - cebula
+oven - piekarnik/piec
+pat - porcja
+peel - skórka/łupina
+pip - pestka
+roast beef - maszynka do mięsa
+roast - pieczeń
+salt - sól
+seed - nasienie/nasiono/ziarno
+segment - część/segment/sektor/cząstka
+skin - skóra/skórka/łupina/flak/kożuch
+smell - zapach/smród/węch
+steak - stek/befsztyk/duży kawałek ryby/antrykot
+stem/stalk - łodyka
+strawberry - truskawka
+tissue - chusteczka
+vanilla - wanilia
+vinegar - ocet
+yoghurt - jogust
+
+czasowniki:
+diced - kroić w kostkę
+fat - tuczyć
+rub - pocierać/trzeć/nacierać
+shred  - pociąć/podrzeć na strzępy
+
+przymiotniki:
+baked - pieczony
+chewy - ciągnący się/trudny do pogryzienia/żylasty
+cooked - gotowany
+fatty - tłusty
+grated - tarty
+heated - podgrzewany
+kipper - solony/wędzony śledź
+lean - chudy
+mature - dojrzały/o mocnym smaku
+melted - roztopiony
+mild - łagodny/delikatny
+minced - mielony
+pickled - marynowany/peklowany/kiszony
+powdered - sproszkowany/upudrowany
+preserved - konserwowany
+rancid - zjełczały
+roast - pieczony/prażony
+seedless - pozbawiony nasion/bezpestkowy
+shaped - ukształtowany
+skimmed - odtłuszczony
+smoked - wędzony
+
+wyrażenia:
+a clove of garlic - ząbek czosnku
+baked/jacked potato - ziemniak pieczony w łupinie/mundurku
+bunch of grapes - kiść winogron
+cut into pieces/sections - pociąć na kawałki
+grated cheese - tarty ser
+hanp sth up - powiesić coś na haku
+loaf of bread - bochenek chleba
+minced/ground beef - wołowina mielona
+natural/plain yoghurt - jogurt naturalny
+pat of butter - mała porcja masłac
+plain chocolate - ciemna czekolada/gorzka czekolada/czekolada deserowa
+powdered milk - mleko sproszkowane/w proszku
+roast beef - pieczeń wołowa
+round of sandwiches - kanapki zrobione z dwóch kromek chleba (złożone kanapki)
+skimmed milk - mleko odtłuszczone
+spoonful - pełna łyżka (czegoś)

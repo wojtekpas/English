@@ -1,17 +1,26 @@
 rzeczowniki:
 beef - wołowina
 bit - część/kawałek
+bread roll - bułka
 bunch - pęk/kukiet/pęczek/wiązka/kiść
 butter - masło
+calf - cielę
 carrot - marchewka
+celery - seler
+cherry/sour cherry - wiśnia
+cherry/sweet cherry/wild cherry - czereśnia
+chips/potato chips/French fries/fries - frytki
 clove - goździk/ząbek
 core - ogryzek
 cube - kostka
 dash - kropla/odrobina
+dessert/pudding - deser
 dollop - porcyjka/dawka
 drumstick - podudzie/nóżka kurczaka
 fat - tłuszcz
 fatty - grubas/tłuścioch
+fillet/filet - filet
+fillet/filet/inner fillet/tenderloin - polędwica
 flavor - smak/posmak/aromat
 flavouring - przyprawa
 garlic - czosnek
@@ -19,27 +28,45 @@ grape - winogrono
 grater - tarkas
 gristle - chrząstka
 herring - śledź
+lamb - owieczka/jagnie/baranina/jagnięcię/bar
 lemon - cytryna
 loaf - bochenek/kawałek
 lump - kostka/bryła/gruda/kawałek
 onion - cebula
 oven - piekarnik/piec
+pan - patelnia/rondel
+parsley - pietruszka/natka pietruszki
 pat - porcja
+peach - brzoskwinia
 peel - skórka/łupina
+pie - placek/ciasto (owocowe)/keks/zapiekanka w cieście/pasztet/pasztecik/pierożek
 pip - pestka
+plaice - flądra
+plum - śliwka
+pudding - pudding
+rind - skórka/kora/łupina/łuska
 roast beef - maszynka do mięsa
 roast - pieczeń
 salt - sól
+sauce - sos
+saucer - spodek (od filiżanki)
+scrambled eggs - jajecznica
 seed - nasienie/nasiono/ziarno
 segment - część/segment/sektor/cząstka
+shell - skorupka/łupina
 skin - skóra/skórka/łupina/flak/kożuch
 smell - zapach/smród/węch
+spa - uzdrowisko/miejscowość kuracyjna/kurort/centrum odnowy biologicznej
+spinach - szpinak
 steak - stek/befsztyk/duży kawałek ryby/antrykot
 stem/stalk - łodyka
+stone - pestka
 strawberry - truskawka
 tissue - chusteczka
 vanilla - wanilia
+veal - cielęcina
 vinegar - ocet
+wedge - kawałęk czeogś w kształcie klina (np. kawałek sera/cytryny)
 yoghurt - jogust
 
 czasowniki:
@@ -51,10 +78,16 @@ shred  - pociąć/podrzeć na strzępy
 przymiotniki:
 baked - pieczony
 chewy - ciągnący się/trudny do pogryzienia/żylasty
+chilled - schłodzony/ostudzony/z lodówki
 cooked - gotowany
+crusty - chrupiący
+diced - pokrojony w kostkę
+eye-watering - bolesny/nieprzyjemny
 fatty - tłusty
 grated - tarty
+ground - mielony
 heated - podgrzewany
+juicy - soczysty/pikantny
 kipper - solony/wędzony śledź
 lean - chudy
 mature - dojrzały/o mocnym smaku
@@ -62,29 +95,61 @@ melted - roztopiony
 mild - łagodny/delikatny
 minced - mielony
 pickled - marynowany/peklowany/kiszony
+poached - gotowany delikatnie we wrzącej wodzie, mleku lub innym płynie
 powdered - sproszkowany/upudrowany
 preserved - konserwowany
 rancid - zjełczały
+red-hot - rozgrzany/bardzo gorący
+ripe - dojrzały
 roast - pieczony/prażony
 seedless - pozbawiony nasion/bezpestkowy
 shaped - ukształtowany
 skimmed - odtłuszczony
 smoked - wędzony
+smoky - zadymiony/wypłeniony dymem/przydymiony
+soft - miękki/gładki
+sour - kwaśny/skwaśniały/zsiadły
+sparkling - gazowany/musujący
+still - niegazowany
+stirred - zamieszany/mieszany
+stringy - włóknisty/łykowaty
+tender - miękki/kruchy (dobrze ugotowany)
+thick - gruby
+tough - twardy
+triangular - trójkątny
+unripe - niedojrzały
 
 wyrażenia:
 a clove of garlic - ząbek czosnku
 baked/jacked potato - ziemniak pieczony w łupinie/mundurku
+black coffee - czarna kawa/kawa bez mleka lub śmietanki
+bottled water - woda mineralna (w butelce)
 bunch of grapes - kiść winogron
 cut into pieces/sections - pociąć na kawałki
+dairy product - produkt mleczny/nabiał
+fish and chips - smażona ryba z frytkami
+go off - zepsuć się
 grated cheese - tarty ser
 hanp sth up - powiesić coś na haku
+kitchen table - stół kuchenny
 loaf of bread - bochenek chleba
+lunchtime - pora lunchu
+mashed potato/potatoes - puree ziemniaczane/tłuczone ziemniaki
 minced/ground beef - wołowina mielona
+mineral water - woda mineralna
 natural/plain yoghurt - jogurt naturalny
 pat of butter - mała porcja masłac
 plain chocolate - ciemna czekolada/gorzka czekolada/czekolada deserowa
 powdered milk - mleko sproszkowane/w proszku
 roast beef - pieczeń wołowa
 round of sandwiches - kanapki zrobione z dwóch kromek chleba (złożone kanapki)
+set menu - gotowe menu/zestaw menu
 skimmed milk - mleko odtłuszczone
+smoked salmon/lox - wędzony łosoś
+sparkling/carbonated/fizzy water - woda gazowana/sodowa
 spoonful - pełna łyżka (czegoś)
+stick of celery - łodyga selera
+still/flat water - woda niegazowana
+sour/soured cream - kwaśna śmietana
+whipped cream - bita śmietana
+white coffee - biała kawa/kawa z mlekiem

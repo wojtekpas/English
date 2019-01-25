@@ -1,4 +1,5 @@
 rzeczowniki:
+base - podstawa/baza
 bed - grządka/podstawa/podłoże/podkład
 beef - wołowina
 bit - część/kawałek
@@ -13,6 +14,7 @@ cherry/sweet cherry/wild cherry - czereśnia
 chips/potato chips/French fries/fries - frytki
 clove - goździk/ząbek
 core - ogryzek
+course - danie
 crust - skórka/piętka/skorupa/pokrywa
 cube - kostka
 cucumber - ogórek
@@ -26,10 +28,12 @@ fillet/filet - filet
 fillet/filet/inner fillet/tenderloin - polędwica
 flavor - smak/posmak/aromat
 flavouring - przyprawa
+foundation - podstawa/podkład
 garlic - czosnek
 grape - winogrono
 grater - tarkas
 gristle - chrząstka
+harvest - plony/zbiory/żniwa
 helping - porcja/dokładka
 herbs - zioła
 herring - śledź
@@ -38,6 +42,9 @@ lemon - cytryna
 lettuce - sałata
 loaf - bochenek/kawałek
 lump - kostka/bryła/gruda/kawałek
+mangetout - groch cukrowy
+mousse - mus/pasta
+mustard - musztarda/gorczyca
 onion - cebula
 oven - piekarnik/piec
 pan - patelnia/rondel
@@ -49,12 +56,14 @@ pepper - pieprz/papryka
 pie - placek/ciasto (owocowe)/keks/zapiekanka w cieście/pasztet/pasztecik/pierożek
 pip - pestka
 plaice - flądra
+plate - talerz
 plum - śliwka
 pudding - pudding
 quantity - ilość
 rind - skórka/kora/łupina/łuska
 roast beef - maszynka do mięsa
 roast - pieczeń
+salad - sałatka
 salt - sól
 sauce - sos
 saucer - spodek (od filiżanki)
@@ -64,6 +73,7 @@ segment - część/segment/sektor/cząstka
 shell - skorupka/łupina
 skin - skóra/skórka/łupina/flak/kożuch
 smell - zapach/smród/węch
+sirloin - wołowina zrazowa
 spa - uzdrowisko/miejscowość kuracyjna/kurort/centrum odnowy biologicznej
 spinach - szpinak
 sprinkle - odrobina/szczypta
@@ -82,6 +92,7 @@ wedge - kawałęk czeogś w kształcie klina (np. kawałek sera/cytryny)
 yoghurt - jogust
 
 czasowniki:
+adorn - dekorować/ozdabiać/zdobić/upiększać/przystrajać
 chew - żuć/przeżuwać/gryźć
 chop - siekać/ciąć/rąbać
 crush - miażdzyć/kruszyć/zgnieść/wycisnąć
@@ -92,17 +103,26 @@ fancy - mieć ochotę/chcieć
 fat - tuczyć
 garnish - ozdobić/przygrać
 grind - siekać/posiekać/mielić
-smother - dusić/zdławić/tłumić
+pulverise - zmiażdzyć/proszkować
 rub - pocierać/trzeć/nacierać
 shred  - pociąć/podrzeć na strzępy
+smother - dusić/zdławić/tłumić
 sprinkle - posypać/popryskać/pokropić
 stir-fry - smażyć małę kawałki na dużym ogniu
 
 przymiotniki:
+adorned - strojny/przybrany
 baked - pieczony
+baking - bardzo gorący/skrarny/upalny
+blended - mieszany/wymieszany
+boiling - gotujący się
+brittle - kruchy
+capped - nakryty
 chewy - ciągnący się/trudny do pogryzienia/żylasty
 chilled - schłodzony/ostudzony/z lodówki
 cooked - gotowany
+cracky - popękany
+crushed - zgnieciony
 crusty - chrupiący
 diced - pokrojony w kostkę
 eye-watering - bolesny/nieprzyjemny
@@ -112,13 +132,17 @@ grilled - grillowany/z rusztu
 grated - tarty
 ground - mielony
 heated - podgrzewany
+home-made - domowej roboty/domowy
+iced - z lodem/mrożony/z polewą
 juicy - soczysty/pikantny
 kipper - solony/wędzony śledź
 lean - chudy
+loaded - badziany/napakowany
 mature - dojrzały/o mocnym smaku
 melted - roztopiony
 mild - łagodny/delikatny
 minced - mielony
+mingled - zmieszany
 mixed - różnorodny/zróżnicowany
 mouth-watering - apetyczny/że aż ślinka leci/rozpływający się w ustach
 pickled - marynowany/peklowany/kiszony
@@ -146,6 +170,7 @@ stirred - zamieszany/mieszany
 stodgy - ciężkostrawny/sycący
 stringy - włóknisty/łykowaty
 succulent - soczysty/smakowity
+tempting - kuszący/nęcący
 tender - miękki/kruchy (dobrze ugotowany)
 thick - gruby
 thin - cienki
@@ -161,6 +186,8 @@ traditionally - tradycyjnie/zazwyczaj
 
 wyrażenia:
 a clove of garlic - ząbek czosnku
+accompanied by something - przy akompaniamencie czegoś
+apple pie - szarlotka/jabłecznik
 apple tart - placek z jabłkami/tarta jabłkowa
 baked/jacked potato - ziemniak pieczony w łupinie/mundurku
 black coffee - czarna kawa/kawa bez mleka lub śmietanki
@@ -179,6 +206,7 @@ lashings of sth - masa/fura czegoś
 loaf of bread - bochenek chleba
 long-grain rice - ryż długoziarnisty
 lunchtime - pora lunchu
+main course - danie główne
 mashed potato/potatoes - puree ziemniaczane/tłuczone ziemniaki
 minced/ground beef - wołowina mielona
 mineral water - woda mineralna
@@ -193,10 +221,11 @@ season sth with sth - przyprawić coś czymś
 set menu - gotowe menu/zestaw menu
 skimmed milk - mleko odtłuszczone
 smoked salmon/lox - wędzony łosoś
+sour/soured cream - kwaśna śmietana
 sparkling/carbonated/fizzy water - woda gazowana/sodowa
 spoonful - pełna łyżka (czegoś)
 stick of celery - łodyga selera
 still/flat water - woda niegazowana
-sour/soured cream - kwaśna śmietana
+sweetcorn/corn - kukurydza
 whipped cream - bita śmietana
 white coffee - biała kawa/kawa z mlekiem

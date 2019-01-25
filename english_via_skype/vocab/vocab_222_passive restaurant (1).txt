@@ -1,0 +1,35 @@
+rzeczowniki:
+bill - rachunek/faktura
+cutlery/silverware/flatware/eating irons - sztućce
+napkin/serviette - serwetka
+pepper shaker/pot/cellar - pieprzniczka
+pork - wieprzowina
+pork chop - kotlet schabowy (z kością)
+refill - dolewka/kolejny drink
+stew - gulasz
+
+czasowniki:
+cater - zaopatrywać
+refill - ponownie napełnić
+
+przymiotniki:
+complimentary - bezpłatny/gratisowy
+deprived - pozbawiony/wyzuty
+intolerant - nietolerancyjny
+prominent - znaczący/wybitny/czołowy
+shabby - odrapany/wytarty/obskurny/sfatykowany/znoszony
+well-seasoned - dobrze przyprawiony/aromatyczny/smaczny
+
+przysłówki:
+truly - prawdziwie/naprawdę/szczerze
+
+wyrażenia:
+a variety of sth - wybór czegoś/wiele rozmaitych czegoś
+be short of cash - mieć mało kasy
+care for sth - mieć ochotę na coś/zechcieć czegoś
+cater to sth - zaspokojać/spełniać
+free of charge - za darmo/bezpłątnie/gratis
+get back - wrócić
+help yourself - poczęstuj się/proszę bardzo/ależ proszę
+lactose intolerance - nietolerancja laktozy
+run out of sth - nie mieć już czegoś/wyczerpać coś

@@ -1,0 +1,26 @@
+rzeczowniki:
+appetizer/starter - zakąska/przystawka
+allergy - alergia/uczulenie
+calamari - kalmary
+cocktail - drink alkoholowy
+lasagna/lasagne - lazania
+restroom - toaleta
+rye - żyto
+tuna- tuńczyk
+waitperson/server/waiter - kelner/kelnerka
+
+przymiotniki:
+medium - średnio wysmażony
+rare - krwisty/niedosmażony
+
+przysłówki:
+certainly - oczywiście
+
+wyrażenia:
+enjoy your meal - smacznego
+have a good day - dobrego dnia
+have a look at sth - spojrzeć na coś
+keep the change - proszę zatrzymać resztę/reszty nie trzeba
+more than enough - więcej niż trzeba
+last time - ostatnim razem
+today's special/dish of the day - danie dnia

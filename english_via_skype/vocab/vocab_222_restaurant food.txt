@@ -1,4 +1,5 @@
 rzeczowniki:
+bed - grządka/podstawa/podłoże/podkład
 beef - wołowina
 bit - część/kawałek
 bread roll - bułka
@@ -12,7 +13,9 @@ cherry/sweet cherry/wild cherry - czereśnia
 chips/potato chips/French fries/fries - frytki
 clove - goździk/ząbek
 core - ogryzek
+crust - skórka/piętka/skorupa/pokrywa
 cube - kostka
+cucumber - ogórek
 dash - kropla/odrobina
 dessert/pudding - deser
 dollop - porcyjka/dawka
@@ -27,9 +30,12 @@ garlic - czosnek
 grape - winogrono
 grater - tarkas
 gristle - chrząstka
+helping - porcja/dokładka
+herbs - zioła
 herring - śledź
 lamb - owieczka/jagnie/baranina/jagnięcię/bar
 lemon - cytryna
+lettuce - sałata
 loaf - bochenek/kawałek
 lump - kostka/bryła/gruda/kawałek
 onion - cebula
@@ -39,11 +45,13 @@ parsley - pietruszka/natka pietruszki
 pat - porcja
 peach - brzoskwinia
 peel - skórka/łupina
+pepper - pieprz/papryka
 pie - placek/ciasto (owocowe)/keks/zapiekanka w cieście/pasztet/pasztecik/pierożek
 pip - pestka
 plaice - flądra
 plum - śliwka
 pudding - pudding
+quantity - ilość
 rind - skórka/kora/łupina/łuska
 roast beef - maszynka do mięsa
 roast - pieczeń
@@ -58,11 +66,15 @@ skin - skóra/skórka/łupina/flak/kożuch
 smell - zapach/smród/węch
 spa - uzdrowisko/miejscowość kuracyjna/kurort/centrum odnowy biologicznej
 spinach - szpinak
+sprinkle - odrobina/szczypta
 steak - stek/befsztyk/duży kawałek ryby/antrykot
 stem/stalk - łodyka
 stone - pestka
 strawberry - truskawka
+string - sznurek/struna
+texture - tekstura/układ włokien/konsystencja
 tissue - chusteczka
+toffee - toffi/irys (cukierek)
 vanilla - wanilia
 veal - cielęcina
 vinegar - ocet
@@ -70,10 +82,21 @@ wedge - kawałęk czeogś w kształcie klina (np. kawałek sera/cytryny)
 yoghurt - jogust
 
 czasowniki:
+chew - żuć/przeżuwać/gryźć
+chop - siekać/ciąć/rąbać
+crush - miażdzyć/kruszyć/zgnieść/wycisnąć
+decorate - dekorować/ozdabiać
 diced - kroić w kostkę
+digest - trawić/strawić
+fancy - mieć ochotę/chcieć
 fat - tuczyć
+garnish - ozdobić/przygrać
+grind - siekać/posiekać/mielić
+smother - dusić/zdławić/tłumić
 rub - pocierać/trzeć/nacierać
 shred  - pociąć/podrzeć na strzępy
+sprinkle - posypać/popryskać/pokropić
+stir-fry - smażyć małę kawałki na dużym ogniu
 
 przymiotniki:
 baked - pieczony
@@ -84,6 +107,8 @@ crusty - chrupiący
 diced - pokrojony w kostkę
 eye-watering - bolesny/nieprzyjemny
 fatty - tłusty
+generous - obfity/sowity/szczodry
+grilled - grillowany/z rusztu
 grated - tarty
 ground - mielony
 heated - podgrzewany
@@ -94,7 +119,10 @@ mature - dojrzały/o mocnym smaku
 melted - roztopiony
 mild - łagodny/delikatny
 minced - mielony
+mixed - różnorodny/zróżnicowany
+mouth-watering - apetyczny/że aż ślinka leci/rozpływający się w ustach
 pickled - marynowany/peklowany/kiszony
+piping hot - wrzący/bardzo gorący
 poached - gotowany delikatnie we wrzącej wodzie, mleku lub innym płynie
 powdered - sproszkowany/upudrowany
 preserved - konserwowany
@@ -102,6 +130,7 @@ rancid - zjełczały
 red-hot - rozgrzany/bardzo gorący
 ripe - dojrzały
 roast - pieczony/prażony
+seasoned - przyprawiony/pikantny
 seedless - pozbawiony nasion/bezpestkowy
 shaped - ukształtowany
 skimmed - odtłuszczony
@@ -110,39 +139,57 @@ smoky - zadymiony/wypłeniony dymem/przydymiony
 soft - miękki/gładki
 sour - kwaśny/skwaśniały/zsiadły
 sparkling - gazowany/musujący
+sticky - kleisty/lepki
 still - niegazowany
+stir-fried - smażony krótko na dużym ogniu
 stirred - zamieszany/mieszany
+stodgy - ciężkostrawny/sycący
 stringy - włóknisty/łykowaty
+succulent - soczysty/smakowity
 tender - miękki/kruchy (dobrze ugotowany)
 thick - gruby
+thin - cienki
+topped - wykończony/pokryty
 tough - twardy
 triangular - trójkątny
 unripe - niedojrzały
 
+przysłówki:
+lightly - lekko
+thickly - grubo (np. posmarować/pokroić)
+traditionally - tradycyjnie/zazwyczaj
+
 wyrażenia:
 a clove of garlic - ząbek czosnku
+apple tart - placek z jabłkami/tarta jabłkowa
 baked/jacked potato - ziemniak pieczony w łupinie/mundurku
 black coffee - czarna kawa/kawa bez mleka lub śmietanki
 bottled water - woda mineralna (w butelce)
 bunch of grapes - kiść winogron
 cut into pieces/sections - pociąć na kawałki
 dairy product - produkt mleczny/nabiał
+first course - pierwsze danie
 fish and chips - smażona ryba z frytkami
 go off - zepsuć się
 grated cheese - tarty ser
 hanp sth up - powiesić coś na haku
+in season - w sezonie
 kitchen table - stół kuchenny
+lashings of sth - masa/fura czegoś
 loaf of bread - bochenek chleba
+long-grain rice - ryż długoziarnisty
 lunchtime - pora lunchu
 mashed potato/potatoes - puree ziemniaczane/tłuczone ziemniaki
 minced/ground beef - wołowina mielona
 mineral water - woda mineralna
 natural/plain yoghurt - jogurt naturalny
+parsley sauce - sos pietruszkowy
 pat of butter - mała porcja masłac
 plain chocolate - ciemna czekolada/gorzka czekolada/czekolada deserowa
 powdered milk - mleko sproszkowane/w proszku
 roast beef - pieczeń wołowa
 round of sandwiches - kanapki zrobione z dwóch kromek chleba (złożone kanapki)
+season sth with sth - przyprawić coś czymś
 set menu - gotowe menu/zestaw menu
 skimmed milk - mleko odtłuszczone
 smoked salmon/lox - wędzony łosoś

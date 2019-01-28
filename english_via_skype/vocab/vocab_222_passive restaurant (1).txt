@@ -1,26 +1,60 @@
 rzeczowniki:
+beverage - napój
+beverages - napoje
 bill - rachunek/faktura
+bloating - wzdęcie
 cutlery/silverware/flatware/eating irons - sztućce
+diversity - różnorodność/bogactwo
+inconvenience - kłopot/niedogodność/niewygoda
 napkin/serviette - serwetka
 pepper shaker/pot/cellar - pieprzniczka
 pork - wieprzowina
 pork chop - kotlet schabowy (z kością)
+ranging - obejmowanie zakrecem/rozciąganie się (od czegoś do czegoś)
 refill - dolewka/kolejny drink
 stew - gulasz
 
 czasowniki:
 cater - zaopatrywać
+fetch - przynieść/powodować
+overpower - obezwładnić/zwyciężyć/pokonać/ogarnąć/owładnąć
 refill - ponownie napełnić
+taste - mieć smak/smakować
 
 przymiotniki:
+bitter - gorzki
+bland - mdły/nijaki/bezbarwny
 complimentary - bezpłatny/gratisowy
+crumbly - krzuszący się/kruchy/sypki
+crunchy - chrupiący/chrupki/skrzypiący
 deprived - pozbawiony/wyzuty
+detrimental - szkodliwy/krzydzący
+disgusting - wstrętny/obrzydliwy
+fabulous - bajeczny/bankowy/fantastyczny/piękny/legendarny
+fruity - owocowy/pełny/soczysty/pikantny/nieprzyzwoity
+greasy - tłusty/natłuszczony/zatłuszczony/śliski
+indigestible - niestrawny/ciężki
 intolerant - nietolerancyjny
+overcooked - rozgotowany
+overpriced - zbyt drogi
+overrated - przereklamowany/przeceniany
+peppery - pieprzny/ostry
 prominent - znaczący/wybitny/czołowy
+raw - surowy/nieprzetworzony
+rich - obfity/pożywny
+runny - płynny/rzadki/lejący się/wodnisty
+salty - słony
 shabby - odrapany/wytarty/obskurny/sfatykowany/znoszony
+smooth - głądki/wygładzony
+stale - czerstwy/nieświeży/stęchły
+strong - z dużą wartością alkoholu/esencjonalny/stężony
+sugary - słodki/cukrowy/przesłodzony
+sweet - słodki/świeży/przyjemny (np. woda)
+undercooked - niedogotowany
 well-seasoned - dobrze przyprawiony/aromatyczny/smaczny
 
 przysłówki:
+phenomenally - fenomenalnie/wyjątkowo/nadzwyczajnie
 truly - prawdziwie/naprawdę/szczerze
 
 wyrażenia:
@@ -32,4 +66,6 @@ free of charge - za darmo/bezpłątnie/gratis
 get back - wrócić
 help yourself - poczęstuj się/proszę bardzo/ależ proszę
 lactose intolerance - nietolerancja laktozy
+madam - pani/proszę pani
 run out of sth - nie mieć już czegoś/wyczerpać coś
+soft drink - napój bezalkoholowy

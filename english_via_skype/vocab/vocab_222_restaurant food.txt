@@ -88,7 +88,7 @@ toffee - toffi/irys (cukierek)
 vanilla - wanilia
 veal - cielęcina
 vinegar - ocet
-wedge - kawałęk czeogś w kształcie klina (np. kawałek sera/cytryny)
+wedge - kawałek czeogś w kształcie klina (np. kawałek sera/cytryny)
 yoghurt - jogust
 
 czasowniki:

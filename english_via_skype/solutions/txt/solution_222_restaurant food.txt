@@ -2,13 +2,13 @@
 1. sparkling/mineral water
 2. scrambled/poached eggs
 3. baked/mashed potato
-4. grated cheese
+4. grated/melted cheese
 5. smoked salmon
 6. minced/roast beef
 7. whipped/sour cream
-8. 
-9. skimmed/powdered milk
-10. 
+8. pickled onions
+9. fresh/skimmed/powdered milk
+10. smoked/chilled
 11. diced/grated carrots
 
 2)
@@ -26,7 +26,30 @@ a)
 11. d
 12. k
 
+b)
+1. pat of batter
+2. a lump of sugar
+3. a loaf of bread
+4. a leg of lamb
+5. a pinch of salt
+6. a bunch of grapes
+7. a round of sandwiches
+
 3)
+b)
+1. rancid, soft
+2. drumstick, chicken
+3. apples
+4. mature 
+5. tender
+6. pips, seadless, stone
+7. peel, rind
+8. sour, sparkling, still
+9. plain
+10. tough
+11. lean
+12. unripe
+
 c)
 1. gristle
 2. veal

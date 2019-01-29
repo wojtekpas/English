@@ -37,6 +37,7 @@ harvest - plony/zbiory/żniwa
 helping - porcja/dokładka
 herbs - zioła
 herring - śledź
+highland - wyżyna/wzgórze
 lamb - owieczka/jagnie/baranina/jagnięcię/bar
 lemon - cytryna
 lettuce - sałata

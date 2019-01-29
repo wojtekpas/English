@@ -53,9 +53,9 @@ b)
 c)
 1. gristle
 2. veal
-3. 
-4.
-5. 
+3. scrambled
+4. core
+5. grated
 
 2)
 1. mixed
@@ -67,7 +67,7 @@ c)
 7. accompanied
 8. season
 9. watering
-10. teeming
+10. smothered
 11. lashings
 12. piping/red
 13. topped

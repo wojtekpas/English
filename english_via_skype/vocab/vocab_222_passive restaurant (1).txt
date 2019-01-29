@@ -26,7 +26,7 @@ bitter - gorzki
 bland - mdły/nijaki/bezbarwny
 complimentary - bezpłatny/gratisowy
 crumbly - krzuszący się/kruchy/sypki
-crunchy - chrupiący/chrupki/skrzypiący
+crunchy - chrupiący/chrupki
 deprived - pozbawiony/wyzuty
 detrimental - szkodliwy/krzydzący
 disgusting - wstrętny/obrzydliwy
@@ -59,13 +59,16 @@ truly - prawdziwie/naprawdę/szczerze
 
 wyrażenia:
 a variety of sth - wybór czegoś/wiele rozmaitych czegoś
+be right back - zaraz wracam
 be short of cash - mieć mało kasy
 care for sth - mieć ochotę na coś/zechcieć czegoś
 cater to sth - zaspokojać/spełniać
+deprived of sth - pozbawiony czegoś
 free of charge - za darmo/bezpłątnie/gratis
 get back - wrócić
 help yourself - poczęstuj się/proszę bardzo/ależ proszę
 lactose intolerance - nietolerancja laktozy
 madam - pani/proszę pani
+on the house - na koszt firmy/właściciela
 run out of sth - nie mieć już czegoś/wyczerpać coś
 soft drink - napój bezalkoholowy

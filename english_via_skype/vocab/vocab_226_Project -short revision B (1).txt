@@ -1,0 +1,48 @@
+rzeczowniki:
+baseline - punkt odniesienia
+conjunction - połączenie/spójnik/koniunkcja
+consensus - konsensus/jednomyślność/zgodna opinia
+deadlock - impas
+department - wydział/katedra/dział/resort
+difficulti - trudność/problem
+feasibility - prawdopodobieństwo/wykonalność
+prerequisites - warunek wstępny/zasadniczy/wymóg
+supervisor - nadzorca/kierownik/przyłożony
+
+czasowniki:
+allocate - przydzielać/przyznawać/rozprowadzać
+comply - zastosować się/stosować się/odpowiadać czemuś
+conduct - przeprowadzać/prowadzić/dyrygować/przewodzić/kierować/zaprowadzać
+cope - zwieńczać/dać sobie radę/uporać się/znosić
+exclude - wykluczać/pomijać/nie obejmować/wyłączać/zawieszać
+face  - stawiać czoła/przyjmować/uznawać/radzić sobie
+facilitate - udostępniać/ułatwiać/umożliwiać
+fulfil - spełniać/realizować/wykonywać/zaspokajać/pełnić
+overcome - pokonywać/przezwyciężać/opanowywać się/oporać się/ogarnąć/owładnąć
+overlap - zachodzić na siebie/nakładać na siebie/pokrywać się częściowo/nałożyć się w czasie/kolidować
+undertake - podjąć się/przedsięwziąć
+
+przymiotniki:
+adverse - niekorzystny/szkodliwy/niepożądany/wrogi/przeciwny
+foregoing - przytoczony/poprzedni/dotychczasowy
+incapable - nieudolny/nieporadny
+noncompatible - niezgodny/niekompatybilny
+
+wyrażenia:
+come in sth - wchodzić w coś/angażować się w coś
+comply with sth - być zgodnym z czymś/podporządkować się czemuś
+conduct a test - przeprowadzać test
+cope with sth - radzićsobie z czymś
+dead end - ślepa uliczka
+further research - dalsze badania
+get approval - uzyskiwać aprobatę
+get stuck - utknąć/zacinać się
+go-ahead - zielone światło
+hand in - oddawać coś
+hand sth in - złozyć/składać coś
+incapable of sth - niezdolny do czegoś/nienadający się do czegoś
+miss deadline - nie zdążyć w terminie
+move forward - poruszać/ruszać się do przodu
+on the track - w dobrym kierunku/na dobrej drodze
+trigger a response - wywołać odzew
+under budget - poniżej budżetu (taniej)

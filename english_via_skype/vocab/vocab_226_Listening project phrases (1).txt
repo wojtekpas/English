@@ -1,0 +1,29 @@
+rzeczowniki:
+contigency - nieprzewidziany wypadek/ewantualność/możliwość
+goods - dobra/towary/wyroby
+headache - zmartwienie/utrapienie
+impotence - nieudolnośc/bezsilność
+priorities - priorytety
+staff - personel/kadra/pracownicy/sztab
+stead - zamiast/w miejsce
+superior - przełożony/kierownik/dyrektor
+
+czasowniki:
+establish - zakładać/tworzyć/ustanawiać/ugruntować/ustalać
+rush - pędzić/gonić/ponaglać/poganiać
+
+przymiotniki:
+day-to-day - codzienny/zwykły
+
+wyrażenia:
+arrive on time - przybyć punktualnie
+critical path - ścieżka krytyczna
+critical path analysis - opracowanie scieżki krytycznej
+in the long run - na dłuższą metę
+keep records - prowadzić księgi
+make a contribution to sth - przyłożyć/przyczynić się do czegoś/mieć w coś wkład
+oil the wheels - pomóc w usunięciu przeszkód
+reflect on sth - zastanawiać się nad czymś/głęboko nad czymś rozmyślać
+take steps - podjąć kroki/środki
+track sth - śledzic/obserować coś
+without interference - bez zakłóceń

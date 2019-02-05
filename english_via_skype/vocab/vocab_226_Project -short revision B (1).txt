@@ -4,7 +4,7 @@ conjunction - połączenie/spójnik/koniunkcja
 consensus - konsensus/jednomyślność/zgodna opinia
 deadlock - impas
 department - wydział/katedra/dział/resort
-difficulti - trudność/problem
+difficulty - trudność/problem
 feasibility - prawdopodobieństwo/wykonalność
 prerequisites - warunek wstępny/zasadniczy/wymóg
 supervisor - nadzorca/kierownik/przyłożony
@@ -32,14 +32,14 @@ wyrażenia:
 come in sth - wchodzić w coś/angażować się w coś
 comply with sth - być zgodnym z czymś/podporządkować się czemuś
 conduct a test - przeprowadzać test
-cope with sth - radzićsobie z czymś
+cope with sth - radzić sobie z czymś
 dead end - ślepa uliczka
 further research - dalsze badania
 get approval - uzyskiwać aprobatę
 get stuck - utknąć/zacinać się
 go-ahead - zielone światło
 hand in - oddawać coś
-hand sth in - złozyć/składać coś
+hand sth in - złożyć/składać coś
 incapable of sth - niezdolny do czegoś/nienadający się do czegoś
 miss deadline - nie zdążyć w terminie
 move forward - poruszać/ruszać się do przodu

@@ -2,7 +2,9 @@ rzeczowniki:
 contigency - nieprzewidziany wypadek/ewantualność/możliwość
 goods - dobra/towary/wyroby
 headache - zmartwienie/utrapienie
-impotence - nieudolnośc/bezsilność
+impetus - bodziec/impuls/pęd/impet
+impotence - nieudolność/bezsilność
+praise - pochwała/chwała
 priorities - priorytety
 staff - personel/kadra/pracownicy/sztab
 stead - zamiast/w miejsce
@@ -24,6 +26,7 @@ keep records - prowadzić księgi
 make a contribution to sth - przyłożyć/przyczynić się do czegoś/mieć w coś wkład
 oil the wheels - pomóc w usunięciu przeszkód
 reflect on sth - zastanawiać się nad czymś/głęboko nad czymś rozmyślać
+stand sb in good stead - przydać się komuś
 take steps - podjąć kroki/środki
 track sth - śledzic/obserować coś
 without interference - bez zakłóceń

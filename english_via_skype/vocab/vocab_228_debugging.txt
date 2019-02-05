@@ -1,0 +1,71 @@
+rzeczowniki:
+analyser/analyzer - analizator
+assembly - montaż/montowanie
+breakpoint - punkt wstrzymania/przerwania
+circuit - obwód elektryczny
+complexity - złożoność
+corruption - korupcja/zepsucie/przekręcenie/deformacja
+crash - awaria/zawieszenie się
+defect - defekt/wada
+exception - wyjątek
+factor - czynnik/współczynnik/stopień
+instrument - narzędzie/przyrząd
+integration - integracja/scalanie/zaadoptowanie/zintegrowanie się
+interaction - interakcja
+oscilloscopes - oscyloskop
+parallel - porównanie/podobieństwo
+profiling - zbieranie informacji (np. o człowieku/produkcie)
+programmer - programista komputerowy
+reputation  - renoma/reputacja/opinia
+scheduling - planowanie
+semantics - semantyka
+simplification - uproszczenie
+statement - oświadczenie/komunikat/wypowiedź/twierdzenie
+tactic - taktyka
+tracing - śledzenie/namierzenie
+
+czasowniki:
+concentrate - koncentować/skoncentować/skupiać
+conquer - podbijać/pokonywać
+debug - wyszukiwać i usuwać usterki
+dereference - wyłuskać
+detect - dostrzegać/odkrywać/zauważać/wykrywać
+examine - sprawdzać/kontrolować/badać
+involve - wymagać/pociągać za sobą/obejmować/dotyczyć/wciągać/absorbować
+monitor - monitorować/obserować
+prevent - zapobiegać/uniemożliwiać
+reproduce - odtwarzać/reprodukować/powielać/kopiować
+spot - dostrzegać/zauważać
+vary - różnić się/zmieniać się
+
+przymiotniki:
+dubious - podejrzany/wątpliwy/niepewny/wątpiący/dyskusyjny
+erratic/erratical - nieobliczalny/nieodpowiedzialny/nierówny/niekonsekwentny/zmienny/nieregularny
+high-level - wysokiego szczebla/wysoki
+interactive - wchodzący w interakcję/współdziałający/interaktywny
+lengthy - przydługi/dłużący się/rozwlekły
+low-level - na niskim szczeblu
+nontrivial - niebłahy/nietrywialny
+parallel - równoległy
+rare - rzadki/rewelacyjny/kapitalny/znakomity/niezwykły/szlachetny
+silent - sichy/milczący
+simplified - uproszczony
+specific - szczególny/specuficzny/konkretny/szczegółowy/sprecyzowany
+static - statyczny
+tiresome - dokuczliwy/męczący/nużący
+
+przysłówki:
+greatly - bardzo/ogromnie/znacznie
+sufficiently - wystarczająco/dostatecznie
+syntactically - skłądniowo
+
+wyrażenia:
+call stack - stos wywołań
+control flow - przepływ sterowania
+divide and conquer - dzielić i rządzić/zwyciężać
+in combination with something - w połączeniu/zestawieniu z czymś
+memory dump - wyciąg z pamięci
+set of sth - zestaw czegoś
+some extent/degree - do pewnego stopnia/w pewnym stopniu
+track sth down - wytropić/odnaleźć coś
+unit testing - test jednostkowy

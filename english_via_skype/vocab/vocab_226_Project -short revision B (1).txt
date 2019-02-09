@@ -20,6 +20,7 @@ facilitate - udostępniać/ułatwiać/umożliwiać
 fulfil - spełniać/realizować/wykonywać/zaspokajać/pełnić
 overcome - pokonywać/przezwyciężać/opanowywać się/oporać się/ogarnąć/owładnąć
 overlap - zachodzić na siebie/nakładać na siebie/pokrywać się częściowo/nałożyć się w czasie/kolidować
+refine - doskonalić/ulepszać
 undertake - podjąć się/przedsięwziąć
 
 przymiotniki:
@@ -40,6 +41,7 @@ get stuck - utknąć/zacinać się
 go-ahead - zielone światło
 hand in - oddawać coś
 hand sth in - złożyć/składać coś
+in conjunction with sth - wspólnie z czymś
 incapable of sth - niezdolny do czegoś/nienadający się do czegoś
 miss deadline - nie zdążyć w terminie
 move forward - poruszać/ruszać się do przodu

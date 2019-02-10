@@ -1,0 +1,35 @@
+rzeczowniki:
+approval - zgoda/zatwierdzenie/potwierdzenie/aprobata/uznanie
+inconvenience - kłopot/niedogodność/niewygoda
+necessity - konieczność/potrzeba
+production - produkcja/wydajność
+progressing - postępowanie/rozwijanie się
+scope - zakres/możliwość
+
+czasowniki:
+acquire - nabywać/zdobywać/osiągać/uzyskiwać/kupować
+anticipate - spodziewać się/oczekiwać/przywidywać/antycypować/uprzedzać/wyprzedzać/oczekiwać na coś z niecierpliwością
+assign - przydzielić/przypisać/wyznaczyć
+assure - zapewniać/gwarantować
+enquire/inquire - pytać
+extend - rozbudować/powiększyć/wydłużyć/rozszerzyć/przedłużyć
+facilitate - udostępniać/ułatwiać/umożliwiać
+hinder - powstrzymywać/przeszkadzać/utrudniać/ograniczać/hamować
+mitigate - łagodzić/uspokajać/uśmierzać/złagodzić
+notify - powiadamiać/zgłaszać/zawiadamiać/awizować
+oversee - nadzorować
+pursue - dążyć do/realizować/prowadzić/kontynuować/ścigać/gonić/nagabywać/uprawiać
+undertake - podjąć/przedsiwziąć
+
+przymiotniki:
+encountered - występujący/spotykany
+troublesome - dokuczliwy/nieznośny/niepokojący/trudny
+
+przysłówki:
+smoothly - płynnie/bez zakłoceń/gładko/bez zająknięcia
+
+wyrażenia:
+behind schedule - z opóźnieniem
+in line with sth - zgodnie/w parze z czymś
+keep/bring sb up to date - informować kogoś na bieżąco
+subject to test - przymusowo poddawać próbom

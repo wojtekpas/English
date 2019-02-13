@@ -1,0 +1,63 @@
+rzeczwoniki:
+butt - obiekt/cel
+competition - konkurencja/rywalizacja
+conference - konferencja/narada/zebranie
+danger/peril/hazard - zagrożenie/niebezpieczeństwo
+foundation - fundament/podstawa/założenie
+heading - tutuł/nagłówek
+introduction - prezentacja/zapoznanie/wprowadzenie/wstęp
+judgement - osąd/ocena sytuacji/rozsądek/orzeczenie/wyrok
+objective - cel
+origin - źródło/pochodzenie
+outset - początek
+pace - tempo
+reputation - renoma/reputacja/opinia
+research - badanie
+satisfaction - satysfakcja/zaspokojenie/zadośćuczynienie/przeprosiny
+
+czasowniki:
+abandon - porzucać/opuszczać/rezygnować/zaniechać
+attempt - próbować/usiłować
+defect - zbiec/zbiegać/uciec
+deliver - dostarczać/dotrzymać słowa
+experiment - przeprowadzać doświadczenia/testować/eksperymentować
+form - formować/tworzyć/kształtować
+frame - formułować/tworzyć
+identify - identyfikować/rozpoznawać
+knock - pukać/stukać/przewracać/strącać/mocno uderzać
+measure - mierzyć/oceniać
+strike - uderzyć/zaatakować
+suspect - podejrzewać/posądzać/przypuszczać
+taste - próbować/smakować
+withdraw - wycofywać się
+
+przymiotniki:
+disillusioned - pozbawiony złudzeń/rozczarowany
+downright - jawny/kategoryczny/stanowczy/skończony/szczery/otwarty
+foolish - durny/głupi/nierozsądny/pochopny
+further - dalszy/dodatkowy
+moving - poruszający się/ruchomy
+passing - przelotny/chwilowy/przemijający
+qualitative - jakościowy
+satisfied - usatysfakcjonowany/zadowolony
+sloppy - niestaranny/niedbały/niechlujny/ckliwy
+travelling - podrużujący/wędrujący
+
+przysłówki:
+accordingly - stosownie/konsekwentnie/zgodnie z tym
+downright - zupełnie/wręcz
+
+wyrażenia:
+act on sth - uwzględniać coś/oddziaływać na coś
+at risk - zagrożony
+at the outset - na początku
+carry out sth - przeprowadzać coś/realizować coś/wprowadzać coś w życie
+crash course - intensywny kurs
+embark on/upon sth - wyruszać/rozpoczynać/podejmować/przedsięwziąć
+fail to do sth - nie zrobić czegoś/zapomnieć o zrobieniu czegoś
+find out - dowiadywać się
+let alone sth - nie mówiąc o czymś/nie wspominając o czymś/a co dopiero
+moving target - ruchomy cel
+once - kiedyś/dawniej
+the press - prasa
+whichever - którykolwiek

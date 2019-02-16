@@ -1,63 +1,184 @@
 rzeczwoniki:
+admission - dostęp/wstęp/dopuszczenie
+apprentice - praktykant
+availability - dostępność/osiągalność/dyspozycyjność
 butt - obiekt/cel
+career - kariera/zawód
+co-operative - spółdzielnia
 competition - konkurencja/rywalizacja
+competitor - konkurent
+concert hall - hala koncertowa
 conference - konferencja/narada/zebranie
 danger/peril/hazard - zagrożenie/niebezpieczeństwo
+dedication - oddanie/poświecenie
+enterprise - przedsięwzięcie/projekt/inicjatywa
+enthusiasm - entuzjazm/zapał
+entrance - wejście/prawo wstępu
+estimate - szacunek/ocena/kosztorys/kalkulacja/wycena
+expertise - ekspertyza/wiedza
+facility - funkcja/obiekt/zaplecze/baza/zręczność/talent/zdolność/łatwość
+focus - uwaga/skupienie/koncentracja
+forefront - czoło
 foundation - fundament/podstawa/założenie
+funding - finansowanie
 heading - tutuł/nagłówek
+industry - przemysł/branża
 introduction - prezentacja/zapoznanie/wprowadzenie/wstęp
 judgement - osąd/ocena sytuacji/rozsądek/orzeczenie/wyrok
+level - poziom/stopień/szczebel
+managing director - prezes/dyrektor generalny/dyrektor naczelny
 objective - cel
 origin - źródło/pochodzenie
 outset - początek
+quotation - wycena
 pace - tempo
+philosophy - filozofia/dewiza/zasada
+position - stanowisko/posada
+rank - stopień/ranga/klasa/grupa
+refurbishment - odnowienie/remont
+representative - przedstawiciel/reprezentant
 reputation - renoma/reputacja/opinia
 research - badanie
+restoration work - renowacja/odbudowa/odrestaurowanie
+retail - sprzedaż detaliczna/handel detaliczny
 satisfaction - satysfakcja/zaspokojenie/zadośćuczynienie/przeprosiny
+showroom - salon wystawowy produktów na sprzedaż
+specialist - specjalista/ekspert
+staircase - klatka schodowa
+stature - renoma/pozycja/ranga
+supplier - dostawca
+surveyor - inspektor/nadzorca
+workforce - siła robocza/potencjał ludzki
+workshop - manufaktura/zakład/pracownia/warsztat
 
 czasowniki:
 abandon - porzucać/opuszczać/rezygnować/zaniechać
+advance - posuwać się naprzód/postępować/czynić postępy/zgłaszać/przedłożyć/promować
+appear - wydawać się/jawić się/wyglądać
+arrange - zorganizować/planować/załatwiać/układać/porządkować
+assess - oceniać/wyceniać/oszacowywać
 attempt - próbować/usiłować
 defect - zbiec/zbiegać/uciec
 deliver - dostarczać/dotrzymać słowa
+distribute - rozdawać/rozprowadzać/rozdzielać
+encourage - zachęcać/mobilizować/przekonywać/wspierać
+enroll - rekrutować/przyjmować
+establish - zakładać/tworzyć/ustanawiać/ugruntowywać/ustalać/dowodzić
+evolve - rozwijać się/ewoluować/zmieniać się
+expand - zwiększać/powiekszać/rozszerzać się/poszerzać działaność
 experiment - przeprowadzać doświadczenia/testować/eksperymentować
+figure - figurować/pojawiać się/być częścią/zrozumieć/zauważać/obliczać
+focus - skupiać/dostosować/ustawiać ostrość
 form - formować/tworzyć/kształtować
 frame - formułować/tworzyć
+handle - zajmować się/radzić sobie
+highlight - podkreślać/uwydaniać/uwypuklać/rozjaśniać
 identify - identyfikować/rozpoznawać
 knock - pukać/stukać/przewracać/strącać/mocno uderzać
+launch - rozpoczynać/wprowadzić/uruchamiać
 measure - mierzyć/oceniać
+mission statement - hasło przewodnie/myśl przewodnia
+motivate - kierowac/motywować
+progress - robić postępy/postępować/rozwijać się
+promote - promować/propagować/awansować/reklamować/organizować
+reckon - myśleć/sądzić/przypuszczać/liczyć/kalkulować
+reflect - odbijać się/pokazywać/odzwierciedlać/być wynikiem
+refrigerate - chłodzić/zamrażać/trzymać w lodówce/przechowywać w chłodni
+refurbish - zmieniać/odnowić/odświeżyć/odrestaurować/odnowić
+reward - wynagradzać/nagradzać
+spread - rozkładać/rozłożyć
 strike - uderzyć/zaatakować
+support - wspierać/podtrzymywać/pomagać
 suspect - podejrzewać/posądzać/przypuszczać
 taste - próbować/smakować
+value - cenić/cenić sobie/wyceniać/oszacować cenę
+vary - różnić się/zmieniać się/zmieniać/urozmaicać
 withdraw - wycofywać się
 
 przymiotniki:
+acoustic - akustyczny/dźwiękochłonny
+ambitious - ambitny
+classified - sklasyfikowany/tajny
+coming - przyszły/następny/nadchodzący/nadciągający
+committed - zaangażowany/oddany/zobowiązany/przywiązany
+concerned - zaangażowany/zainteresowany/zatroskany/zaniepokojony/zmartwiony
+corporate - dotyczący spółki/wspólny/grupowy/zbiorowy/firmowy
 disillusioned - pozbawiony złudzeń/rozczarowany
 downright - jawny/kategoryczny/stanowczy/skończony/szczery/otwarty
+establish - zakładać/tworzyć/ustanawiać/dowodzić
 foolish - durny/głupi/nierozsądny/pochopny
 further - dalszy/dodatkowy
+involved - zaangażowany/zainteresowany
 moving - poruszający się/ruchomy
+nationwide - ogólnokrajowy
+numerous - liczny
+particular - konkretny/szczegółowy
 passing - przelotny/chwilowy/przemijający
+permanent - stały/trwały
+premium - wysoki
+preoccupied - pochłonięty/zaabsorbowany/zajęty
+prestigious - prestiżowy/renomowany/znakomity
 qualitative - jakościowy
+recognized - uznany/autoryzowany
 satisfied - usatysfakcjonowany/zadowolony
+specialise - specjalizować się w czymś
 sloppy - niestaranny/niedbały/niechlujny/ckliwy
+suitable - odpowiedni/nadający się
 travelling - podrużujący/wędrujący
+unique - wyjątkowy/świetny/unikalny/unikatowy
+wooden - drewniany
+working - pracujący/roboczy
 
 przysłówki:
 accordingly - stosownie/konsekwentnie/zgodnie z tym
+actively - aktywnie/czynnie
 downright - zupełnie/wręcz
+fully - w pełni/całkowicie
+mainly - główniess
+nationally - na obszarze całego kraju/ogólnokrajowo/państwowo/narodowo
+partially - częściowo
 
 wyrażenia:
 act on sth - uwzględniać coś/oddziaływać na coś
+as well as - jak również/także/oraz/zarówno
+at present - obecnie/aktualnie/na chwilę obecną
 at risk - zagrożony
 at the outset - na początku
+attirubte sth to sb - przypisywać coś komuś
+be involved in sth - brać w czymś udział/być zaangażowanym w coś
+blue chip company - renomowana firma
+carry off sth - poradzić sobie z czymś/zdobyć coś
+carry on - kontynuować/robić dalej/iść dalej/gadać/nawijać
 carry out sth - przeprowadzać coś/realizować coś/wprowadzać coś w życie
+carry over sth - przenosić coś/rzutować na coś/przesuwać coś
+core business - podstawowa działność
 crash course - intensywny kurs
+deliver goods - dostarczyć towar
 embark on/upon sth - wyruszać/rozpoczynać/podejmować/przedsięwziąć
+expect sb to do sth - oczekiwać, że ktoś coś zrobi
 fail to do sth - nie zrobić czegoś/zapomnieć o zrobieniu czegoś
 find out - dowiadywać się
+highly qualified - wysoko wykwalifikowany
+in terms of sth - z punktu widzenia czegoś/biorąc coś pod uwagę/pod względem czegoś
 let alone sth - nie mówiąc o czymś/nie wspominając o czymś/a co dopiero
+make to do sth - zmusić kogoś do zrobienia czegoś/sprawiać, że ktoś coś zrobi
 moving target - ruchomy cel
+on schedule - zgodnie z planem
 once - kiedyś/dawniej
+premium product - produkt wysokiej jakości
+range from ... to ... - mieć zakres/począwszy od ... do ...
+run at a loss - przynosić straty
+since then - od tej pory
+speak to sb - rozmawiać z kimś/pomówić z kimś/przemawiać do kogoś
+spread from sth to sth - rozprzestrzeniać się z czegoś na coś
+such as - taki jak
 the press - prasa
+throughout - wszędzie/pod każdym względem/całkowicie
+to date - do dzisiaj/do teraz
+training programme - program szkoleniowy
+unlike - w przeciwieństwie do
+whatever - cokolwiek
 whichever - którykolwiek
+wish to do something - chieć coś zrobić/zyczyć sobie coś zrobić
+within budget - w ramach budżetu
+work with/in sth - pracować na czymś

@@ -1,0 +1,109 @@
+rzeczowniki:
+Almighty - Wszechmogący
+baptist - chrzest
+brethren - bracia
+confiteor - spowiedź powszechna
+cross - krzyż/udręka/brzemię
+deacon - diakon
+faith - wiara
+forgiveness - przebaczenie/odpuszczenie
+giver - dawca
+glory - chwała/sława/cześć
+gospel - ewangelia
+greeting - powitanie/przywitanie
+Holy Spirit - Duch Święty
+kingdom - królestwo
+light - światło
+maker - sprawca/stwórca
+mass - msza
+mercy - łaska/litość/miłosierdzie
+peace - pokój/spokój
+power - potęga/moc/siła
+prayer - modlitwa
+priest - ksiądz/duchowny/kapłan
+profession - wyznanie/oświadczenie
+prophet - prorok
+resurrection - odrodzenie się/wskrzeszenie
+sacrifice - poświęcenie/ofiara
+saint - święty
+sake - powód/cel
+salvation - zbawienie/odkupienie
+Savior - Zbawiciel
+Scriptures - Pismo Święte
+soul - dusza
+supper - kolacja/wieczerza
+thought - myśl
+virgin - dziewica
+
+czasowniki:
+adore - uwielbiać/adorować/wielbić/czcić
+announce - ogłaszać/zapowiadać/oznajmiać
+ascend - wznosić sie w powietrze/iść w górę
+behold - ujrzeć/spostrzec
+bless - pobłogośławić/poświęcić
+bury - pochować/pogrzebać/pochować
+confess - spowiadać się/wyznawać
+crucify - ukrzyżować
+grant - przyznawać
+glorify - gloryfikować/wychwalać/wysławiać
+heal - leczyć/wyleczyć/załagodzić
+hosanna - chwalić
+judge - osądzać/sądzić
+praise - chwalić/wychwalać/błogosławić
+pray - modlić się
+proclaim - obwieszać/ogłaszać/proklamować/oznajmiać
+profess - utrzymywać/twierdzić/zapewniać/oświadczać/wyznawać
+rise - wstawać/powstawać/wstawać z martwych
+seat - posadzić/mieścić
+sin - grzeszyć/zgrzeszyć
+suffer - cierpieć/doświadczać/znosić
+
+przymiotniki:
+adored - uwielbiany/kochany/umiłowany/uwielbiony
+apostolic - apostolski
+blessed - błogosławiony
+buried - zakopany
+Catholic - katolicki
+consubstantial - mający tę samą naturę
+crucified - ukrzyżowany
+glorified - wychwalony
+grievous - bolesny/poważny
+healed - wyleczony/wygojony
+incarnate - wcielony/ucieleśniony
+invisible - niewidoczny/niewidzialny/ukryty
+just - sprawiedliwy/słuszny/uzasadniony
+penitical - pokutny
+right - słuszny/odpowiedni/właściwy
+visible - widoczny/widzialny
+worthy - godny/godzien/wart/zasługujący
+
+przysłówki:
+begotten - spłodzony
+greatly - bardzo/ogromnieznacznie
+heavenly - niebiański/niebieski/rajski/cudowny
+
+wyrażenia:
+almighty God - Bóg wszechmogący
+ascend into heaven - wstąpić do nieba
+Catholic Church - Kościół katolicki
+for ever - na zawsze
+for sb's sake/for the sake of sb - przez wzgląd na kogoś
+go forth - iść naprzód/ruszyć naprzód
+have mercy - zmiłować się
+have mercy on sb - mieć litość nad kimś
+Heavenly Father - Ojciec niebieski
+in accordance with sth - zgodnie z czymś
+Lamb of God - Baranek Boży
+lift up - dzwigać/podnosić/unosić
+look forward to sth - oczekiwać na cos z niecierpliwością/nie móc się doczekać
+mystery of faith - tajemnica wiary
+peace of the Lord - pokój Pański
+proceed from sth - powstawać/wynikać z czegoś
+sit at the right hand of God - zasiadać po prawicy Boga
+suffer death - ponieść śmierć
+take away sth - zabierać coś
+the dead - zmarli/umarli
+the living - ludzie żyjący
+the Resurrection - Zmartwychwstanie Chrystusa
+through one's fault - z czyjeś winy
+under sb's roof - pod czyimś dachem

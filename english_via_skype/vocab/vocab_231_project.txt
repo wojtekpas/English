@@ -1,0 +1,46 @@
+rzeczowniki:
+breakdown - rozpad/załamanie/awaria
+complication - komplikacja/powikłanie
+contingency - nieprzewidziany wypadek/ewentualność/możliwość
+forecast - przewidywanie/prognoza
+timescale - czas (potrzebny na wykonanie czegoś)
+
+czasowniki:
+collate - porównywać/zestawiać/segregować
+examine - sprawdzać/kontrolować
+face - stawiać czoła/zmagać się z czymś/radzić sobie
+manufacture - fabrykować/wymyślać/produkować/przetwarzać
+prioritize - szeregować pod względem ważności/traktować priorytetowo
+promote - promować/propagować
+
+przymiotniki:
+running - ciągły/płynny
+unrealistic - nierealistyczny/niewykonalny
+upfront - otwarty/szczery/płatny z góry/wyraźny
+
+wyrażenia:
+accurate forecast - prognoza dokładna
+ahead of schedule - przed czasem
+be on the point of doing sth - zamierzać coś zrobić lada moment
+behind schedule - z opóźnieniem
+budget constraints - ograniczenia budżetowe
+contingency plan - plan awaryjny
+fall behind - pozostawać w tyle/zwalniać kroku/być gorszym
+go along - pójść/dziać się/iść
+go out of control - stracić nad czymś panowanie
+keep sth down - utrzymywać coś na niskim poziomie/ograniczać coś
+keep track of sth - być z czymś na bieżąco/śledzić coś
+launch date - data wypuszczenia
+miss the deadline - nie zdążyć w terminie
+over budget - powyżej zakładanego budżetu
+run a business - prowadzić biznes/firmę
+run into sth - wpadać w coś
+run out of sth - nie mieć już czegoś/wyczerpać coś
+run smoothly - przebiegać gładko/przebiegać bez kłopotów
+so far - jak dotąd/na razie/póki co
+stay on track - nie zbaczać z obranego kursu
+stay the course - dokończyć dzieła
+stay within budget - zmieścić się w budżecie
+straight away - natychmiast/bez namysłu
+time after time - raz za razem/ciągle/wielokrotnie
+up to now - do teraz/do tej pory

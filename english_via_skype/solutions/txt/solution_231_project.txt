@@ -1,0 +1,30 @@
+4)
+1. U
+2. S
+3. U
+4. S
+5. U
+6. U
+7. S
+8. U
+9. S/U
+10. U
+11. S
+12. S
+13. S
+14. U
+
+5)
+1. resolve
+2. proritize
+3. keep
+4. allocate
+5. make
+6. check
+
+6)
+1. run
+2. stay
+3. check
+4. make
+5. keep

@@ -68,4 +68,3 @@ memory dump - wyciąg z pamięci
 set of sth - zestaw czegoś
 some extent/degree - do pewnego stopnia/w pewnym stopniu
 track sth down - wytropić/odnaleźć coś
-unit testing - test jednostkowy

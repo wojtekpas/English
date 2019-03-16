@@ -1,20 +1,29 @@
 rzeczowniki:
 adolescence - dojrzewanie/okres dojrzewania płciowego
+amends - rekompensata/odszkodowanie/zadośćuczynienie
+dissatisfaction - niezadowolenie
 fluctuations - wahania
+longevity - długowieczność
 niche - miejsce/luka rynkowa/nisza/wnęka
 opportunity - okazja/możliwość
 peer - rówieśnik
 prosperity - dobrobyt/pomyślność/powodzenie
 pursuit - pogoń/dążenie/gonitwa/zajęcie/pasja
+senior moment - skleroza
 toddler- małe dziecko/szkrab
+twinge - ostry ból/kłucie/atak/wyrzut/uczucie/poczucie
 uncertainty - niepewność/wątpliwość
 wealth - bogactwo/majątek/dobrobyt/dostatek/obfitość
 
 czasowniki:
 carve - rzeźbić/drążyć/ryć/kroić
 cherish - żywić/pielęgnować/czcić
+concentrate - koncentrować/skupiać
 desist - wstrzymywać/zaniechać/zaprzestawać
+enliven - ożywiać/ożywić
+rekindle - ożywiać/zapalać
 strive - usiłować/starać się/walczyć/zmagać się/dążyć
+value - cenić
 vouch - oświadczać/potwierdzać/ręczyć/zapewniać
 youth - młodzież/młodość
 
@@ -27,11 +36,13 @@ boyish - chłopięcy
 childish - dziecinny/dziecięcy
 childlike - dziecinny
 dare-devil - odważny/szaleńczy/śmiały
+dim - przyćmiony/niewyraźny/marny
 elderly - starszy/stary
 fallible - omylny/zawodny
 geriatric - stary i słaby
 grown-up - dorosły/dojrzały
 grumpy - gderliwy/zrzędliwy/marudzący/narzekający
+hazy - mglisty/zamglony/niewyraźny
 hearty - serdeczny
 humble - pokorny/skromny
 immature - niedojrzały/dziecinny
@@ -39,17 +50,38 @@ infantile - dziecięcy
 laid-back - wyluzowany/zrelaksowany/niefrasobliwy
 light - delikatny/łagodny/cichy
 mature - dojrzały/dorosły
+neglect - zaniedbać/zapuścić/lekceważyć
 puerile - infantylny/dziecinny/niedojrzały
+purposeful - celowy/rozmyślny/z charakterem/zdeterminowany/sensowny
+sentimental - sentymentalny/emocjonalny/uczuciowy
+stable - stały/stabilny/stateczny/trwały
 teenage - nastoletni
 thoughtful - troskliwy/myślący o innych/zadumany/zamyślony
+undivided - niepodzielny/całkowity/pełny
 youthful - młodzieńczy
 
 wyrażenia:
+at once - natychmiast/od razu
+become a habit - stać się nawykiem
 carve a niche - znaleźć dla siebie niszę
+come to harm - doznać szkody
 confined to bed - obłożnie chory
+except for sth - z wyjątkiem czegoś/oprócz czegoś/gdyby nie coś
+fall into the pattern - wpisywać się w schemat
+feel sb's age - czuć swoje lata
+go by - mijać/przechodzić obok
 go the extra mile - postarać się bardziej
+go through a crisis - przechodzić załamanie
+go through a phase - przechodzić przez okres zmian/trudny okres
+leave home - wychodzić z domu
+live a comftable life - wieść wygodne życie
 live life to the full - brać z życia garściami/żyć pełnią życia
 live on the edge - żyć na krawędzi
+midlife crisis - kryzys wieku średniego
 pursuit of sth - pogoń za czymś
+sentimental value - wartość sentymentalna
 strive for sth - dążyć do czegoś/walczyć o coś
+take sb for granted - nie doceniać kogoś
+the breadline - granica ubóstwa/minimum socjalne
+undivided attention - całkowita uwaga
 vouch for sth - ręczyć za coś

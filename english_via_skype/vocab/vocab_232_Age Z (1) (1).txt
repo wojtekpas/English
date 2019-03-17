@@ -1,35 +1,49 @@
 rzeczowniki:
 adolescence - dojrzewanie/okres dojrzewania płciowego
+adolescent - młodzieniec/nastolatek
 amends - rekompensata/odszkodowanie/zadośćuczynienie
+appearance - wygląd/występ/wizerunek/zjawisko/obecność/fenomen
+dent - wgniecenie/wyszczerbienie/uszczerbek
 dissatisfaction - niezadowolenie
 fluctuations - wahania
 longevity - długowieczność
 niche - miejsce/luka rynkowa/nisza/wnęka
 opportunity - okazja/możliwość
 peer - rówieśnik
+perspective - perspektywa/punkt widzenia/dystans
 prosperity - dobrobyt/pomyślność/powodzenie
 pursuit - pogoń/dążenie/gonitwa/zajęcie/pasja
 senior moment - skleroza
+setback - komplikacja/problem/niepowodzenie/nawrót/pogorszenie
+stride - krok/postęp
 toddler- małe dziecko/szkrab
 twinge - ostry ból/kłucie/atak/wyrzut/uczucie/poczucie
 uncertainty - niepewność/wątpliwość
 wealth - bogactwo/majątek/dobrobyt/dostatek/obfitość
+worry - zmartwienie/niepokój
 
 czasowniki:
+articulate - artykułować/wyrażać/wypowiadać/łaczyć się ze sobą
 carve - rzeźbić/drążyć/ryć/kroić
 cherish - żywić/pielęgnować/czcić
 concentrate - koncentrować/skupiać
+dent - wgniatać/podważać/nadszarpywać
 desist - wstrzymywać/zaniechać/zaprzestawać
 enliven - ożywiać/ożywić
+oscillate - wahać się/drgać/oscylować
+reassure - uspokajać/porzepiać/utwierdzać/zapewniać
 rekindle - ożywiać/zapalać
+socialize - spotykać się/udzielać się towarzysko/uspołeczniać
 strive - usiłować/starać się/walczyć/zmagać się/dążyć
 value - cenić
 vouch - oświadczać/potwierdzać/ręczyć/zapewniać
 youth - młodzież/młodość
 
 przymiotniki:
+abrasive - szorstki/zgryźliwy/opryskliwy
 adolescent - młodociany/dorastający
 adult - dorosły/pełnoletni
+advisable - celowy/wskazany/stosowny/pożyteczny
 aging - podstarzały
 airy - beztroski/lekkomyślny/nonszalancki
 boyish - chłopięcy
@@ -57,31 +71,53 @@ sentimental - sentymentalny/emocjonalny/uczuciowy
 stable - stały/stabilny/stateczny/trwały
 teenage - nastoletni
 thoughtful - troskliwy/myślący o innych/zadumany/zamyślony
+unconditional - bezwarunkowy
 undivided - niepodzielny/całkowity/pełny
 youthful - młodzieńczy
 
+przysłówki:
+hardly - ledwo/ledwie/prawie nie
+pretty - całkiem/dosyć/raczej
+
 wyrażenia:
 at once - natychmiast/od razu
+be hard for sb - być trudnym dla kogoś
+be in the loop - mieć wiedzę na dany temat
 become a habit - stać się nawykiem
 carve a niche - znaleźć dla siebie niszę
+channel of communication - kanał komunikacyjny/środek komunikacyjny/sposób przekazu informacji
 come to harm - doznać szkody
 confined to bed - obłożnie chory
+even though - pomimo że/mimo że/chociaż/aczkolwiek
 except for sth - z wyjątkiem czegoś/oprócz czegoś/gdyby nie coś
 fall into the pattern - wpisywać się w schemat
 feel sb's age - czuć swoje lata
+get the hang of sth - chwytać coś/chwytać jak się coś robi
 go by - mijać/przechodzić obok
 go the extra mile - postarać się bardziej
 go through a crisis - przechodzić załamanie
 go through a phase - przechodzić przez okres zmian/trudny okres
+keep abreast of sth - być z czymś na bieżąco
 leave home - wychodzić z domu
 live a comftable life - wieść wygodne życie
 live life to the full - brać z życia garściami/żyć pełnią życia
+live on the breadline - żyć w ubóstwie/być biednym jak mysz kościelna
 live on the edge - żyć na krawędzi
+make amends for sth - wynagrodzić coś/zrekompensować coś/zrehabilitować się za coś
+make ends meet - wiązać koniec z końcem
+make light - lekceważyć
+make light of sth - lekceważyć coś/umniejszać znaczenie czegoś
+memory loss - utrata pamięci
 midlife crisis - kryzys wieku średniego
+notwithstanding - mimo/niezależnie od/tym niemniej/jednakże/mimo że/chociaż
 pursuit of sth - pogoń za czymś
+right now - właśnie teraz/w tej chwili/natychmiast
+self-esteem - poczucie własnej wartości
 sentimental value - wartość sentymentalna
+socialize with sb - socjalizować się z kimś/udzielać się towarzysko z kimś
 strive for sth - dążyć do czegoś/walczyć o coś
 take sb for granted - nie doceniać kogoś
+take sth in one's stride - przyjąć coś bez mrugnięcia okiem/poradzić sobie z czymś na spokojnie
 the breadline - granica ubóstwa/minimum socjalne
 undivided attention - całkowita uwaga
 vouch for sth - ręczyć za coś

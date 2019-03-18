@@ -1,0 +1,77 @@
+rzeczowniki:
+brain - mózg/umysł/inteligencja/tęgi umysł
+broadcaster - spiker/prezenter/nadawca
+charity - organizacja charytatywna/jałmużna/zapomoga/życzliwość/miłosierdzie
+coach - korepetytor/nauczyciel prywatny
+courage - odwaga
+depression - depresja/przygnębienie
+founder - założyciel
+headhunter - łowca głów/talentów
+intellect - intelekt
+performer - arysta/wykonawca
+siblings - rodzeństwo
+singer-songwriter - osoba pisząca teksty i śpiewająca
+songwriter - kompozyter/autor piosenek
+tearaway - chuligan/zabijaka/rozrabiaka
+thrill-seeker - poszukiwacz wrażeń/ryzykant
+
+czasowniki:
+act - grać/udawać
+annoy - denerwować/złościć/drażnić/irytować/dokuczać/wkurzać
+establish - tworzyć/ugruntować/dowodzić/wyrabiać sobie renomę
+rescue - uratować/ocalić/oswobodzić
+tidy - robić porządki/sprzątać
+
+przymiotniki:
+arty - pozujący na artystę/pretensjonalny
+capable - zdolny
+competitive - ambitny/konkurencyjny/zmuszający do rywalizacji
+conscious - świadomy/przytomny/zamierzony
+contradictory - sprzeczny
+conventional - konwencjonalny
+delighted - zachwycony/uszczęśliwiony
+incredible - nieprawdopodobny/niesamowity/cudowny
+lovable - miły/rozkoszny/uroczy
+pleased - zadowolony/usatysfakcjonowany
+protective - ochronny/opiekuńczy/zabezpieczający
+self-conscious - skrępowany/zakłopotany/nieśmiały/czyniony z determinacją lub określonym zamiarem
+sociable - towarzyski
+sporty - wysportowany
+
+przysłówki:
+desperately - rozpaczliwie/desperacko/beznadziejnie/wyjątkowo/szczególnie
+enormously - ogromnie/niezmiernie/niezwykle/szalenie
+neatly - schludnie/starannie/porządnie/doskonale/jasno/klarownie/trafnie
+terribly - straszliwie/okropnie
+truly - prawdziwie/szczerzę
+
+wyrażenia:
+at the age of - w wieku
+come to do sth - zacząć coś robić
+down the road - później/w przyszłości
+end up - skończyć
+even so - nawet pomimo tego
+for a while - przez chwilę/przez jakiś czas
+get about - podróżować
+get away - wyjechać na wakacje/wyrwać się/uciekać/dawać nogę
+get back to sth - wrócić do czegoś/zrobić coś ponownie
+get lost - zgubić się
+get on - odnosić sukces
+get rid of sb - pozbyć się kogoś
+grow up - wyrastać/zaistnieć
+have dinner - jeść obiad
+late in life - w późnym wieku
+look after sb - zajmować się kimś/opiekować się kimś
+look up to sb - patrzeć na kogoś z podziwem/zapatrywać się w kogoś
+make it - dać radę/odnieść sukces
+more and more - coraz bardziej/częściej/więcej
+oversimplify - zbytnio upraszczać/uprościć
+run away from - uciec z skądś
+set one's heart on sb - bardzo czegoś pragnąć
+share sb's belief - podzielać czyjeś przekonanie
+sort out - uporządkować coś/rozwiązywać coś/załatwiać
+take off - ruszyć/nabierać tempa/nabierać rozpędu
+turn up - pojawiać się/zjawić się
+unlike  - w przeciwieństwie do/nie tak jak
+write a cheque - wystawić czek
+yet - ale/mimo to

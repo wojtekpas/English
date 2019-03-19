@@ -31,6 +31,7 @@ concentrate - koncentrować/skupiać
 dent - wgniatać/podważać/nadszarpywać
 desist - wstrzymywać/zaniechać/zaprzestawać
 enliven - ożywiać/ożywić
+fool - oszukiwać
 oscillate - wahać się/drgać/oscylować
 reassure - uspokajać/porzepiać/utwierdzać/zapewniać
 rekindle - ożywiać/zapalać
@@ -94,11 +95,14 @@ even though - pomimo że/mimo że/chociaż/aczkolwiek
 except for sth - z wyjątkiem czegoś/oprócz czegoś/gdyby nie coś
 fall into the pattern - wpisywać się w schemat
 feel sb's age - czuć swoje lata
+fool oneself - oszukiwać siebie
+get sb down - zasmucić kogoś/zmartwić kogoś
 get the hang of sth - chwytać coś/chwytać jak się coś robi
 go by - mijać/przechodzić obok
 go the extra mile - postarać się bardziej
 go through a crisis - przechodzić załamanie
 go through a phase - przechodzić przez okres zmian/trudny okres
+in the pursuit of sth - w pogoni za czymś
 keep abreast of sth - być z czymś na bieżąco
 leave home - wychodzić z domu
 live a comftable life - wieść wygodne życie

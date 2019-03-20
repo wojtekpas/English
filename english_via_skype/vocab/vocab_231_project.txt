@@ -14,6 +14,7 @@ prioritize - szeregować pod względem ważności/traktować priorytetowo
 promote - promować/propagować
 
 przymiotniki:
+revised - poprawiony/zaktualizowany
 running - ciągły/płynny
 unrealistic - nierealistyczny/niewykonalny
 upfront - otwarty/szczery/płatny z góry/wyraźny
@@ -21,6 +22,7 @@ upfront - otwarty/szczery/płatny z góry/wyraźny
 wyrażenia:
 accurate forecast - prognoza dokładna
 ahead of schedule - przed czasem
+be based in - mieć siedzibę w
 be on the point of doing sth - zamierzać coś zrobić lada moment
 behind schedule - z opóźnieniem
 budget constraints - ograniczenia budżetowe
@@ -33,6 +35,7 @@ keep track of sth - być z czymś na bieżąco/śledzić coś
 launch date - data wypuszczenia
 miss the deadline - nie zdążyć w terminie
 over budget - powyżej zakładanego budżetu
+plan to do sth - planować, że coś się zrobi
 run a business - prowadzić biznes/firmę
 run into sth - wpadać w coś
 run out of sth - nie mieć już czegoś/wyczerpać coś

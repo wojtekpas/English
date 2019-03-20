@@ -1,6 +1,8 @@
 rzeczowniki:
 brain - mózg/umysł/inteligencja/tęgi umysł
 broadcaster - spiker/prezenter/nadawca
+caution - ostrożność/rozwaga/ostrzeżenie
+characteristic - charakterystyka
 charity - organizacja charytatywna/jałmużna/zapomoga/życzliwość/miłosierdzie
 coach - korepetytor/nauczyciel prywatny
 courage - odwaga
@@ -9,34 +11,47 @@ founder - założyciel
 headhunter - łowca głów/talentów
 intellect - intelekt
 performer - arysta/wykonawca
+personality - osobowość/charakter/charyzma/indywidualność
+pessimist - pesymista
 siblings - rodzeństwo
 singer-songwriter - osoba pisząca teksty i śpiewająca
 songwriter - kompozyter/autor piosenek
+sympathy - współczucie/wsparcie/zrozumienie
 tearaway - chuligan/zabijaka/rozrabiaka
 thrill-seeker - poszukiwacz wrażeń/ryzykant
 
 czasowniki:
 act - grać/udawać
+alter - zmieniać/modyfikować
 annoy - denerwować/złościć/drażnić/irytować/dokuczać/wkurzać
 establish - tworzyć/ugruntować/dowodzić/wyrabiać sobie renomę
+oversimplify - zbytnio upraszczać/uprościć
 rescue - uratować/ocalić/oswobodzić
 tidy - robić porządki/sprzątać
 
 przymiotniki:
+adventurous - żądny przygód/śmiały/odważny
 arty - pozujący na artystę/pretensjonalny
 capable - zdolny
+cautious - ostrożny
 competitive - ambitny/konkurencyjny/zmuszający do rywalizacji
 conscious - świadomy/przytomny/zamierzony
 contradictory - sprzeczny
 conventional - konwencjonalny
 delighted - zachwycony/uszczęśliwiony
+harmful - szkodliwy/krzywdzący
+hopeful - pełen nadziei/obiecujący/optymistyczny/pogodny
 incredible - nieprawdopodobny/niesamowity/cudowny
+inconsistent - sprzeczny/nielogiczny/niespójny/niekonsekwentny
 lovable - miły/rozkoszny/uroczy
+meaningful - sensowny/wymowny/znaczący/istotny
 pleased - zadowolony/usatysfakcjonowany
 protective - ochronny/opiekuńczy/zabezpieczający
 self-conscious - skrępowany/zakłopotany/nieśmiały/czyniony z determinacją lub określonym zamiarem
 sociable - towarzyski
 sporty - wysportowany
+sympathetic - życzliwy/przychylny/aprobujący
+thoughtful - troskliwy/zadumany/zamyślony/przemyślany
 
 przysłówki:
 desperately - rozpaczliwie/desperacko/beznadziejnie/wyjątkowo/szczególnie
@@ -65,7 +80,6 @@ look after sb - zajmować się kimś/opiekować się kimś
 look up to sb - patrzeć na kogoś z podziwem/zapatrywać się w kogoś
 make it - dać radę/odnieść sukces
 more and more - coraz bardziej/częściej/więcej
-oversimplify - zbytnio upraszczać/uprościć
 run away from - uciec z skądś
 set one's heart on sb - bardzo czegoś pragnąć
 share sb's belief - podzielać czyjeś przekonanie

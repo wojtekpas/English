@@ -1,0 +1,89 @@
+rzeczowniki:
+alder - olcha
+andesite - andezyt
+ash - popiół
+avalanche - lawina
+basalt - bazalt
+blast - eksplozja/wybuch
+board - deska/płyta
+bolt - zasuwa/rygiel/bolec/śruba
+bridge deck - nawierzchnia mostowa
+bulge - wybrzuszenie/wypukłość
+camp - obóz/front
+cedar - cedr/drzewo cedrowe
+clay - glina
+commitment - poświęcenie/oddanie
+concrete - beton
+conifer - drzewo iglaste
+crane - dźwig/żuraw
+crater - krater
+dacite - dacyt (skała magmowa)
+deck - pokład/piętro
+disease - choroba
+dome - kopuła
+elevation - wysokość/wzrost
+erosion - erozja/ograniczenie/spadek
+eruption - erupcja/wybuch
+fir - jodła
+growth - wstrost/rozwój
+habitat - siedlisko/środowisko życia
+hemlock - choina
+hue - odcień
+hummock - wzgórek/pagórek
+insect - owad
+landowner - właściciel gruntu/ziemianin
+landslide - osuwisko
+lava - lawa
+lava dome - kopuła wulkaniczna
+logging - wyrąb/wycinka
+lower deck - dolne piętro
+lowland - nizina/niziny
+maple - klon
+monument - pomnik/zabytek
+nutrient - składnik odżywczy/substacja odżywcza
+pier - filar
+rejuvenation - odmłodzenie
+replanting - przesadzanie
+salvage - ocalenie/ratunek
+scaffolding - rusztowanie
+seed - nasienie/nasionko/ziarno
+seedling - sadzonka/szczep
+silica - krzemionka
+soil - gleba/ziemia/grunt/rola
+span - przęsło
+species - gatunek
+steam - para wodna
+terrain - teren
+tightness - zwartość/naprężenie/ciasność/szczelność
+timber - drewno
+truss - wspornik
+
+czasowniki:
+harvest - zbierać (plony)
+penetrate - przebijać się/przedzierać/przedostawać się
+percolate - rozchodzić się/przenikać/filtrować
+reforestation - ponowne zalesienie
+revegetate - ponownie rosnąć
+truss - wiązać/mocować/unieruchamiać/zabezpieczać
+
+przymiotniki:
+aerial - lotniczy/powietrzny
+altered - zmieniony
+cantilevered - wspornikowy
+crusted - pokryty twardą powłoką
+federal - związkowy/federalny (ogólnoamerykański, ponadstanowy)
+hasten - przyśpieszyć/ponaglać/popędzać
+heated - gorący/podgrzany
+noble - szlachetny/wspaniały
+pale - blady
+planted - obsadzony/pokryty roślinnością
+ragged - wystrzępiony/poszarpany
+underlying - zasadniczy/podstawowy/fundamentalny
+weakened - osłabiony
+weathered - zmieniony przez działanie wody, wiatru, mrozu ciepła itd
+
+przysłówki:
+laterally - bocznie
+
+wyrażenia:
+consequently - wskutego tego/w rezultacie/w konsekwencji/a co za tym idzie

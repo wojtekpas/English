@@ -3,7 +3,7 @@ breakdown - rozpad/załamanie/awaria
 complication - komplikacja/powikłanie
 contingency - nieprzewidziany wypadek/ewentualność/możliwość
 forecast - przewidywanie/prognoza
-timescale - czas (potrzebny na wykonanie czegoś)
+timescale - czas(potrzebny na wykonanie czegoś)
 
 czasowniki:
 collate - porównywać/zestawiać/segregować

@@ -1,8 +1,10 @@
 rzeczowniki:
+account - relacja/raport/sprawozdanie/opowieść
 alder - olcha
 andesite - andezyt
 ash - popiół
 avalanche - lawina
+bank - grzeg/nasyp/skarpa/wał
 basalt - bazalt
 blast - eksplozja/wybuch
 board - deska/płyta
@@ -10,7 +12,10 @@ bolt - zasuwa/rygiel/bolec/śruba
 bridge deck - nawierzchnia mostowa
 bulge - wybrzuszenie/wypukłość
 camp - obóz/front
+carve - rzeźbić/drążyć/ryć
 cedar - cedr/drzewo cedrowe
+channel - kanał/rów/wyżłobienie/droga
+chunk - kawał/znaczna część
 clay - glina
 commitment - poświęcenie/oddanie
 concrete - beton
@@ -18,14 +23,22 @@ conifer - drzewo iglaste
 crane - dźwig/żuraw
 crater - krater
 dacite - dacyt (skała magmowa)
+debris - gruzy/odłamki/szczątki
 deck - pokład/piętro
+depression - depresja
 disease - choroba
+doctorate - doktorat
 dome - kopuła
+dynamics - dynamika
 elevation - wysokość/wzrost
 erosion - erozja/ograniczenie/spadek
 eruption - erupcja/wybuch
+eyewitness - naoczny świadek
 fir - jodła
+glacier - lodowiec
+gravity - ciężar/grawitacja
 growth - wstrost/rozwój
+gulley - żleb/rynna/rów
 habitat - siedlisko/środowisko życia
 hemlock - choina
 hue - odcień
@@ -40,10 +53,16 @@ lower deck - dolne piętro
 lowland - nizina/niziny
 maple - klon
 monument - pomnik/zabytek
+mudflow - lawina błotna
 nutrient - składnik odżywczy/substacja odżywcza
 pier - filar
+pit - dół/jama/dziura/wgłębienie
+pond - staw/sadzawka
+rainstorm - ulewa/mocny deszcz
+ravine - jar
 rejuvenation - odmłodzenie
 replanting - przesadzanie
+ridge - krawędź/brzeg/grzbiet/grań
 salvage - ocalenie/ratunek
 scaffolding - rusztowanie
 seed - nasienie/nasionko/ziarno
@@ -52,6 +71,7 @@ silica - krzemionka
 soil - gleba/ziemia/grunt/rola
 span - przęsło
 species - gatunek
+spire - szczyt/czubek
 steam - para wodna
 terrain - teren
 tightness - zwartość/naprężenie/ciasność/szczelność
@@ -59,31 +79,59 @@ timber - drewno
 truss - wspornik
 
 czasowniki:
+collapse - zawalić się/runąć/opaść
 harvest - zbierać (plony)
 penetrate - przebijać się/przedzierać/przedostawać się
 percolate - rozchodzić się/przenikać/filtrować
+reconstruct - odtwarzać/zrekonstuować
 reforestation - ponowne zalesienie
 revegetate - ponownie rosnąć
+shove - posuwać/pchać/wsadzić/wpakować
+shovel - przerzucać/ładować
+sift - dokładnie badać/przeczesywać
+slide - ślizgać się/obsunąć się
+slump - osunać się/zapaść się/opadać
+soften - łagodnieć/lagodzić/osłabiać
+stretch - rozciągać się/rozpościerać
 truss - wiązać/mocować/unieruchamiać/zabezpieczać
+widen - poszerzać/rozszerzać/powiększać
 
 przymiotniki:
 aerial - lotniczy/powietrzny
 altered - zmieniony
+buried - zakopany
 cantilevered - wspornikowy
+chaotic - chaotyczny/zdezorganizowany/bezładny
 crusted - pokryty twardą powłoką
 federal - związkowy/federalny (ogólnoamerykański, ponadstanowy)
 hasten - przyśpieszyć/ponaglać/popędzać
 heated - gorący/podgrzany
+massive - masywny/ogromny/duży
 noble - szlachetny/wspaniały
 pale - blady
 planted - obsadzony/pokryty roślinnością
 ragged - wystrzępiony/poszarpany
+shattered - wstrząśnięty/zdruzgotany/zrujnowany
+steep - stromy
+undercut - podkopywać/podcinać
 underlying - zasadniczy/podstawowy/fundamentalny
+water-soaked - nasiąknięty/przesiąknięty wodą
 weakened - osłabiony
 weathered - zmieniony przez działanie wody, wiatru, mrozu ciepła itd
+world-wide - ogólnoświatowy
 
 przysłówki:
+apart - osobno/oddzielnie
+endlessly - nieskończenie/bezgranicznie
 laterally - bocznie
+painstakingly - drobiazgowo/skrupulatnie
 
 wyrażenia:
+come to rest - zatrzymywać się/stawać
 consequently - wskutego tego/w rezultacie/w konsekwencji/a co za tym idzie
+eyewitness account - zeznanie świadka naocznego
+lead to sth - prowadzić do/prowadzić gdzieś
+soon after sth - wkrótce po czymś
+stand on - leżeć (np. nad rzeką)
+tumble down - zawalać się/gruchnąć/runąć
+with time - z czasem

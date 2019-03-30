@@ -1,5 +1,6 @@
 5)
 -able
+comfortable
 lovable
 predictable
 reliable
@@ -26,8 +27,8 @@ meaningful
 1. hopeful
 2. pessimistic
 3. reality
-4. characteristic
+4. characteristics
 5. predictable
 6. adventurous
-7. difference
+7. differences
 8. meaningful

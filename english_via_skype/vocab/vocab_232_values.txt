@@ -1,4 +1,4 @@
-rzeczowniki:
+ rzeczowniki:
 brain - mózg/umysł/inteligencja/tęgi umysł
 broadcaster - spiker/prezenter/nadawca
 caution - ostrożność/rozwaga/ostrzeżenie
@@ -10,7 +10,7 @@ depression - depresja/przygnębienie
 founder - założyciel
 headhunter - łowca głów/talentów
 intellect - intelekt
-performer - arysta/wykonawca
+performer - artysta/wykonawca
 personality - osobowość/charakter/charyzma/indywidualność
 pessimist - pesymista
 siblings - rodzeństwo
@@ -41,8 +41,8 @@ conventional - konwencjonalny
 delighted - zachwycony/uszczęśliwiony
 harmful - szkodliwy/krzywdzący
 hopeful - pełen nadziei/obiecujący/optymistyczny/pogodny
-incredible - nieprawdopodobny/niesamowity/cudowny
 inconsistent - sprzeczny/nielogiczny/niespójny/niekonsekwentny
+incredible - nieprawdopodobny/niesamowity/cudowny
 lovable - miły/rozkoszny/uroczy
 meaningful - sensowny/wymowny/znaczący/istotny
 pleased - zadowolony/usatysfakcjonowany
@@ -81,7 +81,7 @@ look up to sb - patrzeć na kogoś z podziwem/zapatrywać się w kogoś
 make it - dać radę/odnieść sukces
 more and more - coraz bardziej/częściej/więcej
 run away from - uciec z skądś
-set one's heart on sb - bardzo czegoś pragnąć
+set one's heart on sth - bardzo czegoś pragnąć
 share sb's belief - podzielać czyjeś przekonanie
 sort out - uporządkować coś/rozwiązywać coś/załatwiać
 take off - ruszyć/nabierać tempa/nabierać rozpędu

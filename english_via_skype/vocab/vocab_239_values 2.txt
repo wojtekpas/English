@@ -5,9 +5,12 @@ sympathy - współczucie/wsparcie/zrozumienie
 przysłówki:
 accustomed - przezwyczajony/zwyczajny/tradycyjny/zwykły
 amused - rozbawiony/rozśmieszony
+bossy - władcy/despotyczny
 disapproving - krzywy/wyrażający dezaprobatę
 grateful - wdzięczny
 horrible - nieprzyjemny/niemiły/okropny/koszmarny/straszny/fatalny
+selfish - egoistyczny/samolubny
+selfless - bezinteresowny/altruistyczny
 sympathetic - pełen współczucia/życzliwy/przychylny/sympatyczny
 united - zjednoczony/wspólny
 
@@ -17,14 +20,14 @@ accustomed to sth - przezwyczajoniony do czegoś/oswojony z czymś
 at heart - w głębi duszy
 be there for somebody - być dla kogoś wsparciem
 care about sb - troszczyć się o kogoś/zależeć na kimś
-get round sb - przekonać kogoś/przekabić kogoś
+get round sb - przekonać kogoś/przekabacić kogoś
 give/lend sb a hand - pomóc komuś/podać komuś pomocną dłoń
 go out of one's way to do sth - zrobić wszystko, co w czyjeś mocy
 go out of one's way to help sb - zadać sobie wiele trudu, żeby komuś pomóc
 go to great length - dołożyć wszelkich starać/zadawać sobie wiele trudu
 have/get your own way - robić, co się chce/postępować według swojego widzimisię
 have everything one's own way - robić wszystko po swojemu
-have somebody's best interest at heart - leżeć komuś na sercu
+have sb's best interest at heart - leżeć komuś na sercu
 hold sth together - trzymać coś razem/spajać coś
 hold together - trzymać się razem
 make the effort to do sth - podjąć wysiłek, aby coś zrobić
@@ -33,6 +36,7 @@ not lift a finger - nie kiwnąć palcem
 pick on sb - czepiać się kogoś
 push sb around - rozkazywać komuś/pomiatać kimś
 put one's foot down - postawić na swoim
+seek sb's advice - szukać u kugoś rady/zwrócić się do kogoś o radę
 set sth apart from sth - wyróżniać coś jakością od czegoś
 stick up for sb - popierać kogoś/bronić kogoś
 stop at nothing - nie zatrzymywać się przed niczym

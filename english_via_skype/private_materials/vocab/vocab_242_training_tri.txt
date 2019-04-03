@@ -1,0 +1,91 @@
+rzeczowniki:
+accountability - odpowiedzialność
+acquisition - nabytek/zakup/zdobycie/przejęcie
+acumen - bystrość/przenikliwość
+adjacency - sąsiedztwo/przyleganie/graniczenie
+advancement - rozwój/postęp
+assessing - ustalanie
+authorship - autorstwo
+background - kontekst/tło/doświadczenie/wykształcenie/wiedza
+breadth - rozległość/szerokość
+candidate - kadnydat/pretendent
+conduct - przeprowadzanie/sposób/zachowanie
+contribution - wkład/udział
+cultivating - doskonalenie/kształcenie/rozwijanie/podtrzymywanie znajomości
+disclosure - ujawnienie/wyjawienie
+domain - dziedzina/domena
+driving - prowadzenie
+edge - krawędz/brzeg/ostrze/przewaga/podekscytowanie
+exhibiting - wystawianie/pokazywanie
+expertise - ekspertyza
+indicator - wskaźnik
+intent - zamiary/intencje/cel
+interaction - interakcja/wzajemne relacje/komunikowanie się
+journal - czasopismo/gazeta/dziennik
+launching - uruchamianie/rozpoczęcie/wprowadzanie
+leadership - kierownictwo/przewództwo/szefostwo/władze
+mentor - mentor
+motivator - motywator/bodziec/pobudka
+nominee - kandydat/nominowany
+passion - pasja/zamiłowanie
+progression - postęp/rozwój
+readiness - gotowość/chęć
+roadmap - plan działania
+sphere - sfera/zakres
+technologist - technolog
+
+czasowniki:
+assess - oceniać
+categorize - klasyfikować
+coach - trenować/instruować
+comprehend - pojmować/rozumieć/zawierać/obejmować
+contribute - wnosić
+cultivate - uprawiać/doskonalić/kształcić/rozwijać
+demonstrate - dowieść/zademonstować/pokazać
+drive - kierować/powodować
+encompass - obejmować/ogarniać
+hinder - utrudniać/przeszkadzać/ograniczać/hamować
+integrate - wcielać/integrować/łączyć w całość
+interpret - interpretować/objaśniać
+invest - inwestować
+span - obejmować/sięgać/łączyć brzegi
+vary - różnić się/zmieniać się
+
+przymiotniki:
+broad - szeroki/obszerny/rozległy/ogólny
+corporate - wspólny/grupowy/zbiorowy
+desirable - wskazany/pożądany
+distinct - różny/wyraźny/zdecydowany
+evidenced - potwierdzony/udokumentowany
+exceptional - wyjątkowy/wybitny/rzadki
+innovative - innowacyjny/nowatorski
+knowledgeable - mądry/znający się na rzeczy/obeznany/wnikliwy
+leading - czołowy/wybitny
+leading-edge - wiodący/najnowszy
+robust - silny/solidny/zdecydowany/bogaty
+scientific - naukowy
+sustained - długotrwały/nieprzerwany
+systematic - systematyczny
+virtuous - cnotliwy/prawy
+
+przysłówki:
+consistently - konsekwentnie
+externally - zewnętrznie
+positively - pozytywnie/bardzo/zdecydowanie/niepodważalnie
+
+wyrażenia:
+align sth with sth - dopasować coś do siebie
+arise from sth - wynikać z czegoś
+career path - ścieżka kariery
+decision maker - osoba decyzyjna
+in mind - z myślą/w zamyśle
+in the light of sth - w świetle czegoś
+make a decision - podjąć decyzję
+on behalf of sb - w czyimś imieniu
+over time - w trakcie/z czasem
+role model - wzór do naśladowania
+seek out - odszukiwać
+serve as sth - służyć jako coś
+starting point - punkt wyjścia/miejsce rozpoczęcia
+the big picture - szerszy punkt widzenia/szerszy punkt widzenia/pełny obraz
+track record - osiągnięcia/historia/udokumentowana kariera zawodowa pracownika

@@ -1,92 +1,170 @@
 rzeczowniki:
+accomplishment - dokonanie/osiągnięcie
 accountability - odpowiedzialność
 acquisition - nabytek/zakup/zdobycie/przejęcie
 acumen - bystrość/przenikliwość
 adjacency - sąsiedztwo/przyleganie/graniczenie
 advancement - rozwój/postęp
+advisor - doradca/konsultant
+alignment - współpraca/sojusz/wsparcie
 assessing - ustalanie
+audience - widownia/publiczność/audytorium
 authorship - autorstwo
 background - kontekst/tło/doświadczenie/wykształcenie/wiedza
+boundary - granica
 breadth - rozległość/szerokość
+breakthrough - punkt zwrotny/przełom
 candidate - kadnydat/pretendent
+checklist - lista kontrolna
+closure - zamknięcie
+commitment - poświęcenie/oddanie/zobowiązanie
+competency - umiejętność/kwalifikacje/umiejętności
 conduct - przeprowadzanie/sposób/zachowanie
 contribution - wkład/udział
 cultivating - doskonalenie/kształcenie/rozwijanie/podtrzymywanie znajomości
+depth - głębokość
+dialog - dialog
 disclosure - ujawnienie/wyjawienie
 domain - dziedzina/domena
 driving - prowadzenie
 edge - krawędz/brzeg/ostrze/przewaga/podekscytowanie
+excellence - perfekcja/doskonałość
 exhibiting - wystawianie/pokazywanie
 expertise - ekspertyza
+fellowship - koleżeństwo/solidarność/towarzystwo/wspólnota/związek
+formulation - formułowanie
+impacting - wpływanie
+imperative - konieczność/nakaz/imperatyw
 indicator - wskaźnik
 intent - zamiary/intencje/cel
 interaction - interakcja/wzajemne relacje/komunikowanie się
+interconnect - połączenie wzajemne
 journal - czasopismo/gazeta/dziennik
 launching - uruchamianie/rozpoczęcie/wprowadzanie
 leadership - kierownictwo/przewództwo/szefostwo/władze
+leverage - wpływ/zdolność wywierania nacisku
 mentor - mentor
 motivator - motywator/bodziec/pobudka
 nominee - kandydat/nominowany
+outcome - wynik/rezultat
 passion - pasja/zamiłowanie
+presence - obecność/prezencja
 progression - postęp/rozwój
 readiness - gotowość/chęć
 roadmap - plan działania
+shift - zmiana
 sphere - sfera/zakres
+stakeholder - interesariusz/partner/osoba zainteresowana
+talent - talent/utalentowana osoba
 technologist - technolog
+velocity - prędkość
 
 czasowniki:
+align - wyrównywać/ustawiać
+articulate - artykułować/wyrażać/wypowiadać/łączyć ze sobą
 assess - oceniać
 categorize - klasyfikować
+chalange - podważać/kwestionować/wyzwać
 coach - trenować/instruować
+collaborate - współpracować
 comprehend - pojmować/rozumieć/zawierać/obejmować
+construct - budowac/konstruować
 contribute - wnosić
 cultivate - uprawiać/doskonalić/kształcić/rozwijać
 demonstrate - dowieść/zademonstować/pokazać
+develop - rozwijać/rosnąć/opracowywać/wypracowywać
 drive - kierować/powodować
+empower - upoważniać/wzmocnić
 encompass - obejmować/ogarniać
+establish - zakładać/tworzyć/ustanawiać/ugruntować/dowodzić
 exemplify - ilustrować/stanowić przykład/obrazować
+exert - wywierać/okazywac/używać/wytężać
+forgo - rezygnować/zrzekać się/odmawiać sobie
+foster - pielęgnować/rozwijać/wspierać/brać na wychowanie
+frame - formułować/tworzyć
+guide - prowadzić/kierować/wpływać
 hinder - utrudniać/przeszkadzać/ograniczać/hamować
+innovate - wprowadzać innowacje
+inspire - inspirować/natchnąć/pobudzać/podsunąć
 integrate - wcielać/integrować/łączyć w całość
 interpret - interpretować/objaśniać
 invest - inwestować
+mitigate - łagodzić/uspokajać
+motivate - kierować/motywować
+nurture - wychowywać/pielęgnować/żywić/czuwać nad czymś
+overcome - pokonywać/przezwyciężać/uporać się
+practice - wykorzystywać
+represent - reprezentować/symbolizować/przedstawiać/odpowiadać/stanowić
 span - obejmować/sięgać/łączyć brzegi
+strategize - planować
+unite - zjednoczyć
+untangle - rozplątywać/rozsupływać/rozwikłać
 vary - różnić się/zmieniać się
 
 przymiotniki:
+actionable - zaskarżalny/dający podstawy do działania
+adjacent - sąsiedni/przylegający/graniczący/sąsiadujący
+anticipatory - uprzedni/poprzedzający
+approachable - przystępny
+behavioral - behawioralny
 broad - szeroki/obszerny/rozległy/ogólny
+collaborative - wspólny
+compelling - przekonujący/nieodparty/zajmujący
 corporate - wspólny/grupowy/zbiorowy
 desirable - wskazany/pożądany
+disordered - bezładny/nieporządny
 distinct - różny/wyraźny/zdecydowany
+encompassing - otaczający/okajający
 evidenced - potwierdzony/udokumentowany
 exceptional - wyjątkowy/wybitny/rzadki
+fundamental - podstawowy/fundamentalny/kardynalny/zasadniczy
+in-depth - dogłębny
 innovative - innowacyjny/nowatorski
+internationally recognized - rozpoznawany na całym swiecie
 knowledgeable - mądry/znający się na rzeczy/obeznany/wnikliwy
 leading - czołowy/wybitny
 leading-edge - wiodący/najnowszy
+multiple - wieloraki/liczny/wielokrotny
+profound - głęboki/całkowity/zupełny
+respected - szanowany/uznany
+respectful - pełen szacunku/poważania
 robust - silny/solidny/zdecydowany/bogaty
 scientific - naukowy
 sustained - długotrwały/nieprzerwany
 systematic - systematyczny
+trusting - ufny/pełen zaufania
 virtuous - cnotliwy/prawy
 
 przysłówki:
+actively - aktywnie/czynnie
 consistently - konsekwentnie
 externally - zewnętrznie
+openly - otwarcie/jawnie
 positively - pozytywnie/bardzo/zdecydowanie/niepodważalnie
+proactively - proaktywnie/czynnie/prewencyjnie/zapobiegawczo
 
 wyrażenia:
 align sth with sth - dopasować coś do siebie
 arise from sth - wynikać z czegoś
+business unit - jednostka organizacyjna
+c-level - grupa najważniejszych osób w zarządzie firmy
 career path - ścieżka kariery
+change agent - agent zmiany/specjalista w zakresie zmian
 decision maker - osoba decyzyjna
+enable sb to do sth - umożliwiać komuś zrobienie czegoś
+exert an influence - wywierać wpływ
+go-to person - najlepsza osoba do danego zadania
 in mind - z myślą/w zamyśle
 in the light of sth - w świetle czegoś
 make a decision - podjąć decyzję
 on behalf of sb - w czyimś imieniu
 over time - w trakcie/z czasem
+remove barriers - usuwać bariery
+rise to sth - odnieść się do czegoś/odpowiedzieć na coś
 role model - wzór do naśladowania
 seek out - odszukiwać
 serve as sth - służyć jako coś
 starting point - punkt wyjścia/miejsce rozpoczęcia
 the big picture - szerszy punkt widzenia/szerszy punkt widzenia/pełny obraz
+throughout - wszędzie/pod każdym względem/całkowicie
 track record - osiągnięcia/historia/udokumentowana kariera zawodowa pracownika

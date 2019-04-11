@@ -18,7 +18,7 @@ candidate - kadnydat/pretendent
 checklist - lista kontrolna
 closure - zamknięcie
 commitment - poświęcenie/oddanie/zobowiązanie
-competency - umiejętność/kwalifikacje/umiejętności
+competency - kwalifikacje/umiejętności
 conduct - przeprowadzanie/sposób/zachowanie
 contribution - wkład/udział
 cultivating - doskonalenie/kształcenie/rozwijanie/podtrzymywanie znajomości
@@ -27,7 +27,7 @@ dialog - dialog
 disclosure - ujawnienie/wyjawienie
 domain - dziedzina/domena
 driving - prowadzenie
-edge - krawędz/brzeg/ostrze/przewaga/podekscytowanie
+edge - krawędź/brzeg/ostrze/przewaga/podekscytowanie
 excellence - perfekcja/doskonałość
 exhibiting - wystawianie/pokazywanie
 expertise - ekspertyza
@@ -64,7 +64,7 @@ align - wyrównywać/ustawiać
 articulate - artykułować/wyrażać/wypowiadać/łączyć ze sobą
 assess - oceniać
 categorize - klasyfikować
-chalange - podważać/kwestionować/wyzwać
+challange - podważać/kwestionować/wyzwać
 coach - trenować/instruować
 collaborate - współpracować
 comprehend - pojmować/rozumieć/zawierać/obejmować
@@ -78,7 +78,7 @@ empower - upoważniać/wzmocnić
 encompass - obejmować/ogarniać
 establish - zakładać/tworzyć/ustanawiać/ugruntować/dowodzić
 exemplify - ilustrować/stanowić przykład/obrazować
-exert - wywierać/okazywac/używać/wytężać
+exert - wywierać/okazywać/używać/wytężać
 forgo - rezygnować/zrzekać się/odmawiać sobie
 foster - pielęgnować/rozwijać/wspierać/brać na wychowanie
 frame - formułować/tworzyć
@@ -102,7 +102,7 @@ untangle - rozplątywać/rozsupływać/rozwikłać
 vary - różnić się/zmieniać się
 
 przymiotniki:
-actionable - zaskarżalny/dający podstawy do działania
+actionable - dający podstawy do działania
 adjacent - sąsiedni/przylegający/graniczący/sąsiadujący
 anticipatory - uprzedni/poprzedzający
 approachable - przystępny
@@ -114,7 +114,7 @@ corporate - wspólny/grupowy/zbiorowy
 desirable - wskazany/pożądany
 disordered - bezładny/nieporządny
 distinct - różny/wyraźny/zdecydowany
-encompassing - otaczający/okajający
+encompassing - otaczający/okalający
 evidenced - potwierdzony/udokumentowany
 exceptional - wyjątkowy/wybitny/rzadki
 fundamental - podstawowy/fundamentalny/kardynalny/zasadniczy
@@ -142,6 +142,7 @@ externally - zewnętrznie
 openly - otwarcie/jawnie
 positively - pozytywnie/bardzo/zdecydowanie/niepodważalnie
 proactively - proaktywnie/czynnie/prewencyjnie/zapobiegawczo
+throughout - wszędzie/pod każdym względem/całkowicie
 
 wyrażenia:
 align sth with sth - dopasować coś do siebie
@@ -166,5 +167,4 @@ seek out - odszukiwać
 serve as sth - służyć jako coś
 starting point - punkt wyjścia/miejsce rozpoczęcia
 the big picture - szerszy punkt widzenia/szerszy punkt widzenia/pełny obraz
-throughout - wszędzie/pod każdym względem/całkowicie
 track record - osiągnięcia/historia/udokumentowana kariera zawodowa pracownika

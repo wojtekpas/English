@@ -1,0 +1,45 @@
+rzeczowniki:
+appraisal - ocena
+bric-a-brac-bibeloty/starocie
+bug - wirus/insekt/robak
+canteen - stołówka/kantyna
+charity shop - sklep z rzeczami używanymi
+clear-out - generalne porządki
+courtesy - uprzejmość/grzeczność
+dialect - dialekt
+discipline - dyscyplina
+donations - datek/darowizna
+kindness - dobroć/życzliwość/uprzejmość/dobry uczynek/przysługa
+launching - uruchomienie/rozpoczęcie/zapoczątkowanie/wprowadzenie
+manners - maniery
+paintings - obraz/malowidło/malarstwo
+phonics - fonetyka/wymowa
+revenue - przychód/dochód
+steam - para wodna
+toy - zabawka/gadżet
+turnover - obrót
+waste/rubbish/garbage - odpady
+waist - talia/pas
+zone - strefa/obszar
+
+czasowniki:
+alternate - zmieniać
+afford - pozwalać/oferować/zapewniać
+donate - ofiarowywać/przekazywać
+recycle - powtórnie przetwarzać
+tear - drzeć/rozdzierać
+wear - wycierać się/przecierać się
+weld - spajać/spawać/zespolić
+
+przymiotniki:
+communal  - wspólny
+courteous - uprzejmy
+designated - określony/wyznaczony
+homeless - bezdomny
+in-house - wewnętrzny
+infected - zakażony/zarażony/zainfekowany
+massive - ogromny/duży
+strict - surowy/wymagający
+upset - zasmucony/zmartwiony
+voluntary - dobrowolny/ochotniczy/nieobowiązkowy/nieodpłatny
+whacked/drained/weary - wykończony/zmęczony/wycieńczony

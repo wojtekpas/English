@@ -1,6 +1,6 @@
 rzeczowniki:
 appraisal - ocena
-bric-a-brac-bibeloty/starocie
+bric-a-brac - bibeloty/starocie
 bug - wirus/insekt/robak
 canteen - stołówka/kantyna
 charity shop - sklep z rzeczami używanymi

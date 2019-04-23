@@ -28,6 +28,7 @@ alternate - zmieniać
 afford - pozwalać/oferować/zapewniać
 donate - ofiarowywać/przekazywać
 recycle - powtórnie przetwarzać
+resurface - kłaść nową powierzchnię
 tear - drzeć/rozdzierać
 wear - wycierać się/przecierać się
 weld - spajać/spawać/zespolić

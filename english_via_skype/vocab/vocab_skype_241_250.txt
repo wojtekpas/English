@@ -45,3 +45,6 @@ strict - surowy/wymagający
 upset - zasmucony/zmartwiony
 voluntary - dobrowolny/ochotniczy/nieobowiązkowy/nieodpłatny
 whacked/drained/weary - wykończony/zmęczony/wycieńczony
+
+wyrażenia:
+go into administration - dostać się pod zarząd sądowy

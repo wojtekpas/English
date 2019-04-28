@@ -1,50 +1,95 @@
 rzeczowniki:
 appraisal - ocena
+breeze - bryza/wiaterek
 bric-a-brac - bibeloty/starocie
 bug - wirus/insekt/robak
 canteen - stołówka/kantyna
 charity shop - sklep z rzeczami używanymi
 clear-out - generalne porządki
+congestion - przeludnienie/korek/zator/zapchanie
 courtesy - uprzejmość/grzeczność
+danger - niebezpieczeństwo/zagrożenie
+demolition - burzenie/rozbiórka
 dialect - dialekt
 discipline - dyscyplina
+disease - choroba
+disruption - zamęt/nieporzątek/zakłócenie
 donations - datek/darowizna
+foodstuffs - produkty/artykuły żywnościowe
+fumes - dymy/opary/spaliny
+gridlock - korek uliczny/zator
+hygiene - higiena
+infection - infekcja/zakażenie/zarażenie
+infrastructure - infrastruktura
 kindness - dobroć/życzliwość/uprzejmość/dobry uczynek/przysługa
 launching - uruchomienie/rozpoczęcie/zapoczątkowanie/wprowadzenie
 manners - maniery
+misery - bieda/nędza/cierpienie/nadola/nieszczęście
 outbreak - wybuch/gwałtowna fala/nagłe wystąpienie
+overcrowding - przepełnienie/przeludnienie
 paintings - obraz/malowidło/malarstwo
 phonics - fonetyka/wymowa
+pothole - wybój/dziura
 revenue - przychód/dochód
+roadworks - roboty/prace drogowe
+sanitation - higiena/warunki sanitarne
+smell - zapach/smród/węch
+spell - okres
 steam - para wodna
+sterilising - sterelizowanie/dezynfekowanie/ubezpłodnienie się/wyjaławienie
+tongue - język
 toy - zabawka/gadżet
+tragedy - tragedia/szkoda
 turnover - obrót
 waste/rubbish/garbage - odpady
 waist - talia/pas
 zone - strefa/obszar
 
 czasowniki:
+adapt - przystosować się/dostosować się
 alternate - zmieniać
 afford - pozwalać/oferować/zapewniać
+contract - zarazić się
 donate - ofiarowywać/przekazywać
 recycle - powtórnie przetwarzać
 resurface - kłaść nową powierzchnię
 tear - drzeć/rozdzierać
+vomit/throw up/be sick - wymiotować/pochorować się
 wear - wycierać się/przecierać się
 weld - spajać/spawać/zespolić
 
 przymiotniki:
+balmy - balsamiczny/kojący
 communal  - wspólny
+contaminated - zanieczyszczony/skażony/trujący
 courteous - uprzejmy
+cracking - doborowy/znakomity
+daunting - zniechęcający/onieśmielający
+decent - godziwy/przyzwoity/porządny/miły
 designated - określony/wyznaczony
+gruelling - wyczerpujący/wymagający wysiłku/ponad siły
 homeless - bezdomny
 in-house - wewnętrzny
 infected - zakażony/zarażony/zainfekowany
 massive - ogromny/duży
+miserable - smutny/przygnębiony/nieszczęśliwy
+nuclear - jądrowy/nuklearny
 strict - surowy/wymagający
+tolerable - możliwy do wytrzymania/znośny
+tough - trudny/wymagający/twardy/nieustępliwy/silny
+toxic - toksyczny
+tragic - tragiczny
 upset - zasmucony/zmartwiony
 voluntary - dobrowolny/ochotniczy/nieobowiązkowy/nieodpłatny
 whacked/drained/weary - wykończony/zmęczony/wycieńczony
 
 wyrażenia:
+contingency plan - plan awaryjny
+fed up - rozdrażniony/znudzony/mający dosyć
 go into administration - dostać się pod zarząd sądowy
+in reserve - w zapasie/na wszelki wypadek
+nuclear waste - odpady nuklearne
+rush/peak hour - godzina szczytu
+take down - demontować/burzyć coś
+toxic fumes - dymy toksyczne
+water supply - zaopatrzenie w wodę/dopływ wody/zapasy wody

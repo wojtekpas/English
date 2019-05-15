@@ -1,52 +1,87 @@
 rzeczowniki:
 aspen - drewno osikowe
 backcountry - odludzie
+bagel - bajgiel
 cabin - kajuta/kabina
 carb - węglowodan
 commotion - hałas/tłum/zgiełk
-campsite - kemping/obozowisko
+campsite/campground - kemping/obozowisko
+condor - kondor
 contour - zarys
 corridor - korytarz
 cottonwood - topola amerykańska
+crossing - przejście/przeprawa
 dehydration - odwodnienie
 ditch - rów
 elevation - wysokość
 enormity - ogrom
 esplanade - bulwar
+faucet - kran
+fern - paproć
 grasshopper - konik polny
 gorge - wąwóz
+haul - ciągnienie/holowanie
+headlamp - czołówka
+homestead - farma/zagroda
 hyponatremia - obniżenie poziomu sodu we krwi
 immensity - ogrom/bezmiar/bezkres
 joint - staw
+juniper - jałowiec
 lodge - domek/chata
+lushness - bujność/dorodność/wykwintność/luksus
+maidenhair - rodzaj paproci
+midday - południe/środek dnia
+mule - train
+oasis - oaza
 overlook - punkt widokowy
 peril - zagrożenie/niebezpieczeństwo
 pine - sosna
+pinon - rodzaj nisko rosnącej sosny
 pit - dół/jama/dziura
 plunge - gwałtowny spadek
 ponderosa - drzewo sosnowe
+pump house - pompownia
+resthouse - wczasowisko
 rim - brzeg/krawędź
 salmon - łosoś
 sandstone - piaskowiec
+scenery - krajobraz
+scrub - krzak/zagajnik/zarośla
+shelter - schronienie
 shuttle - kursujący wahadłowo środek transportu
 sipping - popijanie/sączenie
 span - trwać/obejmować/sięgać
 sunroom - oszkolona weranda
 swig - łyk/haust
 switchback - kręta droga/serpentyna
+temple - świątynia
 toenail - paznokieć u nogi
 trail - trasa/szlak
 trailhead - miejsce, w którym zaczyna się szlak
+turnaround - zmiana/zwrot
+water bottle - bidon
 wildland - dzika i niezamieszkana ziemia
 wildness - dzikość/szał
 
 czasowniki:
+creaky - skrzypiący/trzeszczący
 crunch - miażdzyć
+don - przywdziać/przybierać
 gulp - łykać/połykać/przełykać ślinę
 immerse - zanurzać
+meander - wić się/błądzić
 nestle - przytulić/wtulić się
+nibble - skubnąć/lekko ugryźć
 reverse - odwracać/zmieniać
+shadow - rzucać cień na coś
+shallow - płytki
 soak - namoczyć/przemoczyć
+splash - ochlapać
+spot - dostrzegać/zauważać
+spy - dostrzeć/wypatrzyć
+stumble - zataczać się
+underestimate - nie doceniać
+wheel - krążyć (np. ptak po niebie)
 
 przymiotniki:
 breathtaking - zapierający dech
@@ -58,8 +93,10 @@ inner - wewnętrzny
 magnificent - wspaniały/wyśmienity
 misty - mglisty/zamglony
 multiday - wielodniowy
+riparian - nadbrzeżny/przyrzeczny
 roasted - pieczony
 rugged - nierówny/wyboisty
+rustling - szeleszczący/szumiący
 salty - słony
 scorching - skwarny/upalny
 serene - łagodny/spokojny
@@ -68,25 +105,54 @@ solitary - jedyny/pusty/opustoszały
 spur - boczny/odchodzący
 stripped-down - prosty/uproszczony
 tempting - kuszący/nęcący
+thriving - kwitnący
 ultimate - najlepszy/podstawowy
-underestimate - nie doceniać
 vast - ogromny/rozległy
 wide-angle - szeroko-kątny
+zigzagging - zygzakowaty
 
 przysłówki:
+inherently - właściwie/z natury
 interminably - bez końca
+ominously - złowieszczo/złowrogo/niepokojąco
+oppressively - przytłaczająco/uciążliwie
+sharply - nagle/gwałtownie/bardzo/rażąco
 
 wyrażenia:
+ahead/in advance - z wyprzedzeniem
+alongside - wzdłuż
 be all downhill - być łatwiejsze/dobrze się układać
 bed down - przespać się
+break sth up - rozkładać coś na części/rozbić coś
+check out - obczajać/badać
+commit oneself - zobowiązać się
+commit sb to sth - zobowiązać kogoś do czegoś
 drop off - odpaść/oderwać się
 give sb a rub - pomasować/rozetrzeć/pocierać coś
 head back - skierować się spowrotem
 head over to - udać się do/kierować się do
 in depth - dogłębnie
+kick up a dust - robić zamieszanie
+level off - wyrównać/ustabilizować się
+lock sth out - odcinać dostęp do czegoś
+look down - patrzeć w dół
+luck out - mieć szczęście
 pack up - spakować
 pass through - przejeżdzać
+pick up - zaczynać na nowo
+pitch a tent - rozkładać/rozbić namiot
 psych sb out - zdeprymować/zastraszyć kogoś
+put one's feet up - odpoczywać/relaksować się
+resting point - miejsce na odpoczynek
+roll out - wyrównywać
 rule of thumb - reguła oparta na doświadczeniu
+show up - pojawiać/zjawiać się
+soak sth up - napawać się czymś
 take-out - na wynos
+tire of sth - męczyć się czymś
 upside down - do góry nogami
+wall sth in - otoczyć coś murem
+walk-in - przypadkowy klient/klient z ulicy/bez rezerwacji
+wee hours - godziny po północy
+whet one's appetite - ostrzyć sobie apetyt
+wiggle room - otwarta furtka

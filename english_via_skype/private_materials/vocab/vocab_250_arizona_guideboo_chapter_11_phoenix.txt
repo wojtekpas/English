@@ -1,0 +1,66 @@
+rzeczowniki:
+ashes - prochy/popioły/zgliszcza
+bloom - rozkwit/kwiat
+camel - wielbłąd
+casita - mały dom
+fine art - sztuki piękne
+flashlight - latarka
+fountain - fontanna
+glare - blask/olśnienie
+imitator - naśladowca
+indulgence - pobłażanie/folgowanie/dogadanie sobie/wyrozumiałość
+oddity - dziwak/osobliwość
+planetarium - planetarium
+pollution - zanieczyszczenie/skażenie
+pottery - ceramika/garncarstwo
+powerbroker - szara eminencja/potentat
+reckoned - przypuszczać
+revitalization - ożywienie/rewitalizacja
+sanctuary - rezerwat/świątynia
+shrub - krzew/mały krzak
+solstice - przesilenie
+sprawl - skupisko
+squirm - wiercenie się/kręcenie się
+suburb - przedmieście
+treasure - skarb
+underworld - świat przestępczy
+velvet - aksamit
+wallpaper - tapeta
+wildfire - niekontrolowany ogień
+
+czasowniki:
+console - pocieszyć
+reckon - myśleć/sądzić/przypuszczać
+snag - złapać/sapnąć
+
+przymiotniki:
+crafted - przygotowany/wykonany rzemieślniczo
+dazzling - oślepiający/rażący/imponujący/olśniewający
+dysfunctional - zaburzony
+finer - świetniejszy
+first-rate - znakomity/pierwszorzędny
+glorious - cudowny/wspaniały/chlubny
+hands-on - praktyczny/bezpośredni
+indistinguishable - nieuchwytny/niedostrzegalny
+miniature - miniaturowy
+mythical - mityczny/wyimaginowany/wspaniały/sławny
+overstuffed - wyściełany
+perched - siadający na krawędzi czegoś
+resting - spoczynkowy
+stark - surowy/nagi/szary/brutalny
+stunning - zachwycający/oszałamiający
+top-notch - pierwszorzędny
+untamed - dziewiczy/dziki/nieoswojony
+
+przysłówki:
+contentedly - z zadowoleniem
+coolly - lekko/przewiewnie
+ingeniously - pomysłowo
+
+wyrażenia:
+boutique resort - kameralny ośrodek wypoczynkowy
+head to - kierować się do
+leave sth behind - zapomnieć czegoś wziąć/pozostawić coś
+light sth up - rozświetlić/rozjaśniać coś
+look over sth - patrzeć/przeglądać za coś
+most of all - przede wszystkim

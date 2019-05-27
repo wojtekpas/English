@@ -69,6 +69,7 @@ crucified - ukrzyżowany
 glorified - wychwalony
 grievous - bolesny/poważny
 healed - wyleczony/wygojony
+heavenly - niebiański/niebieski/rajski/cudowny
 incarnate - wcielony/ucieleśniony
 invisible - niewidoczny/niewidzialny/ukryty
 just - sprawiedliwy/słuszny/uzasadniony
@@ -80,7 +81,6 @@ worthy - godny/godzien/wart/zasługujący
 przysłówki:
 begotten - spłodzony
 greatly - bardzo/ogromnieznacznie
-heavenly - niebiański/niebieski/rajski/cudowny
 
 wyrażenia:
 almighty God - Bóg wszechmogący

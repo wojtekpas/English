@@ -31,7 +31,7 @@ lodge - domek/chata
 lushness - bujność/dorodność/wykwintność/luksus
 maidenhair - rodzaj paproci
 midday - południe/środek dnia
-mule - train
+mule - muł
 oasis - oaza
 overlook - punkt widokowy
 peril - zagrożenie/niebezpieczeństwo
@@ -51,7 +51,7 @@ shelter - schronienie
 shuttle - kursujący wahadłowo środek transportu
 sipping - popijanie/sączenie
 span - trwać/obejmować/sięgać
-sunroom - oszkolona weranda
+sunroom - oszklona weranda
 swig - łyk/haust
 switchback - kręta droga/serpentyna
 temple - świątynia
@@ -64,7 +64,6 @@ wildland - dzika i niezamieszkana ziemia
 wildness - dzikość/szał
 
 czasowniki:
-creaky - skrzypiący/trzeszczący
 crunch - miażdzyć
 don - przywdziać/przybierać
 gulp - łykać/połykać/przełykać ślinę
@@ -74,7 +73,6 @@ nestle - przytulić/wtulić się
 nibble - skubnąć/lekko ugryźć
 reverse - odwracać/zmieniać
 shadow - rzucać cień na coś
-shallow - płytki
 soak - namoczyć/przemoczyć
 splash - ochlapać
 spot - dostrzegać/zauważać
@@ -87,6 +85,7 @@ przymiotniki:
 breathtaking - zapierający dech
 burned-out - wyczerpany/wykończony
 comfy - wygodny/komfortowy
+creaky - skrzypiący/trzeszczący
 gourmet - delikatesowy/wyśmienity
 ill-considered - nieprzemyślany/pochopny/nierozważny
 inner - wewnętrzny
@@ -100,6 +99,7 @@ rustling - szeleszczący/szumiący
 salty - słony
 scorching - skwarny/upalny
 serene - łagodny/spokojny
+shallow - płytki
 sheer/steep - stromny/spadzisty
 solitary - jedyny/pusty/opustoszały
 spur - boczny/odchodzący

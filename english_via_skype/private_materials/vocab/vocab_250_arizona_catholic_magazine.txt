@@ -2,58 +2,93 @@ rzeczowniki:
 advocate - obrońca
 annulment - anulowanie/unieważnienie
 apostle/disciple - apostoł
-catechism - katechizm/katecheza
+bereavement - bolesna strata/żałoba
+bulletin - biuletyn
+catechesis/catechism - katechizm/katecheza
 commandment - przykazanie
+conception - poczęcie
 confirmation - bierzmowanie
 counselling - doradztwo
+craft - zawód/profesja/rzemiosło
 devotion - oddanie się/pobożność/religijność
 diocese - diecezja
 dwelling - mieszkanie/dom
 essence - esencja/istota/sedno
+excerpt - ustęp/fragment
 follower - wyznawca
+funeral - pogrzeb
+genesis - geneza/początek/rodowód
+Genesis - Księga Rodzaju
+gift shop - sklep z upominkami
+grief - żal/smutek/zmartwienie
 indwelling - napełnianie
+infant - niemowle/noworodek
+infanticide - dzieciobójstwo
 inquiry - zapytanie/prośba
 marrying - poślubianie
 mercy - łaska/litość/miłosierdzie
 missionary - misjonarz
-nullity - nieważność
-resurrection - rycerz
-retreat - rekolekcje
 monstrance - monstrancja
+nullity - nieważność
+outreach - pomoc potrzebującym/wyciąganie ręki
+pantry - spiżarnia
 parish - parafia
 peace - pokój
 Pentecost - Zesłanie Ducha Świętego/Zielone Świąki
+rebirth - odnowienie/odrodzenie/reinkarnacja/ponowne narodzenie się
+rejoicing - radość/radowanie się/świętowanie
 resurrection - zmartwychwstanie
+retreat - rekolekcje
+rite - ceremonia/obrzęd/zwyczaj/rytuał
+ritter - rycerz
 rosary - różaniec
-scripture - świeta księa/pismo
+sanctity - świętość/nienaruszalność
+scripture - świeta księga/pismo
 solemnity - powaga/podniosłość
+spirituality - duchowość/metafizyczność
 stewardship - zarządzanie/szafarstwo
+stitcher - osoba, która wykonuje ściegi, zszywa coś
 vicar - pastor/wikariusz
+vocation - powołanie
+womb - łono
 worship - kult/cześć/uwielbienie
 
 czasowniki:
+befriend - okazywać sympatię/zaprzyjaźniać się
+defend - bronić
 dwell - zamieszkiwać/przebywać
+empathize - wczuwać się/czuć empatię
+foster - pielęgnować/rozwijać/wspierać
 fulfill - spełniać
 rejoice - radować się
 remark - spostrzegać/zauważać
 remarry - ponownie się żenić
 reoccur - powtarzać się/powracać
 serve - służyć
+solidify - utrwalać/umacniać
 strive - usiłować/starać się
+tolerate - tolerować/znosić
 transform - przekształcać
 
 przymiotniki:
 baptized - ochrzczony
 cherished - ukochany/ulubiony
 corporeal - cielesny/fizyczny/materialny
+crafted - wykonany rzemieślniczo/przygotowany
 divine - boski/boży/cudowny
+elected - wybrany
+eternal - wieczny/wiekuisty
 everlasting - wieczny
 faithful - wierny/dokładny/niezawodny
 household - gospodarski
 joyful - szczęśliwy/radosny
+liturgical - liturgiczny
 Marian - maryjny
 parochial - parafialny
+precious - cenny/drogocenny/wartośćiowy/szlachetny
+sorrowful - bolesny/żałosny/pełen smutku
 spiritual - duchowy/religijny
+unborn - nienarodzony/przyszły
 upcoming - zbliżający się/nadchodzący
 welcoming - serdeczny/ciepły/miły
 
@@ -68,6 +103,8 @@ be baptized - przyjąć chrzest
 be confirmed - być bierzmowanym
 be/feel honored - być zaszczyconym
 call upon sb - wzywać kogoś/prosić kogoś o coś
+drop-in - niezapowiedziana/przypadkowa wizyta
+infant baptism - chrzest dzieci
 minister to sb - służyć komuś
 rise up - unosić się
 send sb in - posyłać kogoś
@@ -75,4 +112,5 @@ set the world on fire - zadziwić wszystkich
 so that - po to, aby
 speak of sb - rozmawiać/wspomnieć o czymś
 strive to do sth - usiłować coś zrobić
+witness to sth - świadek czegoś
 yet - ale

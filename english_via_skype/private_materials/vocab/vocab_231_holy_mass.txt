@@ -44,8 +44,9 @@ bless - pobłogośławić/poświęcić
 bury - pochować/pogrzebać/pochować
 confess - spowiadać się/wyznawać
 crucify - ukrzyżować
-grant - przyznawać
+descend - zstąpić/schodzić
 glorify - gloryfikować/wychwalać/wysławiać
+grant - przyznawać
 heal - leczyć/wyleczyć/załagodzić
 hosanna - chwalić
 judge - osądzać/sądzić
@@ -80,7 +81,7 @@ worthy - godny/godzien/wart/zasługujący
 
 przysłówki:
 begotten - spłodzony
-greatly - bardzo/ogromnieznacznie
+greatly - bardzo/ogromnie/znacznie
 
 wyrażenia:
 almighty God - Bóg wszechmogący
@@ -91,7 +92,7 @@ for sb's sake/for the sake of sb - przez wzgląd na kogoś
 go forth - iść naprzód/ruszyć naprzód
 have mercy - zmiłować się
 have mercy on sb - mieć litość nad kimś
-Heavenly Father - Ojciec niebieski
+Heavenly Father - Ojciec Niebieski
 in accordance with sth - zgodnie z czymś
 Lamb of God - Baranek Boży
 lift up - dzwigać/podnosić/unosić

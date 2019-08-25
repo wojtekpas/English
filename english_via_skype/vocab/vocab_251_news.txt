@@ -1,0 +1,53 @@
+rzeczowniki:
+balloon - balon/balonik
+captive - jeniec/niewolnik
+celebrity - sława/znana osoba
+famine - głód
+farm - farma/gospodarstwo rolne
+hostage - zakładnik
+liberation - oswobodzenie/uwolnienie
+lightning - błyskawica/piorun
+peace talks - rozmowy pokojowe
+rebel - buntownik/rebeliant
+residence - rezydencja
+strike - atak/uderzenie
+troop - grupa/oddział
+
+czasowniki:
+break - wyjawiać/ujawniać
+develop - rozwijać
+publish - publikować/ogłaszać
+quit - odchodzić/zrezygnować
+reintroduce - wskrzesić/przywrócić
+strike - uderzyć
+
+przymiotniki:
+anti-smoking - antynikotynowy
+front-page - znajdujący się na pierwszej stronie
+seized - zatarty
+
+wyrażenia:
+attract attention - przyciągać uwagę
+be front page news - być bardzo ważną wiadomością
+break a story - przekazywać wiadomość jako pierwszy
+break down - dzielić się
+catch fire - zapalić się
+flick through sth - przekartkować coś
+front-page headlines - nagłówki z pierwszych stron gazet
+give sb the go-ahead - dać komuś zielone światło
+head of state - głowa państwa
+headline news - wiadomość z pierwszych stron gazet
+hold talks - odbywać/prowadzić rozmowy
+interested party - strona zainteresowana
+keep a close watch on sth - nie spuszać czegoś z oka/śledzić coś uważnie
+keep sb informed - informować kogoś na bieżąco
+launch a campaign - rozpocząć kompanię
+leak out - wychodzić na jaw
+lose control of sth - stracić nad czymś kontrolę
+loss of life - straty w ludziach
+make the/hit headlines - trafić na pierwsze strony gazet
+run a story - opublikować artykuł
+take sb captive - wziąć kogoś do niewoli
+take sb hostage - wziąć kogoś jako zakładnika
+the latest news - najnowsze/najświeższe wiadomości/wieści
+turn of events - zwrot/obrót zdarzeń/wydarzeń

@@ -14,14 +14,12 @@ przymiotniki:
 noteworthy - godny uwagi/interesujący
 thorough - gruntowny/dokładny/skrupulatny/skończony/całkowity
 
-przysłówki:
-further - dalej
-further on - dalej do przodu
-
 wyrażenia:
 break sth down - rozłożyć coś na części
 bring sb up to speed - dostarczyć komuś najświeższe informacje na dany temat/wtajemniczyć/poinformować kogoś
 draw attention to sth - zwrócić uwagę na coś
+further - dalej
+further on - dalej do przodu
 intend to do sth - zamierzać coś zrobić
 lay emphasis on sth - kłaść nacisk na coś
 lead to sth - prowadzić do czegoś

@@ -1,0 +1,40 @@
+rzeczowniki:
+departmental head - dyrektor działu
+expenditure - wydatki
+overheads - koszty ogólne/pośrednie
+timescale - czas (potrzebny na wykonanie czegoś)
+
+czasowniki:
+circulate - udostępniać/rozpowszechniać/rozesłać
+overcharge - policzyć zbyt wysoką cenę
+overdraw - przekroczyć
+overfund - dofinansować większą sumą niż jest potrzebna
+overprepare - przygotować się więcej niż to konieczne
+overreact - przesadnie reagować/przesadzać
+oversee - nadzorować
+oversleep - zaspać
+overuse - nadużywany
+undercut - sprzedać po niższej cenie
+underrate - nie doceniać/zaniżać znaczenie
+
+przymiotniki:
+considerable - znaczny/niemały
+overbearing/dominating - apodyktyczny/dominujący
+overdrawn - przekroczony
+overestimated - przeceniony
+overpaid - zbyt wysoko opłacany
+overpriced - zbyt drogi
+overqualified - nadmiernie wykwalifikowany
+overstaffed - zatrudniający zbyt wielu pracowników
+overwhelming - przytłaczający/nieprzeparty/przygniatający
+overworked - przepracowany/nadużywany
+routine - rutynowy/powtarzalny
+short-staffed - mający zbyt mało osób do pracy
+
+przysłówki:
+overhigh - zbyt/za wysoko
+tightly - ciasno/mocno/szczelnie/kurczowo
+
+wyrażenia:
+far too much - za dużo/zbyt wiele
+give sb a ring - zadzwonić/dryndnąć do kogoś

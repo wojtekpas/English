@@ -1,19 +1,43 @@
 rzeczowniki:
 applicant - aplikant/ubiegający się
+certainty - pewność/rzecz pewna
 divorce - rozwód
+drawback - wada/minus/mankament
+mobile home - przyczepa kempingowa
 liar - kłamca
 offender - przestępca/winowajca/sprawca
+public eye - opinia publiczna
+stranger - obcy/nieznajomy
+strong language - przekleństwa
 turbulence - turbulencja/niepokój/zamieszanie
 
 czasowniki:
+outperform - znacznie prześcigać/pozostawić w tyle/przewyższać
 
 przymiotniki:
+absolute - absolutny/całkowity/zupełny/bezwarunkowy
 breakneck - zawrotny/karkołomny
 bumpy - nierówny/wyboisty
 compulsive - nałogowy/fascynujący/frapujący
+condemned - przeznaczony do rozbiórki
+cutting-edge - nowatorski/odkrywczy
+foregone - miniony/przesądzony
+inveterate - notoryczny/zatwardziały
+mobile - przenośny/ruchomy
+non-stop - nieustający
+resounding - donośny/głośny
+run-down - zniczony/w marnym stanie
+silly - głupi/niemądry/dziecinny
+social - społeczny/towarzyski
+wasted - zmarnowany/stracony
+
+przysłówki:
+continually - ciągle/nieustannie/ustawicznie
 
 wyrażenia:
 at breakneck speed - w zawrotnym tempie
+bank on sth - liczyć na coś
+be in the public eye - być na oczach wszystkich
 broken home - rozbity dom
 bumpy flight - lot z turbulencjami/niespokojny
 capacity crowd - pełna sala/tłum wypełniający po brzegi
@@ -23,4 +47,17 @@ clean driving licence - prawo jazdy bez punktów karnych
 common knowledge - wiedza powszechna
 compulsive reading - fascynująca lektura
 compulsive viewing - fascynujący film/program telewizyjny
+condemned building - budynek przeznaczony do rozbiórki
+cushy job - ciepła posadka
+empty seat - puste siedzenie
+foregone conclusion - z góry przesądzony rezultat
+in the public eye - w centrum zainteresowania opinii publicznej
+non-stop flight - lot bezpośredni
+pull down - rozbierać/burzyć
 pull strings - pociągać za sznurki/używać wpływów
+remote chance/possibility - znikoma możliwość
+resounding success - oszałamiający/głośny sukces
+small talk - rozmowa towarzyska/na błahe tematy
+sole survivor - jedyny ocalony
+turn round - odwrócić się/obrócić się dookoła
+vicious circle - błędne koło

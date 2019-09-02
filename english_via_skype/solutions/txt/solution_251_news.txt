@@ -2,7 +2,7 @@
 latest
 make
 headline
-leaks
+leaked
 hit, broke
 front-page
 -

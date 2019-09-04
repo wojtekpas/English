@@ -1,43 +1,93 @@
 rzeczowniki:
 applicant - aplikant/ubiegający się
 certainty - pewność/rzecz pewna
+comprehension - zrozumienie
 divorce - rozwód
 drawback - wada/minus/mankament
-mobile home - przyczepa kempingowa
+explosion - eksplozja/wybuch
+filling - plomba
+fine - mandat/grzywna
+hole - dziura/dół
+hot favourite - faworyt
+inhabitant - mieszkanie
 liar - kłamca
+mobile home - przyczepa kempingowa
+nightmare - koszmar
 offender - przestępca/winowajca/sprawca
+pesticide - pestycyd/środek owadobójczy
 public eye - opinia publiczna
+paper - arkucz egzaminacyjny
+reputation - renoma/reputacja
+scandal - afera
+shout-out - strzelanina/wymiana ognia
+shouting - krzyki/pokrzykiwania
+soap opera - opera mydlana
 stranger - obcy/nieznajomy
 strong language - przekleństwa
+thorn - cierń/kolec
 turbulence - turbulencja/niepokój/zamieszanie
+wasp - osa
 
 czasowniki:
+concentrate - koncentrować/skupiać
+ensue - wywiązać się/wynikać/następować
+involve - wymagać/dotyczyć/obejmować
 outperform - znacznie prześcigać/pozostawić w tyle/przewyższać
+sink - tonąć
 
 przymiotniki:
 absolute - absolutny/całkowity/zupełny/bezwarunkowy
+bare - goły/nagi
+blazing - palący/piekący/płonący/gwałtowny
+bothered - zaniepokojony/zmartwiony
 breakneck - zawrotny/karkołomny
 bumpy - nierówny/wyboisty
 compulsive - nałogowy/fascynujący/frapujący
 condemned - przeznaczony do rozbiórki
+crippling - wyniszczający/rujnujący/paraliżający
 cutting-edge - nowatorski/odkrywczy
+devastating - niszczący/pustoszący
+dull - nudny/monotonny
 foregone - miniony/przesądzony
+galloping - galopujący
+gaping - rozdziawiony/wpatrujący się
+hefty - ciężki/obfity
+household - gospodarski
+husky - chrapliwy/krzepki
 inveterate - notoryczny/zatwardziały
+irreparable - niemożliwy do naprawienia/nieodwracalny
+juicy - pikantny/ciekawy
 mobile - przenośny/ruchomy
+nail-biting - pasjonujący/trzymający w napięciu
 non-stop - nieustający
+nuclear - jądrowy
+passionate - namiętny
+recurrent - okresowy/powtarzający się/cykliczny
+recurring - powtarzający się
 resounding - donośny/głośny
+rough - szorstki/chropowaty
+rumor - pogłoska/plotka
 run-down - zniczony/w marnym stanie
+scandalous - szokujący/oborzujący/skandaliczny
 silly - głupi/niemądry/dziecinny
 social - społeczny/towarzyski
+spiralling - gwałtownie zwrastający
+thriving - prosperujący
+tread - nadepnąć/nastąpić
+vicious - podły/złośliwy/agresywny/brutalny/zepsuty
 wasted - zmarnowany/stracony
 
 przysłówki:
 continually - ciągle/nieustannie/ustawicznie
+oddly - dziwnie/osobliwie/cudacznie
 
 wyrażenia:
 at breakneck speed - w zawrotnym tempie
 bank on sth - liczyć na coś
+bare feet - bose stopy
 be in the public eye - być na oczach wszystkich
+beat about the bush - owijać w bawałne/mówić ogródkami
+blazing row - gwałtownia kłótnia
 broken home - rozbity dom
 bumpy flight - lot z turbulencjami/niespokojny
 capacity crowd - pełna sala/tłum wypełniający po brzegi
@@ -47,17 +97,42 @@ clean driving licence - prawo jazdy bez punktów karnych
 common knowledge - wiedza powszechna
 compulsive reading - fascynująca lektura
 compulsive viewing - fascynujący film/program telewizyjny
+concentrate on sth - skoncentrować się na czymś
 condemned building - budynek przeznaczony do rozbiórki
 cushy job - ciepła posadka
 empty seat - puste siedzenie
+fell out - wypadać/rozpadać się
 foregone conclusion - z góry przesądzony rezultat
+full marks - maksymalne noty/najwyższa ocena
+get through to sb - skontaktować/połączyć się z kimś
+ghost town - wymarłe miasto
+golden opportunity - złota okazja
+gutter press - prasa brukowa
+heated argument - gwałtowna/zażarta kłótnia
+household name - powszechnie znana nazwa
+husky-voiced - mający chrapliwy głos
+in the not too distant future - w niedalekiej przyszłości
 in the public eye - w centrum zainteresowania opinii publicznej
+irreparable damage - nieodwracalne uszkodzenia
+juicy gossip - pikantna plotka
+nail-biting finish - koniec trzymający w napięciu
 non-stop flight - lot bezpośredni
+out of control - poza kontrolą
+package holiday - wakacje zorganizowane
 pull down - rozbierać/burzyć
 pull strings - pociągać za sznurki/używać wpływów
+put sth right - naprawić/skorygować coś
+rampant/galloping inflation - inflacja rosnąca w gwałtownym tempie
+recurring dream - powracający sen
 remote chance/possibility - znikoma możliwość
 resounding success - oszałamiający/głośny sukces
 small talk - rozmowa towarzyska/na błahe tematy
+so much - aż tyle/tak wiele
 sole survivor - jedyny ocalony
+spiralling inflation - samonakręcająca się inflacja
+straight answer - szczera odpowiedź
+throughout - na wskroś
+tread on sth - nadepnąć na coś
 turn round - odwrócić się/obrócić się dookoła
 vicious circle - błędne koło
+wrong number - niewłaściwy numer telefonu

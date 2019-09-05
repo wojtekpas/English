@@ -25,6 +25,7 @@ overestimated - przeceniony
 overpaid - zbyt wysoko opłacany
 overpriced - zbyt drogi
 overqualified - nadmiernie wykwalifikowany
+overactive - przesadny
 overstaffed - zatrudniający zbyt wielu pracowników
 overwhelming - przytłaczający/nieprzeparty/przygniatający
 overworked - przepracowany/nadużywany

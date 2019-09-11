@@ -8,43 +8,62 @@ contributing - wnoszenie/przyczynianie się
 depression - przygnębienie
 disorder - zaburzenia
 distress - ból/cierpienie/rozpacz/nędza
+embroidering - haftowanie/wyszywanie/podkolorowanie/ubarwienie
+evil - zło
+explosion - eksplozja/wybuch
 fatique - zmęczenie/znużenie
 inducing - skłanianie/nakłanianie/wywoływanie
 insomnia/sleeplessness - bezsenność
+mob - tłum/gang/paczka
 occurence - zdarzenie/wypadek/występowanie
 operate - operować/działać
 overworking - przemęczenie/przepracowanie się
 powder - proszek/puder
 relief - ulega/ukojenie/złagodzenie/wsparcie/pomoc
 scarcity - brak/niedobór/niedostatek
+self-defence - samoobrona
 spinning - obracanie się/kręcenie się/wirowanie
 surroundings - otoczenie/okolica
 tablet - tabletka
 tiredness - zmęczenie/znużenie
 tossing - rzucanie/podrzucanie/miotanie
 underpass - przejśćie podziemne
+welding - spawanie
+welding machine - spawarka
 wriggling - kręcenie się/wiercenie się/wyginanie
 
 czasowniki:
 affect - oddziaływać na/mieć wpływ na
 afflict - dotykać/dręczyć/gnębić/dokuczać
+ascribe - przypisywać
+attach - przymocować/przytwierdzać/przywiązywać
+bemoan - lamentować/opłakiwać
+beset - dręczyć/nękać/osaczać
+bestow - obdarzyć/przyznać
+betray - zdradzać/ujawniać
 combat - walczyć/zwalczać
 compel - zmuszać/wzbudzać
+confess - przyznawać się/wyznawać/spowiadać się
 conjure - wywołać/wyczarować/zaklinać/błagać
 detect - dostrzegać/zauważać/wykrywać
 disparage - ubliżać
+emerge - wyłaniać się/pojawiać się
 endure - znosić/cierpieć/tolerować
+engender - być zródłem czegoś/zrodzić/rozmnażać
 enforce - wprowadzać w życie/narzucać
 entail - wiązać się z czymś/pociągnąć za sobą/przekazywać jako ordynację
+evolve - rozwijać się/zmieniać się
 exact - wymagać/wymuszać
 exert - okazywać/wywierać/wytężyć
 expose - odkrywać/ujawniać/narazać
 function - funkcjonować
+instigate - przystępować/namawiać/wszcząć/podjąć
 invalidate - unieważniać
 originate - zapoczątkować/dawać początek/wymyślać/powstawać
 perform - występować/dokonywać/wykonywać
 process - przetwarzać/rozpatrywać
 proclaim - obwieszczać/ogłaszać
+propagate - propagować/szerzyć
 prove - udowadniać/okazywać się
 recuperate - odzyskiwać/wracać do zdrowia
 regenerate - odnawiać/odradzać/regenerować się/odrastać
@@ -52,20 +71,25 @@ restore - przywrócić
 resume - wznawiać/powracać
 retrieve - odzyskać/oznaleźć/naprawić/uzdrowić
 revive - odnawiać/wskrzeszać/zdrowieć/odżyć
+subsidize - subwencjonować/dotować
 substantiate - popierać dowodami/uzasadniać
 undergo - poddawać się/odbywać/ulegać
 underlie - być podstawą/znajdować się pod
 undertake - podjąć/przedsięwziąć
 
 przymiotniki:
+applied - praktyczny/stosowany/użytkowy
+attached - przywiązany/przyłączony
 chemical - chemiczny
 conscious - świadomy/przytomny
 distressing - przygnębiający/smutny/niepokojący/alarmujący
 exacting - wymagający/rygorystyczny
 medical - medyczny/lekarski
 nocturnal - nocny
+renowned - sławny/słynny
 sleepless - bezsenny
 unfavorable - niekorzystny/niesprzyjający
+woolen - wełniany
 worrying - niepokojący
 
 wyrażenia:
@@ -73,6 +97,7 @@ be few and far between - występować w małej ilości
 conjure up - przywoływać
 consequently - wskutek tego/w rezultacie
 even though - pomimo że/chociaż
+faith healing - uzdrawianie (niekonwencjonalnymi metodami)
 few and far between - rzadko/nieczęsto
 great deal of sth - wielka ilość czegoś
 in full - w pełni/w całości
@@ -81,5 +106,6 @@ no wonder - nic dziwnego, że
 sleep disorder - zaburzenia snu
 sleeping pill - tabletka nasenna
 sleepless night - bezsenna noc
+tax pay - wynagrodzenie podlegające opodatkowaniu
 turn in - iść spać
 yet - ale/mimo to

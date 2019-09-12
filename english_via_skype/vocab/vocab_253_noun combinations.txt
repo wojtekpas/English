@@ -69,7 +69,7 @@ rough - szorstki/chropowaty
 rumor - pogłoska/plotka
 run-down - zniczony/w marnym stanie
 scandalous - szokujący/oborzujący/skandaliczny
-silly - głupi/niemądry/dziecinny
+silly - głupi/dziecinny/niemądry
 social - społeczny/towarzyski
 spiralling - gwałtownie zwrastający
 thriving - prosperujący

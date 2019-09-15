@@ -1,0 +1,96 @@
+rzeczowniki:
+anticipation - oczekiwanie/przewidywanie
+blanket - koc
+blink/wink - mrugnięcie/mruganie
+bulb - żarówka
+crash - huk/łomot
+dash - kropla/odrobina
+dozing - zdrzemnięcię się/drzemanie
+duvet - kołdra
+eyelid - powieka
+falling - upadanie
+flaking - łuszczenie się
+insanity - obłęd/szaleństwo/niepoczytalność
+lecturer - wykładowca
+let-up - przerwa/odpoczynek
+linen - pościel/bielizna
+litany - litania
+nodding - kołysanie się/skinięcię głową
+scrape - skrzypienie/zgrzyt
+sheet - prześcieradło
+sinking - zatonięcię/kopanie
+stroke - uderzenie
+thump - cios/walnięcie
+
+czasowniki:
+crawl - czołgać się
+crumble - pokruszyć/rozdrobnić/rozpaść się
+fiddle - fałszować/bezmyślnie się czymś bawić
+launder - prać/wyprać/uprać
+punctuate - przerywać od czasu do czasu
+shuffle - szuranie/powłóczenie
+sigh - wzdychać/westchnąć
+slumber - spać/zdrzemnąć się
+unravel - rozplatać/pruć/rozwiązywać
+
+przymiotniki:
+beat - wyczerpany/wykończony
+bushed - wypompowany/skonany
+contaminated - zanieczyszczony/skażony/trujący
+dishevelled - rozczochrany/zaniedbany
+explosive - wybuchowy
+feeble - słaby/nikły/marny
+foggy - mglisty/zamglony
+fractured - złamany/pęknięty
+fretful - drażliwy/niespokojny/płaczliwy
+flipping - cholerny/wkurzający/irytujący
+keen - chętny/skory/głęboki
+lumpy - grudkowaty/pokryty guzami
+rolling - poładowany/zmarszczony
+shattered - wyczerpany/zjechany
+unmade - niepościelony/niezasłany
+thorough - gruntowny/dokładny/skrupulatny
+
+przysłówki:
+defiantly - wyzywający/prowokująco/bezczelnie
+freshly - świeżo
+
+wyrażenia:
+as soon as one's head hits the pillow - tuż po przyłożeniu głowy do poduszki
+be dead to the world - spać jak zabity
+be sound/fast asleep - spać twardym snem
+bolt upright - sztywny jakby kij półknął
+crash out - paść ze zmęczenia/szybko zasnąć
+doze off - zdrzemnąć się/zasnąć
+drift off - stopniowa zasypiać/odpływać
+fall asleep - zasnąć/zapaść w sen/zasypiać
+flake out - odpaść/zasnąć ze zmęczenia
+get the upper hand - zdobywać przewagę
+get up - wstać z łóżka
+go off - iść spać
+go out like a light - natychmiast usnąć
+go to sleep - iść/pójść spać
+halfway - w połowie drogi/na półmetku
+halfway through sth - w połowie czegoś
+have a good sleep - wysypiać się
+have a lie-in - późno wstaćz łóżka/poleżeć dłużej w łóżku
+hit the sack - iść do łóżka
+in the back of sth - z tyłu czegoś
+jump on sb - naskoczyć na kogoś/skoczyć komuś do gardła
+lie in/sleep in - poleżeć sobie w łóżku/pospać sobie/późno wstać
+nod off - przysnąć/przysypiać
+not get a wink of sleep/sleep a wink - nie zmrużyć oka
+oversleep - zaspać
+reflex action - działanie odruchowe
+run down - wyładować się/wyczerpać się
+set the alarm - nastawić budzik
+sit bolt upright - siedzieć sztywno/
+sleep over - spać u kogoś
+sound off - trąbić na prawo i lewo
+stare at sth - gapić się na coś
+stomp on sb - pokonać/pobić kogoś
+string of sth - długi ciąg podobnych wydarzeń
+toss and turn - kręcić się i wiercić
+tuck in - otulać
+turn in - iść spać
+wide awake - całkowicie obudzony

@@ -1,0 +1,25 @@
+rzeczowniki:
+creativity - kreatywność
+diplomacy - dyplomacja
+foresight - ostrożność/przezorność/zdolność przewidywania
+honesty - prawość/uczciwość/szczerość
+stamina - wytrwałość/konsekwentność/kondycja/wytrzymałość
+
+czasowniki:
+mismanage - źle rządzić/źle się obchodzić
+reconsider - na nowo rozważyć/zrewidować/przemyśleć
+
+przymiotniki:
+bilateral - obustronny/dwustronny
+communicative - rozmowny/komunikatywny
+decisive - stanowczy/decydujący/ostateczny
+dishonest - nieuczciwy
+hypercritical - przesadnie krytyczny
+simaginative - pomysłowy/twórczy/o bujnej wyobraźni
+stable - stabilny/stały
+tolerant - tolerancyjny/odporny/wytrzymały
+unproductive - niewydajny/nieproduktywny/bezowocny
+
+wyrażenia:
+get cold feet - przestraszyć się/stchórzyć/bać się
+in favour of sth - na korzyść czegoś/za czymś

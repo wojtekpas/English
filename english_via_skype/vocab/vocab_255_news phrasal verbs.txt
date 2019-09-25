@@ -1,29 +1,69 @@
 rzeczowniki:
+chant - skandowany slogan
+conservative - konserwatysta
+disturbance - zakłócenie/niepokój/zaburzenie
+enthusiasm - entuzjazm/zapał
+front - front/przód
+paint shop - lakiernia
+pass rate - zdawalność
+province - prowincja/województwo
+rebellion - bunt/rebelia/powstanie
+reservist - rezerwista/rezerwowy
+riot - zamieszki/rozruch
+spokesperson - rzecznik
+tools - przybory/sprzęt
 
 czasowniki:
+arise - powstawać/pojawiać się/wynikać
+assemble - gromadzić się/zbierać się
 confide - powierzać/zwierzać się
+crush - miażdzyć/rozgnieść
+escalate - potęgować/zwiększyć/nasilać się
 release - wydawać/opublikować/wypuszczać
+quell - tłumić/zdusić/rozproszyć/poskromić
+surrender - poddać się
+worsen - pogarszać się/degenerować się
 
 przymiotniki:
+coveted - pożądany
 discreet - dyskretny/rozważny
+downed - powalony/przewrócony
+
+przysłówki:
+calmly - spokojnie/bez mrugnięcia okiem/z zimną krwią
+peacefully - pokojowo
 
 wyrażenia:
 by chance - przypadkiem/przez przypadek
+call-up - pobór/powołanie
+call sb up - wzywać/powoływać kogoś
 confide in sb - zwierzać się komuś/zaufać komuś
+defence minister - minister obrony
+dumb down - upraszczać/skracać
 ferry sth out - przeszukiwać/wyniuchać/wywęszyć coś
 get good - poprawiać się/nabierać wprawy
 get sth out - wydostawać się na zewnątrz
+give sb up - wydać kogoś (np. policji)
 head sth off - zapobiegać czemuś
+hold out - wystarczyć/bronić
 join in sth - brać w czymś udział/dołaczyć się do czegoś
+join up - wstąpić do armii
 leak out - wychodzić na jaw
+move in - wkraczać do akcji/posuwać się naprzód
 pass off - mijać (np. o przyjęciu)
 pick up sth - zbierać coś
+pull out - wyjeżdzać/opuszczać/wycofać się/oddalić się
+push back sth - przesuwać/przekładać
 put down sth - stłumić coś (np. bunt)
 put sth out - ogłaszać/prezentować/wydawać coś
 root out - usuwać/eliminować
 root sth out - wykorzeniać coś
+shoot sth down - zestrzelić coś/storpedować coś
 sound out - sondować/wypytywać
+special forces - siły specjalne
 stake sth out - obserwować/śledzić coś
 walk out - wyjść/wychodzić/zastrajkować
+whip sth up - podsycać coś
+win election - wygrać wybory
 worm sth out of sb - wyciągnąć coś z kogoś
 write sth up - sporządzić(np. artykuł, raport)/przepisać coś na czysto

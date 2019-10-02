@@ -14,7 +14,8 @@ spokesperson - rzecznik
 tools - przybory/sprzęt
 
 czasowniki:
-arise - powstawać/pojawiać się/wynikać
+arise - powstawać/pojawiać się/wynikaćr
+arouse - wzbudzać/wzniecać/powodować
 assemble - gromadzić się/zbierać się
 confide - powierzać/zwierzać się
 crush - miażdzyć/rozgnieść
@@ -26,6 +27,7 @@ worsen - pogarszać się/degenerować się
 
 przymiotniki:
 coveted - pożądany
+defend - bronić
 discreet - dyskretny/rozważny
 downed - powalony/przewrócony
 
@@ -50,6 +52,7 @@ join in sth - brać w czymś udział/dołaczyć się do czegoś
 join up - wstąpić do armii
 leak out - wychodzić na jaw
 move in - wkraczać do akcji/posuwać się naprzód
+order sb to do sth - nakazać komuś zrobienie czegoś
 pass off - mijać (np. o przyjęciu)
 pick up sth - zbierać coś
 pull out - wyjeżdzać/opuszczać/wycofać się/oddalić się

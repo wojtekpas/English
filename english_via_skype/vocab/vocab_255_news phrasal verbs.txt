@@ -14,7 +14,7 @@ spokesperson - rzecznik
 tools - przybory/sprzęt
 
 czasowniki:
-arise - powstawać/pojawiać się/wynikaćr
+arise - powstawać/pojawiać się/wynikać
 arouse - wzbudzać/wzniecać/powodować
 assemble - gromadzić się/zbierać się
 confide - powierzać/zwierzać się

@@ -1,0 +1,47 @@
+rzeczowniki:
+accountability - odpowiedzialność
+acumen - bystrość/przenikliwość
+disclosure - ujawnienie/wyjawienie
+expertise - ekspertyza
+indicator - wskaźnik
+nominee - kandydat/nominowany
+nuance - niuans/szczegół
+outcome - wynik/rezultat
+ratification - zatwierdzenie
+readiness - gotowość/chęć
+
+czawoniki:
+comprehend - pojmować/rozumieć/zawierać/obejmować
+demonstrate - dowieść/zademonstować/pokazać
+empower - upoważniać/wzmocnić
+encompass - obejmować/ogarniać
+hinder - utrudniać/przeszkadzać/ograniczać
+inspire - inspirować/natchnąć/pobudzać/podsunąć
+represent - reprezentować/symbolizować/przedstawiać
+subtract - odejmować
+suspend - przerwać/wstrzymywać/zawieszać
+vary - różnić się/zmieniać
+
+przymiotniki:
+accountable - odpowiedzialny
+attainable - realny/osiągalny
+compelling - przekonujący/nieodparty/zajmujący
+consecutive - kolejny/następujący
+encompassing - otaczający/okalający
+fundamental - podstawowy/fundamentalny/kardynalny/zasadniczy
+instantaneous - chwilowy
+leading - czołowy/wybitny
+robust - silny/solidny/zdecydowany/bogaty
+sustained - długotrwały/nieprzerwany
+
+łączniki:
+anyway/anyhow - w każdym razie/tak czy tak
+besides - poza tym/do tego/oprócz
+but then again - ale z drugiej strony
+by the way/a propos - jakby co/swoją drogą/przy okazji
+in addition - dodatkowo
+nothwithstanding - tym niemniej/jednak/mimo że
+on the other hand - z drugiej strony
+regarding/as regards/with regard to - jeśli chodzi o
+then again - z drugiej strony/jednak
+when it comes to sth - jeśli chodzi o coś

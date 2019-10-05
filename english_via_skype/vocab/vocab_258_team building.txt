@@ -1,25 +1,71 @@
 rzeczowniki:
+betterment - polepszenie/poprawa/wzrost wartości
+commitment - poświęcenie/oddanie
+contribution - wkład/składka
 creativity - kreatywność
+criticising - krytykowanie
 diplomacy - dyplomacja
+disagreement - rozbieżność/niezgodność/konflikt/różnica zdań
+dissatisfaction - niezadowolenie
+facilitator - ułatwienie
 foresight - ostrożność/przezorność/zdolność przewidywania
 honesty - prawość/uczciwość/szczerość
+merchandise - towar
+moulding - formowanie/modelowanie/kształtowanie
+leadership - kierownictwo/przewództwo
+problem-solving - umiejętność radzenia sobie w trudnych sytuacjach
+productivity - wydajność/efektywność
+showroom - salon wystawowy produktów na sprzedaż
+similarity - podobieństwo
+speculating - spekulowanie
 stamina - wytrwałość/konsekwentność/kondycja/wytrzymałość
+sympathy - współczucie
+tension - napięcie
 
 czasowniki:
+assail - dręczyć/nękać/zasypywać/zarzucać
+compromise - iść na kompromis
+hire - wynajmować
 mismanage - źle rządzić/źle się obchodzić
 reconsider - na nowo rozważyć/zrewidować/przemyśleć
 
 przymiotniki:
+all-important - bardzo ważny
 bilateral - obustronny/dwustronny
+bright - bystry/rozgarnięty
+charismatic - charyzmatyczny
 communicative - rozmowny/komunikatywny
+cross-cultural - międzykulturowy/wielokulturowy
 decisive - stanowczy/decydujący/ostateczny
+desirable - wskazany/pożądany
+developmental - rozwojowy
 dishonest - nieuczciwy
+ever-changing - stale zmieniający się
+frank - szczery
 hypercritical - przesadnie krytyczny
 simaginative - pomysłowy/twórczy/o bujnej wyobraźni
+smart - bystry/mądry/sprytny
 stable - stabilny/stały
 tolerant - tolerancyjny/odporny/wytrzymały
+top-of-the-range - najwyższej klasy
+truthful - prawdomówny/szczery
 unproductive - niewydajny/nieproduktywny/bezowocny
+well-accepted - powszechnie akceptowany
 
 wyrażenia:
+bear on - odnosić się
+by now - do tej pory
+compete with sb - konkurować z kimś
+dry-clean - prać/czyścić chemicznie
+fit in - pasować/mieścić się
+get angry - rozzłościć/rozgniewać się
 get cold feet - przestraszyć się/stchórzyć/bać się
+give sth attention - poświęcić czemuś uwagę
+go by - mijać
 in favour of sth - na korzyść czegoś/za czymś
+key to sth - klucz do czegoś
+mini-bar - barek w pokoju hotelowym
+persist with sth - upierać się przy czymś
+take action - potejmować działanie
+win-win - sytuacja, w której wygrywają obie strony/wilk syty i owca cała
+win sb over - przekonać kogoś/przeciągnąć na swoją drogę

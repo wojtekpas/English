@@ -1,0 +1,49 @@
+rzeczowniki:
+ally - sprzymierzeniec/sojusznik
+amplifier - wzmacniacz
+aperture - otwór/szczelina
+compliance - stosowanie się/zgodność
+concurrency - współbieżność
+dignity - godność/szacunek
+disturbance - zakłócenie
+hurdle - problem/przeszkoda
+tenure - kadencja/okres piastowania jakiegoś stanowiska
+urgency - nagłość/pilność
+
+czasowniki:
+abide - obstawać
+advocate - popierać/wspierać
+amplify - wzmacniać/zwiększać/rozszerzać
+debrief - wypytywać/egzaminować
+deem - sądzić/uważać
+envision - przewidywać/wyobrażać sobie
+exemplify - ilustrować/obrazować/stanowić przykład
+foster - pielęgnować/rozwijać/wspierać
+tweak - podrasować/ulepszać/dopracować
+undergo - poddawać się/odbywać/przechodzić
+
+przymiotniki:
+bold - odważny/śmiały
+collateral - boczny/drugorzędny
+diligent - pilny/staranny/sumienny
+disruptive - rewolucyjny/przełomowy/innowacyjny
+distinct - wyraźny/różny/odrębny
+holistic - całościowy
+infectious - zaraźliwy/zarażony
+reccuring - powtarzający się/powracający
+sole - jedyny/wyłączny
+straightforward - jasny/prosty
+
+przysłówki:
+accordingly - odpowiednio do okoliczności/stosownie
+globally - całościowo/globalnie
+readily - ochoczo/bez wahania
+seamlessly - bezbłędnie/bez zakłóceń
+subsequently - następnie
+
+wyrażenia:
+as follows - następująco
+as long as - jeśli tylko/pod warunkiem, że
+just in case - na wszelki wypadek
+provided that - pod warunkiem, że
+supposing - jeżeli

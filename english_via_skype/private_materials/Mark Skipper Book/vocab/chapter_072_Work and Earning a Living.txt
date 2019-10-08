@@ -1,0 +1,40 @@
+rzeczowniki:
+advertising - reklama
+applicant - aplikant/ubiegający się
+overtime - nadgodziny
+publishing - działalność wydawnicza
+shift - zmiana/dużur
+vacancy - wolna posada/wakat
+
+czasowniki:
+arise - pojawiać się
+enclose - załączać/dołączać
+operate - operować/działać
+resign - zrezygnować
+satisfy - satysfakcjonować/zaspokajać
+
+przymiotniki:
+competitive - konkurencyjny
+essential - niezbędny/konieczny
+detailed - dokładny/szczegółowy
+mundane - nieciekawy/nudny/przyziemny
+numerate - potrafiący liczyć
+rewarding - dochodowy/opłacalny/satysfakcjonujący
+unusual - niezwykły
+
+przysłówki:
+permanently - na stale/ciągle
+temporarily - chwilowo/tymczasowo
+
+phrasals:
+take over - objąć/przejąć
+
+wyrażenia:
+a working knowledge of sth - praktyczna znajomość czegoś
+apply in writing - złożyć na piśmie
+career prospects - perspektywy zawodowe
+do/work overtime - robić/pracować nadgodziny
+maternity leave - urlop macierzyński
+sick leave - urlop chorobowy/zwolnienie lekarskie
+tight deadline - krótki termin
+track record - osiągnięcia/udokumentowana kariera

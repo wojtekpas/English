@@ -1,0 +1,56 @@
+rzeczowniki:
+collateral - zabepieczenie pożyczki/hipoteki
+ground - temat/płaszczyzna
+intention - intencja/zamiar
+nonconformity - niezgodność
+reference - odniesienie/odwołanie
+settlement - porozumienie/ugoda/spłacenie
+workforce - siła robocza/potencjał ludzki
+
+czasowniki:
+claim - roszczenie/pretencja/żadanie
+cover - pokryć
+dismiss/reject - odrzucać
+note - zauważyć/zwracać uwagę na
+raise - wznosić/podnosić
+reach - osiągać/docierać
+reassess/reconsider - powtórnie ocenić/rozważyć/przemyśleć
+secure - zabezpieczać/zapewniać
+tackle - uporać się/stawiać czoło
+
+przymiotniki:
+absurd/ridiculous - absurdalny/bezsensowny
+constructive - konstruktywny
+detailed - dokładny/szczegółowy
+exploratory - wstępny/rozpoznawczy/badawczy
+feasible - wykonalny/możliwy
+fruitful - owocny
+in-depth - dogłębny
+incoherent - niespójny/chaotyczny
+indicated - zasygnalizowany/wskazany/oznaczony
+infeasible - niewykonalny/niemożliwy
+minor - drobny/niewielki/drugorzędny
+noteworthy - godny uwagi/interesujący
+realistic - realistyczny
+sensible/reasonable - rozsądny/sensowny
+sensitive - wrażliwy/czuły/poufny/drażliwy
+side - boczny
+tough - trudny
+
+phrasals verbs:
+bring up - podnosić/poruszać coś
+carry sb through sth - pomóc komuś przetrwać coś
+come to sth - dochodzić do czegoś
+deal with sth - radzić sobie z czymś
+make reference to sth - odnosić się/nawiązywać do czegoś
+put forward sth - proponować coś/przedstawiać coś/poruszać jakiś temat
+take part in sth/be involved in sth - brać udział w czymś
+take up sth - przyjmować/akceptować coś
+think of sth - myśleć o czymś/przypominać sobie coś/przychodzić do głowy
+throw sth open/open up - otworzyć/otwierać (np. dyskusję)
+
+wyrażenia:
+be bound to do sth - na pewno się coś stać/musieć
+find common ground - znaleźć wspólny język
+halfway - w połowie drogi/na półmetku
+nonetheless - niemniej jednak/jednakże

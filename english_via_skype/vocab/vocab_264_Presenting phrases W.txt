@@ -1,4 +1,6 @@
 rzeczowniki:
+cause - przyczyna powód
+effect - efekt/skutek
 profitability - zyskowność/opłacalność
 
 czasowniki:
@@ -13,19 +15,30 @@ przysłówki:
 disarguably - prawdopodobnie/możliwie/zapewne
 indisputably - bezsprzecznie/niezaprzeczalnie
 
+phrasals verbs:
+account for sth - stanowić przyczynę czegoś
+bring about sth - spowodować coś/doprowadzić do czegoś
+result in sth - kończyć się czymś/spowodować coś
+trace sth back to sb - odnaleźć źródło czegoś/ustalić pochodzenie czegoś
+
 wyrażenia:
 apropos - w związku z czymś
 as far as sth is concerned - jeśli o coś chodzi
 as for sth - co do czegoś/co się tyczy czegoś
+attribute sth to sb - przypisywać coś komuś
+attributable to sth - związany z czymś
 be of primary importance - mieć fundamentalne/pierwszorzędne znaczenie
 bear in mind - brać pod uwagę
 expand on sth - rozwijać coś
+give rise to sth - spowodować coś/dać czemuś początek
 it goes without saying that - nie trzeba dodawać, że
 in relation to sth - w odniesieniu do czegoś
 lay/put emphasis on sth - kłaść nacisk na coś
+owing to - z powodu/dzięki/ponieważ
 raise a subject - podjąć temat
 sales figures - wielkość sprzedaży
 take sb through sth - zapoznawać kogoś z czymś
+thanks to sth - dzięki czemuś
 when it comes to sth - jeśli chodzi o coś
 with reference to sth - odnośnie czegoś/w nawiązaniu do
 with respect to sth - odnośnie czegoś/w nawiązaniu do czegoś

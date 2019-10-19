@@ -1,18 +1,32 @@
 rzeczowniki:
+acid rain - kwaśny deszcz
+burning - spalanie
+Caribbean - Karaiby
 circumstances - okoliczności
+concession - ustępstwo
 criticism - krytyczna ocena/krytyka
+fossil fuel - paliwo kopalne
 foreground - pierwszy plan
+ill health - zły stan zdrowia
 resignation - rezygnacja/pogodzenie się
+rioting - zamieszki
+scandal - skandal/afera
 
 czasowniki:
 balance - wypośrodkować/zrównoważyć
 criticise - krytykować/skrytykować
+detest - nienawidzić/czuć wstręt
 emphasise - podkreślać/akcentować
+hounded - zaszczuty
 mind - mieć coś przeciwko
 possess - posiadać/opanować/zawładnąć
+sympathise - współczuć/podzielać/sympatyzować
 
 przymiotniki:
+adverse - niekorzystny/szkodliwy/niepożądany/przeciwny
 hopeless - beznadziejny/rozpaczliwy
+waterlogged - nasiąknięty wodą/rozmokły/przemoczony
+widespread - powszechny/rozległy
 
 przysłówki:
 perfectly - zupełnie/absolutnie
@@ -22,11 +36,19 @@ wyrażenia:
 airs and graces - pycha/puszenie się
 all the same - mimo wszystko/jednakże/tak czy siak
 all very well - wszystko ładnie pięknie/w porządku
+and yet - a jednak
+as a consequence of sth - skutek/na skutek czegoś
+attribute sth to sb - przypisywać coś komuś
 as far as I know - o ile mi wiadomo
 be far from being sth - być dalekim od bycia jakimś
 by the sound of it - sądząc po tym jak to brzmi
-far from
-nevertheless - niemniej jednak/jednakże
+call sth off - odwołać coś
+despite - pomimo/mimo
+due to sth/owing to - z powodu czegoś/dzięki czemuś/ponieważ
+even so - nawet pomimo tego
+even though - pomimo że/chociaż
+far from - daleko od
+for all sth - pomimo czegoś
 for sure - na pewno
 from what I can gather - z tego, co rozumiem
 gather that - rozumieć, że
@@ -35,14 +57,22 @@ have a job doing sth - mieć problemy z czymś
 how come - jak to możliwe/jak to się stało
 I don't know about you but - nie wiem jak ty, ale
 I wish to goodness - na miłość boską
+in spite of sth - pomimo czegoś/wbrew czemuś
 in the foreground - na pierwszym planie
 in the middle of nowhere - na końcu świata/w szczerym polu
 know sth for a fact - wiedzieć coś na pewno
+lead to sth - prowadzić do
 let's face it - spójrzmy prawdzie w oczy
 mark my words - zapamiętaj moje słowa/wspomnisz moje słowa
+much as - chociaż/jakkolwiek
+nevertheless - niemniej jednak/jednakże
+nonetheless - niemniej jednak/jednakże
 no/small wonder wonder - nic dziwnego, że
 put on airs - pysznić się
+put sth down to sth - przypisywać coś czemuś
 rest assured - być pewnym, że coś wię wydarzy
+stem from sth - wynikać z czegoś
+trigger off sth - wyzwalać/uruchamiać/powodować/wywołać coś
 very well - zgoda/dobrze/tak
 what on earth - co do licha/diabła
 where on earth - gdzie do pioruna/diabli

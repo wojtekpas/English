@@ -1,36 +1,61 @@
 rzeczowniki:
 acid rain - kwaśny deszcz
+bankruptcy - bankructwo/niewypłacalność/upadek/ogłoszenie updałości
+blaming - obwinianie
 burning - spalanie
 Caribbean - Karaiby
 circumstances - okoliczności
 concession - ustępstwo
 criticism - krytyczna ocena/krytyka
+dismissal - zwolnienie
 fossil fuel - paliwo kopalne
 foreground - pierwszy plan
 ill health - zły stan zdrowia
+incompetency - niekompetencja/nieudolność
+investment - inwestycja
+noncoverage - brak ubezpieczenia
+recession - recesja
+redundancy - redukcja/nadmiar
 resignation - rezygnacja/pogodzenie się
 rioting - zamieszki
+sacking - wyrzucenie z pracy
 scandal - skandal/afera
+workforce - siła robocza/pracownicy
 
 czasowniki:
 balance - wypośrodkować/zrównoważyć
+claim - domagać się/żądać/dochodzić/rościć sobie prawo
 criticise - krytykować/skrytykować
 detest - nienawidzić/czuć wstręt
 emphasise - podkreślać/akcentować
 hounded - zaszczuty
+incense - rozdrażnić/rozzłościć
 mind - mieć coś przeciwko
 possess - posiadać/opanować/zawładnąć
+riot - wszczynać rozruchy/buntować się
+sack - wyrzucić z pracy/zwalniać
 sympathise - współczuć/podzielać/sympatyzować
 
 przymiotniki:
 adverse - niekorzystny/szkodliwy/niepożądany/przeciwny
+angered - rozzłoszczony/zirytowany
 hopeless - beznadziejny/rozpaczliwy
+incompetent - niekompetentny
+reduntant - bezrobotny/zwolniony z pracy/niepotrzebny/nadmiarowy
+uninsured - nieubezpieczony
+unwise - nierozsądny/niemądry/nieroztropny
 waterlogged - nasiąknięty wodą/rozmokły/przemoczony
 widespread - powszechny/rozległy
 
 przysłówki:
 perfectly - zupełnie/absolutnie
 surely - oczywiście/niewątpliwie/z pewnością
+
+czasowniki złożone:
+burn down - spalić doszczętnie
+call sb out - wezwać kogoś do strajku
+call sth off - odwołać coś
+trigger off sth - wyzwalać/uruchamiać/powodować/wywołać coś
 
 wyrażenia:
 airs and graces - pycha/puszenie się
@@ -42,12 +67,14 @@ attribute sth to sb - przypisywać coś komuś
 as far as I know - o ile mi wiadomo
 be far from being sth - być dalekim od bycia jakimś
 by the sound of it - sądząc po tym jak to brzmi
-call sth off - odwołać coś
+catch fire - zapalić się
 despite - pomimo/mimo
+do badly - źle sobie poradzić
 due to sth/owing to - z powodu czegoś/dzięki czemuś/ponieważ
 even so - nawet pomimo tego
 even though - pomimo że/chociaż
 far from - daleko od
+file for bankruptcy - składać wniosek o upadłość
 for all sth - pomimo czegoś
 for sure - na pewno
 from what I can gather - z tego, co rozumiem
@@ -63,16 +90,16 @@ in the middle of nowhere - na końcu świata/w szczerym polu
 know sth for a fact - wiedzieć coś na pewno
 lead to sth - prowadzić do
 let's face it - spójrzmy prawdzie w oczy
+make sb reduntant - zwolnić kogoś w ramach redukcji etatów
 mark my words - zapamiętaj moje słowa/wspomnisz moje słowa
 much as - chociaż/jakkolwiek
 nevertheless - niemniej jednak/jednakże
 nonetheless - niemniej jednak/jednakże
-no/small wonder wonder - nic dziwnego, że
+no/small wonder - nic dziwnego, że
 put on airs - pysznić się
 put sth down to sth - przypisywać coś czemuś
 rest assured - być pewnym, że coś wię wydarzy
 stem from sth - wynikać z czegoś
-trigger off sth - wyzwalać/uruchamiać/powodować/wywołać coś
 very well - zgoda/dobrze/tak
 what on earth - co do licha/diabła
 where on earth - gdzie do pioruna/diabli

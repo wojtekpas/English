@@ -1,70 +1,112 @@
 rzeczowniki:
 adaptability - przystosowalność/możliwość zaadoptowania
+asset - atut/zaleta
+bias - stronniczość/uprzedzenie/tendencyjność/nastawienie
 confrontation - konfrontacja/starcie
 contribution - wkład/udział
 creativity - kreatywność
 deadline - ostateczny termin
 dedication - oddanie/poświęcenie
 dependability - pewność/niezawodność/rzetelność
+effectiveness - efektywność/skuteczność/wrażeniem,jakie coś robi
+feeling - uczucie/opinia/nastawienie
+field - pole/dziedzina/obszar
 harmony - harmonia/zgoda
 honesty - prawość/uczciwość/szczerość
+initiative - inicjatywa
 inspiration - inspiracja/wena
 integrity - prawość/uczciwość/nienaruszalność
 loyalty - lojalność
 nurture - pielęgowanie/wychowanie
+outlook - pogląd/perspektywy/widoki
 overall - stanowisko/posada
 perseverance - wytrwałość
 pride - duma/pycha
 responsibility - odpowiedzialność
 superiority - przewaga/starszeństwo
+supervision - kontrola/nadzór/doglądanie
+supervisor - nadzorca/kierownik/promotor
 termination - zakończenie/przerwanie
+trust - zaufanie
 
 czasowniki:
+acknowledge - uznawać/przyznawać
+assess - oceniać/oszacować
 devise - opracować/wymyślić
 encompass - obejmować/ogarniać/otaczać
+evaluate - oceniać/szacować
 fulfil - spełniać/pełnić/realizować
 handle - radzić sobie/wykonywać
+manage - kierować/zarządzać
 perform - spisywać się/spełniać/działać
 persevere - wytrwać/trwać
+promote - promować/propagować/krzewić
 surpass - przewyższać/przekraczać
+utilize - użytkować/wykorzystywać
 
 przymiotniki:
 advanced - zaawansowany/postępowy/nowoczesny
 bothered - zaniepokojony/zmartiowny
 cooperative - wspólny/skłonny do współpracy
+detail-oriented - zorientowany/zwracający uwagę na szczegóły
+disciplined - zdyscyplinowany/metodyczny
+dilligent - pilny/staranny
 dire - pilny/straszliwy/okropny/przerażający
 encouraging - zachęcający/ośmielający
 exemplary - przykładowy/przykładny/wzorowy/doskonały
 harsh - brutalny/okrutny/surowy
+high-pressure - stresujący
 initiated - zainicjonowany
 linient - pobłażliwy/łagodny
 monitored - monitorowany
 nonproductive - nieproduktywny
 organizational - organizacyjny
 overall - całkowity/ogólny
+perseverant - wytrwały/niezachwiany/uporczywy
+proactive - proaktywny/czynny/pełny inicjatywy
 proficient - biegły/wprawny
+resourceful - przedsiębiorczy/obrotny/pomysłowy/zaradny
 respectful - pełen szacunku/poważania
 sincere - szczery
 solid - stały/ciągły/nieprzerwany/solidny/trwały
 successful - skuteczny/efektywny/wzięty
 superior - nadrzędny/lepszy/ponadprzeciętny
+tactful - taktowny/dyplomatyczny
 understanding - wyrozumiały
 valuable - wartościowy/cenny
+versatile - wszechstronny
 
 przysłówki:
+accurately - dokładnie/trafnie/wiernie/celnie/precyzyjnie
+appropriately - odpowiednio/stosownie
 consistently - konsekwentnie/spójnie
 eagerly - niecierpliwie/gorliwie/z zapałem
 effectively - efektywnie/skutecznie
 established - przyjęty/długo znany/dowiedziony/wykazany
+personally - osobiście/prywatnie
 predominantly - głównie/w głównej mierze/przeważnie
 proactively - czynnie/zapobiegawczo
 reliably - solidnie/rzetelnie
+smoothly - płynnie/gładko
+
+czasowniki złożone:
+bring out sth - wydobywać/uwydatnić coś
+catch on - zrozumieć/pojąć/przyjąć się
+catch on sth - zaczepić się o coś
+strive for sth - dążyć do czegoś/walczyć o coś
 
 wyrażenia:
 a variety of sth - wybór czegoś
 beyond - poza/oprócz/więcej/ponad
+bring out the best - wydobyć to, co najlepsze
 fail to do sth - nie zrobić czegoś/zaniedbać zrobienie czegoś
 fire sb's imagination - rozpalać czyjąć wyobraźnie
 father figure - autorytet
+head of department - kierownik działu/ordynator
+in charge of sth - być odpowiedzialnym za coś/zarządzać czymś
 make a contribution - przyłożyć się do czegoś/przyczynić się do czegoś
 meet the deadline - dotrzymywać/terminu
+problem-solving - umiejętność radzenia sobie w trudnych sytuacjach
+records management - zarządzanie rekordami
+take the lead - przejąć inicjatywę/dowodzenie/objąć przewództwo
+team player - osoba umiejąca pracować w zespole

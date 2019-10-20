@@ -1,17 +1,23 @@
 rzeczowniki:
 accounting - księgowość/rachunkowość
 accuracy - dokładność/precyzyjność
+capability - zdolność/potencjał
+comprehension - zrozumienie
 course - kurs/lekcja
 know-how - wiedza specjalistyczna
+proficiency - wprawa/biegłość/kompetencja
 workshops - warsztaty
 
 czasowniki:
 broaden - poszerzać/rozszerzać/kształcić
+ease - ułatwiać
 explore - zgłębiać/zbadać
 gain - zdobywać/zyskiwać/wzrastać
 hone - udoskonalić/doprowadzić do perfekcji
 
 przymiotniki:
+day-to-day - codzienny/zwykły
+imposed - narzucony/wymuszony
 interpersonal - międzyludzki/interpersonalny
 rusty - zaniedbany/bez wprawy
 
@@ -23,3 +29,5 @@ step up - zrobić krok naprzód/uzyskać awans/stanąć na wysokości zadania
 
 wyrażenia:
 interpersonal skills - umiejętności interpersonalne
+overally - w sumie/ogólnie/ogólnie biorąc
+thus far - jak dotąd/na razie/jak do tej pory/póki co

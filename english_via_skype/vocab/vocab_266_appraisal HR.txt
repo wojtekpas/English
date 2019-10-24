@@ -1,0 +1,115 @@
+rzeczowniki:
+appraisal - wycena/ocena/oszacowanie
+assignment - zadanie
+confidence - ufność/pewność/przekonanie/wiara
+contender - zawodnik/kandydat
+delegating - delegowanie
+desire - ochota/chęć/pragnienie
+difficulty - drudność/problem
+direction - kierunek/strona
+efficiency - sprawność/efektywność/wydajność/produktywność
+emergency - nagły wypadek/sytuacja awaryjna
+evaluation - ocena/oszacowanie
+figure - wykres/ilustracja/rysunek
+figures - liczby/dane liczbowe
+flexibility - elastyczność/gibkość
+fulfilment - satysfakcja/spełnienie/wykonanie/zrealizowanie
+head office - centrala/siedziba główna
+influence - wpływ/odziaływanie
+merchandising - handlowanie
+morale - morale/duch
+objective - cel
+optimum - optimum
+pricing - wycena/kształtowanie ceny
+pride - duma
+programme - projekt/plan/program
+provision - świadczenie/dostarczenie/postanowienie/klauzula
+revenue - przychód
+seminar - seminarium
+staff - personel/kadra/pracownicy
+stock - asortyment/zapas
+store - sklep
+stores - zapasy/zaopatrzenie
+strength - siła/determinacja
+subordinate - podwładny
+subsidiary - filia/oddział
+supervisor - nadzorca/kierownik/przełożony/promotor
+undertake - podjąć się/przedsięwziąć
+workload - obciążenie pracą
+
+czasowniki:
+appreciate - doceniać/cenić sobie
+arise - nadarzać się/powstawać/pojawiać się
+boost - pobudzać/zwiększać/poprawiać/ożywiać
+direct - kierować/zarządzać/dowodzić
+master - opanować/kontrolować/panować/ujarzmiać
+lack - nie mieć/cierpieć na brak/brakować komuś czegoś
+progress - robić postępy/rozwijać się
+refine - doskonalić/ulepszać
+seek - szukać/ubiegać się o/dążyć do/zabiegać o
+undergo - poddawać się
+unscramble - rozszyfrować/poukładać/uporządkować
+
+przymiotniki:
+abandoned - opuszczony/porzucony
+adapted - przystosowany
+adequate - dostateczny/wystarczający/zadowalający
+administrative - administracyjny
+approaching - zbliżający się/nadjeżdzający
+articulate - klarowny/jasny/elokwentny
+committed - zaangażowany/oddany/zobowiązany
+comprehensive - wyczerpujący/obszerny/pełny
+convincing - przekonujący
+dedicated - oddany/zaangażowany/przywiązany
+distracted - nieobecny/błędny/rozkojarzony/zdekoncentrowany
+exceptional - wyjątkowy/wybitny/rzadki
+finansial - finansowy
+forgotten - zapomniany
+neglected - zaniedbany
+nonwork - niedotyczący pracy
+optimum - optymalny
+persuasive - przekonujący/elokwentny/wymowny
+proficient - biegły/wprawny
+recruitment - rekrutacyjny
+regional - regionalny
+responsive - odpowiadający/wrażliwy/wyczulony
+skilled - wykfalifikowany/zręczny
+struggling - zmagający się/borykający się
+supervisory - nadzorczy/kontrolujący
+under-performing - niezadowalający/nie spełniający oczekiwań
+uneffective - beskuteczny
+upcoming - zbliżający się/nadchodzący
+time-consuming - czasochłonny
+well-handled - zarządzany efektywnie
+
+przysłówki:
+calmly - spokojnie/z zimną krwią
+considerably - znacznie/w znacznym stopniu
+constructively - konstruktywnie
+greatly - bardzo/ogromnie/znacznie
+exclusively - wyłącznie/jedynie
+
+rzeczowniki złożone:
+product line - linia produktów
+right time - odpowiedni moment
+sales data - dane o sprzedaży
+time constraint - ograniczenia czasowe
+
+czasowniki złożone:
+hold with sth - zgadzać się z czymś/być zwolennikiem czegoś
+take on sth - zmagać się z czymś/brać odpowiedzialność za coś
+
+wyrażenia:
+all over the world - na całym świecie
+be proud of sth - być dumnym z czegoś
+count on sth - liczyć się z czymś/oczekiwać czegoś
+cut costs - obniżyć/ciąć koszty
+deal with sth - radzić sobie z czymś
+expect to do sth - spodziewać się zrobić coś
+express a desire - wyrazić chęć
+in place - na swoim miejscu
+keep track of sth - być z czymś na biężąco/śledzić coś
+long time - długo
+take action - podejmować działanie
+take pride in sth - być z czegoś dumnym
+waste of time - strata czasu

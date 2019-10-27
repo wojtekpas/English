@@ -47,6 +47,7 @@ lack - nie mieć/cierpieć na brak/brakować komuś czegoś
 progress - robić postępy/rozwijać się
 refine - doskonalić/ulepszać
 seek - szukać/ubiegać się o/dążyć do/zabiegać o
+summarise - podsumować/streszczać
 undergo - poddawać się
 unscramble - rozszyfrować/poukładać/uporządkować
 
@@ -59,6 +60,7 @@ approaching - zbliżający się/nadjeżdzający
 articulate - klarowny/jasny/elokwentny
 committed - zaangażowany/oddany/zobowiązany
 comprehensive - wyczerpujący/obszerny/pełny
+conditional - warunkowy
 convincing - przekonujący
 dedicated - oddany/zaangażowany/przywiązany
 distracted - nieobecny/błędny/rozkojarzony/zdekoncentrowany
@@ -68,6 +70,7 @@ forgotten - zapomniany
 neglected - zaniedbany
 nonwork - niedotyczący pracy
 optimum - optymalny
+organised - zorganizowany/uporządkowany
 persuasive - przekonujący/elokwentny/wymowny
 proficient - biegły/wprawny
 recruitment - rekrutacyjny

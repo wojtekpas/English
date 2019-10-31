@@ -9,6 +9,7 @@ deadline - ostateczny termin
 dedication - oddanie/poświęcenie
 dependability - pewność/niezawodność/rzetelność
 effectiveness - efektywność/skuteczność/wrażeniem,jakie coś robi
+evaluating - ocenianie/szacowanie
 feeling - uczucie/opinia/nastawienie
 field - pole/dziedzina/obszar
 harmony - harmonia/zgoda

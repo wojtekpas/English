@@ -5,7 +5,7 @@ confidence - ufność/pewność/przekonanie/wiara
 contender - zawodnik/kandydat
 delegating - delegowanie
 desire - ochota/chęć/pragnienie
-difficulty - drudność/problem
+difficulty - trudność/problem
 direction - kierunek/strona
 efficiency - sprawność/efektywność/wydajność/produktywność
 emergency - nagły wypadek/sytuacja awaryjna
@@ -34,7 +34,6 @@ strength - siła/determinacja
 subordinate - podwładny
 subsidiary - filia/oddział
 supervisor - nadzorca/kierownik/przełożony/promotor
-undertake - podjąć się/przedsięwziąć
 workload - obciążenie pracą
 
 czasowniki:
@@ -49,6 +48,7 @@ refine - doskonalić/ulepszać
 seek - szukać/ubiegać się o/dążyć do/zabiegać o
 summarise - podsumować/streszczać
 undergo - poddawać się
+undertake - podjąć się/przedsięwziąć
 unscramble - rozszyfrować/poukładać/uporządkować
 
 przymiotniki:
@@ -80,7 +80,7 @@ skilled - wykfalifikowany/zręczny
 struggling - zmagający się/borykający się
 supervisory - nadzorczy/kontrolujący
 under-performing - niezadowalający/nie spełniający oczekiwań
-uneffective - beskuteczny
+uneffective - bezskuteczny
 upcoming - zbliżający się/nadchodzący
 time-consuming - czasochłonny
 well-handled - zarządzany efektywnie
@@ -89,8 +89,8 @@ przysłówki:
 calmly - spokojnie/z zimną krwią
 considerably - znacznie/w znacznym stopniu
 constructively - konstruktywnie
-greatly - bardzo/ogromnie/znacznie
 exclusively - wyłącznie/jedynie
+greatly - bardzo/ogromnie/znacznie
 
 rzeczowniki złożone:
 product line - linia produktów
@@ -99,15 +99,15 @@ sales data - dane o sprzedaży
 time constraint - ograniczenia czasowe
 
 czasowniki złożone:
+count on sth - liczyć się z czymś/oczekiwać czegoś
+deal with sth - radzić sobie z czymś
 hold with sth - zgadzać się z czymś/być zwolennikiem czegoś
 take on sth - zmagać się z czymś/brać odpowiedzialność za coś
 
 wyrażenia:
 all over the world - na całym świecie
 be proud of sth - być dumnym z czegoś
-count on sth - liczyć się z czymś/oczekiwać czegoś
 cut costs - obniżyć/ciąć koszty
-deal with sth - radzić sobie z czymś
 expect to do sth - spodziewać się zrobić coś
 express a desire - wyrazić chęć
 in place - na swoim miejscu

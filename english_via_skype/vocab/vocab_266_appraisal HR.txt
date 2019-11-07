@@ -24,6 +24,7 @@ pricing - wycena/kształtowanie ceny
 pride - duma
 programme - projekt/plan/program
 provision - świadczenie/dostarczenie/postanowienie/klauzula
+restriction - ograniczenie/restrykcja/obostrzenie
 revenue - przychód
 seminar - seminarium
 staff - personel/kadra/pracownicy

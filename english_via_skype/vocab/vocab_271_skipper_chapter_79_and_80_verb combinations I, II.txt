@@ -1,0 +1,140 @@
+rzeczowniki:
+approval - zgoda/aprobota/uznanie
+association - stowarzyszenie/związek/połączenie
+booklet - broszura
+counter - blad/lada
+crowd - tłum
+curtain - zasłona
+disapproval - nieprzychylność/brak aprobaty
+duel - pojedynek
+intention - intencja/zamiar
+mansion - rezydencja/willa/posiadłość
+manuscript - manuskrypt/rękopis
+merger - połączenie/fuzja
+novelist - powieściopisarz
+prime minister - premier
+refugee - uchodźca/emigrant/uciekinier
+rejection - odmowa/odrzucenie/nieprzyjęcie
+reputation - renoma/reputacja/opinia
+suspicion - podejrzenie/nieufność
+
+czasowniki:
+abolish - uchylać/unieważniać/znosić
+arouse - wzbudzać/rozbudzać/powodować
+broach - poruszyć/rowiercić
+criticise - krytykować
+derive - czerpać/odnosić/pochodzić/wywodzić się
+devote - poświęcać/angażować
+disapprove - nie pochwalać/nie aprobować/oponować/nie zgadzać się
+dissolve - rozwiązywać/rozpuszczać
+dye - farbować
+face - stawiać czoła/przyjmować/uznawać
+fail - nie udać się/nie powieść się/ponieść porażkę
+haunt - nawiedzać/straszyć/niepokoić/być stałym bywalcem
+invest - inwestować
+refuse - odmawiać/nie zgodzić się/odrzucać
+shout - krzyczeć
+
+przymiotniki:
+annoying - denerwujący/irytujący/wkurzający/dokuczliwy
+approved - zatwierdzony/uznany
+awkard - niewygodny/niezręczny
+best-selling - bestselerowy/popularny/najlepiej sprzedający się
+compulsory - obowiązkowy/przymusowy
+concerned - zaangażowany/zainteresowany/zatroskany
+elder - starszy
+embarrassed - zażenowany/zakłopotany
+embarrassing - żenujący/wprawiający w zakłopotanie
+expressionless - pozbawiony wyrazu
+fashionable - modny/elegancki/wytworny
+impressive - imponujący/robiący wrażenie
+offensive - obraźliwy/chamski/ordynarny/odrażający
+stubborn - uparty/uporczywy/zaciekły
+suspicious - podejrzliwy/podejrzany
+trusted - niezawodny/zaufany
+unethical - nieetyczny
+unpleasant - niemiły/nieprzyjemny/niesympatyczny
+unreasonable - nadmierny/wygórowany/niedorzeczny/nierozsądny
+vacant - próżny/pusty/wolny
+widespread - powszechny/rozległy
+
+przysłówki:
+badly - źle/kiepsko
+deliberately - umyślnie/celowo/specjalnie
+fairly - dość/raczej
+personally - osobiście/prywatnie
+regularly - regularnie/często/systematycznie
+
+rzeczowniki złożone:
+green issue - problem ekologiczny
+old lady - starsza pani
+fire service - straż pożarna
+staff meeting - zebranie pracowników
+stock market - giełda papierów wartościowych
+strike action - akcja strajkowa
+
+czasowniki złożone:
+break out - wybuchnąć
+come into - wchodzić/wejść
+come off - dojść do skutku/wyjść/udać się
+end up - skończyć
+fight sth back - zwalczać coś/powstrzymywać coś/opierać się czemuś/bronić się
+get up - wstać z łóżka/podnieść się
+stand to - być w gotowości do ataku
+stick up - wznosić/podnosić
+
+wyrażenia:
+arouse suspicion - wzbudzać podejrzenie
+beat about the bush - obiwać w bawełnę
+be bound to do sth - na pewno się stać/coś zrobić
+be vacant - być nieobsadzonym
+burn to the ground - spalić doszczętnie/na popiół
+cut corners - pójść na skróty/ciąć wydatki
+cut sth short - skrócić coś
+dash sb's hopes - zniweczyć czyjąć nadzieję
+declare war on sth - wypowiadać komuś wojnę
+derive profit from sth - osiągać/czerpać korzyści z czegoś
+devote time to sth - poświęcać czemuś czas
+dissolve into tears - zalewać się łzami
+draw attention to sth - zwrócić uwagę na coś
+draw the curtains - zaciagnąć zasłony
+draw the line at sth - nie akcetptować czegoś/wyznaczyć granicę
+draw up - podjeżdzać/podjechać
+drop a hint - dać wskazówkę/rzucić aluzję
+express an interest in sth - wyrazać zainteresowanie czymś
+express doubts - wyrażać wątpliwości
+express one's concerns about sth - wyrażać swoje zaniepokojenie czymś 
+fight back tears - powstrzymywać łzy
+find fault with sth - krytykować coś/czepiać się czegoś
+follow in somebody's footsteps - iść w czyjeś ślady
+have doubts - mieć wątpliwości
+hold a meeting - prowadzić/odbyć spotkanie
+hold sb responsible for sth - obarczać kogoś odpowiedzialnością za coś
+in excess of sth - w nadmiarze czegoś
+jump on the bandwagon - poddać się modzie/wykorzystywać koniunkturę
+jump the queue - wpychać się bez kolejki
+jump to conclusions - wyciągnąć pochopne wnioski
+keep abreast of sth - być z czymś na bieżąco
+keep sb informed - informować kogoś na bieżąco
+keep sb in the dark - utrzymywać kogoś w nieświadomości
+keep sth at bay - trzymać coś na dystans/z dala od siebie
+lose one's way - zabłądzić
+lose one's touch - stracić swoją umiejętność/biegłość
+lose the track of time - stracić poczucie czasu
+make money - zarabiać pieniądze
+meet one's death - ponieść śmierć
+meet sb's demands - sprostać czyimś żądaniom
+meet with sb's approval - spotkać się z czyjąś aprobatą
+meet with success - zakonczyć się sukcesem
+raise awareness - zwiększać świadomość
+raise one's voice - podnosić głos
+raise the alarm - podnosić/uruchomić alarm
+refuse to do sth - nie zgodzić się na zrobienie czegoś
+run a temperature - mieć gorączkę
+run in sb's/the family - być cechą dziedziną
+run rings around sb - zostawiać kogoś w tyle
+stand empty - stać pustym/próżnym
+take one's time - nie spieszyć się/robić coś w swoim tempie/zwlekać
+throw a party - urządzić imprezę/wydać przyjęcię
+throw a punch - uderzyć kogoś pięścią
+to cut a long story short - krótko mówiąc

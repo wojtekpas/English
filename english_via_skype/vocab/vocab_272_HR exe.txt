@@ -1,0 +1,77 @@
+rzeczowniki:
+alienation - alienacja/wyobcowanie
+allegation - bezpodstawne twierdzenie/insynuacja/zarzut/oskarżenie
+appeal - apel/wezwanie/apelacja/odwołanie
+assembly - zebranie/zgromadzenie
+audit - audyt/kontrola
+blanket - koc
+bullying - znęcanie się nad słabszymi/tyranizowanie kogoś
+commitee - komitet/komisja
+contractor - przedsiębiorca/wykonawca/kontrahent
+dismissal - zwolnienie/krytyka/zakończenie
+dock - ława oskarżonych
+extinguisher - gaśnica
+foreman - majster/mistrz/brygadzista/kierownik
+grievance - żal/skarga
+hazard - niebezpieczeństwo/zagrożenie/ryzyko
+hose - wąż
+insubordination - niesubordynacja
+intimidation - zastraszenie
+irregularity - nieregularność/nierówność/nieprawidłowość
+legislation - ustawodawstwo/ligislacja
+machinery - maszyny/maszyneria/mechanizm
+offence - wykroczenie
+officer - oficer/policjant/wyższy urzędnik
+precautions - środki bezpieczeństwa/ostrożności
+regulations - przepisy 
+representative - przedstawiciel/reprezentant
+rudeness - niegrzeczność/nieuprzejmość/gburowatość
+timekeeping - punktualność
+ultimatum - ultimatum
+walk-out - strajk/opuszczenie sali na znak protestu
+
+czasowniki:
+appeal - składać apelację/odwoływać się do czegoś
+examine - sprawdzać/kontrolować/badać
+suspend - przerywać/wstrzymywać/zawieszać
+threaten - grozić/straszyć/zagrażać
+
+przymiotniki:
+aggrieved - dotknięty/urażony/poszkodowany/pokrzywdzony
+dismissed - wyrzucony/zwolniony/odwołany/odrzucony
+guilty - winny/zawstydzony/pełen skruchy
+harsh - brutalny/okrutny.surowy/srogi
+hostile - nieprzyjazny/wrogi
+incompetent - niekompetentny
+instant - natychmiastowy/błyskawiczny
+verbal - ustny/werbalny
+
+rzeczowniki złożone:
+disciplinary action - postępowanie dyscyplinarne
+disciplinary board - komisja dyscyplinarna
+first aid - pierwsza pomoc
+grievance procedure - procedura rozpatrywania reklamacji
+hostile work environment - nieprzyjazne środowisko pracy
+job dissatisfaction - niezadowolenie z pracy
+letter of dismissal - list wypowiedzenia z pracy
+racial harassment - prześladowanie rasowe
+sackable offence - wykroczenie za które wylatuje się z pracy
+safety officer - osoba odpowiedzialna za przestrzeganie zasad BHP
+safety precautions - środki bezpieczeństwa
+safety regulations - przepisy bezpieczeństwa
+sexual discrimination - dyskryminacja płciowa
+shop steward - reprezentant związku zawodowego
+unfair dismissal - bezprawne/nieuzasadnione zwolnienie z pracy
+verbal warning - ostrzeżenie ustne
+
+czasowniki złożone:
+down tools - przestawać pracować
+
+wyrażenia:
+break the rules - złamać zasady
+ground for sth - podstawa do czegoś/uzasadnienie czegoś
+in sb's/one's view - czyimś zdaniem/w czyimś odczuciu/mniemaniu
+stage a walkout - wyjść z sali na znak protestu
+take a break - zrobić sobie przerwę/wyjśc na przerwę
+tell sb to do sth - kazać komuś coś zrobić/ostrzegać kogoś przed zrobieniem czegoś
+threaten to do sth - grozić/zagrażać, że się coś zrobi

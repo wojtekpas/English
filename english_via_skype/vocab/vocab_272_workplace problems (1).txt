@@ -1,0 +1,75 @@
+rzeczowniki:
+arrestment - aresztowanie/zatrzymanie/wstrzymywanie
+breach - naruszenie/pogwałcenie/przekroczenie
+bumbling - mamrotanie/mruszenie pod nosem/telepanie się
+discrimination - dyskryminacja
+dispute - spór/kłotnia/różnica zdań
+dissemination - rozpowszechnianie/szerzenie/propagowanie
+harassment - nękanie/molestowanie/prześladowanie
+incidence - częstotliwość/zasięg
+instance - przypadek/przykład/prośba/wniosek
+insurrection - powstanie
+nil - nic/zero
+notice - wypowiedzenie/wymówienie
+odour - woń/zapach/odór
+property - własność/mienie/posiadłość
+shortages - brak/niedobór/doficyt
+shortness - zwięzłość/niedobór/brak
+stroke - uderzenie
+supplier - dostawca
+union - związek zawodowy
+walkabout - wyjście do ludzi/piesza wycieczka
+warming - ocieplenie
+
+czasowniki:
+abdicate - abdykować/zrzec się tronu
+abuse - nadużywać/wykorzystywać/znęcać się
+appal - przerażać/przerazić
+arbitrate - rozsądzać/rozstrzygać
+bankroll - finansować/wspierać finansowo
+crash - zepsuć się/zawiesić się/paść
+drone - brzęczeć/buczeć/warkotać
+fraught - ładować/przewozić/wysyłać
+haggle - targować się/spierać się
+misbehave - źle się prowadzić/zachowywać/psocić
+negotiate - negocjować
+reside - mieszkać/rezydować/przebywać
+
+przymiotniki:
+cracked - porysowany/popękany/łamiący się
+damning - obciążający/potępiający
+disconcerting - niepokojący/zawstydzający
+dismal - ponury/posępny/okropny/fatalny
+dismissive - lekceważący
+fired - wylany/zwolniony
+fraught - napięty
+fried - smażony/zlasowany/naćpany
+grievous - bolesny/poważny
+obtuse - tępy/ograniczony/głupi
+overstretched - nadmierny/napięty/przeciążony
+oversubscribed - z nadmierem chętnych w stosunku do wolnych miejsc
+racial - rasowy
+racy - pikantny/z bukietem/charakterystyczny/oryginalny/żywy
+recumbent - nieaktywny/bezczynny
+sectional - miejscowy/lokalny/przekrojowy
+sexual - seksualny/płciowy
+suspected - z podejrzeniem
+suspended - zawieszony
+tolerant - tolerancyjny/odporny/wytrzymały
+unfair - nieuczciwy/krzywdzący/niesprawiedliwy
+unfaithful - niewierny/nielojalny
+verdant - zielony/niedoświadczony
+viscous - lepki/przyczepny
+
+rzeczowniki złożone:
+coffee machine - automat/ekspres do kawy
+factory floor - hala fabryczna/robotnicy
+zero tolerance - zero tolerancji
+
+wyrażenia:
+as a result - w efekcie/w wyniku
+be accused of sth - być oskarżonym o coś
+be obliged to do sth - być zobowiązanym do zrobienia czegoś
+go bankrupt - zbankrutować
+make sb redundant - zwolnić kogoś w ramach redukcji etatów
+out of order - uszkodzony/niesprawny/niedziałający

@@ -48,3 +48,23 @@ E)
 6. virus
 7. crashed
 8. order
+
+F)
+1. plateauing
+2. stimulation
+3. motivation
+4. initiative
+5. productivity
+6. implement
+
+G)
+1. turnover/turnaround
+2. retention
+3. conflict
+4. absenteeism
+5. timekeeping
+6. misconduct
+7. morale
+8. industrial
+9. council
+10. grief

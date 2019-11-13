@@ -1,25 +1,53 @@
 rzeczowniki:
+absenteeism - niestawiennictwo
+abstention - wstrzymanie/powstrzymanie się
 arrestment - aresztowanie/zatrzymanie/wstrzymywanie
 breach - naruszenie/pogwałcenie/przekroczenie
 bumbling - mamrotanie/mruszenie pod nosem/telepanie się
+conflict - konflikt/sprzeczność/różnica zdań
+conscript - poborowy/żołnierz poborowy
+council - rada/kolegium/zarząd/sobór
+counsel - rada/porada
+detention - pozbawienie wolności
 discrimination - dyskryminacja
 dispute - spór/kłotnia/różnica zdań
 dissemination - rozpowszechnianie/szerzenie/propagowanie
+grief - żal/rozmacz/smutek/zmartwienie/problemy
+grievances - pretensje
 harassment - nękanie/molestowanie/prześladowanie
 incidence - częstotliwość/zasięg
+initiative - inicjatywa
 instance - przypadek/przykład/prośba/wniosek
 insurrection - powstanie
+misconception - błędne mniemanie/pojęcie/niewłaściwe zrozumienie/przesąd
+misconduct - złe prowadzenie się/działanie na czyjąś szkodę
+moral - morał
+motivation - motywacja
+motorisation - motoryzacja
 nil - nic/zero
 notice - wypowiedzenie/wymówienie
 odour - woń/zapach/odór
+plateauing - ustabilizowanie się/osiągnięcie stałego poziomu
+plating - opancerzenie/poszycie/powłoka
+proclivity - skłonność/tendencja
+productivity - wydajność/efektywność/produktywność
 property - własność/mienie/posiadłość
+retention - zachowanie/utrzymanie/zatrzymanie/zatrzymanie klientów
 shortages - brak/niedobór/doficyt
 shortness - zwięzłość/niedobór/brak
+simulation - pozorowanie/symulacja/imitacja/naśladowanie
+stimulation - stymulacja/zachęta/pobudzanie/ożywianie
 stroke - uderzenie
 supplier - dostawca
+threat - pogróżka/zagrożenie
+timekeeping - punktualnośc/mierzenie czasu
+timeserving - oportunizm
+turnaround - zmiana/zwrot/obrót
+turnover - obrót/rotacja/strata
 union - związek zawodowy
 walkabout - wyjście do ludzi/piesza wycieczka
 warming - ocieplenie
+workforce - siła robocza/pracownicy
 
 czasowniki:
 abdicate - abdykować/zrzec się tronu
@@ -43,8 +71,14 @@ dismal - ponury/posępny/okropny/fatalny
 dismissive - lekceważący
 fired - wylany/zwolniony
 fraught - napięty
+frequent - częsty
 fried - smażony/zlasowany/naćpany
 grievous - bolesny/poważny
+inclement - srogi/ostry/surowy
+indicative - wskazujący/oznajmujący
+industrial - przymysłowy
+industrious - pracowity/pilny
+moral - moralny/etyczny/porządny/przyzwoity
 obtuse - tępy/ograniczony/głupi
 overstretched - nadmierny/napięty/przeciążony
 oversubscribed - z nadmierem chętnych w stosunku do wolnych miejsc
@@ -71,5 +105,6 @@ as a result - w efekcie/w wyniku
 be accused of sth - być oskarżonym o coś
 be obliged to do sth - być zobowiązanym do zrobienia czegoś
 go bankrupt - zbankrutować
+in turn - w rezultacie/z kolei
 make sb redundant - zwolnić kogoś w ramach redukcji etatów
 out of order - uszkodzony/niesprawny/niedziałający

@@ -32,6 +32,7 @@ walk-out - strajk/opuszczenie sali na znak protestu
 
 czasowniki:
 appeal - składać apelację/odwoływać się do czegoś
+dock - potrącić/odjąć
 examine - sprawdzać/kontrolować/badać
 suspend - przerywać/wstrzymywać/zawieszać
 threaten - grozić/straszyć/zagrażać

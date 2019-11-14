@@ -1,14 +1,33 @@
+A)
+1. timekeeping
+2. absenteeism
+3. misconduct
+4. negligance
+5. breach, safety
+6. sleeping
+7. disobedience
+8. fraud
+9. theft
+10. smoking, drinking
+11. dealing, drugs
+12. bullying
+13. indimidation
+14. violence
+15. racial, abuse
+16. sexual, harassment
+17. damage
+
 B)
-1. suspend
+1. dock
 2. grievance
 3. hostile work environment
 4. ultimatum
-5. verbal warning
+5. verbal warnings
 6. sackable offence
 7. letter of dismissal
-8. appeal, grievance procedure
-9. allegation
-10. grievance
+8. appeal, unfair dismissal
+9. insubordination
+10. grievance procedure
 11. aggrieved, down tools, walkout
 12. sexual discrimination
 13. suspend

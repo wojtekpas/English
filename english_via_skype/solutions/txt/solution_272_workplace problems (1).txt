@@ -31,7 +31,7 @@ C)
 9. zero tolerance
 
 D)
-1. shortness/shortages
+1. shortages
 2. overstretched
 3. grievance
 4. walkout
@@ -58,7 +58,7 @@ F)
 6. implement
 
 G)
-1. turnover/turnaround
+1. turnover
 2. retention
 3. conflict
 4. absenteeism
@@ -66,5 +66,5 @@ G)
 6. misconduct
 7. morale
 8. industrial
-9. council
-10. grief
+9. counsel
+10. grievances

@@ -41,7 +41,7 @@ przymiotniki:
 aggrieved - dotknięty/urażony/poszkodowany/pokrzywdzony
 dismissed - wyrzucony/zwolniony/odwołany/odrzucony
 guilty - winny/zawstydzony/pełen skruchy
-harsh - brutalny/okrutny.surowy/srogi
+harsh - brutalny/okrutny/surowy/srogi
 hostile - nieprzyjazny/wrogi
 incompetent - niekompetentny
 instant - natychmiastowy/błyskawiczny

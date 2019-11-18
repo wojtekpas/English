@@ -63,7 +63,7 @@ shout - krzyczeć
 przymiotniki:
 annoying - denerwujący/irytujący/wkurzający/dokuczliwy
 approved - zatwierdzony/uznany
-awkard - niewygodny/niezręczny
+awkward - niewygodny/niezręczny/kłopotliwy
 best-selling - bestselerowy/popularny/najlepiej sprzedający się
 bizarre - dziwaczny/cudaczny
 bulky - pokaźnych rozmiarów/opasły/nieporęczny
@@ -101,6 +101,7 @@ personally - osobiście/prywatnie
 regularly - regularnie/często/systematycznie
 
 rzeczowniki złożone:
+armed forces - siły zbrojne
 green issue - problem ekologiczny
 old lady - starsza pani
 fire service - straż pożarna
@@ -111,7 +112,6 @@ stock market - giełda papierów wartościowych
 strike action - akcja strajkowa
 
 czasowniki złożone:
-armed forces - siły zbrojne
 break out - wybuchnąć
 come into - wchodzić/wejść
 come off - dojść do skutku/wyjść/udać się
@@ -173,7 +173,7 @@ raise one's voice - podnosić głos
 raise the alarm - podnosić/uruchomić alarm
 refuse to do sth - nie zgodzić się na zrobienie czegoś
 run a temperature - mieć gorączkę
-run in sb's/the family - być cechą dziedziną
+run in sb's/the family - być cechą dziedziczną
 run rings around sb - zostawiać kogoś w tyle
 stand empty - stać pustym/próżnym
 take one's time - nie spieszyć się/robić coś w swoim tempie/zwlekać

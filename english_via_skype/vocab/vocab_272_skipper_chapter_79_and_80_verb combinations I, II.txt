@@ -37,6 +37,7 @@ warmth - ciepło/serdeczność/życzliwość
 czasowniki:
 abolish - uchylać/unieważniać/znosić
 arouse - wzbudzać/rozbudzać/powodować
+blush - rumienić się/zaczerwienić się
 broach - poruszyć/rowiercić
 creak - skrzypieć/trzeszczeć
 criticise - krytykować
@@ -77,6 +78,7 @@ embarrassing - żenujący/wprawiający w zakłopotanie
 expressionless - pozbawiony wyrazu
 fashionable - modny/elegancki/wytworny
 frightened - przerażony/przestraszony/spłoszony
+haunted - nawiedzony/nękany/udręczony
 impressive - imponujący/robiący wrażenie
 inner - wewnętrzny
 offensive - obraźliwy/chamski/ordynarny/odrażający

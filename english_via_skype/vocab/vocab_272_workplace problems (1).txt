@@ -2,8 +2,10 @@ rzeczowniki:
 absenteeism - niestawiennictwo
 abstention - wstrzymanie/powstrzymanie się
 arrestment - aresztowanie/zatrzymanie/wstrzymywanie
+bothering - staranie się/dręczenie/przeszkadzanie
 breach - naruszenie/pogwałcenie/przekroczenie
 bumbling - mamrotanie/mruszenie pod nosem/telepanie się
+complaint - skarga/zażalenie
 conflict - konflikt/sprzeczność/różnica zdań
 conscript - poborowy/żołnierz poborowy
 council - rada/kolegium/zarząd/sobór
@@ -13,6 +15,7 @@ discrimination - dyskryminacja
 dispute - spór/kłotnia/różnica zdań
 dissemination - rozpowszechnianie/szerzenie/propagowanie
 grief - żal/rozpacz/smutek/zmartwienie/problemy
+grievance - żal/skarga
 grievances - pretensje
 harassment - nękanie/molestowanie/prześladowanie
 incidence - częstotliwość/zasięg
@@ -32,6 +35,7 @@ plating - opancerzenie/poszycie/powłoka
 proclivity - skłonność/tendencja
 productivity - wydajność/efektywność/produktywność
 property - własność/mienie/posiadłość
+refusal - odmowa
 retention - zachowanie/utrzymanie/zatrzymanie/zatrzymanie klientów
 shortages - brak/niedobór/doficyt
 shortness - zwięzłość/niedobór/brak
@@ -40,7 +44,7 @@ stimulation - stymulacja/zachęta/pobudzanie/ożywianie
 stroke - uderzenie
 supplier - dostawca
 threat - pogróżka/zagrożenie
-timekeeping - punktualnośc/mierzenie czasu
+timekeeping - punktualność/mierzenie czasu
 timeserving - oportunizm
 turnaround - zmiana/zwrot/obrót
 turnover - obrót/rotacja/strata
@@ -59,9 +63,12 @@ crash - zepsuć się/zawiesić się/paść
 drone - brzęczeć/buczeć/warkotać
 fraught - ładować/przewozić/wysyłać
 haggle - targować się/spierać się
+implement - wprowadzać w życie
 misbehave - źle się prowadzić/zachowywać/psocić
 negotiate - negocjować
+obey - przestrzegać/być posłusznym
 reside - mieszkać/rezydować/przebywać
+settle - rozstrzygać/ustalać
 
 przymiotniki:
 cracked - porysowany/popękany/łamiący się
@@ -87,6 +94,7 @@ racy - pikantny/z bukietem/charakterystyczny/oryginalny/żywy
 recumbent - nieaktywny/bezczynny
 sectional - miejscowy/lokalny/przekrojowy
 sexual - seksualny/płciowy
+spoken - mówiony
 suspected - z podejrzeniem
 suspended - zawieszony
 tolerant - tolerancyjny/odporny/wytrzymały
@@ -100,11 +108,20 @@ coffee machine - automat/ekspres do kawy
 factory floor - hala fabryczna/robotnicy
 zero tolerance - zero tolerancji
 
+czasowniki złożone:
+carry out sth - zrealizować coś/wprowadzać coś w życie
+
 wyrażenia:
 as a result - w efekcie/w wyniku
 be accused of sth - być oskarżonym o coś
 be obliged to do sth - być zobowiązanym do zrobienia czegoś
+failure to do sth - niepowodzenie w zrobieniu czegoś
+follow the rules - trzymać się zasad
 go bankrupt - zbankrutować
 in turn - w rezultacie/z kolei
 make sb redundant - zwolnić kogoś w ramach redukcji etatów
 out of order - uszkodzony/niesprawny/niedziałający
+put sth into action - wprowadzić coś w życie
+settle a dispute - rozstrzygać spór
+stay away from sth - trzymać się z daleka od czegoś
+terms of agreement - warunki umowy

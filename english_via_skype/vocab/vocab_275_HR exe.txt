@@ -1,0 +1,35 @@
+rzeczowniki:
+commission - prowizja
+comradeship - braterstwo
+gainsharing - synergia
+incentive - bodziec/motywacja/zachęta
+insurance - ubezpieczenie
+pension - emerytura
+pensions - ubezpieczenia społeczne
+recognition - uznanie
+salesperson - sprzedawca
+
+czasowniki:
+recruit - rekrutować/werbować
+
+przymiotniki:
+extrinsic - zewnętrzny/peryferyjny/uboczny
+intrinsic - nieodłączny/wrodzony/wewnętrzny/niezbędny/rzeczywisty
+
+rzeczowniki złożone:
+acceptance bonus - premia na dzień dobry
+attendance bonus - premia za wysoką frekwencję w pracy
+basic pay - wynagrodzenie podstawowe
+duvet day - dzień wolny od pracy
+health insurance - ubezpieczenie zdrowotne
+performance-related bonus - premia za wyniki
+performance-related pay - wynagrodzenie uzależnione od wyników
+production bonus - dodatkowe wynagrodzenia za zadania ponad normę
+profit sharing - podział zysków/udziałw zyskach
+
+wyrażenia:
+ask for advice - prosić o radę
+be linked to sth - być połączonym z czymś
+get on with sb - mieć z kimś dobre stosunki/dobrze się z kimś dogadywać
+give permission - dać pozwolenie
+state sth clearly - wyrazić coś jasno

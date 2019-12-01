@@ -1,6 +1,10 @@
 rzeczowniki:
+accountant - księgowy
+allowance - dodatek/zasiłek/rabat/zniżka
 commission - prowizja
 comradeship - braterstwo
+contract - kontrakt/umowa
+enterprise - przedsięwzięcie/projekt/przedsiębiorstwo
 gainsharing - synergia
 incentive - bodziec/motywacja/zachęta
 insurance - ubezpieczenie
@@ -8,6 +12,8 @@ pension - emerytura
 pensions - ubezpieczenia społeczne
 recognition - uznanie
 salesperson - sprzedawca
+secretary - sekretarz
+sector - sektor/strefa
 
 czasowniki:
 recruit - rekrutować/werbować
@@ -15,17 +21,50 @@ recruit - rekrutować/werbować
 przymiotniki:
 extrinsic - zewnętrzny/peryferyjny/uboczny
 intrinsic - nieodłączny/wrodzony/wewnętrzny/niezbędny/rzeczywisty
+marginal - marginesowy/na skraju
+occupational - zawodowy
+portable - przenośny
 
 rzeczowniki złożone:
 acceptance bonus - premia na dzień dobry
+agency staff - personel (zatrudniony za pośrednictwem agencji)
 attendance bonus - premia za wysoką frekwencję w pracy
 basic pay - wynagrodzenie podstawowe
+contract law - prawo kontraktowe
+contract work - praca kontraktowa
+cost accounting - rachunek/ewidencja kosztów
+cost analysis - analiza kosztów
+cost factor - współczynnik kosztów
+curriculum vitae - życiorys/CV
 duvet day - dzień wolny od pracy
+employment agency - biuro/agencja pośrednictwa pracy
+employment law - prawo pracy
+fixed-term contract - umowa o pracę na czas określony
+full-time employment - zatrudnienie na pełny etat
 health insurance - ubezpieczenie zdrowotne
+income support - zasiłek
+insurance cover - ochrona ubezpieczeniowa
+insurance policy - polisa
+marginal cost - koszt krańcowy
+medical insurance - ubezpieczenie medyczne
+national insurance - ubezpieczenie społeczne
+net income - płaca/dochód/zarobki netto
+occupational pension - emerytura z zakładowego funduszu emerytalnego
 performance-related bonus - premia za wyniki
 performance-related pay - wynagrodzenie uzależnione od wyników
+pension scheme - plan emerytalny
+personal allowance - kwota wolna od podatku
+personal assistant - sekretarka/sekretarz/asystent
+personal development - rozwój osobisty
+private enterprise - przedsiębiorstwo prywatne
+private ownership - własność prywatna
+private secretary - osobisty sekretarz/prywatny asystent
+private sector - sektor prywatny
 production bonus - dodatkowe wynagrodzenia za zadania ponad normę
 profit sharing - podział zysków/udziałw zyskach
+senior staff - kadra kierownicza/grono profesorskie
+skeleton staff - podstawowy personel/niezbędna załoga
+temporary employment - praca tymczasowa
 
 wyrażenia:
 ask for advice - prosić o radę
@@ -33,3 +72,4 @@ be linked to sth - być połączonym z czymś
 get on with sb - mieć z kimś dobre stosunki/dobrze się z kimś dogadywać
 give permission - dać pozwolenie
 state sth clearly - wyrazić coś jasno
+under contract - na mocy umowy/zobowiązany umową

@@ -1,10 +1,10 @@
 1. cost
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
+2. minimum
+3. salary
+4. strike
+5. shift
+6. medical
+7. labour
 8. employment
 9. insurence
 10. income

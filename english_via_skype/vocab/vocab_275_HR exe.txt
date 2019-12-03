@@ -28,25 +28,35 @@ portable - przenośny
 rzeczowniki złożone:
 acceptance bonus - premia na dzień dobry
 agency staff - personel (zatrudniony za pośrednictwem agencji)
+annual salary - wypłata roczna
 attendance bonus - premia za wysoką frekwencję w pracy
 basic pay - wynagrodzenie podstawowe
+basic salary - pensja podstawowa
 contract law - prawo kontraktowe
 contract work - praca kontraktowa
 cost accounting - rachunek/ewidencja kosztów
 cost analysis - analiza kosztów
 cost factor - współczynnik kosztów
 curriculum vitae - życiorys/CV
+day shift - zmiana dzienna
 duvet day - dzień wolny od pracy
 employment agency - biuro/agencja pośrednictwa pracy
 employment law - prawo pracy
+evening shift - popołudniowa zmiana
 fixed-term contract - umowa o pracę na czas określony
 full-time employment - zatrudnienie na pełny etat
 health insurance - ubezpieczenie zdrowotne
 income support - zasiłek
 insurance cover - ochrona ubezpieczeniowa
 insurance policy - polisa
+labour force - siła robocza
+labour dispute - konflikt między pracownikami a pracodawcami
+manual labour - praca fizyczna
 marginal cost - koszt krańcowy
+medical cover - zabezpieczenie lekarskie
+medical examination - badanie lekarskie
 medical insurance - ubezpieczenie medyczne
+minimum pay/salary/wage - płaca minimalna
 national insurance - ubezpieczenie społeczne
 net income - płaca/dochód/zarobki netto
 occupational pension - emerytura z zakładowego funduszu emerytalnego
@@ -62,13 +72,19 @@ private secretary - osobisty sekretarz/prywatny asystent
 private sector - sektor prywatny
 production bonus - dodatkowe wynagrodzenia za zadania ponad normę
 profit sharing - podział zysków/udziałw zyskach
+salary review - przegląd wynagrodzeń
 senior staff - kadra kierownicza/grono profesorskie
+shift work - praca na zmiany
 skeleton staff - podstawowy personel/niezbędna załoga
+skilled labour - wykwalifikowana siła robocza
 temporary employment - praca tymczasowa
+unofficial strike - nielegalny strajk
+wildcat strike - dziki strajk (bez ostrzeżnie i zgody)
 
 wyrażenia:
 ask for advice - prosić o radę
 be linked to sth - być połączonym z czymś
+call strike - ogłosić strajk
 get on with sb - mieć z kimś dobre stosunki/dobrze się z kimś dogadywać
 give permission - dać pozwolenie
 state sth clearly - wyrazić coś jasno

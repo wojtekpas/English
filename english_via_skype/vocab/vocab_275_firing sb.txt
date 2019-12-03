@@ -1,9 +1,26 @@
 rzeczowniki:
+acquisition - kupno/przejęcie
+downsizing - zmniejszenie firmy przez redukcję zatrudnienia
+downturn - spadek koniunktury/schyłek
 headcount - liczenie głosów/stan osobowy
+interest - udział
+merger - połączenie/fuzja
+redeployment - przerzucenie/przesunięcie
+restructuring - restrukturyzacja
+termination - wygaśnięcie/wypowiedzenie
 
 czasowniki:
+acquire - nabywać/zdobywać/uzyskiwać
 downsize - redukować
+join - dołączać/łączyć/zatrudniać się
 lift - dziwać/podnosić/unosić
+
+przymiotniki:
+organizational - organizacyjny
+
+rzeczowniki złożone:
+controlling interest - pakiet kontrolny
+top performance - szczytowa wydajność
 
 czasowniki złożone:
 burn out - wypalić się zawodowo
@@ -11,9 +28,11 @@ slip up - pomylić się
 
 wyrażenia:
 cut to the chase - przejść do rzeczy/sedna
+get rid of sb - pozbyć się kogoś
 let sb go - pozwolić komuś odejść/pożegnać się z kimś
 no hard feelings - bez urazy - nie gniewać się
 not lift a finger - nie kiwnąć palcem
+post a job online - umieścić ogłoszenie o pracę online
 read between the lines - czytać między wierszami
 somebody's hands are tied - ktoś ma związane ręce
 take credit for sth - zebrać za coś laury/przypisać sobie zasługę/zrobienie czegoś

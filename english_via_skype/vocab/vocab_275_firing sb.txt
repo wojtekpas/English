@@ -1,29 +1,50 @@
 rzeczowniki:
 acquisition - kupno/przejęcie
+diligence - dbałość/starannośc/pracowitość/sumienność
 downsizing - zmniejszenie firmy przez redukcję zatrudnienia
 downturn - spadek koniunktury/schyłek
+e-recruitment - rekrutacja internetowa
+emotion - emocje/uczucia/wzruszenie
 headcount - liczenie głosów/stan osobowy
 interest - udział
 merger - połączenie/fuzja
+recruiter - rekruter
 redeployment - przerzucenie/przesunięcie
 restructuring - restrukturyzacja
+retaining - przyjmowanie na służbę/zatrudnianie
+retraining - przekwalifikowanie
+savings - oszczędności
+shrinking - kurczenie się
 termination - wygaśnięcie/wypowiedzenie
+uncertainty - niepewność/niejasność/wątpliwość
 
 czasowniki:
 acquire - nabywać/zdobywać/uzyskiwać
 downsize - redukować
 join - dołączać/łączyć/zatrudniać się
 lift - dziwać/podnosić/unosić
+redeploy - przesunąć/przesuwać
+retain - zatrudniać
+terminate - kończyć/przerwać/rozwiązywać/zwalniać
 
 przymiotniki:
 organizational - organizacyjny
+unbalanced - niezrównoważony/niezbilansowany
+
+przysłówki:
+disproportionately - nieproporcjonalnie/niewspółmiernie
+equally - jednocześnie/jednakowo/równie dobrze
 
 rzeczowniki złożone:
 controlling interest - pakiet kontrolny
+due diligence - należyta staranność/badanie firmy w procesie sprzedaży
+ethnic minority - mniejszość etniczna
 top performance - szczytowa wydajność
 
 czasowniki złożone:
 burn out - wypalić się zawodowo
+hang over sth - wisieć nad czymś
+match up - pasować
 slip up - pomylić się
 
 wyrażenia:
@@ -32,6 +53,7 @@ get rid of sb - pozbyć się kogoś
 let sb go - pozwolić komuś odejść/pożegnać się z kimś
 no hard feelings - bez urazy - nie gniewać się
 not lift a finger - nie kiwnąć palcem
+over to you - twoja kolej/ty masz teraz głos
 post a job online - umieścić ogłoszenie o pracę online
 read between the lines - czytać między wierszami
 somebody's hands are tied - ktoś ma związane ręce

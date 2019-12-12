@@ -1,0 +1,73 @@
+rzeczowniki:
+bend - zakręt/łuk
+bonnet - maska
+bumper - zderzak
+carriageway - pas ruchu/jezdnia
+collision - kolizja/zderzenie
+fence - płot
+lane - pas ruchu
+lorry - ciężarówka
+pavement - chodnik/bruk
+reverse - wsteczny
+screech - pisk/zgrzy
+speeding - przekroczenie prędkości
+windscreen - przednia szyba
+write-off - wrak samochodu
+
+czasowniki:
+blind - oślepiać
+blow - zadąć/dmuchać/trąbić
+dent - wgniatać
+dip - zniżać/obniżać
+halt - zatrzymywać się
+overtake - wyprzedzić
+pass - wymijać
+reverse - cofać
+screech - piszczeć/zgrzytać
+skid/slide - poślizgnąć/ślizgać się
+speed - pędzić/mknąć/przekrzeczać dozwoloną prędkość
+stall - stanąć/zgasnąć
+swerve - gwałtownie skręcać/zbaczać
+tow - holować
+
+przymiotniki:
+oncoming - nadjeżdzający
+signposted - oznakowana
+
+rzeczowniki złożone:
+blind corner - zakręt z ograniczoną widocznością
+crash barrier - bariera bezpieczeństwa
+dual carriageway - druga szybkiego ruchu/dwujezdniowa
+full beam - światła drogowe
+hairpin bend - zakręt 180 stopni
+heavy traffic - duży ruch uliczny/korek
+rear-view mirror - lusterko wsteczne
+sharp bend - ostry zakręt
+speed zone - strefa ograniczonej prędkości
+
+czasowniki złożopne:
+draw up - podjeżdzać/podjechać
+get in/into - wsiadać do (samochodu)
+get on - wsiadać do (autobusu/pociągu/samolotu)
+get off - wysiadać z (autobusu/pociągu/samolotu)
+get out - wysiadać z (samochodu)
+pull away - ruszać z miejsca
+pull in - wjechać i zatrzymać się
+pull into - skręcić w/dojeżdzać
+pull over - zjeżdzać na bok/zatrzymywać się na poboczu
+pull out - wyjeżdząc na drogę
+pull up - zatrzymywać się
+tow away - odholować
+turn back - zawracać
+write sth off - skrasować coś 
+
+wyrażenia:
+be on full beam - mieć włączone światła drogowe
+jump a red light - przejechać na czerwonym świetle
+mount the pavement - wjechać na chodnik
+put the car into reverse - wrzucić bieg wsteczny
+slam on the brakes - ostro hamować/gwałtownie zahamować
+take sb ages - zająć wieki
+thank goodness - dzięki Bogu/na/całe szczęście
+turn green - zzielenieć/zielinić się
+turn red - czerwienić się

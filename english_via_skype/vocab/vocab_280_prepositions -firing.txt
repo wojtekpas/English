@@ -4,6 +4,7 @@ redundancy - redukcja/odprawa
 czasowniki:
 beware - uważać/strzec się/wystrzegać
 correspond - zgadzać się/odpowiadać
+dispose - skłaniać/nakłaniać
 interfere - wtrącać się/mieszać/ingerować/kolidować
 
 przymiotniki:

@@ -4,35 +4,62 @@ bonnet - maska
 bumper - zderzak
 carriageway - pas ruchu/jezdnia
 collision - kolizja/zderzenie
+dirt - brud/ziemia/gleba
+ditch - rów
+eternity - wieczność
 fence - płot
+horde - chmara/gromada/horda/tłum
+horn - klakson
 lane - pas ruchu
 lorry - ciężarówka
 pavement - chodnik/bruk
+pride - duma/pycha
 reverse - wsteczny
-screech - pisk/zgrzy
+screech - pisk/zgrzyt
+smash - kraksa/kolizja/brzęk/trzask
 speeding - przekroczenie prędkości
 windscreen - przednia szyba
+wreckage - szczątki/wrak/gruzy/ruiny
 write-off - wrak samochodu
 
 czasowniki:
 blind - oślepiać
 blow - zadąć/dmuchać/trąbić
+clock - mierzyć czas/dostrzegać/zauważać/obczaić
+crowd - tłoczyć się/napierać/osaczać/naciskać
+crumple - zgnieść/zgniatać/pognieść/załamać się
 dent - wgniatać
 dip - zniżać/obniżać
+fluster - denerować (poprzez wywieranie presji)
 halt - zatrzymywać się
+hammer - uderzać/walić/łomotać
+jolt - rzucać/wstrząsać/zszokować
 overtake - wyprzedzić
 pass - wymijać
+rationalise - szukać usprawiedliwienia/racjonalizować
 reverse - cofać
 screech - piszczeć/zgrzytać
+shoo - gonić/płoszyć
 skid/slide - poślizgnąć/ślizgać się
+slap - ciskać/rzucać
 speed - pędzić/mknąć/przekrzeczać dozwoloną prędkość
 stall - stanąć/zgasnąć
 swerve - gwałtownie skręcać/zbaczać
+swing - kołysać się/hustać się/zawracać/zakręcać
 tow - holować
+tug - pociągać/szarpać/holować
 
 przymiotniki:
+creased - pogniecony/zgniecony/zmięty
+flustered - zgubiony/skołowany
+hammered - pijany/zapity
+livid - blady/wściekły
 oncoming - nadjeżdzający
 signposted - oznakowana
+
+przysłówki:
+impatiently - niecierpliwie
+unsteadily - niepewnie/chwiejnie
 
 rzeczowniki złożone:
 blind corner - zakręt z ograniczoną widocznością
@@ -46,17 +73,22 @@ sharp bend - ostry zakręt
 speed zone - strefa ograniczonej prędkości
 
 czasowniki złożopne:
+crawl up - wdrapywać się/wpełznąć
 draw up - podjeżdzać/podjechać
 get in/into - wsiadać do (samochodu)
 get on - wsiadać do (autobusu/pociągu/samolotu)
 get off - wysiadać z (autobusu/pociągu/samolotu)
 get out - wysiadać z (samochodu)
+head for - kierować się do
+park up - zaparkować
 pull away - ruszać z miejsca
+pull sb in - aresztować kogoś
 pull in - wjechać i zatrzymać się
 pull into - skręcić w/dojeżdzać
 pull over - zjeżdzać na bok/zatrzymywać się na poboczu
 pull out - wyjeżdząc na drogę
 pull up - zatrzymywać się
+stop up - iść późno spać
 tow away - odholować
 turn back - zawracać
 write sth off - skrasować coś 

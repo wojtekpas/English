@@ -47,7 +47,7 @@ stall - stanąć/zgasnąć
 swerve - gwałtownie skręcać/zbaczać
 swing - kołysać się/hustać się/zawracać/zakręcać
 tow - holować
-tug - pociągać/szarpać/holować
+tug - pociągać/szarpać/holować (statek)
 
 przymiotniki:
 creased - pogniecony/zgniecony/zmięty

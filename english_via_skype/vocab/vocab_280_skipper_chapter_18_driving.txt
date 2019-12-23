@@ -1,5 +1,8 @@
+C, B, A, A, B, A
+A, A, D, D, C
+
 rzeczowniki:
-bend - zakręt/łuk
+bend -  zakręt/łuk
 bonnet - maska
 bumper - zderzak
 carriageway - pas ruchu/jezdnia

@@ -1,0 +1,105 @@
+przymiotniki:
+-ent
+coherent - logiczny/spójny/zrozumiały
+competent - kompetentny
+prevalent - przeważający/powszechnie występujący
+prominent - znaczący/wybitny/czołowy
+stringent - rygorystyczny/surowy/ograniczony
+
+-ive
+appreciative - doceniający/wdzięczny/świadomy/pochwalny
+attentive - baczny/uważny/pilny/troszczący się/dbały
+conducive - sprzyjający
+deceptive - oszukańczy/mylny/pozorny/zwodniczy
+disruptive - destrukcyjny/rewolucyjny/innowacyjny
+pervasive - wszechobecny
+
+-less
+flawless - nieskazitelny/doskonały
+relentless - bezwględny/surowy/nieugięty/nieustanny
+thoughtless - bezmyślny/nieroważny/lekkomyślny
+
+-ing
+aggravating - denerwujący/irytujący
+compromising - kompromitujący
+puzzling - zagadkowy/niezrozumiały
+smashing - mieżdzący/kapitalny/fantastyczny/świetny
+staggering - zdumiewający/szokujący/nadzwyczajny
+striking - uderzający/imponujacy/urodziwy/atrakcyjny
+thriving - prosperujący/kwitnący
+underlying - zasadniczy/podstawowy/fundamentalny/ukryty/niejasny
+
+-ible
+discernable/discernible - zauważalny/dostrzalny/wyczuwalny
+feasible - wykonalny/możliwy/prawdopodobny
+implausible - nieprzekonujący/nieprawdopodobny
+inexhaustible - niewyczerpany
+
+-able
+applicable - odpowiedni/stosowny
+inestimable - nieoceniony/nieobliczalny
+inevitable - nieunikniony/nieuchronny
+inexcusable - niewybaczalny
+immeasurable - niezmierny/kolosalny/niezmierzony/diametralny
+invariable - niezmienny
+reconcilable - do pogodzenia
+suitable - odpowiedni/właściwy/nadający się
+sustainable - zrównoważony/długofalowy/trwały
+unattainable - nieosiągalny/niedościgły
+undeniable - niezaprzeczalny
+unjustifiable - nieuzasadniony
+unmissable - obowiązkowy/wart uwagi/rzucający się w oczy
+
+-ed
+shattered - wstrząśnięty/zdruzgotany/zrujnowany/wyczerpany
+unaffected - niewymuszony/szczery/niewzruszony
+unprecedented - bezprecedensowy/niespotykany
+
+-ous
+disastrous - fatalny/katastrofalny/zgubny
+meticulous - dokładny/drobiazgowy/skrupulatny/staranny
+tedious - monotonny/żmudny
+tremendous - zawrotny/olbrzymi/ogromny/niesamowity
+ubiquitous - wszechobecny/powszecny
+zealous - gorliwy/żarliwy/zagorzały
+
+rzeczowniki:
+bailiff - komornik
+competitor - konkurent
+conduct - zachowanie
+courtesy - uprzejmość/grzeczność/kurtuazja
+devotion - oddanie się/poświęcenie się
+flaw - skaza/wada/usterka
+funds - fundusze/środki pieniężne
+kindness - uprzejmość/życzliwość
+liquidity - płynność/płynność środków finansowych
+meaning - znaczenie/sens
+misunderstanding - nieporozumienie
+possessions - dobytek
+tender - przetarg
+turnover - obrót/strata
+
+czasowniki:
+breach - naruszyć/pogwałcić
+foresee - przywidywać
+grant - przyznawać/udzielać/wyrażać zgodę
+perceive - postrzegać
+plummet - runąć/spadać/obniżać się
+surpass - przewyższać/przekraczać
+
+pozostałe przymiotniki:
+blatant - bezczelny/jawny/rażący/ewidentny
+cheerful - radosny/pogodny/wesoły
+mandatory - obowiązkowy/obligatoryjny
+upbeat - wesoły/optymistyczny/krzepiący
+
+rzeczowniki złożone:
+trade fair - targi/wystawa przemysłowa
+trade law - prawo handlowe
+
+czasowniki złożone:
+pick on - czepiać się/wybierać kogoś
+
+wyrażenia:
+compliance with sth - zastosowanie się do czegoś/przestrzeganie czegoś
+to my way of thinking - moim zdaniem

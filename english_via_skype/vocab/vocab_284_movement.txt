@@ -1,0 +1,42 @@
+rzeczowniki:
+bureaucracy - biurokracja/administracja/urzędy
+crawl - żółwie tempo
+decline - spadek/obniżenie
+drowning - utonięcie
+lawsuit - proces/pozew sądowy
+resolution - uchwała/postanowienie/rozwiązanie/decyzja
+standstill - martwy punkt/zatrzymanie
+stroll - przechadzka
+
+przymiotniki:
+breakneck - zawrotny/karkołomny
+fast - szybki/rozpustny/postny/śpieszący się/mocno przymocowany
+hasty - gwałtowny/pospieszny/popędliwy/szybki/pochopny
+leisurely - powolny/spokojny
+passing - przejeżdzający
+prompt - bezzwłoczny/natychmiastowy/szybki/punktualny/dokładny
+quick - szybki/bystry
+rapid - szybki/gwałtowny/lawinowy
+speedy - bezzwłoczny/szybki/rychły
+suspended - zawieszony
+swift - błyskawiczny/natychmiastowy
+
+przysłówki:
+promptly - bezzwłocznie/natychmiast/szybko/punktualnie
+
+rzeczowniki złożone:
+speed trap - kontrola radarowa
+speeding ticket - mandat za przekroczenie prędkości
+
+czasowniki złożone:
+slow down - zwolnić
+speed up - przyspieszać
+walk in - chodzić
+
+wyrażenia:
+at a snail's pace - śmamazarnie/powoli
+at breakneck speed - zawrotną prędkością/w zawrotnym tempie
+come to a standstill - zatrzymać się/znaleźć się w martwym punkcie
+gain speed - nabierać prędkości
+in a rush - w pośpiechu
+slow to a crawl - znacząco spowalniać/zwalniać do żółwiego tempa

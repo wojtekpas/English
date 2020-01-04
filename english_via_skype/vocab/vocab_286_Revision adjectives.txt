@@ -1,0 +1,16 @@
+rzeczowniki:
+absence - nieobecność/absencja
+fireworks - fajerwerki/sztuczne ognie
+mountaineer - alpinista/wspinacz/taternik
+
+czasowniki:
+mishandle - nieostrożnie obchodzić się
+
+przymiotniki:
+attentive - baczny/uważny/pilny/troszczący się/dbały
+pervasive - wszechobecny
+striking - uderzający/imponujacy/urodziwy/atrakcyjny
+tedious - monotonny/żmudny
+
+przysłówki:
+invariably  - niezmiennie zawsze

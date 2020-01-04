@@ -1,0 +1,33 @@
+rzeczowniki:
+account - relacja/raport/sprawozdanie/opowieść
+burden - ciężar/brzemię/obciążenie/ładunek
+eyewitness - naoczny świadek
+fortune - majątek/przypadek/traf/los/dola
+illusion - złudzenie/iluzja/wrażenie/sztuczka magiczna
+jiggery-pokery - hokus-pokus/oszukaństwo/ściema/machloja
+occult - wiedza tajemna/okultyzm
+sleight - zręczność/sztucka
+superstition - przesąd/zabobon
+
+czasowniki:
+dabble - interesować się/parać się/pluskać/moczyć
+
+przymiotniki:
+extrasensory - pozazmysłowy
+far-fetched - naciągany/przesadny/zbyt daleko idący
+optical - optyczny/wizualny
+unidentified - nieokreślony/niezidentyfikowany/nieznany
+
+rzeczowniki złożone:
+black magic - czarna magia/nauki tajemne
+extrasensory perception - spostrzeganie pozazmysłowe
+eyewitness account - zeznania świadka naocznego
+fortune-telling - wróżbiarstwo
+optical illusion - złudzenie optyczne
+
+wyrażenia:
+burden of proof - ciążar dowodu
+dabble in sth - zajmować się czymś amatorsko
+mind over matter - wyższość ducha nad materią
+sleight of hand - zręczność ręki/umiejętność w oszukiwaniu
+unidentified flying object - UFO/niezidentyfikowany obiekt latający

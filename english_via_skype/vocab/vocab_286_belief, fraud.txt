@@ -1,33 +1,94 @@
 rzeczowniki:
 account - relacja/raport/sprawozdanie/opowieść
+astrology - astrologia
+atheist - ateista
+beast - bestia/zwierz/potwór
 burden - ciężar/brzemię/obciążenie/ładunek
+cause - przycyzna/powód
+charlatan - szarlatan
+clairvoyant - jasnowidz
+cult - sekta/grupa wyznawców
+establishment - założenie/ustanowienie/ustalony porządek
 eyewitness - naoczny świadek
 fortune - majątek/przypadek/traf/los/dola
+glance - zerknięcie/rzut okiem
+harm - szkoda/krzywda/uszkodzenie
 illusion - złudzenie/iluzja/wrażenie/sztuczka magiczna
+inflicting - wymierzanie/zadawanie
+intuition - intuicja/przeczucie
 jiggery-pokery - hokus-pokus/oszukaństwo/ściema/machloja
+look - spojrzenie
+medicine - lek
+medium - osoba pośrednicząca w kontakcie z kimś
 occult - wiedza tajemna/okultyzm
+poltergeist - złośliwy duch
+premonition - przeczucie
+religion - religia
+sceptic - sceptyk/niedowiarek
+seance - seans
+sect - sekta/odłam
 sleight - zręczność/sztucka
+spell - zaklęcie/urok
+spirit - duch/dusza
+spiritualist - spirytysta
 superstition - przesąd/zabobon
+telepathy - telepatia
+unicorn - jednorożec
+witchcraft - czary/czarnoksięstwo/czarna magia
 
 czasowniki:
+attibute - przypisywać
+carve - rzeźbić/ryć/wyżłabiać
 dabble - interesować się/parać się/pluskać/moczyć
+dowse - oblewać
+float - unosić się/być zawieszonym/drykować
+haunt - nawiedzać/straszyć/niepokoić/dręczyć
+hunt - polować/poszukiwać/gonić/scigać/tropić
+levitate - lewitować
+possess - posiadać/opanowywać/zawładnąć
+pretend - udawać
+recede - oddalać się/odchodzićznikać w oddali/zacierać
 
 przymiotniki:
+devoted - oddany/poświęcony
+evil - zły/diabelski
 extrasensory - pozazmysłowy
 far-fetched - naciągany/przesadny/zbyt daleko idący
+fascinating - fascynujący
+forked - rozwidlony
+fringe - uboczny/poboczny/skrajny/alternatywny
+manipulative - manipulujący
 optical - optyczny/wizualny
+supernatural - nadnaturalny/nadprzyrodzony/niezwykły
 unidentified - nieokreślony/niezidentyfikowany/nieznany
+
+przysłówki:
+superstitiously - przesądnie/zabobonnie
+supposedly - ponoć/rzekomo/przypuszczalnie/hipotetycznie
 
 rzeczowniki złożone:
 black magic - czarna magia/nauki tajemne
 extrasensory perception - spostrzeganie pozazmysłowe
 eyewitness account - zeznania świadka naocznego
 fortune-telling - wróżbiarstwo
+fringe medicine - medycyna niekonwencjonalna
+Native American - Indianin
 optical illusion - złudzenie optyczne
+totem pole - słup totemiczny
+
+czasowniki złożone:
+hunt for sth - poszukiwać czegoś/polować na coś
+set sth up - zakładać/rozstawiać/ustawiać/budować coś
 
 wyrażenia:
 burden of proof - ciążar dowodu
+by word of mount - z ust do ust/w formie mówionej
 dabble in sth - zajmować się czymś amatorsko
 mind over matter - wyższość ducha nad materią
+old wives' tale - przesąd/babskie gadanie
+pretend to do sth - udawać, że coś się robi
+pretend to sth - mieć inspirację do czegoś
 sleight of hand - zręczność ręki/umiejętność w oszukiwaniu
+the evil eye - zły urok
 unidentified flying object - UFO/niezidentyfikowany obiekt latający
+word of mount - przekaz ustny/poczta pantoflowa

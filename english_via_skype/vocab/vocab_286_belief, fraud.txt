@@ -4,15 +4,23 @@ astrology - astrologia
 atheist - ateista
 beast - bestia/zwierz/potwór
 burden - ciężar/brzemię/obciążenie/ładunek
+bouquet - bukiet
 cause - przycyzna/powód
 charlatan - szarlatan
+cheating - oszustwo/matactwo
 clairvoyant - jasnowidz
+cowpat - krowi placek
+credence - wiara
 cult - sekta/grupa wyznawców
+deceiving - okłamywanie/oszukiwanie/wprowadzanie w błąd
+duping - nabieranie/oszukiwanie
 establishment - założenie/ustanowienie/ustalony porządek
 eyewitness - naoczny świadek
+fooling-  oszukiwanie
 fortune - majątek/przypadek/traf/los/dola
 glance - zerknięcie/rzut okiem
 harm - szkoda/krzywda/uszkodzenie
+honeymoon - miesiąc miodowy/podróż poślubna
 illusion - złudzenie/iluzja/wrażenie/sztuczka magiczna
 inflicting - wymierzanie/zadawanie
 intuition - intuicja/przeczucie
@@ -21,6 +29,7 @@ look - spojrzenie
 medicine - lek
 medium - osoba pośrednicząca w kontakcie z kimś
 occult - wiedza tajemna/okultyzm
+palmistry - wróżenie z dłoni
 poltergeist - złośliwy duch
 premonition - przeczucie
 religion - religia
@@ -33,6 +42,7 @@ spirit - duch/dusza
 spiritualist - spirytysta
 superstition - przesąd/zabobon
 telepathy - telepatia
+treading - nastąpienie/nadepnięcie/chodzenie/wdeptanie
 unicorn - jednorożec
 witchcraft - czary/czarnoksięstwo/czarna magia
 
@@ -42,24 +52,36 @@ carve - rzeźbić/ryć/wyżłabiać
 dabble - interesować się/parać się/pluskać/moczyć
 dowse - oblewać
 float - unosić się/być zawieszonym/drykować
+foretell - przepowiadać/wróżyć
 haunt - nawiedzać/straszyć/niepokoić/dręczyć
 hunt - polować/poszukiwać/gonić/scigać/tropić
 levitate - lewitować
+predict - przewidywać/przepowiadać
+presage - zapowiadać/przepowiadać/wróżyć/zwiastować
+prevaricate - kręcić/mijać się z prawdą/wykręcać się od odpowiedzi
 possess - posiadać/opanowywać/zawładnąć
 pretend - udawać
 recede - oddalać się/odchodzićznikać w oddali/zacierać
 
 przymiotniki:
+assumed - przybrany/udawany
+believable - wiarygodny/realistycznie przedstawiony
+bogus - fałszywy/podrabiany/zmyślony/fikcyjny
+credulous - łatwowierny/naiwny
 devoted - oddany/poświęcony
 evil - zły/diabelski
 extrasensory - pozazmysłowy
+fake - fałszywy/podrobiony/nieprawdziwy/sztuczny
 far-fetched - naciągany/przesadny/zbyt daleko idący
 fascinating - fascynujący
+fraudulent - oszukańczy/fałszywy
 forked - rozwidlony
 fringe - uboczny/poboczny/skrajny/alternatywny
+gullible - łatwowierny
 manipulative - manipulujący
 optical - optyczny/wizualny
 supernatural - nadnaturalny/nadprzyrodzony/niezwykły
+superstitious - przesądny/zabobonny
 unidentified - nieokreślony/niezidentyfikowany/nieznany
 
 przysłówki:
@@ -67,6 +89,7 @@ superstitiously - przesądnie/zabobonnie
 supposedly - ponoć/rzekomo/przypuszczalnie/hipotetycznie
 
 rzeczowniki złożone:
+assumed name - przybrane nazwisko
 black magic - czarna magia/nauki tajemne
 extrasensory perception - spostrzeganie pozazmysłowe
 eyewitness account - zeznania świadka naocznego
@@ -83,7 +106,9 @@ set sth up - zakładać/rozstawiać/ustawiać/budować coś
 wyrażenia:
 burden of proof - ciążar dowodu
 by word of mount - z ust do ust/w formie mówionej
+cross paths - napotykać/spotykać
 dabble in sth - zajmować się czymś amatorsko
+give credence to sth - dawać czemuś wiarę
 mind over matter - wyższość ducha nad materią
 old wives' tale - przesąd/babskie gadanie
 pretend to do sth - udawać, że coś się robi

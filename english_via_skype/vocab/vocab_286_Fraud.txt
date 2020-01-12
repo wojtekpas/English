@@ -1,0 +1,45 @@
+rzeczowniki:
+crooks - oszust
+discarding - wyrzucanie/pozbywanie się
+ignorance - niewiedza/nieświadomość/ignorancja
+institution - insytucja/zakład/organizacja
+negligence - niedbalstwo/niedopatrzenie/zaniedbanie
+phishing - wyłudzanie poufnych informacji osobistych przez podszywanie się za osobę/instytucję
+pretending - udawanie
+pretexting - oszukiwanie w celu otrzymanie danych osobowych
+raiding - przeprowadzanie ataku/obławy/napadanie/ograbienie
+scam - oszustwo/przekręt/szwindel
+skimming - sczytywaniu kodów z kart płatniczych/ukrywanie czegoś przed skarbówką 
+
+czasowniki:
+lure - kusić/necić/wabić
+
+przymiotniki:
+dodgy - podejrzany/szemrany/ryzykowny/niepewny
+down-to-earth - przyziemny/praktyczny/twardo stępający po ziemi
+fishy - lipny/naciągany/podejrzany
+fooled - głupi/idiotyczny
+lucrative - dochodowy/intratny/lukratywny
+unauthorized - nieupoważniony/nieutoryzowany/bezprawny
+vigilant - czujny/baczny
+
+przysłówki:
+fraudulently - oszukańczo/fałszywie/nieuczciwie
+
+rzeczowniki złożone:
+data storage device - nośnik danych
+personal records - akta personalne
+safety measures - przepisy/środki bezpieczeństwa
+
+czasowniki złożone:
+look through sth - przeszukiwać coś
+pop up - wyskakiwać/pojawiać się
+take over sth - zdobywać/przejmować
+
+wyrażenia:
+be wise after the event - być mądrym po fakcie
+dupe sb - nabrać/oszukać kogoś
+exercise caution - zachowywać ostrożność
+put in place - umieścić/zastosować/wprowadzać
+take no notice of it - ignorować/lekceważyć
+take sb in - nabierać/oszukiwać/zwodzić kogoś

@@ -1,0 +1,37 @@
+rzeczowniki:
+nuisance - niedogodność/utrapienie/zakłocenie porządku
+numeracy - umiejętność liczenia
+prey - żer/ofiara
+robocall - automatyczna wiadomość telefoniczna
+scammer - oszust/naciągacz/kanciarz
+solicitation - proszenie/nagabywanie
+sucker - naiwniak/frajer/głupek
+sweepstake - zakłady pieniężne/totalizator
+
+czasowniki:
+bombard - bombardować
+ensure - znosić/tolerować/cierpieć/przetrwać
+foster - pielęgnować/rozwijać/przyjać
+opt - wybierać/optować
+perpetrate - popełniać (np. błąd/przestępstwo)
+prosecute - oskarżać/przeprowadzać/scigać sądownie
+toss - rzucać/pozbyć się/uwolnić się
+
+przymiotniki:
+fraudulent - oszukańczy/fałszywy/nieuczciwy
+
+przysłówki:
+relentlessly - bez przerwy/zawzięcie/nieustępliwie
+
+rzeczowniki złożone:
+increased risk - podwyższone ryzyko
+junk mail - spam/niechciane reklamy
+mass-market - rynek masowego odbiorcy
+
+czasowniki złożone:
+delve into - zagłębiać się/dokładnie analizować
+opt in sth - być/optować za czymś/zgadzać się na uczestnictwo
+
+wyrażenia:
+be wary - mieć się na baczności/uważać
+take sb for a ride - oszukać/nabrac kogoś/zrobić w konia

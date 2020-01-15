@@ -1,37 +1,68 @@
 rzeczowniki:
+advance - zaliczka/zadatek
+consumer - konsument
+credibility - wiarygodność
+estate - majątek
+familiarity - poufałość/zażyłość/obeznanie
+legitimacy - legalność
+loneliness - samotność
 nuisance - niedogodność/utrapienie/zakłocenie porządku
 numeracy - umiejętność liczenia
+outweighing - przeważanie nad
+payoff - rozliczenie/korzyść
+persuasion - perswazja/przekonywanie/namowa
 prey - żer/ofiara
 robocall - automatyczna wiadomość telefoniczna
 scammer - oszust/naciągacz/kanciarz
+seminar - seminarium
 solicitation - proszenie/nagabywanie
 sucker - naiwniak/frajer/głupek
+susceptibility - podatność/wrażliwość
 sweepstake - zakłady pieniężne/totalizator
 
 czasowniki:
 bombard - bombardować
+claim - zdobyć/twierdzić/utrzymywać
+craft - wykonać ręcznie
 ensure - znosić/tolerować/cierpieć/przetrwać
 foster - pielęgnować/rozwijać/przyjać
+hypothesize - postawić hipotezę
 opt - wybierać/optować
 perpetrate - popełniać (np. błąd/przestępstwo)
 prosecute - oskarżać/przeprowadzać/scigać sądownie
 toss - rzucać/pozbyć się/uwolnić się
+undertake - podjąć się/przedsięwziąć
 
 przymiotniki:
+businesslike - rzeczowy/poważny
 fraudulent - oszukańczy/fałszywy/nieuczciwy
+legitimate - legalny
+old-fashioned - staromodny/przestarzały
+transnational - ponadgraniczny/ponadnarodowy
 
 przysłówki:
+instantly - natychmiast
 relentlessly - bez przerwy/zawzięcie/nieustępliwie
 
 rzeczowniki złożone:
+area code - numer kierunkowy
+fill out sth - wypełniać/wypisywać coś
+ill health - zły stan zdrowia
 increased risk - podwyższone ryzyko
 junk mail - spam/niechciane reklamy
 mass-market - rynek masowego odbiorcy
 
 czasowniki złożone:
+back out - wycofać się/zrezygnować/spasować
 delve into - zagłębiać się/dokładnie analizować
+grow into sth - dostastać/dorosnąć do czegoś
 opt in sth - być/optować za czymś/zgadzać się na uczestnictwo
+part with sth - pozbywać się czegoś
+send back - odesłać
+swith sth off - spisać na straty
 
 wyrażenia:
+be likely to do sth - być zdolnym coś zrobić
+be/fall prey to sb - być łupem dla kogoś
 be wary - mieć się na baczności/uważać
 take sb for a ride - oszukać/nabrac kogoś/zrobić w konia

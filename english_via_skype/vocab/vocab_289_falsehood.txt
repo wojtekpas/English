@@ -1,0 +1,47 @@
+rzeczowniki:
+adversary - oponent/przeciwnik
+anonymity - anonimowość
+casualty - ofiara
+ceasefire - przerwanie ognia/zawieszenie broni
+cutback - redukcja/cięcie/zmniejszenie
+deceit - fałsz/oszustwo/nieuczciwość
+deception - oszustwo/podstęp
+falsehood - fałsz/kłamanie/oszukiwanie
+fib - bujda/kłamstewko
+half-truth - półprawda/część prawdy
+phoney - pozer/oszust
+rebel - buntownik/rebeliant
+widow - wdowa
+
+czasowniki:
+baffle - zbić z tropu/wprawić w zakłopotanie/zaskoczyć
+confound - pomylić/zdyskredytować
+deceive - okłamywać/oszukiwać/zawodzić
+declare - oświadczać/ogłaszać/wypowiadać
+delude - łudzić/mamić/zwodzić/okłamywać
+distort - zniekształcać
+puzzle - zakłopotować
+spot - dostrzegać/zauważać
+twist - przekręcić/okantować/oszukać
+
+przymiotniki:
+distorted - zniekształcony
+phoney - fałszywy/udawany/sztuczny
+puzzled - zdezorientowany/zmieszany/zdziwiony
+sincere - szczery
+
+przysłówki:
+anonymously - anonimowo
+dishonestly - nieuczciwie
+posthumously - pośmiertnie
+
+rzeczowniki złożone:
+the complete truth - cała prawda
+white lie - niewinne kłamstewko
+
+czasowniki złożone:
+level with sb - nie mieć przed kimś tajemnic
+
+wyrażenia:
+keep a secret - dochować/trzymać/zachować w tajemnicy
+loads of sth - mnóstwo/masa czegoś

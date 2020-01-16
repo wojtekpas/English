@@ -1,0 +1,42 @@
+rzeczowniki:
+blueprint - plan/strategia
+brink - próg/skraj/krawędź/ostateczność
+collapse - upadek/krach/zapadnięcię się
+corner - kąt/styk/róg/zarkęt
+disarray - nieład/nieporządek/zamęt
+foul-up - wpadka
+hurdle - przeszkoda/problem
+individual - jednostka/osobnik
+quandary - rozterka/dylemat
+strait - przesmyk/strapienie/problem/kłopot
+unpreparedness - brak gotowości
+withdrawal - wycofanie się/rezygnacja
+
+czasowniki:
+bolster - podpierać/podnieść/wzmocnić
+eradicate - wykorzeniać/wyplenić/zwalczyć
+overhaul - naprawić/wyprzedzić/dogonić
+underpin - wspierać/wzmacniać/podtrzymywać
+
+przymiotniki:
+ailing - bolący/trapiący/chory/niedomagający
+daunting - zniechęcający/oniesmielający
+excessive - nadmierny/wygórowany
+flagging - podupadły/słabnący
+game-changing - przełomowy
+immense - ogromny/niezmierny/olbrzymi/świetny/wspaniały
+incessant - bezustanny/nieustanny/nieustający
+murky - nieprzenikniony/mętny/ciemny/podejrzany
+stranded - opuszczony/pozostawiony/zdany na własne siły
+upsetting - przykry/przygnębiający/denerwujący
+
+czasowniki złożone:
+step up - stanąć na wysokości zadania/zrobić krok w przód
+
+wyrażenia:
+be on the brink of sth - być na krawędzi/granicy czegoś
+come unstuck - zawieść/ponieść porażkę/wziąc w łeb
+in disarray - w nieładzie
+in the tight corner - w opałąch/trudnym położeniu
+step up one's game - poprawić się/wejść na wyższy poziom
+splash out on sth - zaszaleść z czymś

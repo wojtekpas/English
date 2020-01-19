@@ -1,0 +1,47 @@
+rzeczowniki:
+ceasefire - przerwanie ognia/zawieszenie broni
+crossfire - krzyżowy ogień/ostrzał
+deploying - rozmieszczanie/rozlokowanie
+refugee - uchodźca/emigrant/uciekinier
+stability - trwałość/stabilność/równowaga
+stockpiling - magazynowanie/składowanie
+tension - napięcie
+territory - obszar/terytorium
+troops - żołnierze/wojsko/oddziały
+violence - przemoc/gwałtowność/siła
+
+czasowniki:
+erupt - wybuchnąć/eksplodować
+flee - uciekać/umykać
+intervene - interweniować
+invade - najeżdzać/wtargnąć/naruszać
+launch - rozpoczynać/uruchamiać
+post - wysyłać
+resettle - przesiedlać/osiedlać się
+storm - szturmować/atakować
+
+przymiotniki:
+displaced - przemieszczony/przesunięty
+fragile - delikatny/kruchy/łamliwy
+innocent - niewinny/przypadkowy
+lasting - trwały
+peacekeeping - pokojowy
+pre-emptive - wyprzedzający
+truce - rozejm/zawieszenie broni
+unprovoked - bezpodstawny/nieuzasadniony/niezasłużony
+
+rzeczowniki złożone:
+civilian casualties - ofiary wśród ludności cywilnej
+collateral damage - straty wśród ludności cywilnej
+decisive battle - decydująca bitwa
+lasting peace - trwały pokój
+peacekeeping forces - siły pokojowe
+turning point - punkt zwrotny
+
+czasowniki złożone:
+be stationed - stacjonować
+break out - zacząć się gwałtownie/wybuchnąć
+
+wyrażenia:
+avert a war - oddalić wojnę
+open fire - otworzyć ogień

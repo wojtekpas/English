@@ -19,6 +19,7 @@ solicitation - proszenie/nagabywanie
 sucker - naiwniak/frajer/głupek
 susceptibility - podatność/wrażliwość
 sweepstake - zakłady pieniężne/totalizator
+trap - pułapka/potrzask
 
 czasowniki:
 bombard - bombardować

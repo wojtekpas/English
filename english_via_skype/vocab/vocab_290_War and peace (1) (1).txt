@@ -1,0 +1,32 @@
+rzeczowniki:
+animosity - niechęć/nienawiść/uraza
+blockade - blokada
+hometown - miasto rodzinne
+hotbed - gniazdo
+toll - opłata/żniwa/ofiary
+resistance - sprzeciw/opór
+uprising - insurekcja/powstanie/rewolta
+
+czasowniki:
+avert - oddalać/zapobiegać
+pinpoint - ustalić położenie/bombardować precyzyjnie
+retaliate - mścić się/odpłacać/brać odwet
+undergo - poddawać się/ulegać
+
+przymiotniki:
+pinpoint - precyzyjny/dokładnie określony
+surgical - chirurgiczny/operacyjny
+
+rzeczowniki złożone:
+bank robber - przestępca napadający na bank
+peace treaty - traktat pokojowy
+
+czasowniki złożone:
+call up - powoływać/wybierać kogoś
+
+wyrażenia:
+avert a war - oddalać wojnę
+deploy troops - wysyłać wojsko/obsadzić wojskiem
+put up a fight - podejmować walkę
+ray of hope - iskierka/promyk nadziei
+take a heavy toll - zbierać obfite żniwo 

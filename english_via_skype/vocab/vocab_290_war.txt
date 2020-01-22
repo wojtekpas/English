@@ -1,13 +1,24 @@
 rzeczowniki:
+affront - obraza/zniewaga
+casaulty - ofiara
+casaulties - straty w ludziach
 ceasefire - przerwanie ognia/zawieszenie broni
+consulate - konsulat
 crossfire - krzyżowy ogień/ostrzał
 deploying - rozmieszczanie/rozlokowanie
+diplomat - dyplomat
+embassy - ambasada
+hatred - nienawiść
 refugee - uchodźca/emigrant/uciekinier
+resident - mieszkaniec
 stability - trwałość/stabilność/równowaga
+steadiness - stabilność/stałość
 stockpiling - magazynowanie/składowanie
+strain - napięcie/stres
 tension - napięcie
 territory - obszar/terytorium
 troops - żołnierze/wojsko/oddziały
+truce - rozejm/zawieszenie broni
 violence - przemoc/gwałtowność/siła
 
 czasowniki:
@@ -18,16 +29,18 @@ invade - najeżdzać/wtargnąć/naruszać
 launch - rozpoczynać/uruchamiać
 post - wysyłać
 resettle - przesiedlać/osiedlać się
+rupture - pękać/przegrywać/zrywać
+stockpile - gromadzić/robić zapasy
 storm - szturmować/atakować
 
 przymiotniki:
 displaced - przemieszczony/przesunięty
 fragile - delikatny/kruchy/łamliwy
 innocent - niewinny/przypadkowy
+interplanetary - międzyplanetarny
 lasting - trwały
 peacekeeping - pokojowy
 pre-emptive - wyprzedzający
-truce - rozejm/zawieszenie broni
 unprovoked - bezpodstawny/nieuzasadniony/niezasłużony
 
 rzeczowniki złożone:

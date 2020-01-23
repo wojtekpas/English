@@ -9,6 +9,7 @@ deploying - rozmieszczanie/rozlokowanie
 diplomat - dyplomat
 embassy - ambasada
 hatred - nienawiść
+recruitment - nabór/rekrutacja
 refugee - uchodźca/emigrant/uciekinier
 resident - mieszkaniec
 stability - trwałość/stabilność/równowaga

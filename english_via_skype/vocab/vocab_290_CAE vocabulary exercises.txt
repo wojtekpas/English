@@ -1,0 +1,50 @@
+rzeczowniki:
+cordiality/corialness - serdeczność
+defiance - wyzwanie/prowokacja/przekora/naruszenie
+hardship - trud/niewygoda/niedostatek
+hindrance - przeszkoda/zawada
+hostility - wrogość
+illiteracy/illiterateness - analfabetyzm
+indecency - nieprzyzwoitość
+obscureness - niejasność
+piousness - pobożność
+relish - przysmak/przyjemność/radość
+significance - wazność/doniosłość/znacznie
+skirmish - starcie zbrojne/potyczka/sprzeczka
+tolerance - tolerancja/odporność
+versatility - różnorodność/wszechstronnośc/zwinność
+wiseness - cecha bycia mądrym/rozsądnym/cwanym
+
+czasowniki:
+captivate - zniewolić/urzec/zauroczyć
+defy - przeciwstawiać się/ignorować/postępować wbrew
+detest - nienawidzić/czuć wstręt
+disobey - nie słuchać/być nieposłusznym
+facilitate - ułatwiać
+fascinate - oczarować/zachwycić/obezwładnić/rzucić czar
+obey - przestrzegać/być posłusznym
+obstruct - przesłonić/zablokować/utrudniać
+loathe - brzydzić się/czuć wstrę/nienawidzić
+pious - bogobojny/pobożny/obłudny
+repulse - odpychać/odtrącać/odpierać
+
+przymiotniki:
+bold - odważny/śmiały
+cordial - serdeczny/szczery
+defiant - prowokujący/wyzywający/nieposłuszny
+educated - wykształcony
+eminent - wybitny/nadzwyczajny/wyjątkowy/niewątpliwy
+hostile - nieprzyjazny/wrogi
+illiterate - niepiśmienny/analfabeta
+illustrious - wybitny/znakomity/wspaniały
+imminent - nadciągający/bliskli/nieuchronny/groźny
+indecent - nieprzyzwoity/niemoralny/skandaliczny
+ingenious - pomysłowy
+intriguing - intrygujący
+obscure - niejasny/niewyraźny/nieokreślony
+slack - luźny/zwisający/powolny/leniwy
+versatile - uniwersalny/wszechstronny/bystry
+wise - rozsądny/mądry/cwany/chytry
+
+wyrażenia:
+in the event of sth - w przypadku czegoś

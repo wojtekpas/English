@@ -26,3 +26,30 @@ wise - wiseness
 versatile - versatility
 flexible - flexibility
 tolerant - tolerance
+
+A) B
+B) A
+C) A
+D) B
+E) A
+F) A
+G) B
+H) A
+
+A) illustrious:
+- eminent
+- prominent
+- outstanding
+- renowned
+- distinguished
+- celebrated
+- reputed
+
+B) morose:
+- overcast
+- sullen
+- sulky
+- gloomy
+- moody
+- glub
+- downcast

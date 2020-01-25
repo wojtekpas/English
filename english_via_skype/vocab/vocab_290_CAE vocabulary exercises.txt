@@ -1,4 +1,5 @@
 rzeczowniki:
+bridle - uzda/cugle/ogłowie
 cordiality/corialness - serdeczność
 defiance - wyzwanie/prowokacja/przekora/naruszenie
 hardship - trud/niewygoda/niedostatek
@@ -6,43 +7,80 @@ hindrance - przeszkoda/zawada
 hostility - wrogość
 illiteracy/illiterateness - analfabetyzm
 indecency - nieprzyzwoitość
+ingenuousness - naiwność/prostoduszność
 obscureness - niejasność
 piousness - pobożność
 relish - przysmak/przyjemność/radość
 significance - wazność/doniosłość/znacznie
 skirmish - starcie zbrojne/potyczka/sprzeczka
+strap - pasek/ramiączko
 tolerance - tolerancja/odporność
+vegetation - roślinność/wegetacja
 versatility - różnorodność/wszechstronnośc/zwinność
 wiseness - cecha bycia mądrym/rozsądnym/cwanym
 
 czasowniki:
+abundant - obfity/bogaty/sofity/płodny/liczny
 captivate - zniewolić/urzec/zauroczyć
+capture - schwytać/zdobywać
+commend - chwalić
+conceal - ukrywać/skrywać
+confine - zamkyać/ograniczać
 defy - przeciwstawiać się/ignorować/postępować wbrew
 detest - nienawidzić/czuć wstręt
 disobey - nie słuchać/być nieposłusznym
 facilitate - ułatwiać
 fascinate - oczarować/zachwycić/obezwładnić/rzucić czar
+localize - lokalizować/umiejscowić
+locate - lokalizować
+luxuriant - bujny/obfity/płodny/piękny
 obey - przestrzegać/być posłusznym
 obstruct - przesłonić/zablokować/utrudniać
 loathe - brzydzić się/czuć wstrę/nienawidzić
-pious - bogobojny/pobożny/obłudny
+praise - chwalić/wychwalać
 repulse - odpychać/odtrącać/odpierać
+reign - panować/królować
+rein - trzymwać za wodzę/kierować
+rule - sprawować władzę/rządzić
 
 przymiotniki:
+affable - przyjazny/uprzejmy/grzeczny
+amiable - życzliwy/uprzejmy/miły/przyjemny
 bold - odważny/śmiały
+celebrated - sławny/słynny/głośny
 cordial - serdeczny/szczery
+courteous - uprzejmy
+deceased - zmarły
 defiant - prowokujący/wyzywający/nieposłuszny
+diseased - chory
+disreputable - mający złą opinię/podejrzany/nędzny/niecny
+distinguished - dystyngowany/wybitny/wyróżniający się
+downcast - spustoszony/przybity/przygnębiony/smutny
 educated - wykształcony
 eminent - wybitny/nadzwyczajny/wyjątkowy/niewątpliwy
+fastened - przymocowany/przybity
+gloomy - ponury/posępny
+glum - ponury/posępny
 hostile - nieprzyjazny/wrogi
 illiterate - niepiśmienny/analfabeta
 illustrious - wybitny/znakomity/wspaniały
-imminent - nadciągający/bliskli/nieuchronny/groźny
+imminent - nadciągający/bliski/nieuchronny/groźny
 indecent - nieprzyzwoity/niemoralny/skandaliczny
 ingenious - pomysłowy
+ingenuous - naiwny/prostoduszny
 intriguing - intrygujący
+moody - markotny/ponury/kapryśny
+morose - ponury/posępny
 obscure - niejasny/niewyraźny/nieokreślony
+overcast - zachmurzony
+pious - bogobojny/pobożny/obłudny
+prominent - znaczący/wybitny/czołowy
+renewed - odnowiony
+renowned - sławny/głośny/słynny
+reputed - rzekomy/domniemany/słynny/uznany
 slack - luźny/zwisający/powolny/leniwy
+sulky - dąsający się/nadąsany
+sullen - nadąsany/posępny/ponury
 versatile - uniwersalny/wszechstronny/bystry
 wise - rozsądny/mądry/cwany/chytry
 

@@ -1,26 +1,48 @@
 rzeczowniki:
+audacity - śmiałość/zuchwałość/tupet/czelność
+blare - huk/ryk/trąbienie
+blurb - notka reklamowa/wydawnicza
+bookseller - księgarz
+brand - marka
 bridle - uzda/cugle/ogłowie
+chivalry - rycerstwo/rycerskość
+click - kliknięcie/pstryk
+cluck - gdakanie/głupiec/dureń/idiota
 cordiality/corialness - serdeczność
 defiance - wyzwanie/prowokacja/przekora/naruszenie
+emblem - godło/symbol/wzór
+examination - rozpatrywanie/przesłuchanie/oględziny
 hardship - trud/niewygoda/niedostatek
 hindrance - przeszkoda/zawada
 hostility - wrogość
 illiteracy/illiterateness - analfabetyzm
 indecency - nieprzyzwoitość
 ingenuousness - naiwność/prostoduszność
+knowledgeable - mądry/obeznany/wnikliwy
+lump - bryła/guz/kostka
+manufacturer - fabrykant/producent/wytwórca
+misuse - nadużycie/niewłaściwe wykorzystanie
 obscureness - niejasność
 piousness - pobożność
+prod - szturchnięcie/pchnięcie/kuksaniec
+regard - szacunek/poważanie/odniesienie
 relish - przysmak/przyjemność/radość
+retailer - detalista/sprzedawca detaliczny
+showroom - salon wystawowy produktów na sprzedaż
 significance - wazność/doniosłość/znacznie
 skirmish - starcie zbrojne/potyczka/sprzeczka
 strap - pasek/ramiączko
+tap - klepnięcie/stuknięcie/stukot
 tolerance - tolerancja/odporność
+validity - prawomocność/ważność/zasadność/słuszność
+valour - bohaterstwo/dzielność/męstwo/odwaga/waleczność
 vegetation - roślinność/wegetacja
 versatility - różnorodność/wszechstronnośc/zwinność
 wiseness - cecha bycia mądrym/rozsądnym/cwanym
 
 czasowniki:
 abundant - obfity/bogaty/sofity/płodny/liczny
+beware - uważąć/strzec się/wystrzegać
 captivate - zniewolić/urzec/zauroczyć
 capture - schwytać/zdobywać
 commend - chwalić
@@ -31,58 +53,90 @@ detest - nienawidzić/czuć wstręt
 disobey - nie słuchać/być nieposłusznym
 facilitate - ułatwiać
 fascinate - oczarować/zachwycić/obezwładnić/rzucić czar
-localize - lokalizować/umiejscowić
+localize/localise - lokalizować/umiejscowić
 locate - lokalizować
 luxuriant - bujny/obfity/płodny/piękny
 obey - przestrzegać/być posłusznym
 obstruct - przesłonić/zablokować/utrudniać
 loathe - brzydzić się/czuć wstrę/nienawidzić
 praise - chwalić/wychwalać
+recede - oddalać się/odchodzić/zacierać
 repulse - odpychać/odtrącać/odpierać
 reign - panować/królować
 rein - trzymwać za wodzę/kierować
 rule - sprawować władzę/rządzić
+spread - rozłożyć/rozpościerać się
 
 przymiotniki:
 affable - przyjazny/uprzejmy/grzeczny
 amiable - życzliwy/uprzejmy/miły/przyjemny
+approachable - przystępny
 bold - odważny/śmiały
 celebrated - sławny/słynny/głośny
+chivalrous - rycerski/szarmancki
+commendable - chwalebny/godny pochwały
+compassionate - pełen współczucia
+complacent - zadowolony z siebie/pełen samozadowolenia
+contemporary - współczesny
 cordial - serdeczny/szczery
 courteous - uprzejmy
+damning - obciążający/potępiający
+daring - brawurowy/dzielny/ryzykowny/śmiały/prowokujący
 deceased - zmarły
 defiant - prowokujący/wyzywający/nieposłuszny
+dense - zwarty/zbity/gęsty
 diseased - chory
 disreputable - mający złą opinię/podejrzany/nędzny/niecny
+dissatisfied - niezadowolony
 distinguished - dystyngowany/wybitny/wyróżniający się
 downcast - spustoszony/przybity/przygnębiony/smutny
 educated - wykształcony
 eminent - wybitny/nadzwyczajny/wyjątkowy/niewątpliwy
+epic - epicki/heroiczny/trudny/imponujący/ogromny
+exuberant - bujny/obfity/płodny/entuzjastyczny
 fastened - przymocowany/przybity
+futile - dajemny/próżny
 gloomy - ponury/posępny
 glum - ponury/posępny
+gone - stracony/miniony
 hostile - nieprzyjazny/wrogi
+imaginary - zmyślony/urojony/wyimaginowany
 illiterate - niepiśmienny/analfabeta
 illustrious - wybitny/znakomity/wspaniały
 imminent - nadciągający/bliski/nieuchronny/groźny
+imperative - pilny/konieczny/istotny/niezbędny
 indecent - nieprzyzwoity/niemoralny/skandaliczny
 ingenious - pomysłowy
 ingenuous - naiwny/prostoduszny
+intimidated - onieśmielony/przestraszony
 intriguing - intrygujący
 moody - markotny/ponury/kapryśny
 morose - ponury/posępny
 obscure - niejasny/niewyraźny/nieokreślony
 overcast - zachmurzony
+overpriced - zbyt drogi
 pious - bogobojny/pobożny/obłudny
+precious - cenny/wartościowy
 prominent - znaczący/wybitny/czołowy
+refined - czysty/oczyszczony/udoskonalony/delikatny
 renewed - odnowiony
 renowned - sławny/głośny/słynny
+repressed - niezaspokojony/stłumiony
 reputed - rzekomy/domniemany/słynny/uznany
+shady - ciemny/podejrzany/nieczysty
 slack - luźny/zwisający/powolny/leniwy
+stout - tęgi/mocny/solidny/dzielny
 sulky - dąsający się/nadąsany
 sullen - nadąsany/posępny/ponury
 versatile - uniwersalny/wszechstronny/bystry
 wise - rozsądny/mądry/cwany/chytry
 
+rzeczowniki złożone:
+burning issue - pilna sprawa/palący problem
+
 wyrażenia:
+be ahead of the game - panować nad sytuacją/być na dobrej pozycji
+be of benefit to somebody - być korzystnym dla kogoś
+by nature - z natury/z charakteru
 in the event of sth - w przypadku czegoś
+no question - bez wątpienia

@@ -11,6 +11,7 @@ czasowniki:
 avert - oddalać/zapobiegać
 pinpoint - ustalić położenie/bombardować precyzyjnie
 retaliate - mścić się/odpłacać/brać odwet
+spark - wywołać
 undergo - poddawać się/ulegać
 
 przymiotniki:

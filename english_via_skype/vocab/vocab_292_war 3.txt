@@ -1,0 +1,41 @@
+rzeczowniki:
+branch - gałąź/oddział/fila/ministerstwo/dziedzina
+civilian - cywil
+combat - walka/bój
+conscription - pobór/werbunek
+draft - pobór
+operation - działania
+reserve - rezerwa/odwód
+
+czasowniki:
+command - wydawać rozkaz/rozkazywać/dowodzić/dysponować
+comprise - zawierać/obejmować/składać się/tworzyć
+encompass - obejmować/ogarniać/zajmować
+enlist - pozyskiwać/zjednować sobie/zaciągać się
+guard- chronić/pilnować/strzec
+serve - służyć
+
+przymiotniki:
+civilian - cywilny
+deadly - śmiercionośny/śmiertelny
+diverse - różnorodny/rozmaity/odmienny
+enlisted - poborowy
+lethal - śmiercionośny/śmiertelny
+vast - obszerny/ogromny/rozległy
+
+rzeczowniki złożone:
+armed combat - walka zbrojna
+military operation - operacja wojskowa
+nuclear reactor - reaktor jądrowy
+nuclear weapon - broń atomowa/jądrowa
+unarmed combat - walka wręcz
+the draft - pobór
+the military - siły zbrojne/wojsko
+
+czasowniki złożone:
+make up sth - tworzyć coś
+
+wyrażenia:
+be composed of sth - być złożonym z czegoś
+be made up of sth - składać się z czegoś
+distinguish between sth - rozróżniać pomiędzy czymś

@@ -1,0 +1,85 @@
+rzeczowniki:
+borderline - granica
+bottle - odwaga
+clampdown - zdecydowane kroki/ograniczenie/ściślejsza kontrola
+eyesore - brzydactwo/straszydło/ból oka
+nutcase - stuknięty/wariat/idiota
+snap - łatwizna/dowcip/kawał/żart
+summit - szczyt
+sunseeker - amator opalania się
+sunshade - parasol przeciwsłoneczny
+suntrap - bardzo nasłonecznione miejsce
+waterfall - wodospad
+watershed - przełom
+
+czasowniki:
+bark - szczekać/ujadać/warczeć/krzyczeć
+bleat - beczeć/biadolić
+coo - gruchać/gaworzyć
+freeze - zastygać/zamierać w bezruchu
+purr - mruczeć
+roar - ryczeć/grzmieć/krzyczeć/smiać się
+snap - mówić coś ostro/warknąć/puścić/kłapać zębami
+squeak - piszczeć/zgrzytac/skrzypieć/ledwo dawać radę
+thunder - grzmieć/ciskać gromy/powiedzieć coś bardzo głośno
+veer - skręcać/zmieniać kierunek
+
+przymiotniki:
+bone-dry - suchutki
+cold-blooded - bezlitosty/bezwzględny/zimnokrwisty
+cushioned - zabezpieczony
+dead-end - bez odwrotu/wyjscia/perspektyw
+ear-splitting - ogłuszający/rozdzierający uszy
+earth-shattering - przełomowy/ważny i wstrząsający
+flesh-and-blood - połączony więzami krwi
+ghastly - koszmarny/potworny/okropny/upiorny
+green-fingered - z dobrą reką do roślin
+hard-bitten - mało wrażliwy
+heart-stopping - pełna napięcia chwila
+kind-hearted - życzliwy
+make-or-break - rozstrzygający
+narrow-minded - ograniczony/o wąskich horyzontach/ciasny
+rock-bottom - na najniższym możliwym poziomie
+single-minded - zdeterminowany/uparty/wytrwały
+sun-drenched - zalany słońcem/słoneczny
+warm-hearted - dobry/serdeczny/życzliwy
+world-shattering - wstrząsający światem/przełomowy
+
+przysłówki:
+metaphorically - metaforycznie/przenośnie
+strangely - dziwnie/osobliwie
+utterly - całkowicie/zupełnie/z kretesem
+
+rzeczowniki złożone:
+big head - pyszałek/zarozumiałą osoba
+concrete block - blok betonowy
+dead end - ślepa uliczka
+eye strain - przemęczenie wzroku
+eye-catcher - osoba bądź rzecz, która przyciąga wzrok
+mind games - gra na emocjach/manipulacje
+rock bottom - dno/niski poziom
+sin bin - pudło/więzienie
+soul-searching - głębokie zastanowienie
+thought-reader - osoba czytająca w myślach
+wine lake - nadwyżka produkcji wina
+
+czasowniki złożone:
+get out - wyjeżdzać/opuścić/uciekać
+
+wyrażenia:
+be the life and soul of the party - być duszą towarzystwa
+black na white - radiowóz/czarno na białym
+flesh and blood - z krwi i kości
+have a big head - mieć kaca/uważać się za najważniejszego
+head and shoulders - niezrównany/najlepszy
+highs and lows - wzloty i upadki
+hot-blooded - w gorącej wodzie kąpany
+ins and outs - na wylot
+live and let live - żyj i daj żyć innym
+make or break - wóz albo przewóz
+move heaven and earth - poruszyć niebo i ziemię
+part and parcel - nieodłączny element
+pull strings - pociągać za sznurki/uzwać wpływów
+a song and dance about sth - szum wokół czegoś
+swings and roundabouts - co zrobimy będzie to samo
+ups and downs - wzloty i upadki

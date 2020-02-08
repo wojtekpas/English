@@ -4,8 +4,20 @@ civilian - cywil
 combat - walka/bój
 conscription - pobór/werbunek
 draft - pobór
+enquiry - zapytanie/dochodzenie/śledztwo
+exterior - powierzchowność/zewnętrzna strona
+funding - finansowanie
+interior - wnętrze
+liberties - swoboda/prawa
+ministry - ministerstwo/resort/duchowieństwo
+navy - marynarka wojenna
 operation - działania
+regular - żołnierz zawodowy
 reserve - rezerwa/odwód
+submarine - okręt podwodny
+unrest - niepokój/wzburzenie
+trident - trójząb
+warfare - walka/wojna/działania wojenne
 
 czasowniki:
 command - wydawać rozkaz/rozkazywać/dowodzić/dysponować
@@ -13,29 +25,50 @@ comprise - zawierać/obejmować/składać się/tworzyć
 encompass - obejmować/ogarniać/zajmować
 enlist - pozyskiwać/zjednować sobie/zaciągać się
 guard- chronić/pilnować/strzec
+mobilize - zmobilizować
 serve - służyć
 
 przymiotniki:
+built-up - zabudowany
+civic - miejski/obywatelski
 civilian - cywilny
+considerable - znaczny/niemały
+counter-productive - nieproduktywny/przynoszący efekt przeciwny
 deadly - śmiercionośny/śmiertelny
 diverse - różnorodny/rozmaity/odmienny
+domestic - krajowy/rodzinny
 enlisted - poborowy
+exterior - zewnętrzny
+guerilla - partyzancki
 lethal - śmiercionośny/śmiertelny
 vast - obszerny/ogromny/rozległy
 
+przysłówki:
+considerably - znacznie/w znacznym stopniu
+considerately - taktownie/uprzejmie
+merely - zaledwie/jedynie/tylko
+
 rzeczowniki złożone:
 armed combat - walka zbrojna
+civil right - prawo obywatelstwo
+civil unrest - niepokoje społeczne
 military operation - operacja wojskowa
+internal injuries - obrażenia wewnętrzne
 nuclear reactor - reaktor jądrowy
 nuclear weapon - broń atomowa/jądrowa
 unarmed combat - walka wręcz
 the draft - pobór
+the former - pierwszy z wymienionych
+the latter - ten drugi/ten ostatni
+the interior - środkowa część kraju
 the military - siły zbrojne/wojsko
 
 czasowniki złożone:
+assist in - pomóc w czymś
 make up sth - tworzyć coś
 
 wyrażenia:
 be composed of sth - być złożonym z czegoś
 be made up of sth - składać się z czegoś
 distinguish between sth - rozróżniać pomiędzy czymś
+head of state-  głowa państwa

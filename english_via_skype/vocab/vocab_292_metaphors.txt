@@ -1,8 +1,15 @@
 rzeczowniki:
+backdrop - horyzont/prospekt/tło
+backhand - pochyły
+backlash - gwałtowna reakcja/ostry sprzeciw/luz
 borderline - granica
 bottle - odwaga
+chancellor - kanclerz/minister finansów
 clampdown - zdecydowane kroki/ograniczenie/ściślejsza kontrola
 eyesore - brzydactwo/straszydło/ból oka
+fairy - wróżka/duszek/ciota
+giant - wielkolud/obrzym/gigant
+manhunt - obława/pościg
 nutcase - stuknięty/wariat/idiota
 snap - łatwizna/dowcip/kawał/żart
 summit - szczyt
@@ -20,13 +27,21 @@ freeze - zastygać/zamierać w bezruchu
 purr - mruczeć
 roar - ryczeć/grzmieć/krzyczeć/smiać się
 snap - mówić coś ostro/warknąć/puścić/kłapać zębami
+soar 0 rosnąć/gwałtownie wzrastać/zwyżkować
 squeak - piszczeć/zgrzytac/skrzypieć/ledwo dawać radę
 thunder - grzmieć/ciskać gromy/powiedzieć coś bardzo głośno
 veer - skręcać/zmieniać kierunek
 
 przymiotniki:
+absolute - absolutny/całkowity/bezwarunkowy/czysty
+back-breaking - wyczerpujący/katorżniczy
+bent - zgięty/pochylony/nieuczciwy/skorumpowany/wkurzony
 bone-dry - suchutki
+broken-hearted - zrozpaczony/cierpiący z powodu złamanego serca
+chipped - ułamany/wyszczerbiony/otłuszczony
 cold-blooded - bezlitosty/bezwzględny/zimnokrwisty
+creased - pognieciony/zgnieciony/zmięty
+crooked - krzywy/pokrzywiony/nieuczciwy/szemrany
 cushioned - zabezpieczony
 dead-end - bez odwrotu/wyjscia/perspektyw
 ear-splitting - ogłuszający/rozdzierający uszy
@@ -37,12 +52,18 @@ green-fingered - z dobrą reką do roślin
 hard-bitten - mało wrażliwy
 heart-stopping - pełna napięcia chwila
 kind-hearted - życzliwy
+level-headed - zrównoważony/opanowany
 make-or-break - rozstrzygający
+mind-blowing - zadziwiający/szokujący/odurzający/psychodeliczny
 narrow-minded - ograniczony/o wąskich horyzontach/ciasny
 rock-bottom - na najniższym możliwym poziomie
+short-sighted - krótkowzroczny
 single-minded - zdeterminowany/uparty/wytrwały
+soul-destroying - śmiertelnie nudny/monotonny/żmudny/przytłaczający
+straight - szczery/uczciwy
 sun-drenched - zalany słońcem/słoneczny
 warm-hearted - dobry/serdeczny/życzliwy
+warped - spaczony/wypaczony
 world-shattering - wstrząsający światem/przełomowy
 
 przysłówki:
@@ -51,35 +72,48 @@ strangely - dziwnie/osobliwie
 utterly - całkowicie/zupełnie/z kretesem
 
 rzeczowniki złożone:
+brat pack - grupa młodych ludzi/banda
 big head - pyszałek/zarozumiałą osoba
 concrete block - blok betonowy
 dead end - ślepa uliczka
 eye strain - przemęczenie wzroku
 eye-catcher - osoba bądź rzecz, która przyciąga wzrok
+jet-set - grupa bogatych ludzi
 mind games - gra na emocjach/manipulacje
+rat-race - wyścig szczurów
 rock bottom - dno/niski poziom
 sin bin - pudło/więzienie
 soul-searching - głębokie zastanowienie
 thought-reader - osoba czytająca w myślach
+treasure hunt - poszukiwanie skarbów
 wine lake - nadwyżka produkcji wina
+witch-hunt - polowanie na czarownice
 
 czasowniki złożone:
+flow out - wypływać
 get out - wyjeżdzać/opuścić/uciekać
 
 wyrażenia:
+a tower of strength - opoka/ostoja
+a song and dance about sth - szum wokół czegoś
+be straight with sb - być z kimś szczerym/mówić co się myśli
 be the life and soul of the party - być duszą towarzystwa
 black na white - radiowóz/czarno na białym
 flesh and blood - z krwi i kości
 have a big head - mieć kaca/uważać się za najważniejszego
 head and shoulders - niezrównany/najlepszy
+heap of sth - sterta czegoś
 highs and lows - wzloty i upadki
 hot-blooded - w gorącej wodzie kąpany
 ins and outs - na wylot
 live and let live - żyj i daj żyć innym
 make or break - wóz albo przewóz
+mountains of sth - góry czegoś
 move heaven and earth - poruszyć niebo i ziemię
 part and parcel - nieodłączny element
 pull strings - pociągać za sznurki/uzwać wpływów
-a song and dance about sth - szum wokół czegoś
+put the brakes on - hamować/blokować
+sea of sth - masa czegoś/morze czegoś
+storm of protest - fala protestów
 swings and roundabouts - co zrobimy będzie to samo
 ups and downs - wzloty i upadki

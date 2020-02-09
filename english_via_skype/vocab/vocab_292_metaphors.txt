@@ -12,10 +12,13 @@ giant - wielkolud/obrzym/gigant
 manhunt - obława/pościg
 nutcase - stuknięty/wariat/idiota
 snap - łatwizna/dowcip/kawał/żart
+sore - rana/bolące miejsce
 summit - szczyt
 sunseeker - amator opalania się
 sunshade - parasol przeciwsłoneczny
 suntrap - bardzo nasłonecznione miejsce
+tabloid - brukowiec/gazeta brukowa
+theme - temat/motyw
 waterfall - wodospad
 watershed - przełom
 
@@ -78,7 +81,9 @@ concrete block - blok betonowy
 dead end - ślepa uliczka
 eye strain - przemęczenie wzroku
 eye-catcher - osoba bądź rzecz, która przyciąga wzrok
+front pages - pierwsza strona/strona tytułowa
 jet-set - grupa bogatych ludzi
+management course - kurs zarządzania
 mind games - gra na emocjach/manipulacje
 rat-race - wyścig szczurów
 rock bottom - dno/niski poziom
@@ -96,20 +101,30 @@ get out - wyjeżdzać/opuścić/uciekać
 wyrażenia:
 a tower of strength - opoka/ostoja
 a song and dance about sth - szum wokół czegoś
+at a snail's pace - ślamazarnie/powoli
+be on one's feet - być na nogach
+be over the moon - być w siódmym niebie
 be straight with sb - być z kimś szczerym/mówić co się myśli
 be the life and soul of the party - być duszą towarzystwa
 black na white - radiowóz/czarno na białym
+fall flat on one's face - ponosić druzgocącą klęskę
 flesh and blood - z krwi i kości
 have a big head - mieć kaca/uważać się za najważniejszego
 head and shoulders - niezrównany/najlepszy
+head/be heading for a fall - szukać problemów/dopraszać się o kłopoty
 heap of sth - sterta czegoś
 highs and lows - wzloty i upadki
 hot-blooded - w gorącej wodzie kąpany
 ins and outs - na wylot
+land on one's feet - spaść na cztery łapy
 live and let live - żyj i daj żyć innym
 make or break - wóz albo przewóz
 mountains of sth - góry czegoś
 move heaven and earth - poruszyć niebo i ziemię
+not in a million years - nigdy w życiu
+on one's feet - stanąc na nogi/wrócić do zdrowia
+out of gear - niedziałający/niesprawny
+out of place - nieodpowiedni/nie na miejscu
 part and parcel - nieodłączny element
 pull strings - pociągać za sznurki/uzwać wpływów
 put the brakes on - hamować/blokować
@@ -117,3 +132,4 @@ sea of sth - masa czegoś/morze czegoś
 storm of protest - fala protestów
 swings and roundabouts - co zrobimy będzie to samo
 ups and downs - wzloty i upadki
+wait and see - pożyjemy, zobaczymy

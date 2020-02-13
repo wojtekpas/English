@@ -34,7 +34,17 @@
 12. serve
 
 4)
-1.
+1. forces
+2. consist
+3. navy
+4. force
+5. command
+6. authority
+7. serving
+8. reserves
+9. branch
+10. weapons
+11. comprises
 
 6)
 1. civil
@@ -42,16 +52,16 @@
 3. mobilizing
 4. interior
 5. considerably
-6. domestic
+6. a domestic/an internal
 7. internal
 8. assisting
 
 7)
-1. counter-productive
+1. productive
 2. warfare
-3. force
+3. forces
 4. interior
-5. right
+5. rights
 6. funding
 7. latter
 8. army

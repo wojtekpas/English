@@ -9,7 +9,7 @@
 - snapped
 
 3)
-- hell...heaven
+- heaven and hell
 - ups and downs
 - head and shoulders
 - highs and lows
@@ -18,34 +18,35 @@
 2)
 1. a
 2. a
-3. 
+3. a
 4. c
 5. b
 6. c
-7.
-8. 
-9. a
+7. b
+8. a
+9. b
+10. b
 
 3)
 1. c
-2. 
+2. b
 3. c
 4. b
-5. b
-6. 
+5. c
+6. b
 7. a
 8. c
 9. b
-10.
+10. c
 
 4)
 1. b
-2. b 
-3. 
-4. 
+2. b
+3. a
+4. b
 5. a
 6. b
 7. b
-8. 
+8. c
 9. c
 10. a

@@ -30,7 +30,7 @@ freeze - zastygać/zamierać w bezruchu
 purr - mruczeć
 roar - ryczeć/grzmieć/krzyczeć/smiać się
 snap - mówić coś ostro/warknąć/puścić/kłapać zębami
-soar 0 rosnąć/gwałtownie wzrastać/zwyżkować
+soar - rosnąć/gwałtownie wzrastać/zwyżkować
 squeak - piszczeć/zgrzytac/skrzypieć/ledwo dawać radę
 thunder - grzmieć/ciskać gromy/powiedzieć coś bardzo głośno
 veer - skręcać/zmieniać kierunek

@@ -1,11 +1,18 @@
 rzeczowniki:
 alibi - alibi
+allegation - bezpodstawne twierdzenie/insynuacja/zarzut/oskrażenie
 appeal - odwołanie/apel/wezwanie
 blackmail - szantaż
 blackmailing - szantażowanie
+brush - spięcie/utarczka
+cache - tajny skład/kryjówka
 confession - przyznanie się/wyznanie/spowiedź
+conviction - skazanie
+custody - areszt śledczy
 defence - obrona
 defendant - pozwany/oskarżony
+embezzlement - defraudacja/sprzeniewierzenie
+excerpt - wyjątek/ustęp/fragment
 explosive - ładunek wybuchowy
 explosives - materiały wybuchowe
 forgery - falsyfikat/podrobiony dokument/fałszerstwo
@@ -14,6 +21,8 @@ inquiry - dochodzenie/śledztwo
 insult - zniewaga/obelga/obraza
 involvment - powiązania/związki
 jury - jury
+mugging - rozbój/bandycki napad/napadnięcie i obrabowanie
+shred - strzęp
 suburb - przedmieście
 
 czasowniki:
@@ -24,21 +33,26 @@ defuse - rozbrajać
 flee - uciekać/umykać
 hold - czekać
 plead - błagać/bronić/tłumaczyć/usprawiedliwiać się/wstawiać się
+quash - unieważniać/odrzucać/uchylać
 raid - urządzać nalot/przeprowadzać obławę/napadać/ograbić
 seize - konfiskowac/przejąć/schwytać/aresztować
+shred - podrzeć na strzępy/zniszczyć w niszczarce
 
 przymiotniki:
+abiding - stały/trwały/nieprzemijający
 convicted - skazany
 hardened - nałogowy/stwardniały
 law-abiding - praworządny/przestrzegający prawa
 light - lekki/delikatny/łagodny
 plain-clothes - w cywilnym ubraniu
+upstanding - szlachetny/prawy/stojący
 watertight - niezbity/niepodważalny/niekwestionowany
 
 rzeczowniki złożone:
 criminal record - przeszłość kryminalna
 hardened criminal - zatwardziały przestępca
 hold-up - napad rabunkowy/napad z bronią w ręku
+protection money - haracz
 tip-off - poufna informacja/cynk
 
 czasowniki złożone:
@@ -60,6 +74,7 @@ be found guilty of sth - być uznanym za winnego
 be on the loose - być na wolności
 be on the run - być ściganym
 be on trial - być sądzonym
+be released on bail - wyjść na wolność za kaucją
 be sentenced - być skazanym
 be taken into custody - zostać zaaresztowanym
 court of law - sąd
@@ -67,6 +82,7 @@ drop the charges - wycofać orkarżenie/zarzuty
 escapre from prison/jail - uciec z więzienia
 fit a description - pasować do opisu
 get away with sth - ujść z czymś na sucho
+go on trial - stanąć przed sądem
 hand down a sentence - wydać wyrok
 have a brush with sth - mieć do czynienia z czymś
 have a criminal record - być uprzednio karanym/mieć kryminalną przeszłość
@@ -77,8 +93,13 @@ on the run - w czasie ucieczki przed policją
 pass sentence - wydać/ferować wyrok
 plead guilty - przyznawać się do winy
 press charges against sb - wnosić oskarżenie przeciwko komuś
+reach a verdict - wydać wyrok
 seize goods - konfiskować towary
 seize sth - obkładać coś aresztem
 set free - uwolnić/oswobodzić
 shred of evidence - strzęp dowodu
+spate of sth - duża liczba nieprzyjemnych zdarzeń, które dzieją się w krótkim czasie
+stand trial - stanąć przed sądem
 testify against sb - zeznawać przeciwko komuś
+walk free - odejść wolno/bez kary
+whereabouts - gdzie (mniej więcej)

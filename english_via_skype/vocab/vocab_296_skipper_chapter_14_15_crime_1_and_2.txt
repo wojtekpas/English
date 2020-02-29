@@ -15,6 +15,7 @@ embezzlement - defraudacja/sprzeniewierzenie
 excerpt - wyjątek/ustęp/fragment
 explosive - ładunek wybuchowy
 explosives - materiały wybuchowe
+extortion - wymuszenie/szantaż/wyłudzenie
 forgery - falsyfikat/podrobiony dokument/fałszerstwo
 inmate - więzień/osadzony
 inquiry - dochodzenie/śledztwo

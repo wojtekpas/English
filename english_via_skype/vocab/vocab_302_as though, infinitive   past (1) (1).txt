@@ -1,0 +1,30 @@
+rzeczowniki:
+allergy - alergia/uczulenie
+ankle - kostka
+forehead - czoło
+pneumonia - zapalenie płuc
+poluution - zanieczyszczenie
+sprain - zwichnięcie/skręcenie
+stroke - udar mózgu
+treatment - opieka medyczna
+
+czasowniki:
+contribute - przyczynić się
+frown - zmarszczyć brwi
+limp - kuleć/kuśtykać/utykać
+nausate - przyprawiać o mdłości/wzbudzać obrzydzenie
+pound - walić/tłuc/łomotać
+sneeze - kichać
+sprain - zwichnąć/skręcić
+
+przymiotniki:
+nauseated - mający uczucie mdłości
+nonorthodox - niekonwencjonalny
+
+rzeczowniki złożone:
+cigarette smoking - palenie papierosów
+hay fever - katar sienny
+
+wyrażęnia:
+get worse - pogorczyć
+relieve sb of sth - pomóc komuś w czymś

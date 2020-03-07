@@ -1,33 +1,45 @@
 rzeczowniki:
+admiring - pełen podziwu/zachwytu
 aircraft - statek powietrzny
 alley - aleja/ścieżka
 ambiance - atmosfera/nastrój
 aquarium - akwarium
 brochure - broszura/prospekt
 brunch - późne/drugie śniadanie
+bustle - rozgardiasz/bieganina
+citadel - cytadela
+currency - waluta
 decade - dekada/dziesięciolecie
 dining - obiadowanie
 duck - kaczka
 electricity - elektryczność
+exterior - powierzchnowność
 glimpse - mignięcie
+hustle - bieganina/ścisk/tłok/przekręt/szwindel
 infamy - niesława/hańba
 landmark - punkt orientacyjny/kamień milowy
 monarch - monarcha
 mura - mural
+neighborhood - dzielnictwo/sąsiedztwo
+overlooking - przeoczenie/wznoszenie się nad czymś
 playground - plac zabaw
 pond - staw/sadzawka
+portal - portal
 primrose - pierwiosnek
 proximity - sąsiedztwo/bliskość
 sculpture - rzeźba
 settlement - osada/osiedle
 skyscraper - drapacz chmur/wieżowiec
+stretch - obszar/powierzchnia/odcinek
 stroll - przechadzka
+testament - świadectwo/potwierdzenie
 voyage - podróż/rejs/wojaż
 wandering - wędrowanie/włóczenie się
 windmill - wiatrak/młyn
 
 czasowniki:
 coin - ukuć/wymyślić
+jostle - popchnąć/potrącić/rozpychać się/walczyć/rywalizować
 punctuate - stosować interpunkcję
 reflect - odbijać/odzwierciedlać
 
@@ -35,6 +47,8 @@ przymiotniki:
 adorned - strojony/przybrany
 contemporary - współczesny
 exotic - egzotyczny
+eye-catching - efektowny/przyciągający wzrok
+fascinating - fascynujący
 featured - mający specjalne właściwości
 iconic - kultowy
 idyllic - sielankowy/sielski
@@ -42,16 +56,22 @@ imposing - imponujący/okazały/olśniewający
 intricate - zawiły/skomplikowany
 magnificent - wspaniały/wyśmienity
 man-made - sztuczny/stworzony przez człowieka
+maritime - morski/nadmorski
+merchant - handlowy/kupiecki
 multicultural  - wielokulturowy
 multi-faceted - złożony/o wielu aspektach
 must-see - warte zobaczenia
 nearby - pobliski
+numerous - liczny
 peaceful - spokojny/pokojowy
 picturesque - malowniczy/barwny
 planted - obsadzony/pokryty roślinnością
 renewable - wymienny/dający się zastąpić/odnawialny
+residential - mieszkalny
 scattered - rozrzucony/rozproszony/rozsiany
 seasonal - sezonowy
+sedate - ostateczny/umiarkowany
+terraced - tarasowaty/szeregowy
 thought-provoking - zastanawiający/dający do myślenia
 
 przysłówki:
@@ -59,6 +79,7 @@ firmly - mocno/pewnie/stanowczo
 instantly - natychmiast
 
 rzeczowniki złożone:
+cutting edge - przewaga/czołówka
 green space - zielona przestrzeń
 melting pot - miejsce wielokulturowe
 short drive - krótka przejażdzka
@@ -66,5 +87,6 @@ sweet peas - groszek
 
 wyrażenia:
 after all - mimo wszystko/w końcu/ostatecznie
+alongside - wdłuż/obok
 take a trip - pojechać na wycieczkę
 throughout - na wskroś/wszędzie

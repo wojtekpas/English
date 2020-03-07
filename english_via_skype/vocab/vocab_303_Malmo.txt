@@ -1,0 +1,70 @@
+rzeczowniki:
+aircraft - statek powietrzny
+alley - aleja/ścieżka
+ambiance - atmosfera/nastrój
+aquarium - akwarium
+brochure - broszura/prospekt
+brunch - późne/drugie śniadanie
+decade - dekada/dziesięciolecie
+dining - obiadowanie
+duck - kaczka
+electricity - elektryczność
+glimpse - mignięcie
+infamy - niesława/hańba
+landmark - punkt orientacyjny/kamień milowy
+monarch - monarcha
+mura - mural
+playground - plac zabaw
+pond - staw/sadzawka
+primrose - pierwiosnek
+proximity - sąsiedztwo/bliskość
+sculpture - rzeźba
+settlement - osada/osiedle
+skyscraper - drapacz chmur/wieżowiec
+stroll - przechadzka
+voyage - podróż/rejs/wojaż
+wandering - wędrowanie/włóczenie się
+windmill - wiatrak/młyn
+
+czasowniki:
+coin - ukuć/wymyślić
+punctuate - stosować interpunkcję
+reflect - odbijać/odzwierciedlać
+
+przymiotniki:
+adorned - strojony/przybrany
+contemporary - współczesny
+exotic - egzotyczny
+featured - mający specjalne właściwości
+iconic - kultowy
+idyllic - sielankowy/sielski
+imposing - imponujący/okazały/olśniewający
+intricate - zawiły/skomplikowany
+magnificent - wspaniały/wyśmienity
+man-made - sztuczny/stworzony przez człowieka
+multicultural  - wielokulturowy
+multi-faceted - złożony/o wielu aspektach
+must-see - warte zobaczenia
+nearby - pobliski
+peaceful - spokojny/pokojowy
+picturesque - malowniczy/barwny
+planted - obsadzony/pokryty roślinnością
+renewable - wymienny/dający się zastąpić/odnawialny
+scattered - rozrzucony/rozproszony/rozsiany
+seasonal - sezonowy
+thought-provoking - zastanawiający/dający do myślenia
+
+przysłówki:
+firmly - mocno/pewnie/stanowczo
+instantly - natychmiast
+
+rzeczowniki złożone:
+green space - zielona przestrzeń
+melting pot - miejsce wielokulturowe
+short drive - krótka przejażdzka
+sweet peas - groszek
+
+wyrażenia:
+after all - mimo wszystko/w końcu/ostatecznie
+take a trip - pojechać na wycieczkę
+throughout - na wskroś/wszędzie

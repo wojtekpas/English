@@ -3,24 +3,38 @@ admiring - pełen podziwu/zachwytu
 aircraft - statek powietrzny
 alley - aleja/ścieżka
 ambiance - atmosfera/nastrój
+annex - dobudówka
 aquarium - akwarium
+brick - cegła
 brochure - broszura/prospekt
 brunch - późne/drugie śniadanie
 bustle - rozgardiasz/bieganina
+canal - kanał
+cave - jaskinia
+chapel - kaplica/kapliczka
 citadel - cytadela
+cruise - rejs wycieczkowym statkiem
 currency - waluta
 decade - dekada/dziesięciolecie
 dining - obiadowanie
+dome - kopuła
 duck - kaczka
 electricity - elektryczność
+empire - imperium/królestwo/cesarstwo
 exterior - powierzchnowność
 glimpse - mignięcie
+harbor - port/przystań
+harvest - plony/zbiory/żniwa
+hosting - goszczenie/bycie gospodarzem
 hustle - bieganina/ścisk/tłok/przekręt/szwindel
 infamy - niesława/hańba
 landmark - punkt orientacyjny/kamień milowy
+lawn - trawnik
+local - miejscowy/tubylec
 monarch - monarcha
-mura - mural
+murals - malowidło ścienne/naskalne
 neighborhood - dzielnictwo/sąsiedztwo
+outskirts - peryferie/obrzeża miasta
 overlooking - przeoczenie/wznoszenie się nad czymś
 playground - plac zabaw
 pond - staw/sadzawka
@@ -33,7 +47,9 @@ skyscraper - drapacz chmur/wieżowiec
 stretch - obszar/powierzchnia/odcinek
 stroll - przechadzka
 testament - świadectwo/potwierdzenie
+venue - lokal/miejsce
 voyage - podróż/rejs/wojaż
+wading - brodzenie
 wandering - wędrowanie/włóczenie się
 windmill - wiatrak/młyn
 
@@ -42,22 +58,30 @@ coin - ukuć/wymyślić
 jostle - popchnąć/potrącić/rozpychać się/walczyć/rywalizować
 punctuate - stosować interpunkcję
 reflect - odbijać/odzwierciedlać
+unwind - rozluźniać/odprężać/relaksować się
+whitewash - wybielać/zmiażdżyć/rozgromić/tuszować
 
 przymiotniki:
 adorned - strojony/przybrany
+antique - antyczny/zabytkowy/starożytny
 contemporary - współczesny
+distinctive - charakterystyczny/wyróżniający się
 exotic - egzotyczny
 eye-catching - efektowny/przyciągający wzrok
 fascinating - fascynujący
 featured - mający specjalne właściwości
+grave - poważny/posępny
 iconic - kultowy
 idyllic - sielankowy/sielski
 imposing - imponujący/okazały/olśniewający
 intricate - zawiły/skomplikowany
+landscaped - zaprojektowany
+lush - bujny/drogi/luksusowy/atrakcyjny
 magnificent - wspaniały/wyśmienity
 man-made - sztuczny/stworzony przez człowieka
 maritime - morski/nadmorski
 merchant - handlowy/kupiecki
+miniature - miniaturowy
 multicultural  - wielokulturowy
 multi-faceted - złożony/o wielu aspektach
 must-see - warte zobaczenia
@@ -68,25 +92,46 @@ picturesque - malowniczy/barwny
 planted - obsadzony/pokryty roślinnością
 renewable - wymienny/dający się zastąpić/odnawialny
 residential - mieszkalny
+rotating - obracający się/obrotowy
 scattered - rozrzucony/rozproszony/rozsiany
 seasonal - sezonowy
 sedate - ostateczny/umiarkowany
+surrounded - otoczony
+state-owned - państwowy
 terraced - tarasowaty/szeregowy
 thought-provoking - zastanawiający/dający do myślenia
+vaulted  - sklepiony
+well-known - powszechnie znany/dobrze znany
 
 przysłówki:
 firmly - mocno/pewnie/stanowczo
 instantly - natychmiast
+originally - najpierw/początkowo/pierwotnie/z początku
 
 rzeczowniki złożone:
 cutting edge - przewaga/czołówka
+grave stone - kamień grobowy
 green space - zielona przestrzeń
+half-pipe - otwarta rynna do ewolucji sportowych
+ice rink - lodowisko
 melting pot - miejsce wielokulturowe
+miniature golf - mini-golf
 short drive - krótka przejażdzka
 sweet peas - groszek
+wading pool - brodzik/płytki basen
+
+czasowniki złożone:
+date from sth - datować się od jakiegoś czasu
+soak up sth - napawać się czymś/wchłaniać
 
 wyrażenia:
 after all - mimo wszystko/w końcu/ostatecznie
 alongside - wdłuż/obok
+behind the scenes - za kulisami
+glimpse of sth - pojęcie/mignięcie czegoś
+in the heart of the city - w secu miasta
+on hand - pod ręką
+on-site - dostępny na miejscu
 take a trip - pojechać na wycieczkę
 throughout - na wskroś/wszędzie
+weather permitting - jeśli pozwolą na to warunki pogodowe

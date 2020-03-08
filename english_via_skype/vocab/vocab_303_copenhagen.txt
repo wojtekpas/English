@@ -1,0 +1,48 @@
+rzeczowniki:
+amusement - rozbawienie/wesołośc/rozrywka
+brewery - browar
+curiosity - ciekawość/osobliwość/ciekawostka/unikat
+dockside - nabrzeże
+leisure - czas wolny/rekreacja/wypoczynek
+liveability - znośność
+multitude - mnogość/wielość/tłum
+observatory - obserwatorium
+pastry - ciastko/słodkie pieczywo
+peninsula - półwysep
+Pentecost - Zesłanie Ducha Świętego
+residence - rezydencja/siedziba
+
+czasowniki:
+depict - przedstawiać/obrazować/opisywać
+regulate - regulować/kierować/kontrolować
+relieve - uśmierzać/ulżyć/uwalniać
+
+przymiotniki:
+affordable - przystępny
+alive - żywy/istniejący/pełen życia
+archeological - archeologiczny
+atypical - nietypowy
+coastal - nadbrzeżny/brzegowy/nadmorski
+cozy - przytulny/wygodny/komfortowy
+exquisite - znakomity/wyborny/wyśmienity
+finer - świetniejszy
+gourmet - delikatesowy/wyśmienity
+Mediterranean - śródziemny
+mitigated - złagodzony/zmniejszony
+innovative - innowacyjny/nowatorski
+open-faced - o szczerym spojrzeniu
+preferable - bardziej pożądany/wyróżniający się/lepszy
+price-wise - związany z ceną
+vibrant - dynamiczny/ekscytujący/jaskrawy/żywy
+
+przysłówki:
+partly - częściowo
+
+czasowniki złożone:
+book up - zarezerwować/robić rezerwację
+walk around - przechadzać się/spacerować
+
+wyrażenia:
+alive with sth - pełen czegoś
+cost a pretty penny - słono kosztować/być bardzo kosztownym
+in advance - z wyprzedzeniem/z góry/zawczasu

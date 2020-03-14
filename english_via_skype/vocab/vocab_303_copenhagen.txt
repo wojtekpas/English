@@ -1,21 +1,38 @@
 rzeczowniki:
 amusement - rozbawienie/wesołośc/rozrywka
+bath - kąpiel
 brewery - browar
+calf - cielę
 curiosity - ciekawość/osobliwość/ciekawostka/unikat
 dockside - nabrzeże
+fort - fort
 leisure - czas wolny/rekreacja/wypoczynek
 liveability - znośność
+mermaid - syrena
 multitude - mnogość/wielość/tłum
+nightlife - nocne życie
 observatory - obserwatorium
 pastry - ciastko/słodkie pieczywo
 peninsula - półwysep
 Pentecost - Zesłanie Ducha Świętego
+philosopher - filozof
+promenade - deptak/promenada
+protagonist - protagonista/główny bohater/uczestnik
 residence - rezydencja/siedziba
+sarcophagi - sarkofag
+shoreline - linia brzegowa
+sustainability - zrównoważony rozwój
+throng - chmara/tłum/gromada/natłok
+tribute  - hołd/uznanie
+variety - różność
 
 czasowniki:
 depict - przedstawiać/obrazować/opisywać
+enrich - wzbogacić/urozmaicić
+experience - doświadczać/przeżywać
 regulate - regulować/kierować/kontrolować
 relieve - uśmierzać/ulżyć/uwalniać
+seethe - kipieć/gotować się/roić się
 
 przymiotniki:
 affordable - przystępny
@@ -24,25 +41,45 @@ archeological - archeologiczny
 atypical - nietypowy
 coastal - nadbrzeżny/brzegowy/nadmorski
 cozy - przytulny/wygodny/komfortowy
+exclusive - doborowy/luksusowy/ekskluzywny
 exquisite - znakomity/wyborny/wyśmienity
 finer - świetniejszy
 gourmet - delikatesowy/wyśmienity
 Mediterranean - śródziemny
 mitigated - złagodzony/zmniejszony
+naval - morski/marynarski
+improbable - nieprawdopodobny
 innovative - innowacyjny/nowatorski
 open-faced - o szczerym spojrzeniu
+outdoor - odkryty/na świeżym powietrzu
+pedestrian - zwykły/przeciętny/dla pieszych
 preferable - bardziej pożądany/wyróżniający się/lepszy
 price-wise - związany z ceną
+residence - rezydencja/mieszkanie/siedziba
+underground - podziemny/alternatywny/niezależny
 vibrant - dynamiczny/ekscytujący/jaskrawy/żywy
 
 przysłówki:
 partly - częściowo
+publicly - publicznie
+
+rzeczowniki złożone:
+amusement park - wesołe miasteczko/park rozrywki
+contemporary art - sztuka współczesna
+fairy tale - bajka/baśń
+harbor town - miasto portowe
+leisure activities - rozrywki/zajęcia w wolnym czasie
 
 czasowniki złożone:
 book up - zarezerwować/robić rezerwację
+go off - opuścić/wyjeżdzać
+go on - kontynuować
 walk around - przechadzać się/spacerować
 
 wyrażenia:
 alive with sth - pełen czegoś
 cost a pretty penny - słono kosztować/być bardzo kosztownym
 in advance - z wyprzedzeniem/z góry/zawczasu
+regard sth as sth - uważać coś za coś
+strain oself - przemęczać się
+take a dip - popływać/wskoczyć do wody

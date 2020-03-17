@@ -55,6 +55,9 @@ windmill - wiatrak/młyn
 
 czasowniki:
 coin - ukuć/wymyślić
+host - być gospodarzem/ugościć
+house - mieścić/gromadzić
+incorporate - włączać/wcielać/obejmować
 jostle - popchnąć/potrącić/rozpychać się/walczyć/rywalizować
 punctuate - stosować interpunkcję
 reflect - odbijać/odzwierciedlać
@@ -129,6 +132,7 @@ after all - mimo wszystko/w końcu/ostatecznie
 alongside - wdłuż/obok
 behind the scenes - za kulisami
 glimpse of sth - pojęcie/mignięcie czegoś
+hustle and bustle - zgiełk/harmider
 in the heart of the city - w secu miasta
 on hand - pod ręką
 on-site - dostępny na miejscu

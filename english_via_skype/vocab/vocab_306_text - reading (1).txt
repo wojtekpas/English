@@ -1,0 +1,78 @@
+rzeczowniki:
+absence - nieobecność
+bronchitis - zapalenie oskrzeli
+camel - wielbłąd
+contamination - zanieczyszczenie/skażenie
+cough - kaszel/kaszlnięcie
+county - hrabstwo/powiat
+diarrhea - biegunka
+handful - garść
+human - człowiek
+infection - infekcja/zakażenie/zarażenie
+journal - czasopismo/gazeta/dziennik
+lockdown - przymusowy zakaz opuszczania budynków
+measures - środki/działania
+outbreak - wybuch
+pandemic - pandemia
+particle - cząstka/cząsteczka
+pneumonia - zapalenie płuc
+prevention - zapobieganie/prewencja
+provider - dostawca/żywiciel
+researcher - badacz/naukowiec/analityk
+scanner - skaner/analizator obrazu
+screening - chronienie/ukrywanie/poddawanie kontroli
+seafood - owoce morza
+severity - powaga/dotkliwość/bezwzględność/stopień zaawansowania
+sneeze - kichnięcie
+tract - obszar/przestrzeń/drogi/układ/przewód
+transmission - przekazywanie/przesyłanie/transmisja
+vaccine - szczepionka
+wildlife - flora i fauna/dzika przyroda
+
+czasowniki:
+congratulate - gratulować/winszować
+contract - zarazić się
+evolve - rozwijać się/ewoluować/zmieniać się
+hospitalize - hospitalizować
+investigate - prowadzić dochodzenie/badać
+originate - zapoczątkować/powstawać/pojawiać się/pochodzić
+relieve - uśmierzać/ulżyć/przynosić ulgę
+replicate - powtarzać/replikować/powielać
+transmit - nadawać/transmitować/przekazywać/przepuszczać/przewodzić
+
+przymiotniki:
+banned - zakazany
+fecal - fekalny
+infected - zakażony/zarażony/zainfekowany
+intestinal - jelitowy
+mild - łagodny/umiarkowany/delikatny
+moderate - umiarkowany/średni
+newfound - nowo odkryty
+preexisting - uprzedni
+preliminary - wstępny
+presumptive - przypuszczalny/domniemany/ewentualny
+respiratory - oddechowy/płucny
+thermal - termiczny/cieplny
+viral - wirusowy
+zoonotic - odzwierzęcy
+
+przysłówki:
+mildly - łagodnie/umiarkowanie
+temporarily - chwilowo/przejściowo/tymczasowo
+
+rzeczowniki złożone:
+drug company - firma farmaceutyczna
+respiratory tract - drogi oddechowe
+runny nose - katar
+sore throat - ból gardła
+
+czasowniki złożone:
+pop up - wyskakiwać/pojawiać się
+spread from sth to sth - rozprzestrzeniać się z czegoś na coś
+
+wyrażenia:
+along with sth - razem z czymś
+among others - między innymi
+in terms of sth - z punktu widzenia czegoś/biorąc coś pod uwagę
+severe acute respiratory syndrome - SARS/zespół ciężkiej ostrej niewydolności oddechowej
+worldwide - na całym świecie

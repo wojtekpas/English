@@ -1,0 +1,32 @@
+rzeczowniki:
+allowance - odatek/zasiłek/rabat/bonifikata
+closure - zamknięcie
+complacency - samozadowolenie/poczucie bezpieczeństwa
+entrepreneurs - przedsiębiorca
+folly - głupota/szał/szaleństwo
+obligations - zobowiązania
+overcrowding - przepełnienie/przeludnienie
+recession - recesja
+relief - ulga/ukojenie/złagodzenie/wsparcie/pomoc
+shock - szok/wstrząs
+shortages - brak/niedobór/deficyt
+
+czasowniki:
+
+
+przymiotniki:
+counterproductive - nieproduktywny/przynoszący efekt przeciwny do zamierzonego
+far-reaching - obszerny/daleko idący/doniosły
+indefinite - nieograniczony/nieskończony/niejasny
+interpersonal - międzyludzki
+predictable - przewidywalny
+suspended - zawieszony
+unprecedented - bezprecedensowy/niespotykany
+
+rzeczowniki złożone:
+supply shock - szok podażowy
+supply shortage - niedostateczna podaż
+tax relief - ulga podatkowa
+
+wyrażenia:
+be on hold - być odłożonym na później

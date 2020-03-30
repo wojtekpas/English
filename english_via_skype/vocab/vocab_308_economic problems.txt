@@ -11,9 +11,6 @@ relief - ulga/ukojenie/złagodzenie/wsparcie/pomoc
 shock - szok/wstrząs
 shortages - brak/niedobór/deficyt
 
-czasowniki:
-
-
 przymiotniki:
 counterproductive - nieproduktywny/przynoszący efekt przeciwny do zamierzonego
 far-reaching - obszerny/daleko idący/doniosły

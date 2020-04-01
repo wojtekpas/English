@@ -1,0 +1,54 @@
+rzeczowniki:
+admiration - zachwyt/podziw
+compliment - komplement/pochlebianie
+cornflakes - płatki kukurydziane
+clue - trop/wskazówka/poszlaka
+fossil - skamieniałość
+mystery - tajemnica/zagadka
+yawn - ziewnięcie/nudziarstwo/nuda
+
+czasowniki:
+capture - zdobywać/przejmować/złapać/zdominować
+dent - wgniatać
+panic - panikować/wpadać w panikę
+underachieve - osiągać wyniki poniżej swoich możliwości
+
+przymiotniki:
+adamant - twardy/stanowczy/niewzruszony
+baffled - skonsternowany/zdumiony
+blase - zblazowany
+bothered - zaniepokojny
+chatty - gadatliwy/rozmowny
+cruel - okrutny/brutalny
+devastated - zdewastowany/zniszczony/zdruzgotany
+drowsy - senny/śpiący/ospały
+enthralled - zafascynowany/oczarowany
+flattered - zaszczycony
+flummoxed - skołowany
+flustered - zgubiony/skołowany
+frantic - szalony/oszalały/gorączkowy/paniczny
+helpless - bezradny/bezsilny
+lethargic - ospały/apatyczny
+livid - siny/blady/wściekły
+offhand - bezceremonialny/niegrzeczny/improwizowany
+speechless - oniemiały/milczący/niemy
+splitting - rozsadzający/pękający/rozdzierający
+stunned - zaszokowany/oniemiały/osłupiały
+uptight - nerwowy/spięty/sztywny/skryty
+
+czasowniki złożone:
+well up - zbierać się/wzbierać
+
+wyrażenia:
+as long as - jeśli tylko
+be biase about sth - traktować coś z obojętnością
+be in short supply - brakować/występować w małych ilościach
+be short for sth - być skrótem od czegoś
+be short with sb - rozmawiać z kimś oschle
+go to any lengths - używać wszelkich możliwych metod
+go to great lengths - zadać sobie wiele trudu
+have a long face - mieć smętną minę/być smutnym
+in search of sth - w poszukiwaniu czegoś
+in short supply - w niedostatecznej ilości
+make a toast - wznosić toast
+the length and breadth - wszerz i wzdłuż

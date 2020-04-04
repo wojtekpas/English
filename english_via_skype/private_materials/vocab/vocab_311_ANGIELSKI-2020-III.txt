@@ -1,0 +1,64 @@
+rzeczowniki:
+antidote - antidotum/odtrutka
+bacteria - bakterie
+cough - kaszel
+crisis - kryzys/załamanie
+cure - lek/lekarstwo
+duke - książe
+emergency - nagły wypadek/sytuacja awaryjna
+fever - gorączka
+insect - owad
+liquid - ciecz/płyn
+lungs - płuca
+nation - państwo/kraj
+outbreak - wybuch/gwałtowna fala
+panic - panika/popłoch
+pneumonia - zapalenie płuc
+resident - mieszkaniec/rezydent
+scientist - naukowiec
+symptom - symptom/objaw
+urging - ponaglanie/usilne nakłanianie
+virologist - wirusolog
+
+czasowniki:
+mutate - mutować/zmienić się/ewoluować
+pass - przechodzić
+spread - rozprzestrzeniać się
+suspect - podejrzewać/obawiać się/przypuszczać
+trade - handlować
+
+przymiotniki:
+catching - zaraźliwy/łatwo rozprzestrzeniający się
+changed - zmieniony/inny
+contagious - zaraźliwy/zakaźny
+deadly - śmiercionośny/śmiertelny/całkowity/kompletny
+fearful - przestraszony/zlękniony
+lethal - śmiercionośny/bardzo niebezpieczny
+major - ważny/znaczny/podstawowy
+suspected - z podejrzeniem
+suspended - zawieszony
+uncontrollable - niepohamowany/nie do opanowania
+unhealthy - niezdrowy
+unthinking - bezmyślny
+viral - wirusowy
+
+przysłówki:
+illegally - nielegalnie/bezprawnie
+wildly - dziko/szalenie/niesamowicie/ogromnie
+
+rzeczowniki złożone:
+breathing difficulty - trudności z oddychaniem
+
+czasowniki złożone:
+freak out - wychodzić z siebie/wariować
+move over - przesuwać się
+
+przymioniki złożone:
+fearful of - obawiający się
+
+wyrażenia:
+around the world - na całym świecie
+come out of sth - wydobywać się z czegoś
+get ready - przygotowywać się
+meanwhile - tymczasem/w między czasie
+spread from sth to sth - rozprzestrzeniać się z czegoś na coś

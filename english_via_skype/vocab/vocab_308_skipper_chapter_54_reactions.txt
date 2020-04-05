@@ -4,13 +4,16 @@ compliment - komplement/pochlebianie
 cornflakes - płatki kukurydziane
 clue - trop/wskazówka/poszlaka
 fossil - skamieniałość
+goldfish - złota rybka
 mystery - tajemnica/zagadka
 yawn - ziewnięcie/nudziarstwo/nuda
 
 czasowniki:
 capture - zdobywać/przejmować/złapać/zdominować
+crush - miażdzyć/kryszyć
 dent - wgniatać
 panic - panikować/wpadać w panikę
+ration - wydzielać/przydzielać/ograniczać
 underachieve - osiągać wyniki poniżej swoich możliwości
 
 przymiotniki:
@@ -34,15 +37,23 @@ offhand - bezceremonialny/niegrzeczny/improwizowany
 speechless - oniemiały/milczący/niemy
 splitting - rozsadzający/pękający/rozdzierający
 stunned - zaszokowany/oniemiały/osłupiały
+upset - zasmucony/smutny/zły
 uptight - nerwowy/spięty/sztywny/skryty
 
+rzeczowniki złożone:
+fish tank - akwarium
+
 czasowniki złożone:
+run around - obiegać/uganiać się
 well up - zbierać się/wzbierać
 
 wyrażenia:
+all over sth - w całym/po całym/w każdej części czegoś
 as long as - jeśli tylko
+at length - obszernie/szczegółowo/przez długi czas
 be biase about sth - traktować coś z obojętnością
 be in short supply - brakować/występować w małych ilościach
+be running short of sth - nie mieć dużo czegoś
 be short for sth - być skrótem od czegoś
 be short with sb - rozmawiać z kimś oschle
 go to any lengths - używać wszelkich możliwych metod
@@ -51,5 +62,6 @@ have a long face - mieć smętną minę/być smutnym
 in search of sth - w poszukiwaniu czegoś
 in short supply - w niedostatecznej ilości
 make a toast - wznosić toast
+mean the world to sb - być dla kogoś wszystkim
 run short of sth - wyczerpywać coś/mieć mało czegoś
 the length and breadth - wszerz i wzdłuż

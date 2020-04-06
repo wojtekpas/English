@@ -1,6 +1,6 @@
 rzeczowniki:
 admiration - zachwyt/podziw
-compliment - komplement/pochlebianie
+compliment - komplement
 cornflakes - płatki kukurydziane
 clue - trop/wskazówka/poszlaka
 fossil - skamieniałość

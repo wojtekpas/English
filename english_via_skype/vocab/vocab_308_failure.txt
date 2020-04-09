@@ -1,5 +1,6 @@
 rzeczowniki:
 quantity - ilość/wielkość
+retrospect - spojrzenie wstecz/retrospekcja
 
 czasowniki:
 delude - łudzić/mamić/okłamywać

@@ -1,40 +1,102 @@
 rzeczowniki:
+appraisal - wycena/oszacowanie/ocena
+avalanche - lawina
 broker - pośrednik/broker/makler
 Christian - chrześcijanin
+clog - zator
+conflagration - pożar/konflikt/wojna
+contamination - zanieczyszczenie/skażenie
+deluge - potop/powódź/ulewa/lawina
+demise - koniec istnienia/upadek/śmierć/zgon
 depression - depresja/resesja/kryzys
+destitution - bieda/nędza/ubóstwo
+district - dzielnica/rejon
+drought - susza/posucha/pragnienie
+earthquake - trzęsienie ziemi
+egocentric - egocentryk
+esteem - szacunek/poważanie/estyma
+famine - głód
+freeing - uwalnianie/przywracanie wolności
+gale - wichura/wicher
+holocaust - zakłada/eksterminacja/masakra
+illusionist - iluzjonista/magik
+insanity - obłęd/szaleństwo
+landslide - osuwisko/walne zwycięstwo
+mob - tłum/motłoch/gang/banda
 monarch - monarcha
+mop - mop/zmywak do naczyń
+pessimist - pesymista
+plague - plaga/zaraza/dżuma
+purge - czystka/oczyszanie/eliminowanie
+radar - radar
+regulating - regulowanie
+ruling - decyzja/orzeczenie/postanowienie/władanie/rządzenie
+speculation - spekulacje/przypuszczenia
+subsidence - osuwanie się/zapadanie się
+surge - wzrost/napływ/przypływ
 
 czasowniki:
 abandon - porzuczać/opuszczać
 abdicate - abdykować/zrzec się tronu/rezygnować
+appreciate - doceniać/być wdzięcznym
+ally - łączyć/sprzymierzyć się z kimś
+ascend - wznosić się w powietrze/wspinać się
+brush - szczotkować/czyścić
 cede - cedować/zrzekać się/oddawać/ustępować
+deem - sądzić/uważać/uznać kogoś za
+deport - deportować/zsyłać/skazywać na banicję
+deprave - demoralizować/deprawować
+deprive - pozbawiać
+deride - wyśmiewać/wyszydzać/drwić
+derive - czerpać/odnosić/pochodzić/wywodzić się
 desert - opuszczać/zostawiać/porzucać/wyjeżdzać
 discard - wyrzucać/pozbywać się/zrzucać/nie akceptować
+esteem - poważać/szanować/cenić/doceniać
 evacuate - ewakuować się/opuścić/przeprowadzać ewakuację
+flog - chłostać/opchnąć/opylić
 forsake - opuścić/porzucić/zaniechać
+impair - zaszkodzić/pogarszać/upośledzać
+impart - nadawać/dodawać/udzielać/przekazywać
+obscured - zaciemnić/przesłaniać/zagłuszać
+penetrate - penetrować/przedzierać się/przedostawać się
+purge - oczyszczać/eliminować/pozbywać się
 quit - rzucać/odchodzić
 relinquish - odstępować/zrzekać się/porzucać/opuścić
 renounce - zrzekać się/wypowiadać/wyrzekać się
 resign - zrezygnować
+scour - przeszukiwać/przetrząsać/szorować
 surrender - poddać się/oddawać/zrezygnować
+sweep - zamiatać/zamieść/porywać/pędzić
 yield - dawać/skutkować/ustępować/poddać się
 
 przymiotniki:
+affable - przyjazny/uprzejmy/grzeczny
+benevolent - dobroczynny/łaskawy/życzliwy
+bloodthirsty - krwiożerczy/żadny krwi/makabryczny
 conquered - podbity/zdobyty/zawojowany/pokonany
+enthusiastic - entuzjastyczny/pełen uniesienia
+extinct - wygasły/wymarły
 ever-increasing - wciąż wzrastający
 fatuous - bezmyślny/głupi/głupkowaty/niedorzeczny
 feckless - niezaradny/nieudolny/słaby/bez energi/nieodpowiedzialny
+impertinent - bezczelny/impertynencki/niegrzeczny
+respectable - szanowany/poważany/porządany/przyzwoity
 superior - nadrzędny/lepszy/wybitny
+trifling - błahy/mało znaczący/nieistotny
 wrecked - wykończony/wycieńczony
 
 rzeczowniki żłożone:
 military service - służba wojskowa
 
 czasowniki złożone:
+ally with sb - sprzymierzać z kimś
 give in to sth - ugiąc się przed kimś/poddać się czemuś
 put sth aside - odkładać coś na bok
 shove up - przesunąć się/zrobić miejsce
 throw away - wyrzucać/pozbywać się
 
 wyrażenia:
+get carried away - dać się ponieść/stracić panowanie
+join with sb to do sth - wykonywać z kimś wspólnie pracę
+of great importance - doniosły
 relinquish a claim - zrzekać się roszczenia

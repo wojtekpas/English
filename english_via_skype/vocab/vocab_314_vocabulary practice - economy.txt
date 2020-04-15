@@ -1,0 +1,40 @@
+rzeczowniki:
+broker - pośrednik/broker/makler
+Christian - chrześcijanin
+depression - depresja/resesja/kryzys
+monarch - monarcha
+
+czasowniki:
+abandon - porzuczać/opuszczać
+abdicate - abdykować/zrzec się tronu/rezygnować
+cede - cedować/zrzekać się/oddawać/ustępować
+desert - opuszczać/zostawiać/porzucać/wyjeżdzać
+discard - wyrzucać/pozbywać się/zrzucać/nie akceptować
+evacuate - ewakuować się/opuścić/przeprowadzać ewakuację
+forsake - opuścić/porzucić/zaniechać
+quit - rzucać/odchodzić
+relinquish - odstępować/zrzekać się/porzucać/opuścić
+renounce - zrzekać się/wypowiadać/wyrzekać się
+resign - zrezygnować
+surrender - poddać się/oddawać/zrezygnować
+yield - dawać/skutkować/ustępować/poddać się
+
+przymiotniki:
+conquered - podbity/zdobyty/zawojowany/pokonany
+ever-increasing - wciąż wzrastający
+fatuous - bezmyślny/głupi/głupkowaty/niedorzeczny
+feckless - niezaradny/nieudolny/słaby/bez energi/nieodpowiedzialny
+superior - nadrzędny/lepszy/wybitny
+wrecked - wykończony/wycieńczony
+
+rzeczowniki żłożone:
+military service - służba wojskowa
+
+czasowniki złożone:
+give in to sth - ugiąc się przed kimś/poddać się czemuś
+put sth aside - odkładać coś na bok
+shove up - przesunąć się/zrobić miejsce
+throw away - wyrzucać/pozbywać się
+
+wyrażenia:
+relinquish a claim - zrzekać się roszczenia

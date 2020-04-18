@@ -6,22 +6,32 @@ Christian - chrześcijanin
 clog - zator
 conflagration - pożar/konflikt/wojna
 contamination - zanieczyszczenie/skażenie
+dateline - linia zmiany daty
+decline - upadek/schyłek
+deliberating - naradzanie się/obradowanie/rozmyślanie
 deluge - potop/powódź/ulewa/lawina
 demise - koniec istnienia/upadek/śmierć/zgon
 depression - depresja/resesja/kryzys
 destitution - bieda/nędza/ubóstwo
 district - dzielnica/rejon
+dormitory - akedemik/internat/bursa/sala sypialna
 drought - susza/posucha/pragnienie
 earthquake - trzęsienie ziemi
 egocentric - egocentryk
+eloquence - elokwencja/wymowa
+eruption - erupcja/wybuch
 esteem - szacunek/poważanie/estyma
 famine - głód
 freeing - uwalnianie/przywracanie wolności
 gale - wichura/wicher
 holocaust - zakłada/eksterminacja/masakra
 illusionist - iluzjonista/magik
+immigrant - imigrant
 insanity - obłęd/szaleństwo
 landslide - osuwisko/walne zwycięstwo
+mainstream - dominujący trend/główny nurt
+marcher - demonstrant
+mast - maszt
 mob - tłum/motłoch/gang/banda
 monarch - monarcha
 mop - mop/zmywak do naczyń
@@ -30,19 +40,27 @@ plague - plaga/zaraza/dżuma
 purge - czystka/oczyszanie/eliminowanie
 radar - radar
 regulating - regulowanie
+rescuing - uratowanie/ocalenie
 ruling - decyzja/orzeczenie/postanowienie/władanie/rządzenie
 speculation - spekulacje/przypuszczenia
 subsidence - osuwanie się/zapadanie się
+subsidy - subwencja/dotacja
 surge - wzrost/napływ/przypływ
+vagrant - przybłęda/włóczęga
 
 czasowniki:
 abandon - porzuczać/opuszczać
 abdicate - abdykować/zrzec się tronu/rezygnować
+abduct - uprowadzać/porywać
+ameliorate - doskonalić/ulepszać/złągodzić
 appreciate - doceniać/być wdzięcznym
 ally - łączyć/sprzymierzyć się z kimś
 ascend - wznosić się w powietrze/wspinać się
 brush - szczotkować/czyścić
 cede - cedować/zrzekać się/oddawać/ustępować
+commemorate - upamiętnić
+commiserate - współczuć
+culminate - osiągać szczyt/zakończyć
 deem - sądzić/uważać/uznać kogoś za
 deport - deportować/zsyłać/skazywać na banicję
 deprave - demoralizować/deprawować
@@ -50,21 +68,34 @@ deprive - pozbawiać
 deride - wyśmiewać/wyszydzać/drwić
 derive - czerpać/odnosić/pochodzić/wywodzić się
 desert - opuszczać/zostawiać/porzucać/wyjeżdzać
+detour - zrobić objazd
+deviate - odchylać/zbaczać/odbiegać
+devise - opracować/wymyślić
 discard - wyrzucać/pozbywać się/zrzucać/nie akceptować
+dispel - rozpędzić/rozwiać
+divert - zmieniać kierunek/obracać
 esteem - poważać/szanować/cenić/doceniać
 evacuate - ewakuować się/opuścić/przeprowadzać ewakuację
+exaggerated - przesadzać
 flog - chłostać/opchnąć/opylić
 forsake - opuścić/porzucić/zaniechać
+forward - wysłać dalej/przekazać dalej/przesłać
+head - kierować się/zmierzać/być na czele
 impair - zaszkodzić/pogarszać/upośledzać
 impart - nadawać/dodawać/udzielać/przekazywać
+infer - wnioskować/wydedukować
 obscured - zaciemnić/przesłaniać/zagłuszać
 penetrate - penetrować/przedzierać się/przedostawać się
+precipitate - przyspieszać/strącać/osadzać
 purge - oczyszczać/eliminować/pozbywać się
 quit - rzucać/odchodzić
+redirect - skierować na inny tor/zmienić kierunek
 relinquish - odstępować/zrzekać się/porzucać/opuścić
 renounce - zrzekać się/wypowiadać/wyrzekać się
 resign - zrezygnować
+retreat - wycofać się
 scour - przeszukiwać/przetrząsać/szorować
+shrink - zmniejszać się/maleć
 surrender - poddać się/oddawać/zrezygnować
 sweep - zamiatać/zamieść/porywać/pędzić
 yield - dawać/skutkować/ustępować/poddać się
@@ -73,24 +104,44 @@ przymiotniki:
 affable - przyjazny/uprzejmy/grzeczny
 benevolent - dobroczynny/łaskawy/życzliwy
 bloodthirsty - krwiożerczy/żadny krwi/makabryczny
+congested - zatłoczony/przepchany/przekrwiony
 conquered - podbity/zdobyty/zawojowany/pokonany
+contrived - zaaranżowany/naciągany/nienaturalny
+demolished - zburzony/rozebrany
+destitute - ogołocony/bez środków do życia
+drowning - tonący
 enthusiastic - entuzjastyczny/pełen uniesienia
 extinct - wygasły/wymarły
 ever-increasing - wciąż wzrastający
 fatuous - bezmyślny/głupi/głupkowaty/niedorzeczny
 feckless - niezaradny/nieudolny/słaby/bez energi/nieodpowiedzialny
+flooded - zalany wodą
 impertinent - bezczelny/impertynencki/niegrzeczny
+localised - występujący na określonym miejscu
+pale - blady
+preserved - zachowany/konserwowany
 respectable - szanowany/poważany/porządany/przyzwoity
+superficial - pobieżny/powierzchowny/pozorny
 superior - nadrzędny/lepszy/wybitny
 trifling - błahy/mało znaczący/nieistotny
+unpopular - niepopularny
+waxed - woskowany
 wrecked - wykończony/wycieńczony
+wrinkled - pomarszczony/pomięty
+
+przysłówki:
+superficially - powierzchnownie
 
 rzeczowniki żłożone:
 military service - służba wojskowa
 
 czasowniki złożone:
 ally with sb - sprzymierzać z kimś
+divert to sth - zbaczać w kierunku czegoś
 give in to sth - ugiąc się przed kimś/poddać się czemuś
+hand over - poddawać/oddawać/przekazywać
+head to - kierować się do
+kick off - wykopać/wyrzucić/rozpoczynać
 put sth aside - odkładać coś na bok
 shove up - przesunąć się/zrobić miejsce
 throw away - wyrzucać/pozbywać się

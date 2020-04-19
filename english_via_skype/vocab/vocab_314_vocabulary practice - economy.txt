@@ -24,7 +24,7 @@ esteem - szacunek/poważanie/estyma
 famine - głód
 freeing - uwalnianie/przywracanie wolności
 gale - wichura/wicher
-holocaust - zakłada/eksterminacja/masakra
+holocaust - zagłada/eksterminacja/masakra
 illusionist - iluzjonista/magik
 immigrant - imigrant
 insanity - obłęd/szaleństwo
@@ -52,9 +52,9 @@ czasowniki:
 abandon - porzuczać/opuszczać
 abdicate - abdykować/zrzec się tronu/rezygnować
 abduct - uprowadzać/porywać
-ameliorate - doskonalić/ulepszać/złągodzić
-appreciate - doceniać/być wdzięcznym
 ally - łączyć/sprzymierzyć się z kimś
+ameliorate - doskonalić/ulepszać/złagodzić
+appreciate - doceniać/być wdzięcznym
 ascend - wznosić się w powietrze/wspinać się
 brush - szczotkować/czyścić
 cede - cedować/zrzekać się/oddawać/ustępować
@@ -76,7 +76,7 @@ dispel - rozpędzić/rozwiać
 divert - zmieniać kierunek/obracać
 esteem - poważać/szanować/cenić/doceniać
 evacuate - ewakuować się/opuścić/przeprowadzać ewakuację
-exaggerated - przesadzać
+exaggerate - przesadzać
 flog - chłostać/opchnąć/opylić
 forsake - opuścić/porzucić/zaniechać
 forward - wysłać dalej/przekazać dalej/przesłać
@@ -84,7 +84,7 @@ head - kierować się/zmierzać/być na czele
 impair - zaszkodzić/pogarszać/upośledzać
 impart - nadawać/dodawać/udzielać/przekazywać
 infer - wnioskować/wydedukować
-obscured - zaciemnić/przesłaniać/zagłuszać
+obscure - zaciemnić/przesłaniać/zagłuszać
 penetrate - penetrować/przedzierać się/przedostawać się
 precipitate - przyspieszać/strącać/osadzać
 purge - oczyszczać/eliminować/pozbywać się
@@ -111,8 +111,8 @@ demolished - zburzony/rozebrany
 destitute - ogołocony/bez środków do życia
 drowning - tonący
 enthusiastic - entuzjastyczny/pełen uniesienia
-extinct - wygasły/wymarły
 ever-increasing - wciąż wzrastający
+extinct - wygasły/wymarły
 fatuous - bezmyślny/głupi/głupkowaty/niedorzeczny
 feckless - niezaradny/nieudolny/słaby/bez energi/nieodpowiedzialny
 flooded - zalany wodą

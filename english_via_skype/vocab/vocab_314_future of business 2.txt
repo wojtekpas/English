@@ -4,6 +4,7 @@ abuse - nadużycie/zniewaga/obraza/wykorzystywanie
 acquisition - nabytek/zakup
 assault - napaść/atak
 bargaining - negocjacje/pertraktacje
+beam - wiązka/snop/promień
 cline - ciągłość
 commuter - dojeżdzający
 determination - determinacja/zdecydowanie
@@ -11,7 +12,7 @@ destruction - zniszczenie/zagłada
 devotion - oddanie się/pobożność
 diffusion - dyfuzja/rozpowszechnianie się
 distortion - zniekształcenie
-elimination - eliminacja/odrzucenie/pozbycię się
+elimination - eliminacja/odrzucenie/pozbycie się
 extortion - wymuszenie/szantaż
 obliteration - zmazanie/starcie/usunięcie
 radius - promień/zasięg
@@ -20,7 +21,6 @@ spreading - rozprzestrzenianie się/szerzenie się
 utility - pożytek/użyteczność
 
 czasowniki:
-beam - wiązka/snop/promień
 overtake - wyprzedzić/przewyższyć
 undertake - podjąć się/przedsięwziąć
 
@@ -30,7 +30,7 @@ complicit - zamieszany/współwinny
 compulsory - obowiązkowy/przymusowy
 dominant - dominujący
 enticing - kuszący/ponętny
-illicit - zabrojony/zakazany/niedozwolony/potajemny
+illicit - zabroniony/zakazany/niedozwolony/potajemny
 old-fashioned - staromodny/przestarzały
 protracted - przedłużający się/przewlekły
 up-to-the-minute - najświeższy/najnowszy

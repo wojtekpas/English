@@ -5,6 +5,7 @@ cornflakes - płatki kukurydziane
 clue - trop/wskazówka/poszlaka
 fossil - skamieniałość
 goldfish - złota rybka
+mall - galeria handlowa/centrum handlowe
 mystery - tajemnica/zagadka
 yawn - ziewnięcie/nudziarstwo/nuda
 

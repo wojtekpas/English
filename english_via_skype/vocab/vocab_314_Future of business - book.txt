@@ -1,0 +1,34 @@
+przymiotniki:
+bleak - ponury/smętny/niewesoły
+bright - radosny/pogodny/optymistyczny
+brilliant - olśniewający/genialny/znakomity
+depressing - przygnębiający/depresyjny
+dire - okropny/przerażający/złowieszczy
+doubtful - podejrzany/wątpliwy
+dreadful - okropny/straszny/fatalny
+magnificent - wspaniały/wyśmienity
+marvelous - cudowny/wspaniały
+out-of-date - nieaktualny/nieważny/przedawniony
+promising - obiecujący/dobrze się zapowiadający
+prosperous - zamożny/bogaty/pomyślny
+rosy - obiecujący/pomyślny/korzystny
+up-to-the-minute - najświeższy/najnowszy
+
+przysłówki:
+certainly - z pewnością/na pewno/oczywiście
+exceptionally - wyjątkowo/nadzwyczajnie/rekordowo
+increasingly - coraz bardziej
+potentially - potencjalnie
+rapidly - szybko/gwałtownie
+undoubtedly - niewątpliwie/bez wątpienias
+
+rzeczowniki złożone:
+cutting edge - przewaga/czołówka/coś nowatorskiego
+way forward - rozwiązanie
+
+wyrażenia:
+ahead of its time - wyprzedzający swój czas
+be a thing of the past - być przeszłością
+be ahead of one's time - wyprzedzać swoje czasy
+behind the times - staroświecki
+state of the art - aktualny stan wiedzy, technologii

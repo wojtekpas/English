@@ -1,34 +1,102 @@
+rzeczowniki:
+accountant - księgowy
+adaptability - przystosowalność
+attendant - opiekun/towarzysz/sługa
+breakdown - rozpad/załamanie/awaria
+consumer - konsumencki
+convenience - wygoda/zaleta/udogodnienie
+debts - długi
+deregulation - usunięcie nadzoru państwa z przemysłu
+diary - dziennik/pamiętnik/kalendarz
+enticement - kusząca perspektywa/pokusa/wabienie
+housewife - gospodyni domowa
+offshoring - przeniesienie biznesu poza granice kraju
+policymaker - decydent
+profitability - rentownośc/dochodowość/opłacalność
+retailer - sprzedawca detaliczny
+segment - segment/część/sektor
+unemployment - bezrobocie
+venue - lokal/miejsce
+
+czasowniki:
+argue - uzasadniać/dowodzić
+arise - powstawać/wynikać
+chase - ścigać/gonić/polować
+distribute - rozdawać/rodzielać/rozprowadzać
+embark - wchodzić na pokład/załadowywać
+outsource - zlecać innej firmie/podwynająć
+poise - unosić się/trzymać coś
+resist - opierać się/stawiać opór/sprzeciwiać się
+undermine - podważać/podkopywać/nadszarpywać
+
 przymiotniki:
 bleak - ponury/smętny/niewesoły
 bright - radosny/pogodny/optymistyczny
 brilliant - olśniewający/genialny/znakomity
+broadband - szerokopasmowy
 depressing - przygnębiający/depresyjny
 dire - okropny/przerażający/złowieszczy
+dominant - dominujący/górujący
 doubtful - podejrzany/wątpliwy
 dreadful - okropny/straszny/fatalny
+heard - usłyszany
+in-house - wewnątrzzakładowy/wewnętrzny
+large-scale - na wielką skalę
 magnificent - wspaniały/wyśmienity
 marvelous - cudowny/wspaniały
+niche - niszowy
+opposing - przeciwny/wrogi/przeciwstawny
 out-of-date - nieaktualny/nieważny/przedawniony
+overdue - opóźniony/zaległy
+overseas - zamorski/zagraniczny/międzynarodowy
 promising - obiecujący/dobrze się zapowiadający
 prosperous - zamożny/bogaty/pomyślny
+retained - zatrzymany/pozostawiony
 rosy - obiecujący/pomyślny/korzystny
+uneconomic - nieopłacalny/nierentowny
 up-to-the-minute - najświeższy/najnowszy
 
 przysłówki:
 certainly - z pewnością/na pewno/oczywiście
 exceptionally - wyjątkowo/nadzwyczajnie/rekordowo
+fundamentally - zasadniczo
 increasingly - coraz bardziej
 potentially - potencjalnie
 rapidly - szybko/gwałtownie
+sharply - nagle/gwałtownie/uszczypliwie/ostro
 undoubtedly - niewątpliwie/bez wątpienias
 
 rzeczowniki złożone:
+broadband connection - połączenie szerokopasmowe
+convenience store - niewielki sklepik
+cost cutting - cięcie/redukcja kosztów
 cutting edge - przewaga/czołówka/coś nowatorskiego
+discount store - dyskont
+good chance - spore/duże szanse
+labour market - rynek pracy
+niche market - rynek niszowy
+salary cut - cięcie wynagrodzeń
+think-tank - grupa ekspertów
+turning point - punkt zwrotny
 way forward - rozwiązanie
+
+czasowniki złożone:
+call off sth - zaprzestać czegoś/powstrzymać coś
+check sth out - potwierdzić coś
+embark on sth - wyruszać/rozpoczynać
+get on to sth - przechodzić do czegoś
+look back - oglądać się za siebie/patrzeć w przeszłość
+put sb through - łaczyć/przekierować kogoś
+read back - przeczytać komuś odebraną informację
 
 wyrażenia:
 ahead of its time - wyprzedzający swój czas
+at close quarters - blisko/z bliskiej odległości
 be a thing of the past - być przeszłością
 be ahead of one's time - wyprzedzać swoje czasy
+be faced with swth - być postawionym w obliczu czegoś
+be out of question - nie wchodzić w rachubę
 behind the times - staroświecki
+in one sense - w znaczeniu/w pewnym sensie
+no brand - marka bez znaku towarowego
 state of the art - aktualny stan wiedzy, technologii

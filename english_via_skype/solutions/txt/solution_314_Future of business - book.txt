@@ -1,3 +1,10 @@
+A 14.1)
+1. services, luxuries
+2. group, consumers, segment
+
+1. prize, competitive
+2. discount, supermarket, charge, premium
+
 A)
 2. past
 3. time
@@ -31,3 +38,10 @@ very good:
 - great
 - magnificent
 - marvelous
+
+A)
+certain: 2, 10
+probable: 8, 9
+possible: 6, 7
+unlikely: 3, 4
+impossible: 1, 5

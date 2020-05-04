@@ -3,7 +3,7 @@ A 14.1)
 2. group, consumers, segment
 
 1. prize, competitive
-2. discount, supermarket, charge, premium
+2. discounts, supermarkets, charge, premium
 
 A)
 2. past
@@ -20,6 +20,7 @@ C)
 very bad:
 - depressing
 - dire
+- dreadful
 - terrible
 
 bad:

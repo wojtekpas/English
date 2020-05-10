@@ -1,0 +1,75 @@
+rzeczowniki:
+bankruptcy - bankructwo/upadek/niewypłacalność
+bid - oferowana cena/oferta/próba
+creditor - wierzyciel/udzielający kredytu
+cutback - redukcja/cięcie
+debt - dług/wpływ
+legislation - ustawodawstwo/legislacja
+liar - kłamca
+loads - mnóstwo
+mess - bałagan/nieporządek
+notion - pomysł/pogląd/kaprys/fantazja
+recession - recesja
+reform - reforma/poprawa
+repayment - spłata/zwrot
+saddle - siodełko/przełęcz
+shareholder - akcjonariusz/udziałowiec
+slowdown - zwolnienie tempa
+squeeze - ścisk/tłok/ograniczenie
+turnaround - zmiana/zwrot
+
+czasowniki:
+boom - doprowadzić do wzrostu/przeżywać dobrą koniunkturę
+collapse - zawalić się/runąć
+diversify - urozmaicać/zróżnicować/poszerzyć zakres
+incur - zaciągać/ponosić/wywoływać/narażać się
+overspend - wydawać za dużo
+rocket - skoczyć w górę/gwałtownie wzrastać
+seize - chwytać/zawładnąć/przejąć
+settle - rozstrzygnąć/ustalać/decydować
+slump - osunąć się/zapaść się/gwałtownie spaść
+
+przymiotniki:
+booming - gromki/grzmiący/prosperujący
+collapsed - zawalony/upadły/załamany/zarwany
+colossal - kolosalny/olbrzymi
+crippling - okaleczyć/sparaliżować/unieruchomić
+dismal - ponury/posępny/okropny/fatalny
+downward - biegnący w dół
+draconian - drakoński
+drastic - drastyczny/daleko idący/dramatyczny
+dwindling - kurczący się/zanikający
+gradual - stopniowy/łagodny
+grave - poważny/posępny
+peaked - blady/mizerny/zmarniały
+rampant - szalejący/niepohamowany/bujny
+
+przysłówki:
+fundamentally - zasadniczo
+
+rzeczowniki złożone:
+downward spiral - ciągły i coraz szybszy spadek
+rock bottom - dno/niski poziom
+
+czasowniki złożone:
+be in two minds - bić się z myślami/być niezdecydowanym
+bottom out - osiągnąć najniższy poziom
+fall behind - pozostawać w tyle/zwalniać kroku
+fall behind on sth - nie zdążyć robić czegoś na czas
+go into recession - znaleźć się w recesji
+pick uip - zbierać coś/pozbierać się
+push sth through - przeforsować coś
+send sth round - rozesłąć coś/puścić coś w obieg
+spring up - odbić się w górę/pojawiać się jak grzyby po deszczu
+stand on - utrzymywać kurs/nalegać na coś
+
+wyrażenia:
+all over the place - wszędzie
+be all over the place - niezorganizowany/zdezorientowany
+be stuck - utknąć
+come to power - dojść do władzy
+ever since - od tamtej pory/odkąd
+go to the wall - być pod ścianą/zbankrutować
+in return - w zamian/w rewanżu
+sit on the fence - być niezdecydowanym/siedzieć okrakiem/wahać się
+take out a loan - wziąć pożyczkę/kredyt

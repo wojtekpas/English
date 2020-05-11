@@ -22,6 +22,7 @@ eloquence - elokwencja/wymowa
 eruption - erupcja/wybuch
 esteem - szacunek/poważanie/estyma
 famine - głód
+ferocity - dzikość/okrucieństwo/srogość
 freeing - uwalnianie/przywracanie wolności
 gale - wichura/wicher
 holocaust - zagłada/eksterminacja/masakra
@@ -137,6 +138,7 @@ military service - służba wojskowa
 
 czasowniki złożone:
 ally with sb - sprzymierzać z kimś
+back out - wycofać się/zrezygnować
 divert to sth - zbaczać w kierunku czegoś
 give in to sth - ugiąc się przed kimś/poddać się czemuś
 hand over - poddawać/oddawać/przekazywać

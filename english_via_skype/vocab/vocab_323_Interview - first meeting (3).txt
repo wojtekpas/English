@@ -1,22 +1,31 @@
 rzeczowniki:
 aptitude - uzdolnienie/zdolność
+backlog - zaległości
 creativity - inwencja twórcza/kreatywność
 driver - motywator/czynnik pobudzający
 enthusiasm - entuzjazm/zapał
 leadership - kierownictwo/przewództwo
 listener - słuchacz
 multitasking - wielozadaniowość/podzielna uwaga
+perfectionist - perfekcjonista
 perseverance - wytrwałość
+rapport - bliski kontakt/wzajemne zrozumienie
 superiority - przewaga/starszeństwo
 timekeeping - punktualność
 troubleshooting - wykrywanie i usuwanie usterek/rozwiązywanie problemów
+workload - obciążenie pracą
 
 czasowniki:
 administrate - kierować/zarządzać
 arrange - planować/aranżować
+attach - przywiązywać znaczenie/nadawać wazność
+awake - rozbudzić/wzbudzić
+awaken - obudzić/pobudzić
+blend - mieszać/łączyć
 boost - pobudzać/zwiększać/ożywiać
 broaden - poszerzać
 characterize - cechować/charakteryzować
+customize - dostosowywać/dopasowywać
 demotivate - zniechęcać/demotywować
 encompass - obejmować/ogarniać/otaczać
 explore- zgłębiać/zbadać
@@ -27,21 +36,33 @@ match - pasować
 nurture - pielęgnować/żywić/czuwać nad czymś
 perceive  - postrzegać
 regard - cenić/szanować
+seize - chwytać/zawładnąć
+squander - marnować/trwonić
+tackle - uporać się/stawiać czoło
 
 przymiotniki:
-adaptable - potrafiący się 
+adaptable - potrafiący się
+admirable - godny podziwu/zachwycający
 challenging - ambitny/prowokujący
+communicative - rozmowny/komunikatywny
 demanding - wymagający
 encouraging - zachęcający/ośmielający/dopingowy
 exemplary - wzorowy/doskonały
 harsh - brutalny/okrutny/surowy
 influential - wpływowy
 lenient - pobłażliwy/łagodny
+meticulous - drobiazgowy/skrypulatny
+outgoing - otwarty/towarzyski
 profound - przenikliwy/dogłębny
+reputable - zaszczycony/poważany/szanowany
 respectful - pełen szacunku
 understanding - wyrozumiały
 vast - ogromny/rozległy
 vivid - bujny
+well-established - powszechnie uznany
+
+przysłówki:
+unquestionably - niewątpliwie/bezsprzecznie
 
 rzeczowniki złożone:
 development plan - plan zagospodarowania
@@ -52,7 +73,9 @@ track record - osiągnięcia/udokumentowana kariera zawodowa
 vivid imagination - bujna wyobraźnia
 
 czasowniki złożone:
+fit in - pasować/wpasować się
 fit in with sth - współgrać z czymś
+go over - zostać przyjętym/podsumowywać/powtarzać
 keep up with sth - być na bieżąco z czymś/dotrzymywać czemuś kroku
 pride oneself on sth - szczycić się czymś
 put sb off - zniechęcać kogoś
@@ -64,14 +87,17 @@ wyrażenia:
 admittedly - co prawda/wprawdzie
 after hours - po godzinach
 be a fast lerner - uczyć szybko się/z łatwością przyswajać wiedzę
+be on friendly terms with - być z kimś w przyjaznych stosunkach
 broaden one's horizons - poszerzyć swoje horyzonty
 burn the midnight oil - ślęczeć po nocach
+catch sb's eye - przykuć czyjś wzrok/zainteresować kogoś
 distinguish sb from sb - odróżniać kogoś od kogoś
 do one's best - starać się z całych sił
 fire sb's imagination - rozpalać czyjąć wyobraźnię
 first of all - po pierwsze/przede wszystkim
 furthermore - dodatkowo
 get accustomed to - przezwyczajać się
+get on well with sb - być w dobrych stosunkach z kimś
 go the extra mile - zrobić więcej/poświęcić się bardziej, żeby osiągnąć cel
 have a proven track record - mieć udowodnioną listę osiągnięć
 in addition - dodatkowo
@@ -80,8 +106,10 @@ in the first place - po pierwsze/przede wszystkim
 keep a cool head - utrzymać zimną krew
 nevertheless - niemnie jednak/pomimo
 on top of that - poza tym/w dodatku
+provide an opportunity - dostarczać okazji/możliwość
 pull together - współpracować
 put a premium on sth - cenić coś bardzo wysoko
+red carpet treatment - specjalne traktowanie
 secondly - po drugie
 set sth aside - odstawić coś na bok/wygospodarować
 stand out from the crowd - wyróżniać się z tłumu

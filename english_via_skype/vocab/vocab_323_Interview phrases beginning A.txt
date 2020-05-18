@@ -1,24 +1,74 @@
 rzeczowniki:
+achiever - człowiek sukcesu/osoba nastawiona na sukces
 consideration - namysł/rozwaga
+leeway - swoboda działania/wyboru
+relieving - ulżenie/odciążenie/przyniesienie ulgi
+supervision - kontrola/nadzór/doglądanie
 unpredictability - nieprzewidywalność
 
 czasowniki:
 address - kierować/rozwiązywać/zajmować się
+discharge - rozładować
+foresee - przewidywać
+outdo - przewyższać/prześcignąć
+outperform - znacznie prześcigać/pozostawić w tyle/przewyższać
 outweigh - przeważać nad
+pursue - dążyć do/realizować
+thrive - dobrze się rozwijać/prosperować/odnosić sukcesy
 
 przymiotniki:
 careful - ostrożny/staranny
 collaborative - wspólny
+distressing - przygnębiający/smutny/niepokojący/alarmujący
+driven - zdeterminowany
+enraged - wściekły/rozjuszony
+goal-oriented - ukierunkowany na cel/nastawiony na osiągnięcie celu
+knowledgeable -  mądry/obeznany/wnikliwy
+praiseworthy - chwalebny/godny pochwały
+requisite - konieczny/niezbędny/wymagany
 self-reliant - samodzielny
+superfluous - zbędny/nadmierny/niepotrzebny
 supportive - oddany/wspierający/pomocny
+unbearable - nieznośny/nie do wytrzymania/nie do zniesienia
 
 przysłówki:
+oriented - dbający/nastawiony
 recklessly - lekkomyślnie/brawurowo
 
 rzeczowniki złożone:
+comfort zone - strefa komfortu/poczucia bezpieczeństwa
 front runner - faworyt/główny kandydat
+high achiever - człowiek sukcesu
+preventive measures - środki zapobiegawcze
+
+czasowniki złożone:
+elaborate on sth - rozwinąć myśl na dany temat
+look through - przeglądać/patrzeć przez
+look through sth - przeszukiwać coś
+revolve around sth - koncentować się wokół czegoś/dotyczyć czegoś
+struggle with sth - zmagać się z czymś/walczyć z czymś
 
 wyrażenia:
+a far cry from sth - coś zupełnie innego/odwrotnego
+be fed up with sth - mieć dosyć czegoś/mieć czegoś pozyżej uszu
+be knowledgeable about sth - dobrze znać się na czymś/mieć dużą wiedzę na jakiś temat
 bits and pieces - rozmaitości/drobiazgi
+by means of - za pomocą czegoś
+by virtue of - na mocy czegoś
+by virtue of sth - z racji czegoś/ze względu na coś
+come to terms with sth - zaakceptować coś/pogodzić się z czymś
+cry over spilt milk - płakać nad rozlanym mlekiem
 excellent at sth - doskonały/świetny w czymś
+get to grips with sth - zmierzyć się z czymś/uporać się z czymś
+get the hang of something - chwytać coś
+get to the bottom - dotrzeć do sedna
+hot under collar - bardzo wściekły/zagotowany
+in the event of sth - w przypadku czegoś
+in the heat of the moment - w porywie chwilii/w przypływie emocji
+let off steam - wyładowywać się/rozładować emocje/działać na pełnych obrotach
+notwithstanding - mimo/niezależnie od
 on the face of - na pierwszy rzut oka/pozornie/podobno
+put sb at sb's ease - uspokoić kogoś
+seize an opportunity - chwytać okazję
+take sth in one's stride - przyjąć coś bez mrugnięcia okiem
+under scrutiny - pod lupą/obserwacją

@@ -11,7 +11,7 @@ A)
 B)
 1. up-and-coming
 2. downturn
-3. 
+3. downcast
 4. upbeat
 5. downgrade
 6. upside
@@ -19,12 +19,12 @@ B)
 8. a turn-up for the book
 
 C)
-1. 
+1. downbeat
 2. up and running
-3. 
+3. downcast
 4. upgrade
 5. downside
-6. 
+6. letdown
 
 A)
 1. bears fruit

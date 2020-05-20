@@ -1,0 +1,25 @@
+rzeczowniki:
+grove - zagajnik/gaj
+reservation - zastrzeżenie
+welfare - zasiłek/świadczenie/opieka społeczna
+
+przymiotniki:
+dental - stomatologiczny/dentystyczny
+opposed - przeciwny
+overrated - przereklamowany/przeceniany
+unregulated - nieregulowany
+
+rzeczowniki złożone:
+dental care - opieka stomatologiczna
+grave doubts - poważne wątpliwości
+
+czasowniki złożone:
+move back - cofać się
+stand on - leżeć/utrzymywać kurs/nalegać na coś
+
+wyrażenia:
+be in favour of sth - być za czymś/być zwolennikiem czegoś
+be in two minds - bić się z myślami
+be opposed to sth - być przeciwnym czemuś
+in practice - w praktyce
+in theory - w teorii

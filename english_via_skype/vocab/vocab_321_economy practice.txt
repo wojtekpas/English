@@ -1,9 +1,11 @@
 rzeczowniki:
 bankruptcy - bankructwo/upadek/niewypłacalność
 bid - oferowana cena/oferta/próba
+capping - pokrywanie/prześciganie
 creditor - wierzyciel/udzielający kredytu
 cutback - redukcja/cięcie
 debt - dług/wpływ
+economist - ekonomista
 legislation - ustawodawstwo/legislacja
 liar - kłamca
 loads - mnóstwo
@@ -22,6 +24,7 @@ czasowniki:
 boom - doprowadzić do wzrostu/przeżywać dobrą koniunkturę
 collapse - zawalić się/runąć
 diversify - urozmaicać/zróżnicować/poszerzyć zakres
+economize - oszczędzać
 incur - zaciągać/ponosić/wywoływać/narażać się
 overspend - wydawać za dużo
 rocket - skoczyć w górę/gwałtownie wzrastać
@@ -39,21 +42,27 @@ downward - biegnący w dół
 draconian - drakoński
 drastic - drastyczny/daleko idący/dramatyczny
 dwindling - kurczący się/zanikający
+economic - ekonomiczny/gospodarczy/opłacalny/zyskowny
+economical - oszczędny/ekonomiczny
 gradual - stopniowy/łagodny
 grave - poważny/posępny
 peaked - blady/mizerny/zmarniały
 rampant - szalejący/niepohamowany/bujny
+uneconomic - nieekonomiczny/nieopłacalny
 
 przysłówki:
+economically - gospodarczo/ekonomicznie/oszczędnie
 fundamentally - zasadniczo
 
 rzeczowniki złożone:
 downward spiral - ciągły i coraz szybszy spadek
+economic policy - polityka gospodarcza
 rock bottom - dno/niski poziom
 
 czasowniki złożone:
 be in two minds - bić się z myślami/być niezdecydowanym
 bottom out - osiągnąć najniższy poziom
+close down - zamykać/zakończyć działalność/zostać zamkniętym
 fall behind - pozostawać w tyle/zwalniać kroku
 fall behind on sth - nie zdążyć robić czegoś na czas
 go into recession - znaleźć się w recesji
@@ -66,10 +75,13 @@ stand on - utrzymywać kurs/nalegać na coś
 wyrażenia:
 all over the place - wszędzie
 be all over the place - niezorganizowany/zdezorientowany
+be economical with the truth - nie mówić całej prawdy
 be stuck - utknąć
+bring in sth - zbierać/przynosić coś/procentować czymś
 come to power - dojść do władzy
 ever since - od tamtej pory/odkąd
 go to the wall - być pod ścianą/zbankrutować
 in return - w zamian/w rewanżu
 sit on the fence - być niezdecydowanym/siedzieć okrakiem/wahać się
 take out a loan - wziąć pożyczkę/kredyt
+worst of all - najgorsze że/a co najgorsze

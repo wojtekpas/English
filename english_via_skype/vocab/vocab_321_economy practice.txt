@@ -6,6 +6,7 @@ creditor - wierzyciel/udzielający kredytu
 cutback - redukcja/cięcie
 debt - dług/wpływ
 economist - ekonomista
+interest - odsetki
 legislation - ustawodawstwo/legislacja
 liar - kłamca
 loads - mnóstwo
@@ -22,7 +23,9 @@ turnaround - zmiana/zwrot
 
 czasowniki:
 boom - doprowadzić do wzrostu/przeżywać dobrą koniunkturę
+burden - obarczać/obciążać
 collapse - zawalić się/runąć
+cripple - okaleczyć/sparaliżować/unieruchomić
 diversify - urozmaicać/zróżnicować/poszerzyć zakres
 economize - oszczędzać
 incur - zaciągać/ponosić/wywoływać/narażać się
@@ -36,7 +39,7 @@ przymiotniki:
 booming - gromki/grzmiący/prosperujący
 collapsed - zawalony/upadły/załamany/zarwany
 colossal - kolosalny/olbrzymi
-crippling - okaleczyć/sparaliżować/unieruchomić
+crippling - wyniszczający/rujnujący/przygniatający
 dismal - ponury/posępny/okropny/fatalny
 downward - biegnący w dół
 draconian - drakoński
@@ -55,9 +58,18 @@ economically - gospodarczo/ekonomicznie/oszczędnie
 fundamentally - zasadniczo
 
 rzeczowniki złożone:
+bright idea - doskonały pomysł
+debt collector - windykator/poborca należności
 downward spiral - ciągły i coraz szybszy spadek
+drastic measures - drastyczne środki
+dwindling resources - kurczące się środki
 economic policy - polityka gospodarcza
+grave error - śmiertelny błąd
 rock bottom - dno/niski poziom
+tight budget - ograniczony budżet
+tight deadline - napięty, krótki termin
+tight schedule - napięty harmonogram
+tight squeeze - trudna sytuacja wynikająca z braku czasu, funduszy
 
 czasowniki złożone:
 be in two minds - bić się z myślami/być niezdecydowanym
@@ -68,9 +80,11 @@ fall behind on sth - nie zdążyć robić czegoś na czas
 go into recession - znaleźć się w recesji
 pick uip - zbierać coś/pozbierać się
 push sth through - przeforsować coś
-send sth round - rozesłąć coś/puścić coś w obieg
+run up - powiększać dług/zwiększać zadłużenie
+send sth round - rozesłać coś/puścić coś w obieg
 spring up - odbić się w górę/pojawiać się jak grzyby po deszczu
 stand on - utrzymywać kurs/nalegać na coś
+take out - wypłacać/wyjmować/uzyskiwać/dostawać/zaciągać
 
 wyrażenia:
 all over the place - wszędzie
@@ -80,8 +94,14 @@ be stuck - utknąć
 bring in sth - zbierać/przynosić coś/procentować czymś
 come to power - dojść do władzy
 ever since - od tamtej pory/odkąd
+fall behind - pozostać w tyle/zwalniać kroku
+get into debt - popaśc w długi/zadłużyć się
 go to the wall - być pod ścianą/zbankrutować
 in return - w zamian/w rewanżu
+incur a debt - zaciągnąć dług
+make adjustments - wprowadzać poprawki/korygować
+settle debts - uregulować długi
 sit on the fence - być niezdecydowanym/siedzieć okrakiem/wahać się
 take out a loan - wziąć pożyczkę/kredyt
 worst of all - najgorsze że/a co najgorsze
+write off the debt - umorzyć dług

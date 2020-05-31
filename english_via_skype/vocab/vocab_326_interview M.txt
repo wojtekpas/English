@@ -1,0 +1,12 @@
+przymiotniki:
+adequate - dostateczny/wystarczający/zadowalający
+attentive - baczny/uważny/dbały 
+coherent - logiczny/spójny/zwarty
+disruptive - rewolucyjny/przełomowy/destrukcyjny
+extensive - obszerny/rozległy/szczegółowy
+meticulous - dokładny/drobiazgowy
+profound - przemożny/przenikliwy/głęboki/gruntowny 
+stringent - rygorystyczny/surowy/ograniczony/ciasny
+suitable - odpowiedni/właściwy
+thriving - prosperujący/kwitnący
+vast - obszerny/ogromny/rozległy

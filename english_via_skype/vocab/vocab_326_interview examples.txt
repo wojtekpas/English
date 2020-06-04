@@ -6,8 +6,10 @@ czasowniki:
 initiate - zapoczątkować/inicjować/wprowadzać
 insult - znieważać/obrażać
 refine - oczyszczać/ulepszać/doskonalić
+reflect - odbijać się
 
 przymiotniki:
+afloat - niezadłużony/radzący sobie
 chaotic - chaotyczny/zdezorganizowany/bezładny
 
 rzeczowniki złożone:
@@ -24,6 +26,7 @@ be delighted - być zachwyconym
 be right - mieć racje
 bite one's tongue - ugryźć się w język
 come up through the ranks - piąć się w górę po szczeblach kariery
+fall apart - rozpaść się/zakończyć się
 for a time - na pewien czas
 lead by example - dawać przykład
 on schedule - zgodnie z harmonogramem/planem

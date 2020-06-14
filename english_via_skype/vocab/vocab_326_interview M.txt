@@ -1,12 +1,44 @@
+rzeczowniki:
+liaison - łączność/konrakt/współpraca/romans
+loyalty - lojalność
+workload - obciążenie robocze/pracą
+
+czasowniki:
+broaden - poszerzać/kształcić
+convert - przerabiać/modyfikować/przekształcać się
+
 przymiotniki:
 adequate - dostateczny/wystarczający/zadowalający
-attentive - baczny/uważny/dbały 
+attentive - baczny/uważny/dbały
+beneficial - korzystny/pozytywny
+budget - tani/na każdą kieszeń
 coherent - logiczny/spójny/zwarty
+delighted - zachwycony/uszczęśliwiony
+diligent - pilny/staranny/gorliwy
 disruptive - rewolucyjny/przełomowy/destrukcyjny
 extensive - obszerny/rozległy/szczegółowy
 meticulous - dokładny/drobiazgowy
-profound - przemożny/przenikliwy/głęboki/gruntowny 
+non-core - dodatkowy (niegłówny)
+oral - ustny/oralny
+particular - konkretny/szczególny
+profound - przemożny/przenikliwy/głęboki/gruntowny
+quick-witted - bystry/rozgarnięty/błyskotliwy 
+satisfactory - satysfakcjonujący/zadowalający
 stringent - rygorystyczny/surowy/ograniczony/ciasny
 suitable - odpowiedni/właściwy
+superior - lepszy/ponadprzeciętny/wybitny
 thriving - prosperujący/kwitnący
 vast - obszerny/ogromny/rozległy
+
+czasowniki złożone:
+acquaint with sb - być przedstawionym komuś/poznać kogoś
+take on sth - zmagać się z czymś/brać odpowiedzialność za coś
+take up - obejmować/zajmować
+
+wyrażenia:
+be in line with sth - odpowiadać czemuś/być zgodnym z czymś
+be into sth - być czymś zainteresowanym/pasjonować się czymś
+be keen on sth - być zapalonym do czegoś/lubić coś/przepadać za czymś
+in line with sth - zgodnie z czymś/w parze z czymś
+make a list - sporządzać wykaz/spis/listę
+within range - w zasięgu

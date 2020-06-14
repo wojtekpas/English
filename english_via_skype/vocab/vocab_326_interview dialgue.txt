@@ -3,7 +3,18 @@ advertising - reklama
 associate - wspólnik/partner/kolega
 interaction - interakcja/komunikowanie się
 
+czasowniki:
+negotiate - negocjować/pokonać
+review - przeglądać/przemyśliwać
+weigh - rozważać/porównywać
+
+przymiotniki:
+gritty - realistyczny/wytrwały/zdeterminowany
+hands-off - dający wolną rękę
+nitty - przygłupi/głupawy
+
 rzeczowniki złożone:
+nitty-gritty - sedno sprawy/konkret
 people person - ktoś, kto wie, jak się obchodzić z ludźmi/osoba towarzyska
 put in place - targi/wystawa przemysłowa
 stepping stone - odskocznia/kamień milowy/pomost
@@ -11,12 +22,32 @@ stepping stone - odskocznia/kamień milowy/pomost
 czasowniki złożone:
 buy sth out - wykupic coś
 hand sth off - przekazać coś w inne ręce
+sleep on sth - przespać się z czymś
 spark sb's interest - wywołać czyjeś zaintresowanie
 
 wyrażenia:
+base sth on sth - bazować na czymś/opierać się na czymś
 be between jobs - być niezatrudnionym
 draw a blank - nie znaleźć rozwiązania/mieć pustke w głowie
+drive a hard bargain - stawiać twarde warunki/dobić targu (z korzyścią dla siebie)
+first thing in the morning - z samego rana
+get a job - znaleźć/dostać pracę
 get one's foot in the door - uzyskać dostęp do czegoś/ustawić się
+get promoted - dostać awans
+get the ball rolling - rozpoczynać coś
+have in mind - mieć na myśli
+keep hands off - trzymać łapy z daleka
+keep one's hands off somebody - trzymać swoje ręce z daleka od kogoś
+make money - zarabiać pieniądze
+make up one's mind - postanowić/namyślić się/podjąć decyzję
+out of reach - poza zasięgiem
 put in place - umieścić/zastosować/wprowadzić
+room to do something - sposobność do zrobienia czegoś/przestrzeń do zrobienia czegoś
+sleep on it - przespać się z tym
+split the difference - dojść do porozumienia (krakowskim targiem)
+stand one's ground - nie ustępować pola
+stand your ground - nie dać się/nie ugiąć się/utrzymać pozycję
+the big picture - szersza perspektywa/pełny obraz
 think outside the box - myśleć tworczo/kreatywnie
+touch base with sb - pogadaćz kimś/skontaktować się z kimś
 wear two hats - sprawować dwie funkcje

@@ -17,6 +17,7 @@ rate - klasyfikować/zaliczać/cenić
 shape - kształtowac/formować
 stifle - dławić/gasić/udaremniać/spowalniać
 tackle - uporać się/stawiać czoło
+thrive - dobrze się rozwijać/prosperować
 
 przymiotniki:
 acclaimed - uznany/podziwiany
@@ -51,7 +52,6 @@ correspond with sb - prowadzić korespondencję z kimś
 dive into sth - wgłębiać się w coś
 fit in with sth - współgrać z czymś
 keen on sth - chętny na coś
-thrive - dobrze się rozwijać/prosperować
 
 wyrażenia:
 be in line with sth - odpowiadać czemuś/być zgodnym z czymś

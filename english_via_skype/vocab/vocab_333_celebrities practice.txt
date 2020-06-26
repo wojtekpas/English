@@ -21,11 +21,13 @@ sideline - dodatkowe zajęcie
 snort - parsknięcie
 sweetheart - ukochana/sympatia
 toll - żniwa ofiary
+upbringing - wychowanie
 wrangling - walka/kłótnia/spór
 
 czasowniki:
 abuse - nadużywać/wykorzystywać
 combat - walczyć/zwalczać
+deal - współpracować/prowadzić interesy/handlować narkotykami
 embark - wchodzić na pokład
 fund - ufundować/finansować
 kidnap - porwać/uprowadzić
@@ -55,6 +57,7 @@ pear-shaped - w kształcie gruszki
 
 przysłówki:
 substantially - znacznie/pokaźnie/zasadniczo
+wearing - męczący/denerwujący
 
 rzeczowniki złożone:
 career guidance - doradztwo w zakresie kariery
@@ -63,9 +66,11 @@ death toll - liczba ofiar śmiertelnych
 kerb-crawling - zaczepianie prostytutek z samchodu
 lucky break - fart
 sleeping pills - tabletka nasenna
+strong suit - mocna strona/mocny punkt
 
 czasowniki złożone:
 carve out - wyrobić sobie/opanować
+fall into sth - wpaść w coś
 force sb into sth - zmusić kogoś do czegoś
 get out of sth - wyjeżdzać skądś/uciec z jakiegoś miejsca/przestać coś robić
 shoot sth up - szprycować się czymś
@@ -73,8 +78,28 @@ shoot up - wzrosnąć/urosnąć
 start out - rozpoczynać/wyruszać
 
 wyrażenia:
+all or nothing - wszystko albo nic
 be at one's peak - osiągnąć szczyt
+be dealt a bad hand - otrzymać słabe karty
+bright and early - bladym świtem/wcześnie rano
+by half - o połowę
+call sb's bluff - zmusić kogoś do pokazania kart
+come up trumps - spisać się na medal
+give or take - plus minus/mniej więcej
+hold all the aces - panować nad sytuacją
+ins and outs - na wylot
+make or break - wóz albo przewóz
 MBA - Master of Business Administration - tytuł magistra studiów menedżerskich
+not playing with a full deck - głupi/ograniczony/szalony
 off the rails - postrzelony/ekscentryczny/stuknięty
+pick and choose - przebierać/grymasić
+play with a full deck - sprawiać wrażenie normalnego
+rightly or wrongly - słusznie czy niesłusznie
 sb's fair share - taka część, jaka się komuś należała
+sink or swim - wóz albo przewóz/być rzuconym na głęboką wodę
+sooner or later - prędzej czy później
+straight and narrow - na ostatniej drodze
+the straight and narrow - prosta droga/żyć uczciwie/moralnie
+to and fro - tam i z powrotem/wte i wewte/łażenie
+tried and tested - niezawodny/sprawdzony
 worth of sth - wartość czegoś/ilość pieniędzy

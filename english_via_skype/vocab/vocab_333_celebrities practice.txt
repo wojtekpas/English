@@ -19,6 +19,7 @@ ruin - ruina/brak pieniędzy
 sham - oszustwo/przekręt/symulacja
 sideline - dodatkowe zajęcie
 snort - parsknięcie
+stint - służba/kadencja/posada/praca
 sweetheart - ukochana/sympatia
 toll - żniwa ofiary
 upbringing - wychowanie
@@ -31,10 +32,13 @@ deal - współpracować/prowadzić interesy/handlować narkotykami
 embark - wchodzić na pokład
 fund - ufundować/finansować
 kidnap - porwać/uprowadzić
+launch - rozpoczynać/wprowadzić
 quiz - wypytywać/egzaminować
 re-emerge - pojawiać się ponownie
 revive - odnawiać/wskrzeszać
+ruin - zrujnować
 span - trwać/obejmować/sięgać
+stint- żałować/skąpić/ograniczać
 wed - poślubić/pobrać się
 
 przymiotniki:
@@ -49,6 +53,7 @@ draconian - drakoński
 dumped - zrzucany/usuwany
 embroiled - wplątany w nieporozumienie/zangażowany w konflikt
 endemic - endemiczny/rozpowszechniony
+ensuing - powstały/wynikły
 foiled - udaremniony
 glittering - błyskotliwy/świetlany
 illustrious - wybitny/znakomity/wspaniały
@@ -60,12 +65,17 @@ substantially - znacznie/pokaźnie/zasadniczo
 wearing - męczący/denerwujący
 
 rzeczowniki złożone:
+cabinet minister - minister
 career guidance - doradztwo w zakresie kariery
 career prospects - perspektywy zawodowe
+career structure - struktura kariery zawodowej
 death toll - liczba ofiar śmiertelnych
-kerb-crawling - zaczepianie prostytutek z samchodu
+glamour model - fotomodelka
+hit movie - przebój kinowy
+kerb-crawling - zaczepianie prostytutek z samochodu
 lucky break - fart
 sleeping pills - tabletka nasenna
+smash hit - przebój/sukces
 strong suit - mocna strona/mocny punkt
 
 czasowniki złożone:
@@ -76,16 +86,21 @@ get out of sth - wyjeżdzać skądś/uciec z jakiegoś miejsca/przestać coś ro
 shoot sth up - szprycować się czymś
 shoot up - wzrosnąć/urosnąć
 start out - rozpoczynać/wyruszać
+take off - startować/odnieść nagły sukces/nabierać tempa
 
 wyrażenia:
 all or nothing - wszystko albo nic
 be at one's peak - osiągnąć szczyt
 be dealt a bad hand - otrzymać słabe karty
+be dogged by sb - być prześladowanym, dręczonym przez kogoś
+be keen to do sth - palić się do zrobienia czegoś
 bright and early - bladym świtem/wcześnie rano
 by half - o połowę
 call sb's bluff - zmusić kogoś do pokazania kart
 come up trumps - spisać się na medal
+embark on a career - rozpoczynać karierę
 give or take - plus minus/mniej więcej
+go pear-shaped - póść źle/nie po myśli
 hold all the aces - panować nad sytuacją
 ins and outs - na wylot
 make or break - wóz albo przewóz

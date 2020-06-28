@@ -1,12 +1,15 @@
 rzeczowniki:
+addict - narkoman/nałogowiec
 addiction - uzależnienie/nałóg/narkomania
 allegation - insynuacja/zarzut oskarżenie
 antidepressant -lek przeciwdepresyjny
 blaze - wielki pożar/blask/wybuch
 contestant - zawodnik/uczestnik teleturnieju
 controversy - kontrowersja
+drug - narkotyk/używka
 glamour - urok/atrakcyjność/czar
 haul - ciągnięcie/holowanie/łup/zdobycz
+habbit - nawyk/zwyczaj/uzależnienie
 maverick - indywidualista
 navy - marynarka wojenna
 infamy - zła sława/hańba
@@ -18,9 +21,10 @@ relapse - nawrót/odnowienie/recydywa
 ruin - ruina/brak pieniędzy
 sham - oszustwo/przekręt/symulacja
 sideline - dodatkowe zajęcie
-snort - parsknięcie
+snort - niuch/jeden głębszy
 stint - służba/kadencja/posada/praca
 sweetheart - ukochana/sympatia
+threat - pogróżka/zagrożenie
 toll - żniwa ofiary
 upbringing - wychowanie
 wrangling - walka/kłótnia/spór
@@ -38,7 +42,8 @@ re-emerge - pojawiać się ponownie
 revive - odnawiać/wskrzeszać
 ruin - zrujnować
 span - trwać/obejmować/sięgać
-stint- żałować/skąpić/ograniczać
+stint - żałować/skąpić/ograniczać
+stir - zamieszać/poruszać/pobudzać
 wed - poślubić/pobrać się
 
 przymiotniki:
@@ -47,6 +52,7 @@ amicable - przyjacielski/przyjazny/polubowny
 attendant - towarzyszący
 axed - ścięty toporem
 chequered - w kratę/burzliwy
+disadvantaged - w niekorzystnej sytuacji/pokrzywdzony
 distinguished - wybitny/znakomity/nieprzeciętny
 dogged - uparty/zawzięty/zacięty
 draconian - drakoński
@@ -55,9 +61,12 @@ embroiled - wplątany w nieporozumienie/zangażowany w konflikt
 endemic - endemiczny/rozpowszechniony
 ensuing - powstały/wynikły
 foiled - udaremniony
+former - dawny/były
 glittering - błyskotliwy/świetlany
 illustrious - wybitny/znakomity/wspaniały
 lucrative - dochodowy/intratny/lukratywny
+make-or-break - rozstrzygający
+maverick - niezależny/nieszablonowy
 pear-shaped - w kształcie gruszki
 
 przysłówki:
@@ -93,16 +102,26 @@ all or nothing - wszystko albo nic
 be at one's peak - osiągnąć szczyt
 be dealt a bad hand - otrzymać słabe karty
 be dogged by sb - być prześladowanym, dręczonym przez kogoś
+be in position - być na swoim miejscu
 be keen to do sth - palić się do zrobienia czegoś
+become embroiled in sth - zostać wplątanym w coś
 bright and early - bladym świtem/wcześnie rano
 by half - o połowę
 call sb's bluff - zmusić kogoś do pokazania kart
+carry out a threat - spełnić groźbę
+cause a stir - wywołać poruszenie
 come up trumps - spisać się na medal
+do one's stint - odwalić swój kawałek roboty
 embark on a career - rozpoczynać karierę
+end up doing sth - skończyć robiąc coś
 give or take - plus minus/mniej więcej
 go pear-shaped - póść źle/nie po myśli
 hold all the aces - panować nad sytuacją
+in the street - na ulicy
 ins and outs - na wylot
+lay one's cards on the table - wyłożyc karty na stół/zagrać w otwarte karty
+lie/lay low - pozostać niezauważonym/w ukryciu
+keep one's cards close to one's chest - nie odkrywać kart/trzymać plany w tajemnicy
 make or break - wóz albo przewóz
 MBA - Master of Business Administration - tytuł magistra studiów menedżerskich
 not playing with a full deck - głupi/ograniczony/szalony
@@ -111,9 +130,12 @@ pick and choose - przebierać/grymasić
 play with a full deck - sprawiać wrażenie normalnego
 rightly or wrongly - słusznie czy niesłusznie
 sb's fair share - taka część, jaka się komuś należała
+shoot to fame - nagle stać się sławnym
 sink or swim - wóz albo przewóz/być rzuconym na głęboką wodę
+sleep rough - spać pod gołym niebem
 sooner or later - prędzej czy później
 straight and narrow - na ostatniej drodze
+the ins and outs of something - wszystkie szczegóły czegoś
 the straight and narrow - prosta droga/żyć uczciwie/moralnie
 to and fro - tam i z powrotem/wte i wewte/łażenie
 tried and tested - niezawodny/sprawdzony

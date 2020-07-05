@@ -1,0 +1,46 @@
+rzczowniki:
+cap - reprezentant swojego kraju
+chef - kucharz/szef kuchni
+fling - przelotny formans/związek
+gardener - ogrodnik
+host - gospodarz
+limelight - światło białe
+wannabe - pozer, osoba, która bezkustecznie udaje kogoś kim nie jest
+
+czasowniki:
+endorse - udzielać poparcia/wyrażać aprobatę/lansować
+fade - gasnąć/znikać/rozmywać się
+leak - ujawniać
+pursue - prowadzić/kontynuować
+splash - pluskać/umiescić na pierwszej stronie
+track - tropić/śledzić
+
+przymiotniki:
+countless - niezliczony
+disastrous - fatalny/katastrofalny/zgubny
+fly-on-the-wall - kręcony na żywo
+late-night - nocny
+leaked - opubliczniony
+tacky - tandetny/bublowaty
+
+przysłówki:
+certainly - z pewnością/oczywiście
+
+rzeczowniki złożone:
+chat show - talk show/program dyskusyjny
+golden boy - złoty chłopak
+one-hit wonder - artysta jednego przeboju
+runner-up - zdobywca drugiego miejsca
+smash hit - przebój
+soap star - gwiazda opery mydlanej
+
+czasowniki złożone:
+flip through sth - przekartkować/przerzucać coś
+
+wyrażenia:
+feel hard done by - czuć się niesprawiedliwie potraktowanym
+go solo - działać samemu/rozpocząć karierę solową
+have a fling - mieć z kimś przelotny romans
+in disgrace - w niełasce
+kiss-and-tell - opowieści o romansie ze znaną osobą
+twists and turns - nieuanse-zawiłości

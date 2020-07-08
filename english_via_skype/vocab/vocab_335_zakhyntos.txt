@@ -1,0 +1,64 @@
+rzeczowniki:
+arc - łuk
+azure - błękit/lazur
+backdrop - horyzont/tło
+contraband - kontrabanda
+cuisine - kuchnia
+fresco - fresk
+grove - zagajnik/gaj
+hinterland - głąb lądu/strefa przyległa
+loggerhead - chaber
+mansion - rezydencja/posiadłośc/posesja/dworek/willa
+monastery - klasztor
+nesting - zagnieżdzenie
+pebble - kamyk
+pine - sosna
+plain - równina
+relic - relikwia/szczątki/zabytek/relikt/pamiątka
+shore - brzeg
+smuggling - przemyt
+snorkeling - nurkowanie z rurką do oddychania
+tip - koniuszek/czubek
+wreck - wrak
+
+czasowniki:
+bear - podtrzymywać/nosić/dźwigać
+carve - rzeźbić/drążyć/ryć
+display - demonstrować/prezentować
+grab - złapać/korzystać/chwytać
+pave - brukować/utwardzać/betonować
+
+przymiotniki:
+blissful - błogi/rozkoszny/niebiański
+Byzantine - bizantyjski
+crystal - krystaliczny
+demolished - zburzony/rozebrany
+departing - odchodzący/wychodzący
+devastating - dewastujący/niszczycielski/oszałamiający/piękny
+endangered - zagrożony
+fertile - żyzny/urodzajny/płodny
+mirrored - lustrzany
+outer - zewnętrzny
+overflowing - przelewający się
+paved - wybrukowany/usłany
+purpose-built - specjalnie zaprojektowany
+reconstructed - odbudowany/zrekonstruowany
+sapphire - szafirowy
+sloping - spadzisty/pochyły
+stunning - zachwycający/oszałamiający
+turquoise - turkusowy
+underwater - podwodny
+varied - różnorodny/urozmaicony
+
+przysłówki:
+arguably - prawdopodobnie/możliwe/zapewne
+gently - delikatnie/łagodnie/lekko
+onwards - wprzód
+secluded - ustronny/zaciszny/odosobniony/samotny
+
+rzeczowniki złożone:
+scuba diving - nurkowanie z akwalungiem
+
+czasowniki złożone:
+plummet down - runąć/spadać/obniżać się
+wash sth up - wyrzucać coś na brzeg

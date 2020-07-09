@@ -5,6 +5,7 @@ backdrop - horyzont/tło
 contraband - kontrabanda
 cuisine - kuchnia
 fresco - fresk
+fronting - wychodzenie na coś
 grove - zagajnik/gaj
 hinterland - głąb lądu/strefa przyległa
 loggerhead - chaber
@@ -18,6 +19,8 @@ relic - relikwia/szczątki/zabytek/relikt/pamiątka
 shore - brzeg
 smuggling - przemyt
 snorkeling - nurkowanie z rurką do oddychania
+species - gatunek
+tank - basen/zbiornik
 tip - koniuszek/czubek
 wreck - wrak
 
@@ -57,8 +60,13 @@ onwards - wprzód
 secluded - ustronny/zaciszny/odosobniony/samotny
 
 rzeczowniki złożone:
+loggerhead turtle - karetta (rodzaj żółwia)
+nesting season - sezon lęgowy
 scuba diving - nurkowanie z akwalungiem
 
 czasowniki złożone:
 plummet down - runąć/spadać/obniżać się
 wash sth up - wyrzucać coś na brzeg
+
+wyrażenia:
+the height of something - szczyt czegoś

@@ -1,0 +1,53 @@
+rzeczowniki:
+amble - spokojny/spacerowy krok
+bank - nasyp/skarpa/strone zbocze
+commune - gmina
+embroidery - haft/haftowanie/upiększenia
+engraving - grawerunek/grafika/rycina
+fortress - forteca/twierdza/warownia
+glassware - wyroby szklane
+habitation - mieszkanie/domostwo
+hue - odcień
+hustle - ścisk/tłok
+intricacy - zawiłość/złożoność
+lace - koronka
+linen - pościel/len/płótno/bielizna/obrusy
+marble - marmur
+province - prowincja
+quarry - kamieniołom
+rooftop - dach
+significance - ważność/doniosłość/znaczenie
+site - miejsce/teren/położenie
+spring - źródło
+stall - stragan/stoisko na targu
+tablecloth - obrus
+vendor - sprzedawca/producent
+vineyard - winnica
+vulture - sęp/szakal/hiena/pasożyt/osoba pazerna
+wellness - dobra kondycja
+
+czasowniki:
+allot - dzielić/przeznaczać/przydzielać
+climb - wspniać się/wdrapywać się
+comprise - zawierać/obejmować/tworzyć
+
+przymiotniki:
+dotted - kropkowany/w kropki
+elaborate - złożony/skomplikowany/wymyślny/misterny
+enticing - kuszący/nęcący
+fashionable - modny/elegancki/wytworny
+glamorous - efektowny/olśniewający/wspaniały/prestiżowy
+imposing - imponujący/okazały/olśniewający
+medieval - średniowieczny
+snow-capped - ośnieżony
+thriving - prosperujący/kwitnący
+
+rzeczowniki złożone:
+culture vulture - kulturomaniak
+
+czasowniki złożone:
+take in sth - odwiedzić coś/obejrzeć coś
+
+wyrażenia:
+be worth doing sth - być wartym zrobienia czegoś
+bear witness - dawać świadectwo/świadczyć

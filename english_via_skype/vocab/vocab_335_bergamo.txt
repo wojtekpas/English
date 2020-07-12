@@ -1,0 +1,59 @@
+rzeczowniki:
+artery - tętnica/główna droga
+baptistery - baptysterium/budowla przeznaczona do ceremonii chrztu
+basilica - bazylika
+cache - kryjówka
+chalice - kielich mszalny
+crest - grzbiet/grań
+crossing - skrzyżowanie
+curiosity - ciekawostka/unikat
+emerald - szmaragd
+facade - fasada/powierzchowność
+funicular - kolejka linowo-szynowa
+lane - pas ruchu
+mammoth - mamut
+pearl - perła/kropla
+reliquary - relikwiarz
+ruby - rubin
+tiara - diadem/tiara
+tomb - grobowiec/grób
+tapestry - obicie/tapeta/różnorodność/bogactwo
+topography - topografia/krajobraz
+
+czasowniki:
+descend - schodzić/obniżać/przeradzać się
+house - mieścić gromadzić
+re-erect - odbudowywać/wznosić na nowo
+reassemble - zgromadzić się ponownie
+wind - pozbawić tchu
+
+przymiotniki:
+adjoining - sąsiedni/przyległy
+adorned - strojny/przybrany
+clustered - występujący w grupach/rosnący w kępach
+displayed - wystawiony/wyświetlony
+erected - zbudowany/wzniesiony
+impaired - ograniczony/upośledzony
+imposing - imponujący/okazały/olśniewający
+inlaid - inkrustowany (np. złotem, kością słoniową)
+marvellous - cudowny/wspaniały
+monumental - monumentalny/ogromny
+municipal - miejski/komunalny
+ornate - ozdobny/kwiecisty
+patrician - arystokratyczny/szlachetnie urodzony
+renaissance - renesansowy
+sharp - wyraźny
+stepped - powiększony/przyspieszony
+
+przysłówki:
+haphazardly - przypadkowo
+lavishly - bogato/hojnie
+steeply - stromo
+
+czasowniki złożone:
+step back - odsunąć się/zdystansować się/oderwać się
+tear sth down - zburzyć się/rozmontować
+
+wyrażenia:
+adorned with sth - ozdobiony/przystrojony czymś
+struggle for independence - walka o niepodległość

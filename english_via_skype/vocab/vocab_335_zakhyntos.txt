@@ -49,6 +49,7 @@ reconstructed - odbudowany/zrekonstruowany
 sapphire - szafirowy
 sloping - spadzisty/pochyły
 stunning - zachwycający/oszałamiający
+timid - płochliwy/nieśmiały
 turquoise - turkusowy
 underwater - podwodny
 varied - różnorodny/urozmaicony

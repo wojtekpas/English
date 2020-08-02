@@ -1,0 +1,69 @@
+rzeczowniki:
+bully - łobuz/zabijaka/oprych
+bullying - znęcanie się nad słabszymi/tyranizowanie kogoś
+deprivation - ograniczanie/brak/utrata/pozbawienie
+deterrent - odstraszacz
+gossip - plotka/plotkarz
+hypocrisy - hipokryzja/obłuda/zakłamanie
+hypocrite - hipokryta/obłudnik
+idealist - idealista
+incentive - bodziec/motywacja/zachęta
+influence - wpływ/oddziaływanie
+malice - złośliwość/zły namiar
+nurture - pielęgnowanie/wychowywanie
+principles - zasady
+rebel - buntownik/rebeliant
+snob - snob/bufon
+spite - niechęć/uraza/złość
+
+czasowniki:
+bully - sterroryzować/zastraszyć
+despise - gardzić/pogardzać
+deter - odstraszać
+frighten - przestraszyć/przerażać
+swear - przeklinać
+
+przymiotniki:
+coarse - ordynarny/nieokrzesany/wulgarny
+compound - złożony
+crude - ordynarny/wulgarny/prostacki
+dedicated - oddany/zaangażowany
+deprived - pozbawiony
+despicable - nikczemny/podły
+deterrent - odstraszający
+detrimental - szkodliwy/krzywdzący
+divorced - rozwiedziony
+elegant - zgrabny
+frightened - przestraszony
+hypocritical - obłudny
+idealistic - idealistyczny
+incentive - zachęcający/motywacyjny
+influential - wpływowy
+malicious - złośliwy/podły
+rebellious - nieposłuszny/buntowniczny/niesforny
+separated - w seperacji
+spiteful - złośliwy/dokuczliwy
+vulgar - wulgarny/trywialny/pospolity/ordynarny
+
+przysłówki:
+fairly - całkowicie/bardzo/nieomalże/prawie
+
+rzeczowniki złożone:
+bad language - ordynarne słownictwo
+beneficial effect - korzystny wpływ
+broken home - rozbity dom
+detrimental effect - szkodliwy skutek
+peer pressure - presja grupy
+
+czasowniki złożone:
+look down on sb - patrzeć na kogoś z góry/pogardzać kimś
+get into sth - zaczynać coś robić/zainteresować się czymś
+
+wyrażenia:
+be in sb's nature - leżeć w czyjeś naturze
+it's wrong to do sth - błędnie/źle jest coś zrobić
+on principle - dla zasady
+out of spite - na złość/złośliwie
+play a part - odgrywać role
+set of values - zbiór wartości
+spread gossip - rozpowiadać plotki

@@ -17,10 +17,12 @@ snob - snob/bufon
 spite - niechęć/uraza/złość
 
 czasowniki:
+breathe - brzydzić się/czuć wstręt/nienawidzić
 bully - sterroryzować/zastraszyć
 despise - gardzić/pogardzać
 deter - odstraszać
 frighten - przestraszyć/przerażać
+loathe - 
 swear - przeklinać
 
 przymiotniki:

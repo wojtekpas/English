@@ -1,0 +1,33 @@
+rzeczowniki:
+blanket - koc
+carriage - powóz/kareta/transport
+dirt - ziemia/gleba
+exposure - nareżenie/wystawienie/położenie/usytuowanie
+hut - chałuba/chata/szałas
+magnet - magnes
+massif - masyw
+panorama - panorama
+pilgrim - pielgrzym/wędrowiec
+proximity - sąsiedztwo/bliskość
+shortcuts - skrót
+
+czasowniki:
+diversify - urozmaicać
+merge - łączyć/scalać
+resemble - przypominać
+stare - wpatrywać się/gapić się
+
+przymiotniki:
+enjoyable - miły/przyjemny
+memorable - pamiętny/zapadajacy w pamięć
+prominent - znaczący/wybitny/czołowy
+rewarding - opłacalny/satysfakcjonujący
+scenic - malowniczy
+unforgettable - niezapomniany
+
+przysłówki:
+commonly - powszechnie/popularnie/nagminnie
+surprisingly - zadziwiająco/o dziwo
+
+wyrażenia:
+be all for sth - być za czymś

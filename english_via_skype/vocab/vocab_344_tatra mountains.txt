@@ -1,0 +1,74 @@
+rzeczowniki:
+dairy - nabiał
+dash - kropla/odrobina/ucieczka/pogoń
+dialect - dialekt
+dwarf - krasnoludek/krasnal/karzeł
+dwelling - mieszkanie/dom/siedziba
+fir - jodła jedlina
+fur - futro
+glacier - lodowiec
+glance - zerknięcie/rzut okiem
+handicraft - rękodzieło
+highlander - góral/góralka
+lengthiness - rozwlekłość
+meadow - łąka
+outlet - ujście/odpływ
+pasture - pastwisko
+ridge - krawędź/brzeg/grzbiet/grań
+rowanberry - jarzębina
+shelter - schronisko
+shore - brzeg
+slope - zbocze/stok
+splendour - przepych/świetlność/wspaniałość
+spruce - świerk
+territory - obszar/teren/pole
+theme - temat/motyw przewodni
+vastness - bezkres/ogrom
+vest - kamizelka
+wander - przechadzka/wędrówka
+
+czasowniki:
+constitute - stanowić
+
+przymiotniki:
+alternating - naprzemianległy/przemienny
+beloved - ukochany/drogi
+dairy - mleczny
+deciduous - liściasty/mleczny
+dwarf - karłowaty
+fairy-tale - bajkowy
+gentle - delikatny/łagodny/subtelny
+handicraft - rzemieślniczy
+lethal - śmiercionośny/śmiertelny/bardzo niebezpieczny
+lofty - wzniiosły/wysoki
+modernized - zmodernizowany
+peculiar - dziwny/osobliwy
+picturesque - malowniczy/barwny
+pointed - szpiczasty/zaostrzony
+riparian - nadbrzeżny/przyrzeczny
+smoked - wędzony/przyciemniony
+stunning - zachwycający/oszałamiający
+tectonic - tektoniczny
+
+przysłówki:
+exclusively - wyłącznie/jedynie
+subsequently - następnie/potem
+unusually - wyjątkowo/nadzwyczajnie/niezwykle
+
+rzeczowniki złożone
+cable car - kolejka linowa
+fir forest - las jodłowy
+rescue system - system ratownictwa
+sheep milk cheese - ser owczy
+Swiss stone pine - sosna limba
+
+czasowniki złożone:
+light sth up - rozświetlać/rozjaśniać coś
+
+wyrażenia:
+amount to sth - wynosić coś/równać się czemuś
+as the crow flies - w linii prostej
+bear in mind - wziąc pod uwagę
+bear sth in mind - pamiętac o czymś
+circa - około
+on the shores of sth - na brzegu czegoś/u wybrzeży czegoś

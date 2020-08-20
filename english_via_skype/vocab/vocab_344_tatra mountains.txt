@@ -46,7 +46,7 @@ peculiar - dziwny/osobliwy
 picturesque - malowniczy/barwny
 pointed - szpiczasty/zaostrzony
 riparian - nadbrzeżny/przyrzeczny
-smoked - wędzony/przyciemniony
+smoked - wędzony
 stunning - zachwycający/oszałamiający
 tectonic - tektoniczny
 

@@ -1,0 +1,23 @@
+1)
+1. crater
+2. dune
+3. plain
+4. gorge
+5. cliff
+6. glacier
+
+2)
+1. cliffs
+2. dunes
+3. crater
+4. gorge
+5. plains
+6. glaciers
+
+3)
+1. c
+2. e
+3. f
+4. b
+5. a
+6. d

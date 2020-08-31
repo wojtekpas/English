@@ -1,0 +1,52 @@
+rzeczowniki:
+camper - obozowicz/biwakowicz
+cliff - klif/urwisko
+cove - wąwóz
+crater - krater
+debt - dług
+dip - nachylenie/spadek
+dune - wydma
+gorge - wąwóz
+grassland - łąka/trawiasty obszar
+jellyfish - meduza/mięczak/słabeusz
+mecca - mekka
+mouth - wylot/krater/ujście rzeki
+plain - równina
+range - łańcuch górski
+reunion - zjednoczenie/spotkanie/zjazd
+rope - lina
+scramble - wspinaczka
+wetland - bagna/tereny podmokłe
+woodland - teren leśny
+
+czasowniki:
+scramble - wspinać się/gramolić pod górę
+wind - zakręcać/wić się
+
+przymiotniki:
+barren - jałowy/bezpłodny/nieurodzajny
+breathtaking - zapierający dech
+crystal clear - jasny/przejrzysty/krystalicznie czysty
+dense - gesty/zbity
+jagged - postrzępiony/poszarpany
+lush - bujny/drogi/luksusowy/dobry
+murky - mętny/niejasny/ciemny
+nuts - stuknięty
+sheer - stromy
+thick - gęsty/bujny
+
+rzeczowniki złożone:
+bird-watcher - obserwator ptaków
+creepy-crawly - robal/robactwo
+death wish - życzenie śmierci
+dirt road - droga polna/gruntowa
+dirt track - droga polna
+river mouth - ujście rzeki
+
+czasowniki złożone:
+stray from - zbaczać z tematu/nie być powiązanym
+
+wyrażenia:
+gather mushrooms - zbierać grzyby
+have a head for heights - nie mieć lęku wysokości
+on either side - po obu stronach

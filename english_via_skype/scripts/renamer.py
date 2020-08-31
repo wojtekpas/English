@@ -1,6 +1,6 @@
 import os, time
 from shutil import copyfile
-path = "C:\English\english_via_skype"
+path = "D:\English\english_via_skype"
 path_script = "%s\scripts" % path
 path_original_doc = "%s\original_exercises\doc" % path
 path_original_pdf = "%s\original_exercises\pdf" % path

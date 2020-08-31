@@ -1,0 +1,20 @@
+rzeczowniki:
+bison - bizon
+ledge - występ skalny/półka skalna
+nest - gniazdo/legowisko
+prejudice - uprzedzenie
+
+czasowniki:
+graze - paść/wypasać/podjadzać
+
+przymiotniki:
+competitive - ambitny/wyczynowy
+rolling - pofałdowany/falisty
+
+rzeczowniki złożone:
+rock climbing - wspinaczka skałkowa
+rock face - kamienna ściana
+rolling hills - pofalowane wzgórza
+
+czasowniki złożone:
+run through sth - przebiegać przez coś

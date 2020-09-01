@@ -1,7 +1,7 @@
 rzeczowniki:
 camper - obozowicz/biwakowicz
 cliff - klif/urwisko
-cove - wąwóz
+cove - zatoczka/wąwóz
 crater - krater
 debt - dług
 dip - nachylenie/spadek
@@ -28,7 +28,7 @@ barren - jałowy/bezpłodny/nieurodzajny
 breathtaking - zapierający dech
 crystal clear - jasny/przejrzysty/krystalicznie czysty
 dense - gesty/zbity
-jagged - postrzępiony/poszarpany
+jagged - postrzępiony/poszarpany/ostry
 lush - bujny/drogi/luksusowy/dobry
 murky - mętny/niejasny/ciemny
 nuts - stuknięty

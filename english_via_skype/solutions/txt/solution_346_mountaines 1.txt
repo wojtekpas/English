@@ -3,19 +3,19 @@
 2. peak
 3. glacier
 4. ridge
-5. 
-6. 
+5. gorgo
+6. crater
 7. dunes
 8. plains
 9. river mouth
 10. waterfall
-11. 
+11. cove
 12. cliff
 
 2)
 1. river, wetland
 2. narrow, breathtaking
-3. stray from, trick
-4. roads/tracks, lush
-5. sheer, gorge
-6. rocky/crystal clear
+3. stray from, trick/dense
+4. roads/tracks, flat/rolling, lush
+5. sheer/jagged, gorge
+6. sandy/rocky, crystal clear

@@ -20,6 +20,7 @@ wetland - bagna/tereny podmokłe
 woodland - teren leśny
 
 czasowniki:
+find - uważać/oceniać
 scramble - wspinać się/gramolić pod górę
 wind - zakręcać/wić się
 
@@ -45,6 +46,7 @@ river mouth - ujście rzeki
 
 czasowniki złożone:
 stray from - zbaczać z tematu/nie być powiązanym
+take up - zainteresować się czymś/podjąć/podchwycić coś
 
 wyrażenia:
 gather mushrooms - zbierać grzyby

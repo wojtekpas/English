@@ -1,0 +1,90 @@
+rzeczowniki:
+breakthrough - punkt zwrotny/przełom
+broadband - system pasmo połączenia z internetem
+caterpillar - gąsienica
+Christianity - chrześcijaństwo
+coach - kareta/powóz
+craft - rzemiosło/zawód/profesja
+decay - gnicie/próchnienie/butwienie
+manual - instrukcja obsługi/podręcznik
+mould - forma/foremka
+potential - potencjał/możliwości
+reform - reforma/poprawa
+revolt - sprzeciw/bunt/powstanie
+trend - kierunek/tendencja/trend
+
+czasowniki:
+amend - poprawiać/korygować/ulepszać
+convert - konwertować/przekształcać się/nawracać
+craft - wykonać ręcznie
+decay - rozkładać się/gnić
+deteriorate - pogarszać się/podupadać
+distort - zniekształcać/zdeformować
+endure - znosić/cierpieć/przetrwać
+evolve - rozwijać się/zmieniać się
+mature - dojrzewać/wydorośleć
+novel - nowatorski/oryginalny/nowy
+programmer - programator
+radical - drastyczny/radykalny/zasadniczy
+refine - oczyszczać/ulepszać
+reform - reformować/poprawiać
+reinvent - wymienić na nowo/unowocześnić
+revise - zmieniać/poprawiać
+spoil - zepsuć/zmarnować/rozpieścić
+steady - podtrzymywać/podpierac/stabilizowac/ustalać
+substitute - zastępować
+sustain - podtrzymywać/wspierać/ponosić
+switch - zmienić
+transform - przekształcać/transformować
+
+przymiotniki:
+alternate - kolejny/naprzemienny/co drugi
+broadband - szerokopasmowy
+conservative - konserwatywny/zachowawczy
+nuclear - jądrowy/nuklearny
+
+rzeczowniki złożone:
+computer programmer - programista komputerowy
+consumer electronics - sprzęt elektroniczny
+
+czasowniki złożone:
+bring sth up - podnosić/poruszać coś/napomykac o czymś
+brush up sth - odświeżyć/podszlifować
+change into sth - zmienić się w coś
+change sth around - zmieniać coś/zamieniać coś miejscami
+cheer up - rozweselić się/dodawać otuchy komuś
+do away with sth - pozbyć się czegoś/przestać czegoś używać
+do up sth - zapiąć/zawiązać coś
+dress up - przebierać się/wystroić się
+fade away - znikać/gasnąć/rozmywać się
+key in - wpisać
+make sth into sth - zmieniać coś na coś
+make up sth - wymyślić coś
+mix up - przyrządzić
+see around sth - odwiedzić/obejść coś
+take sth apart - rozłożyć coś
+take sth up - skracać coś/podjąć coś
+test sth out - wypróbować coś
+tidy up - robić porządki
+turn sth into sth - zmieniać coś w coś
+turn up - odnajdować się
+use sth up - zużywać coś
+wear out - zużyć się
+
+wyrażenia:
+a leopard can't change its spots - natura ciągnie wilka do lasu
+all mod cons - wszystkie wygody
+break a habit - zerwać z nawykiem/nałogiem
+break the mould - wyzwolić się od szablonu
+break with tradition - zerwanie z tradycją
+change one's tune - zmienić śpiewkę
+distort the truth - zniekształcać prawdę
+go online - przejść w tryb online
+have a change of heart - zmienić swoje nastawienie do czegoś
+have a long way to go - mieć jeszcze dużo do zrobienia
+know sth inside out - znać coś doskonale/na wylot/od podszewki
+persist in sth - obstawać/upierać się przy czymś
+reinvent the wheel - ponownie wynaleźć koło/odkrywać Amerykę
+stick to one's guns - obstawać/upierać się przy swoim
+the tools of the trade - narzędzia pracy
+turn over a new leaf - rozpocząć nowy/lepszy rozdział

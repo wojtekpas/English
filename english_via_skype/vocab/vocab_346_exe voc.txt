@@ -1,0 +1,30 @@
+rzeczowniki:
+conservatory - cieplarnia oranżeria
+
+czasowniki:
+startle - zaskoczyć/przestraszyć/spłoszyć
+
+czasowniki złożone:
+add sth on - naddawać coś/włączać coś dodatkowego
+advance on sb - ruszyć ku komuś
+border on sth - graniczyć/przylegać
+build on - dobudować
+came on - zacząć padać
+catch on - przyjąć się/zyskać na popularności
+cordon off - oddzielić ludzi od danego miejsca za pomocą taśmy
+fence sth off - odgradzać coś
+go off - włączyć się/zepsuć się/wybuchnąć/eksplodować
+partition sth off - oddzielać/przedzielać coś
+pay sth off - spłacać coś
+put sth off - przełożyć coś na później
+put sth on - włączać/uruchamiac/nastawić coś
+run off - uciekać/dawać nogę
+scare sb off - odstraszyć kogoś
+seal off - zabezpieczać/otaczać
+see sb off - odprowadzić/pożegnać kogoś
+sneak on sb - naskarżyć/donieść na kogoś
+switch off - wyłączać się/odrywać się
+verge on sth - zbliżać się do granicy czegoś
+
+wyrażenia:
+put the kettle on - nastawiać czajnik

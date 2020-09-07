@@ -1,26 +1,26 @@
 A)
-1. 
+1. endure
 2. shift
 3. innovation
 4. potential
-5. 
-6. 
+5. mature
+6. shifted
 7. progress
-8. 
+8. substitute
 9. decay
-10. 
+10. modified
 
 B)
 
 C)
-1. revise
-2. reform
+1. reformed
+2. revise
 3. distorted
 4. amended
-5. adjust
+5. maintain
 6. remain
-7. adapt
-8. adjust
+7. adjust
+8. adapt
 9. alternate
 10. alternative
 11. persist
@@ -33,10 +33,10 @@ D)
 
 E)
 1. programmer
-2. manuals
+2. manual
 3. electronics
-4. file
-5. downloaded
+4. download
+5. files
 6. upload
 7. complex
 8. online

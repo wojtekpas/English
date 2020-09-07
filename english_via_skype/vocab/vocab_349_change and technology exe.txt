@@ -11,6 +11,7 @@ mould - forma/foremka
 potential - potencjał/możliwości
 reform - reforma/poprawa
 revolt - sprzeciw/bunt/powstanie
+substitute - zamiennik
 trend - kierunek/tendencja/trend
 
 czasowniki:

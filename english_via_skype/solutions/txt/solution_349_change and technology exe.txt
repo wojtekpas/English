@@ -11,6 +11,11 @@ A)
 10. modified
 
 B)
+1. 
+2. revolution
+3. 
+
+
 
 C)
 1. reformed
@@ -30,6 +35,16 @@ C)
 15. spoil
 
 D)
+1. network
+2. broadband
+3. primitive
+4. nuclear
+5. v
+6. console
+7. technique
+8. v
+9. data
+10. resource
 
 E)
 1. programmer
@@ -44,6 +59,14 @@ E)
 10. offline
 
 F)
+1. 
+2. went away
+3. test out
+4. back up
+5. used up
+6. throwing away
+7. key in
+8. do up
 
 G)
 1. switch on
@@ -76,3 +99,27 @@ L)
 8. the tools of the trade
 9. all mod cons
 10. know inside out
+
+M)
+1. continuous
+2. evolving
+3. revolutionary
+4. flexibility
+5. adjustments
+6. 
+7. 
+8. capability
+9. 
+10. electrical
+
+N)
+1. changeable
+2. maturity
+3. modernized
+4. persistent
+5. endurance
+6. processed
+7. rearrange
+8. 
+9. conversion
+10. placed

@@ -1,18 +1,25 @@
 rzeczowniki:
 breakthrough - punkt zwrotny/przełom
-broadband - system pasmo połączenia z internetem
+broadband - szerokie pasmo połączenia z internetem
+Britons - Brytyjczycy
+bulb - żarówka
+capability - zdolność/możliwość
 caterpillar - gąsienica
 Christianity - chrześcijaństwo
 coach - kareta/powóz
+conversion - nawrócenie
 craft - rzemiosło/zawód/profesja
 decay - gnicie/próchnienie/butwienie
+gran - babcia
 manual - instrukcja obsługi/podręcznik
+maturity - dojrzałość
 mould - forma/foremka
 potential - potencjał/możliwości
 reform - reforma/poprawa
 revolt - sprzeciw/bunt/powstanie
 substitute - zamiennik
 trend - kierunek/tendencja/trend
+typewriter - maszyna do pisania
 
 czasowniki:
 amend - poprawiać/korygować/ulepszać
@@ -26,11 +33,16 @@ evolve - rozwijać się/zmieniać się
 mature - dojrzewać/wydorośleć
 novel - nowatorski/oryginalny/nowy
 pick - wybierać
+processed - przetworzony
 programmer - programator
+redecorate - zmieniać wystrój
 radical - drastyczny/radykalny/zasadniczy
+rearrange - przestawić/zmieniać
 refine - oczyszczać/ulepszać
 reform - reformować/poprawiać
 reinvent - wymienić na nowo/unowocześnić
+remove - zdejmować
+rejection - odmowa/nieprzyjęcie
 revise - zmieniać/poprawiać
 run - prowadzić/zarządzać
 spoil - zepsuć/zmarnować/rozpieścić
@@ -39,18 +51,29 @@ substitute - zastępować
 sustain - podtrzymywać/wspierać/ponosić
 switch - zmienić
 transform - przekształcać/transformować
+undergo - poddawać się/odbywać/znosić
 
 przymiotniki:
 alternate - kolejny/naprzemienny/co drugi
 broadband - szerokopasmowy
+changeable - zmienny
 conservative - konserwatywny/zachowawczy
+crafted - wykonany rzemieślniczo
+electrical - elektryczny/elektroenergetyczny
+enormous - olbrzymi/ogromny
 handy - bedący w zasięgu ręki
+modernized - zmodernizowany
 nuclear - jądrowy/nuklearny
+persistent - utrzymujący się/ciągły
+revolutionary - rewolucyjny
 thoughtless - bezmyślny/nierozważny
 
 rzeczowniki złożone:
 computer programmer - programista komputerowy
 consumer electronics - sprzęt elektroniczny
+social status - status społeczny
+wave power - energia fal
+wind power - siła wiatru
 
 czasowniki złożone:
 bring sth up - podnosić/poruszać coś/napomykac o czymś
@@ -60,9 +83,10 @@ change sth around - zmieniać coś/zamieniać coś miejscami
 cheer up - rozweselić się/dodawać otuchy komuś
 come round - przyjść/wpaść
 do away with sth - pozbyć się czegoś/przestać czegoś używać
-do up sth - zapiąć/zawiązać coś
+do up sth - zapiąć/zawiązać coś/udekorować coś/ozdobić coś
 dress up - przebierać się/wystroić się
 fade away - znikać/gasnąć/rozmywać się
+go away - znikać/odchodzić
 key in - wpisać
 make sth into sth - zmieniać coś na coś
 make up sth - wymyślić coś
@@ -72,6 +96,7 @@ take sth apart - rozłożyć coś
 take sth up - skracać coś/podjąć coś
 test sth out - wypróbować coś
 tidy up - robić porządki
+try sth out - wypróbować coś
 turn sth into sth - zmieniać coś w coś
 turn up - odnajdować się
 use sth up - zużywać coś
@@ -89,8 +114,10 @@ go online - przejść w tryb online
 have a change of heart - zmienić swoje nastawienie do czegoś
 have a long way to go - mieć jeszcze dużo do zrobienia
 know sth inside out - znać coś doskonale/na wylot/od podszewki
+make adjustments - wprowadzać poprawki/korygować
 persist in sth - obstawać/upierać się przy czymś
 reinvent the wheel - ponownie wynaleźć koło/odkrywać Amerykę
 stick to one's guns - obstawać/upierać się przy swoim
 the tools of the trade - narzędzia pracy
+tend to do sth - mieć skłonność/tendencję
 turn over a new leaf - rozpocząć nowy/lepszy rozdział

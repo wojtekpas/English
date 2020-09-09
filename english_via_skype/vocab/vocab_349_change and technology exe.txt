@@ -25,12 +25,14 @@ endure - znosić/cierpieć/przetrwać
 evolve - rozwijać się/zmieniać się
 mature - dojrzewać/wydorośleć
 novel - nowatorski/oryginalny/nowy
+pick - wybierać
 programmer - programator
 radical - drastyczny/radykalny/zasadniczy
 refine - oczyszczać/ulepszać
 reform - reformować/poprawiać
 reinvent - wymienić na nowo/unowocześnić
 revise - zmieniać/poprawiać
+run - prowadzić/zarządzać
 spoil - zepsuć/zmarnować/rozpieścić
 steady - podtrzymywać/podpierac/stabilizowac/ustalać
 substitute - zastępować
@@ -42,7 +44,9 @@ przymiotniki:
 alternate - kolejny/naprzemienny/co drugi
 broadband - szerokopasmowy
 conservative - konserwatywny/zachowawczy
+handy - bedący w zasięgu ręki
 nuclear - jądrowy/nuklearny
+thoughtless - bezmyślny/nierozważny
 
 rzeczowniki złożone:
 computer programmer - programista komputerowy
@@ -54,6 +58,7 @@ brush up sth - odświeżyć/podszlifować
 change into sth - zmienić się w coś
 change sth around - zmieniać coś/zamieniać coś miejscami
 cheer up - rozweselić się/dodawać otuchy komuś
+come round - przyjść/wpaść
 do away with sth - pozbyć się czegoś/przestać czegoś używać
 do up sth - zapiąć/zawiązać coś
 dress up - przebierać się/wystroić się

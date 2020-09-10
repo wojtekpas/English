@@ -1,0 +1,50 @@
+rzeczowniki:
+abs - mięśnie brzucha/kaloryfer/sześciopak
+back - plecy
+bicep - biceps
+calf - łydka
+crunch - brzuszek
+curl - skręt
+dumbbell - hantel/sztangielka
+extensions - wyprostowanie kończyny
+preacher - modlitewnik
+pulley - blok/krążek/rolka ze sznurkiem
+rep - powtórzenie
+shoulder - bark/ramię
+stretching - rozciąganie
+treadmill - bieżnia
+weight - obciążenie/ciężarek
+workout - trening/ćwiczenie
+
+czasowniki:
+hold - przytrzymać/zatrzymywać
+row - wiosłować
+strenghten - umacniać/dodawać sił
+stretch - rozciągać się
+
+przymiotniki:
+jacked - napakowany
+muscular - muskularny/umięśniony
+ripped - zarysowany/wyrzeźbiony
+shredded - umięśniony
+vertical - pionowy
+
+rzeczowniki złożone:
+love handles - boczki/oponki
+muffin top - fałda tłuszczu wylewająca się za pas osoby
+six-pack - sześciopak/kaloryfer na brzuchu
+spare tire - oponka/wałek tłuszczu
+straight-arm - opieranie się z wyciągniętymi do przodu rękami
+
+czasowniki złożone:
+bulk up - zyskać masę ciała/budować mięśnie
+burn calories - spalać kalorie
+cool down - studzić się/
+the burn - upad mięśniowy
+tone up - wzmacniać
+
+wyrażenia:
+get fit - nabrać formy/kondycji
+get in shape - nabrać kondycji/osiągnąć dobrą formę
+hanging knee raise - podciąganie się
+lose weight - schudnąć/stracić na wadze

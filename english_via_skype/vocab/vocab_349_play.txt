@@ -1,0 +1,58 @@
+rzeczowniki:
+amendments - poprawka/zmiana
+appeal - apel/wezwanie/odwołanie
+vowel - samogłoska
+
+czasowniki:
+boo - wygwizdać/wybuczeć
+chant - śpiewać/skandować
+defy - przeciwstawiać się/ignorować/postępować wbrew
+expose - eksponować/narażać/ujawniać
+
+przymiotniki:
+considerable - znaczny/niemały
+shipshape - schludny/staranny/uporządkowany
+superb - doskonały/znakomity/pierwszorzędny
+violent - pełen przemocy/agresywny
+
+rzeczowniki złożone:
+big bug - ważniak/gruba ryba
+peer pressure - presja grupy/równieśnicza
+tongue twister - łamaniec językowy
+
+czasowniki złożone:
+give in/give in to sth - poddawać się
+
+wyrażenia:
+abuse sb - znęcać się nad kimś
+all the same - mimo wszystko/jednakże/tak czy siak
+as a result of sth - w wyniku czegoś
+as such - jako taki
+as well as - jak również/zarówno
+be down to sth - być wynikiem czegoś
+bite the bullet - stawiać czemuś czoło/zacisnąć zęby
+break the bank - rozbić bank/kosztować dużo pieniędzy
+come back to sb - nagle się komuś przypomnieć
+doom and gloom - pesymizm/czarna rozpacz
+even though - aczkolwiek/pomimo że
+fundamentally flawed - z gruntu błędny
+get upset - zmartwić się/zdenerwować się
+give as good as one gets - nie pozostawać dłużnym
+go wild - szaleć/wściekać się
+have the courage of one's convictions - mieć przekonanie o swojej słuszności
+in spite of sth - pomimo czegoś/wbrew czemuś
+jump the gun - zrobić falstart/wyjść przed szereg
+lap of luxury - luksus/dostatek
+make ends meet - wiązać koniec z końcem
+meeting of minds - porozumienie/zgoda
+on the edge of one's seat - w napięciu
+on the tip of one's tongue - na końcu języka
+on top of that - poza tym/w dodatku
+owing to - z powodu/ponieważ
+play safe - unikać ryzyka
+reserve the right - zastrzegać prawo
+seek sanctuary - szukać schronienia/prosić o azyl
+stop the rot - zapobiegać dalszym szkodom
+strictly speaking - ściśle mówiąc
+whereas - podczas gdy/natomiast/zważywszy, że
+without prior notice - bez wcześniejszego powiadomienia

@@ -1,27 +1,50 @@
 rzeczowniki:
 amendments - poprawka/zmiana
 appeal - apel/wezwanie/odwołanie
+escape - ucieczka
+irony - ironia
+shooter - strzelec/broń palna/spluwa
+sponsor - fundator/sponsor/inicjator
+strain - napięcie/stres/obciążenie/wysiłek
+strains - melodia/brzmienie instrumentu
 vowel - samogłoska
 
 czasowniki:
 boo - wygwizdać/wybuczeć
 chant - śpiewać/skandować
 defy - przeciwstawiać się/ignorować/postępować wbrew
+exaggerate - przesadzać/wyolbrzymiać
 expose - eksponować/narażać/ujawniać
+fix - fingować/ustawiać
+overturn - wywrócić/unieważnić/obalić
+stimulate - przyspieszać/stymulować/pobudzać/zachęcać
+substitute - zastępować
+thrash - rzucać się/miotać się/bić/pokonać
+uphold - stać na straży/podtrzymywać
 
 przymiotniki:
 considerable - znaczny/niemały
+dirty - brudny/niemoralny/zły/parszywy
+one-sided - jednostronny/nierówny
+overturned - przywrócony do góry nogami
 shipshape - schludny/staranny/uporządkowany
 superb - doskonały/znakomity/pierwszorzędny
+suspended - zawieszony
 violent - pełen przemocy/agresywny
 
 rzeczowniki złożone:
 big bug - ważniak/gruba ryba
 peer pressure - presja grupy/równieśnicza
+role-play - odgrywanie roli
+sin bin - ławka kar/więzienie
 tongue twister - łamaniec językowy
 
 czasowniki złożone:
+fade in - wzmacniać/wplątać coś
 give in/give in to sth - poddawać się
+knock sb out - znokautować kogoś/zwalić kogoś z nóg
+scrape through - przebrnąć/z trudem poradzić sobie z czymś
+send sb off - usunąć kogoś z boiska/wykluczyć kogoś z gry
 
 wyrażenia:
 abuse sb - znęcać się nad kimś
@@ -31,18 +54,24 @@ as such - jako taki
 as well as - jak również/zarówno
 be down to sth - być wynikiem czegoś
 bite the bullet - stawiać czemuś czoło/zacisnąć zęby
+blow it - do diaska
 break the bank - rozbić bank/kosztować dużo pieniędzy
+challenge the decision - kwestionować/podważać decyzję
 come back to sb - nagle się komuś przypomnieć
+defy description - być nie do opisania
 doom and gloom - pesymizm/czarna rozpacz
 even though - aczkolwiek/pomimo że
 fundamentally flawed - z gruntu błędny
+get a cramp - dostać skurczu
 get upset - zmartwić się/zdenerwować się
 give as good as one gets - nie pozostawać dłużnym
+go on a cruise - wyruszyć w rejs
 go wild - szaleć/wściekać się
 have the courage of one's convictions - mieć przekonanie o swojej słuszności
 in spite of sth - pomimo czegoś/wbrew czemuś
 jump the gun - zrobić falstart/wyjść przed szereg
 lap of luxury - luksus/dostatek
+let off steam - rozładować emocje/wyładować się
 make ends meet - wiązać koniec z końcem
 meeting of minds - porozumienie/zgoda
 on the edge of one's seat - w napięciu
@@ -52,6 +81,8 @@ owing to - z powodu/ponieważ
 play safe - unikać ryzyka
 reserve the right - zastrzegać prawo
 seek sanctuary - szukać schronienia/prosić o azyl
+stiff - zdrętwiały/zesztywniały
+stimulate sb's imagination - pobudzać wyobraźnię
 stop the rot - zapobiegać dalszym szkodom
 strictly speaking - ściśle mówiąc
 whereas - podczas gdy/natomiast/zważywszy, że

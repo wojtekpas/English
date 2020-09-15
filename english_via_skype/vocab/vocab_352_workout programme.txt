@@ -1,0 +1,53 @@
+rzeczowniki:
+absence - nieobecność
+bodybuilding - kulturystyka
+burnout - wypalenie
+collection  - kolekcja
+course - przebieg/plan/kurs/tor
+endurance - wytrzymałość/odporność
+extent - zakres/zasięg
+foundation - fundament
+glute - mięsień pośladkowy
+hamstring - ścięgno udowe
+hump - wybrzuszenie/garb
+hypertrophy - hipetrofia/przyrost
+intensity - natężenie
+isolation - izolacja
+joint - staw
+lifter - sztangista
+pecs - mięśnie piersiowe
+pyramid - piramida
+quad - mięsień czworogłowy
+realm - dziedzina/domenta/królestwo/kraina
+rest - odpoczynek/pauza/przerwa
+routine - ustalony porządek/rutyna/układ
+set - zestaw/zbiór
+
+czasowniki:
+dominate - dominować/wyróżniać się
+employ - stosować/wykorzystywać/posługiwać się
+entitle - upoważniać
+promote - promować/propagować/krzewić
+substantial - obfity/znaczący/namacalny
+
+przymiotniki:
+alike - podobny/taki sam/jednakowy
+compound - składowy/złożony
+listed - umieszczony w wykazie
+overloaded - przeciążony/przeładowany
+progressive - postępowy/progresywny/stopniowy
+proverbial - przysłowiowy/słynny/legendarny
+reverse - odwrotny/przeciwny
+scientific - naukowy
+
+rzeczowniki złożone:
+body part - część ciała
+
+wyrażenia
+dominate the landscape - górować nad kraobrazem
+get one's feet wet - stawiać pierwsze kroki
+in a sense - w znaczeniu/w sensie/w pewnym sensie
+leave of absence - urlop
+opposed to sth - przeciwny czemuś
+right off the bat - natychmiast/od razu/niezwłocznie
+set the stage for something - przygotować grunt pod coś

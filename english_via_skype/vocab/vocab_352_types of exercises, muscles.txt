@@ -1,0 +1,27 @@
+rzeczowniki:
+concentration - skupienie
+deadlift - martwy ciąg
+decline - pochylenie
+delt - mięsień naramienny
+elbow - łokieć
+forearm - przedramię
+lats - mięsień najszerszy grzbietu
+plank - deska
+rotation - rotacja/obrót
+squat - przysiad
+
+czasowniki:
+tuck - wkładać/chować/podwijać/składać
+
+przymiotniki:
+bent - zgięty
+elevated - wysoki/podniesiony/podwyższony
+lateral - boczny
+rear - tylny
+strait - wąski/ciasny
+upright - pionowy/prosty
+
+rzeczowniki złożone:
+chest fly - rozpiętki
+lower back - krzyż/dolna część pleców
+sit-up - skłon w pozycji siedzącej/brzuszek

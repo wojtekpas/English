@@ -1,0 +1,23 @@
+rzeczowniki:
+cable - lina/linka
+grip - chwyt/uścisk
+lunge - wykrok/uderzenie/wypad
+rope - lina
+shrug - wzruszenie
+
+przymiotniki:
+abdominal - brzuszny
+hyper - super/więcej
+overhead - znad głowy
+seated - siedzący
+
+rzeczowniki złożone:
+barbell row - podciąganie sztangi w opadzie
+chin-up - podciąganie się
+T-bar - wyciąg orczykowy
+
+czasowniki złożone:
+bent over - schylać/pochylać się
+
+wyrażenia:
+bench press - wyciskanie leżąc na ławce

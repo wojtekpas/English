@@ -59,23 +59,23 @@ E)
 10. offline
 
 F)
-1. 
-2. went away
+1. change out of
+2. went/faded away
 3. test out
 4. back up
 5. used up
-6. throwing away
+6. doing away with
 7. key in
 8. do up
 
 G)
 1. switch on
-2. take apart
-3. mix up
+2. took apart
+3. change around
 4. change into
 5. wear out
 6. turn into
-7. change around
+7. mixed up
 8. made into 
 
 H)
@@ -83,7 +83,7 @@ H)
 2. cheer up - improve
 3. brush up - improve
 4. make up
-5. tidy up
+5. tidy up - improve
 6. bring up
 7. dress up
 8. turn up - improve
@@ -91,7 +91,7 @@ H)
 L)
 1. break the mould
 2. had a change of heart 
-3. turning over a new leaf 
+3. turned over a new leaf 
 4. to reinvent the wheel
 5. stick to your guns 
 6. a leopard can't change its spots

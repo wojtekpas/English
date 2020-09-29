@@ -1,0 +1,59 @@
+rzeczowniki:
+absenteeism - niestawiennictwo/absencja
+casualisation - tendencje do zatrudniania czasowych zamiast stałych pracowników
+crackdown - rozprawa/represje/prześladowania
+creche - żłobek
+dismissal - zwolnienie/krytyka/zakończenie
+gardening - ogrodnictwo
+nursing - pielęgniarstwo
+opposition - sprzeciw/przeciwnik/konkurencja
+perk - dodatek/gratis/dodatkowa korzyść
+teaching - nauczanie
+tribunal - sąd/trybunał
+vitality - witalność/energia/żywotność/siła
+
+czasowniki:
+sponsor - fundować/ręczyć/przedkładać
+
+przymiotniki:
+competitive - ambitny/konkurencyjny/wyczynowy
+draining - wycieńczający
+subsidised - dotowany
+
+przysłówki:
+blissfully - błogo
+emotionally - emocjonalnie/uczuciowo
+fiercely - dziko/gwałtownie
+financially - finansowo
+immensely - ogromnie/niezmiernie/nadzwyczaj
+inherently - właściwie/z natury
+mildly - łagodnie/umiarkowanie
+mind-numbingly - otępiająco
+occasionally - okazjonalnie/sporadycznie
+particularly - szczególnie
+reasonably - rozsądnie/słusznie/w miarę/dosyć/całkiem
+relatively - relatywnie/stosunkowo/względnie
+remotely - trochę/w niewielkim stopniu/na odludziu
+utterly - całkowicie/zupełnie/kompletnie
+
+rzeczowniki złożone:
+compassionate leave - urlop okolicznościowy
+early retirement - wcześniejsza emerytura
+minimum wage - płaca minimalna
+public sector - sektor publiczny/sfera budżetowa
+redundancy payment - wypłacenie odprawy
+state pension - renta państwowa
+voluntary redundancy - dobrowolne odejść z pracy
+
+czasowniki złożone:
+drain away - odpływać/odprowadzać
+drift off - stopniowo zasypiać/odpływiać
+pass sth on to sb - przekazać coś komuś
+
+wyrażenia:
+acquire new skills - nabyć nowe umiejętności
+beg the question - nasuwać pytanie
+get ahead - wyprzedzać/robić progres
+get the most out of sth - wykorzystać w pełni/jak najwiecej z czegoś mieć
+set the wheels in motion - wprawić koła w ruch/nadać sprawie bieg
+spark sb's interest - wywołać czyjeś zainteresowanie

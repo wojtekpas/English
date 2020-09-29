@@ -58,6 +58,7 @@ alternate - kolejny/naprzemienny/co drugi
 broadband - szerokopasmowy
 changeable - zmienny
 conservative - konserwatywny/zachowawczy
+convinced - przekonany
 crafted - wykonany rzemieślniczo
 electrical - elektryczny/elektroenergetyczny
 enormous - olbrzymi/ogromny

@@ -6,7 +6,7 @@ A)
 5. off
 
 B)
-1. abusing
+1. abusive
 2. substitution
 3. engrossing
 4. punning
@@ -21,7 +21,7 @@ C)
 5. x
 6. v
 7. x
-8. x
+8. v
 
 D)
 1. bullet
@@ -34,11 +34,11 @@ D)
 8. doom
 
 E)
-1. doomy
-2. 
+1. dirty
+2. overrated
 3. attentive
 4. traumatic
-5. medicine
+5. moderate
 6. engrossing
 
 6)
@@ -50,9 +50,9 @@ E)
 6. c
 
 G)
-1. scapped through
+1. scrapped through
 2. knocked out
 3. went through
 4. sent off
-5. noded off
-6. spin off
+5. noding off
+6. spun off

@@ -7,6 +7,7 @@ coder - programista kodujący
 coding - kodowanie
 cramp - skurcz
 punning - uprawianie gry słownej/układanie kalamburów
+substitute - rezerwowy/zamiennik
 substitution - zastępstwo/podstawienie
 trauma - trauma/obawa/uraz
 
@@ -22,7 +23,7 @@ suspend - przerywać/zawieszać
 thrash - spuszczać łomot/bić/prać
 
 przymiotniki:
-abusing - nadużywający
+abusive - obraźliwy
 attentive - baczny/uważny/zainteresowany
 doomy - pesymistyczny/ponury/złowieszczy
 engrossing - wciągający/trzymający w napięciu
@@ -46,6 +47,7 @@ call it a day - zakończyć pracę/skończyć na dziś
 doom and gloom - pesymizm/ciemne barwy
 engrossed in sth - zaabsorbowany/pochłonięty czymś
 give as good as one gets - odpłacać pięknym za nadobne/nie pozostawać dłużnym
+hurl abuse at sb - obrzucać kogoś wyzwiskami
 jump the gun - zbytnio się z czymś pospieszyć/wyjść przed szereg
 lap of luxury - luksus/dostatek
 play dirty - grać nieczysto

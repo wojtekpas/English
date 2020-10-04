@@ -1,0 +1,55 @@
+rzeczowniki:
+admiration - zachwyt/podziw
+bliss - rozkosz/szczęście
+condemn - zdradzenie/wydawanie
+conspiracy - spisek/zmowa
+hangover - kac
+inevitability - nieuchronność
+labour - praca/robota/trud/wysiłek/robocizna
+mourning - żałoba/lament
+payroll - lista płac
+perk - dodatek/gratis/dodatkowa korzyść
+redundancy - zbędność/nadmir/redukcja
+schedule - harmonogram/terminarz/załącznik
+tribunal - sąd/trybunał
+
+czasowniki:
+commit - popełniać/dopuszczać się/poświęcać
+condemn - potępiać/skazywać/zmuszac/skazywać
+dismiss - odrzucać/zwolnić/wyrzucić
+invoice - fakturować
+labour - ciężko pracować/wysilać się
+liaise - nawiązać łączność/współpracować
+mourn - opłakiwać/lamentować/żałować
+schedule - wyznaczać/planować
+troubleshoot - rozwiązywać problemy/usuwać usterki
+
+przymiotniki:
+constructive - konstruktywny/domniemany
+enthusiastic - entuzjastyczny/rozentuzjazmowany
+
+rzeczowniki złożone:
+constructive dismissal - zwolnienie się pracownika pod naciskiem dyrekcji
+military tribunal - sąd wojenny/trybunał wojskowy
+
+czasowniki złożone:
+dip into sth - przeglądać/wydawać/naruszyć oszczędności
+draw up - sporządzić/rozrysować
+liaise with sb - współpracować z kimś
+pull out - wyciągnąć
+settle in - zaklimatyzować się/zaadaptować się
+settle in sth - osiedlać się w czymś
+settle into sth - przezwyczaić się do czegoś/zadomowić się w jakimś miejscu
+
+wyrażenia:
+be enthusiastic about sth - być pełnym entuzjazmu do czegoś
+be made redundant - zostać zwolnionym z pracy w ramach redukcji etatów
+commit oneself to doing something - podjąć się wykonania czegoś
+grant a divorce - udzielać rozwodu/orzekać rozwód
+grant a request - uwzględnić podanie
+grant sb's request - wyrazić zgodę na czyjąś prośbę
+place an advertisement - umieścić reklamę/ogłoszenie
+place an order - złożyc zlecenie/zamówienie
+schedule an appointment - zaplanować spotkanie
+show somebody the ropes - przyuczać kogoś do zawodu/poinstruować kogoś
+the final straw - kropla przepełniająca czarę goryczy

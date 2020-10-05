@@ -32,12 +32,12 @@ D)
 5. straw
 
 E)
-1. 
-2. 
-3. a
-4. 
+1. c
+2. a
+3. b
+4. e
 5. d
-6. 
+6. f
 
 F)
 1. permission

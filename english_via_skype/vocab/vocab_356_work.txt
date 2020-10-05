@@ -3,26 +3,39 @@ absenteeism - niestawiennictwo/absencja
 casualisation - tendencje do zatrudniania czasowych zamiast stałych pracowników
 crackdown - rozprawa/represje/prześladowania
 creche - żłobek
+cut - redukcja/cięcie
 dismissal - zwolnienie/krytyka/zakończenie
 gardening - ogrodnictwo
+notice - zawiadomienie/wypowiedzenie/uprzedzenie
 nursing - pielęgniarstwo
 opposition - sprzeciw/przeciwnik/konkurencja
 perk - dodatek/gratis/dodatkowa korzyść
 teaching - nauczanie
 tribunal - sąd/trybunał
+union - związek zawodowy
 vitality - witalność/energia/żywotność/siła
 
 czasowniki:
+attract - przyciągnąć
+entertain - zabawić/podejmować/rozważać
+network - nawiązywać korzystne kontrakty
+process - przetwarzać/przerabiać/rozpatrywać
 sponsor - fundować/ręczyć/przedkładać
 
 przymiotniki:
 competitive - ambitny/konkurencyjny/wyczynowy
+contractual - kontraktowy/wynikający z umowy
+day-to-day - codzienny/zwykły
 draining - wycieńczający
+grateful - wdzięczny
+statutory - statutowo/ustawowy/podlegający ustawie
 subsidised - dotowany
+swingeing - druzgocący/miażdzący
 
 przysłówki:
 blissfully - błogo
 emotionally - emocjonalnie/uczuciowo
+eternally - wiecznie/dozgonnie
 fiercely - dziko/gwałtownie
 financially - finansowo
 immensely - ogromnie/niezmiernie/nadzwyczaj
@@ -42,18 +55,27 @@ early retirement - wcześniejsza emerytura
 minimum wage - płaca minimalna
 public sector - sektor publiczny/sfera budżetowa
 redundancy payment - wypłacenie odprawy
+sick note - zwolnienie lekarskie/usprawiedliwienie
 state pension - renta państwowa
+unfair dismissal - bezprawne/nieuzadnione zwolnienie z pracy
 voluntary redundancy - dobrowolne odejść z pracy
 
 czasowniki złożone:
 drain away - odpływać/odprowadzać
 drift off - stopniowo zasypiać/odpływiać
+hang over sth - wisieć nad czymś
 pass sth on to sb - przekazać coś komuś
+take on - zatrudniać/nabywać/rywalizować
 
 wyrażenia:
 acquire new skills - nabyć nowe umiejętności
+be sacked - być wylanym/zwolnionym
 beg the question - nasuwać pytanie
+eternally grateful - dozgonnie wdzięczny
+fewer and fewer - coraz mniej
 get ahead - wyprzedzać/robić progres
 get the most out of sth - wykorzystać w pełni/jak najwiecej z czegoś mieć
+meet the deadline - dotrzymywać terminu/zmieścić się w terminie
+secure a job - zapewnić sobie pracę
 set the wheels in motion - wprawić koła w ruch/nadać sprawie bieg
 spark sb's interest - wywołać czyjeś zainteresowanie

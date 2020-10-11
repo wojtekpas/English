@@ -1,15 +1,21 @@
 rzeczowniki:
 absenteeism - niestawiennictwo/absencja
+backing - wsparcie/podkład/aprobata
+backside - tył
+beggar - żebrak
 casualisation - tendencje do zatrudniania czasowych zamiast stałych pracowników
 crackdown - rozprawa/represje/prześladowania
 creche - żłobek
 cut - redukcja/cięcie
 dismissal - zwolnienie/krytyka/zakończenie
 gardening - ogrodnictwo
+letterbox - skrzynka pocztowa
+nod - przytaknięcie/kiwnięcie/skinienie
 notice - zawiadomienie/wypowiedzenie/uprzedzenie
 nursing - pielęgniarstwo
 opposition - sprzeciw/przeciwnik/konkurencja
 perk - dodatek/gratis/dodatkowa korzyść
+sneaking - donosiciel/skarżypyta/podejrzany typ
 teaching - nauczanie
 tribunal - sąd/trybunał
 union - związek zawodowy
@@ -18,8 +24,13 @@ vitality - witalność/energia/żywotność/siła
 czasowniki:
 attract - przyciągnąć
 entertain - zabawić/podejmować/rozważać
+lean - przechylać się/odchylać się
 network - nawiązywać korzystne kontrakty
+owe - być winnym/dłużnym/musieć
+persuade - namawiać/przekonywać
 process - przetwarzać/przerabiać/rozpatrywać
+slump - osunąć się/zapaść się/opadać
+sneak - zakradać się/przymycać/zwędzić
 sponsor - fundować/ręczyć/przedkładać
 
 przymiotniki:
@@ -28,6 +39,8 @@ contractual - kontraktowy/wynikający z umowy
 day-to-day - codzienny/zwykły
 draining - wycieńczający
 grateful - wdzięczny
+jammy - fartowny/łatwy/przyjemny
+restless - niespokojny/nerowy
 statutory - statutowo/ustawowy/podlegający ustawie
 subsidised - dotowany
 swingeing - druzgocący/miażdzący
@@ -47,6 +60,7 @@ particularly - szczególnie
 reasonably - rozsądnie/słusznie/w miarę/dosyć/całkiem
 relatively - relatywnie/stosunkowo/względnie
 remotely - trochę/w niewielkim stopniu/na odludziu
+uncomfortably - niewygodnie/niezręcznie
 utterly - całkowicie/zupełnie/kompletnie
 
 rzeczowniki złożone:
@@ -65,6 +79,7 @@ drain away - odpływać/odprowadzać
 drift off - stopniowo zasypiać/odpływiać
 hang over sth - wisieć nad czymś
 pass sth on to sb - przekazać coś komuś
+stare at sth - gapic się na coś
 take on - zatrudniać/nabywać/rywalizować
 
 wyrażenia:
@@ -74,8 +89,12 @@ beg the question - nasuwać pytanie
 eternally grateful - dozgonnie wdzięczny
 fewer and fewer - coraz mniej
 get ahead - wyprzedzać/robić progres
+get sth straight - dobrze coś zrozumiec/dobrze coś wyjaśnić
 get the most out of sth - wykorzystać w pełni/jak najwiecej z czegoś mieć
 meet the deadline - dotrzymywać terminu/zmieścić się w terminie
+out and about - poza domem
+put sb in contact with sb - ułatwić komuś kontakt z kimś
 secure a job - zapewnić sobie pracę
 set the wheels in motion - wprawić koła w ruch/nadać sprawie bieg
 spark sb's interest - wywołać czyjeś zainteresowanie
+why on earth - dlaczego u licha/po kiego grzyba

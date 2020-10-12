@@ -24,6 +24,8 @@ vitality - witalność/energia/żywotność/siła
 czasowniki:
 attract - przyciągnąć
 entertain - zabawić/podejmować/rozważać
+enthuse - zarażać entuzjazmem/zachwycać się
+fund - ufundowac/finansować
 lean - przechylać się/odchylać się
 network - nawiązywać korzystne kontrakty
 owe - być winnym/dłużnym/musieć
@@ -84,6 +86,7 @@ take on - zatrudniać/nabywać/rywalizować
 
 wyrażenia:
 acquire new skills - nabyć nowe umiejętności
+be about to do sth - mieć właśnie coś zrobić/zamiar coś zrobić
 be sacked - być wylanym/zwolnionym
 beg the question - nasuwać pytanie
 eternally grateful - dozgonnie wdzięczny
@@ -93,6 +96,7 @@ get sth straight - dobrze coś zrozumiec/dobrze coś wyjaśnić
 get the most out of sth - wykorzystać w pełni/jak najwiecej z czegoś mieć
 meet the deadline - dotrzymywać terminu/zmieścić się w terminie
 out and about - poza domem
+pain in the neck - być utrapieniem/wrzodem na tyłku
 put sb in contact with sb - ułatwić komuś kontakt z kimś
 secure a job - zapewnić sobie pracę
 set the wheels in motion - wprawić koła w ruch/nadać sprawie bieg

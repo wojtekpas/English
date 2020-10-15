@@ -1,6 +1,8 @@
 rzeczowniki:
 debutant - debiutant
+employment - zatrudnienie
 indication - wskazanie/objaw/oznaka
+onset - nadejście/początek
 rookie - żołtodziób/nowicjusz
 
 czasowniki:
@@ -15,8 +17,11 @@ przysłówki:
 instantaneously - natychmiast
 
 czasowniki złożone:
+burst onto sth - wędrzeć się szturmem na coś
 head in - wchodzić gdzieś/kierować się dokądś
+measure up - być wystarczająco dobrym/dorównywać
 settle in - zaaklimatyzować się/zaadaptować się
+take off - odnieść nagły sukces/wystartować/nabierać rozpędu
 throw oneself into sth - rzucić się w wir czegoś
 
 wyrażenia:
@@ -25,6 +30,7 @@ bear in mind - brać/wziąć pod uwagę
 fall from grace - popaść w niełaskę
 find one's feet - poczuć się pewnie/przyzwyczaić się
 get cold feet - przestraszyć się/stchórzyć/bać się
+get off on the wrong foot - źlę się rozpocząć
 hit the ground running - przystąpić do robienia czegoś bez ociągania się/zacząć odnosić sukcesy
 in no time - błyskawicznie/w mgnieniu oka
 jump to conclusions - wyciągnąć pochopne wnioski

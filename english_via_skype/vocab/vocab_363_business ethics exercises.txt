@@ -1,0 +1,64 @@
+rzeczowniki:
+accountability - odpowiedzialność/poczytalność/rozliczalność
+integrity - prawość/uczciwość/nienaruszalność
+lawsuit - proces sądowy
+prosecution - oskarżenie
+whistleblower - informator/demaskator/sygnalista
+
+czasowniki:
+bribe - dać łapówkę/przekupić
+compromise - kompromitować/narażać na szwank/ujawniać
+legitimise - legitymizować/legalizować/usprawiedliwiać/uzasadniać
+serve - słyżyć/obsługiwać
+
+przymiotniki:
+accountable - odpowiedzialny/zrozumiały
+controversial - kontrowersyjny
+disreputable - nędzny/niecny/haniebny/mający złą opinię/podejrzany
+ethical - etyczny/moralny
+fraudulent - oszukańczy/fałszywy/nieuczciwy
+illegal - nielegalny/bezprawny
+impartial - bezstronny/obiektywny/sprawiedliwy
+incorruptible - nieprzekupny
+law-abiding - praworządny
+legalised - poświadczony/uwierzytelniony
+legitimate - legalny/prawowity/prawy/słuszny
+partial - stronniczy
+principled - kierujący się zasadami/uzasadniony
+reputable - zaszczytny/poważany/szanowany/renomowany
+scrupulous - uczciwy/sumienny
+unaccountable - niewytłumaczalny/niezrozumiały/nie tłumaczący się
+uncontroversial - niekontrowersyjny
+underhand - oszukańczy/podstępny
+unethical - nieetyczny
+unprincipled - bez zasad/pozbawiony skrupułów
+unscrupulous - nie mający skrupułów/nie przebierający w środkach
+vulnerable - bezbronny/wrażliwy/czuły
+
+przysłówki:
+lawfully - legalnie/zgodnie z prawem
+
+rzeczowniki złożone:
+mission statement - hasło przewodnie/myśl przewodnia
+
+czasowniki złożone:
+carry sth out - przeprowadzać/realizować/wykonywać coś
+communicate - przekazywać/komunikować/porozumiewać się
+cut off - odcinać/odseparować
+face up to sth - stawiać czoła czemuś/pogodzić się z czymś
+fall into sth - wpaść w coś/rozpocząć coś przypadkowo
+get across to sb - dotrzeć do kogoś
+get sth across to sb - wywoływać oddźwięk
+kick off sth - rozpoczynać/zacząć coś
+manage to do sth - dać radę coś zrobić
+phase sth out - wycofywać coś stopniowo/etapami/odstawiać coś
+set sth out - przedstawiać/wyożyć coś/określać
+shy away from sth - odsunąć się od czegoś/wycofać się z czegoś
+turn sb off - odrzucać kogoś
+work out - sprawdzać/powieść/udawać się
+
+wyrażenia:
+be liable to sth - podlegać czemuś
+follow suit - naśladować/iść za przykładem/postąpić tak samo
+little by little - stopniowo/po trochu/powoli
+mark somebody out as - uczynić kogoś/wyróżniać kogoś jako

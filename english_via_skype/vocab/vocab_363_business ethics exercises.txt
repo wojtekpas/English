@@ -1,22 +1,28 @@
 rzeczowniki:
 accountability - odpowiedzialność/poczytalność/rozliczalność
+governance - kierowanie/zarządzanie
 integrity - prawość/uczciwość/nienaruszalność
 lawsuit - proces sądowy
 prosecution - oskarżenie
 whistleblower - informator/demaskator/sygnalista
 
 czasowniki:
+allege - zarzucać/pomawiać/powoływać
 bribe - dać łapówkę/przekupić
+chair - przewodniczyć/prowadzić
 compromise - kompromitować/narażać na szwank/ujawniać
 legitimise - legitymizować/legalizować/usprawiedliwiać/uzasadniać
 serve - słyżyć/obsługiwać
 
 przymiotniki:
 accountable - odpowiedzialny/zrozumiały
+alleged - rzekomy/przypuszczalny/domniemany
 controversial - kontrowersyjny
 disreputable - nędzny/niecny/haniebny/mający złą opinię/podejrzany
 ethical - etyczny/moralny
 fraudulent - oszukańczy/fałszywy/nieuczciwy
+fuzzy - rozmyty/niewyraźny/zamazany
+hollow - pusty/bezwartościowy
 illegal - nielegalny/bezprawny
 impartial - bezstronny/obiektywny/sprawiedliwy
 incorruptible - nieprzekupny
@@ -36,15 +42,19 @@ unscrupulous - nie mający skrupułów/nie przebierający w środkach
 vulnerable - bezbronny/wrażliwy/czuły
 
 przysłówki:
+curiously - interesująco/niezwykle/z ciekawością
 lawfully - legalnie/zgodnie z prawem
 
 rzeczowniki złożone:
+good governance - dobre rządzenie
+hollow words - puste słowa
 mission statement - hasło przewodnie/myśl przewodnia
 
 czasowniki złożone:
 carry sth out - przeprowadzać/realizować/wykonywać coś
+come forward - przychodzić z pomocą/zgłaszać się/ujawnić się
 communicate - przekazywać/komunikować/porozumiewać się
-cut off - odcinać/odseparować
+cut sb off - oddzielić/odseparować kogoś
 face up to sth - stawiać czoła czemuś/pogodzić się z czymś
 fall into sth - wpaść w coś/rozpocząć coś przypadkowo
 get across to sb - dotrzeć do kogoś
@@ -52,10 +62,10 @@ get sth across to sb - wywoływać oddźwięk
 kick off sth - rozpoczynać/zacząć coś
 manage to do sth - dać radę coś zrobić
 phase sth out - wycofywać coś stopniowo/etapami/odstawiać coś
-set sth out - przedstawiać/wyożyć coś/określać
+set sth out - przedstawiać/wyłożyć coś/określać
 shy away from sth - odsunąć się od czegoś/wycofać się z czegoś
 turn sb off - odrzucać kogoś
-work out - sprawdzać/powieść/udawać się
+work out - sprawdzać/powieść/udawać się/zrozumieć coś
 
 wyrażenia:
 be liable to sth - podlegać czemuś

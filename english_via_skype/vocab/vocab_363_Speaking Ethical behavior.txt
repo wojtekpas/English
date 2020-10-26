@@ -7,6 +7,7 @@ czasowniki:
 aggravate - pogarczać/utrudniać
 
 przymiotniki:
+crafty - chytry/przebiegły
 cunning - chytry/przebiegły/cwany
 long-lasting - długotrwały
 passing - przelotny/chwilony/przemijający
@@ -21,7 +22,7 @@ tails back - ciągnąć się/rozciągac się
 
 wyrażenia:
 at all costs - za wszelką cenę
-erase impression - zlikwodować/wyeliminować/wymazywać
+erase impression - zatrzeć wrażenie
 in the pursuit of sth- w pogoni za czymś
 leave a bad taste in one's mouth - pozostawic niesmak
 play hardball - grać ostro/nie fair

@@ -1,12 +1,18 @@
 rzeczowniki:
 adverbial - okolicznik
+advocate - obrońca/adwokat
+capitalism - kapitalizm
 continuity - ciągłość
 downturn - schyłek/spadek/tendencja zniżkowa/spadek koniunktury
+envelope - koperta/powłoka
 harm - szkoda/krzywda
 premise - przesłanka/założenie
+struggle - walka/zmaganie/szarpanina
 voter - wyborca/głosujący
 
 czasowniki:
+benefit - zyskiwać/korzystać/odnosić korzyści
+deprive - pozbawiać
 evade - uchylić się/ignorować/pomijać/obchodzić/omijać
 premise - podawać z góry/zakładać
 
@@ -14,7 +20,9 @@ przymiotniki:
 adverbial - przysłówkowy
 better off - zamożniejszy/lepiej sytuowany/pomyślniejszy
 enlightened - postępowy/mądry/światły
+inward - skryty/wewnętrzny
 uncomplicated - prostolinijny/nieskomplikowany/prosty
+well-run - dobrze prosperujący
 
 przysłówki:
 remarkably - wybitnie/wielce/niezwykle
@@ -33,7 +41,9 @@ all things considered - ogólnie rzecz biorąc/podsumowując
 at least - co najmniej
 discharge debts - spłacać długi
 fall short of sth - nie dorównywać czemuś
+in the name of sth - w imię czegoś
 knock-on effect - efekt domina
 merely - zaledwie/jedynie/tylko
+out of fashion - niemodny
 simply put - mówiąc prosto/upraszczając/mówiąc wprost
 thus - stąd/tak więc/dlatego/w ten sposób/tym samym

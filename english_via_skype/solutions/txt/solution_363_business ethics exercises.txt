@@ -10,7 +10,7 @@ A)
 
 B)
 2. integrity
-3. 
+3. fraudulent
 4. incorruptible
 5. mission statement
 
@@ -18,11 +18,12 @@ C)
 2. illegal
 3. disreputable
 4. dishonest
-5. 
+5. unprincipled
 6. irresponsible
 7. unethical
 8. uncontroversial
 9. unaccountable
+10. impartial
 
 D)
 1. lawsuit

@@ -1,0 +1,58 @@
+rzeczowniki:
+detachment - obojętność/dystans/bezstronność/oddział
+disruption - zamęt/zakłocenie/pokrzyżowanie/przerwanie
+examination - rozpatrzenie/przesłuchanie/oględziny
+grounds - podstawy/przyczyny/uzasadnienie
+hitch - przeszkoda/szkopuł
+image - wizurunek/obraz/wyobrażenie
+judgement - osąd/ocena sytuacji
+means - środki/zasoby
+outlook - pogląd/pespektywy/widoki
+partaking - branie udziału/uczestniczenie
+priding - ucztowanie/świętowanie/bycie dumnym
+professional - fachowiec/zawodowiec
+rally - zbiórka
+significance - ważność/znaczenie/sens
+vision - widzenie/wizja/idea
+wreckage - szczątki/wrak/gruzy/ruiny
+
+czasowniki:
+assemble - montować/składać
+attain - zdobywać/osiągnąć/realizować
+attribute - przypisywac
+challange/podważyc/kwestionować
+debar - pozbawiać/wykluczać/zakazywać
+devise - opracować/wymyślić
+emerge - wyłaniać się/pojawiać się
+install - umieszczać/wprowadzać na urząd/stanowisko
+outgrow - wyrosnąć/przerosnąć
+outshine - zaćmić/przyćmić
+outstay - zostac dłużej niż ktoś inny
+
+przymiotniki:
+accredited - akredytowany/oficjalny
+brainless - idiotyczny/głupi/bezmózgi
+conscious - świadomy
+everlasting - wieczny
+outcast - odrzucony/wygnany
+unintelligent - nieinteligentny
+well-paid - dobrze płatny
+
+przysłówki:
+barely - ledwie
+promptly - bezzwłocznie/natychmiast
+
+czasowniki złożone:
+be over - skończyć/zakończyć się
+
+wyrażenia:
+go as far as to do sth - posunąć się do zrobienia czegoś
+or else - lub/w przeciwnym wypadku
+pride oneself on sth - szczycić się czymś
+right away - natychmiast od razu
+take something into consideration - brać coś pod uwagę
+under pressure - byc pod presją
+whereas - podczas gdy/natomiast/zważywszy że
+whereby - przez co/przy czym/z powodu którego
+wherein - w czym/w którym
+whereupon - na co/po czym

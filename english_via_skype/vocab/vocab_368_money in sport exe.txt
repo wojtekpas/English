@@ -6,12 +6,14 @@ grounds - podstawy/przyczyny/uzasadnienie
 hitch - przeszkoda/szkopuł
 image - wizurunek/obraz/wyobrażenie
 judgement - osąd/ocena sytuacji
+lawnmower - kosiarka do trawy
 means - środki/zasoby
 outlook - pogląd/pespektywy/widoki
 partaking - branie udziału/uczestniczenie
 priding - ucztowanie/świętowanie/bycie dumnym
 professional - fachowiec/zawodowiec
 rally - zbiórka
+resignation - rezygnacja/pogodzenie się
 significance - ważność/znaczenie/sens
 vision - widzenie/wizja/idea
 wreckage - szczątki/wrak/gruzy/ruiny
@@ -24,26 +26,70 @@ challange/podważyc/kwestionować
 debar - pozbawiać/wykluczać/zakazywać
 devise - opracować/wymyślić
 emerge - wyłaniać się/pojawiać się
+hurry  - spieszyć się/pospieszać
 install - umieszczać/wprowadzać na urząd/stanowisko
 outgrow - wyrosnąć/przerosnąć
 outshine - zaćmić/przyćmić
 outstay - zostac dłużej niż ktoś inny
 
 przymiotniki:
+absorbing - pasjonujący/wciągający
 accredited - akredytowany/oficjalny
+admirable - godny podziwu/zachwycający
+bitter - gorzki/dotkliwy/rozgoryczony/przejmujący/zacięty
 brainless - idiotyczny/głupi/bezmózgi
+capable - kompletny/sprawny/zdolny/umiejący coś zrobić
 conscious - świadomy
+desperate - zdesperowany/rozpaczliwy/beznadziejny
+elegant - elegancki/wytrorny/zgrabny
 everlasting - wieczny
+fascinating - fascynujący
+fatal - śmiertelny/rozstrzygający/decydujący/nieuchronny
+genuine - prawdziwy/szczery/uczciwy
+graceful - pełen gracji/powabny/elegancki
+horrible - obrzydliwy/potworny/koszmarny/nieprzyjemny
+idle - bezczynny/leniwy/bezpodsawny/daremny
+innocent - niewinny/przypadkowy/nieszkodliwy
+judicious - rozsądny/roztropny/pełen refleksji
+lazy - niedbały/niechlujny
+mean - złośliwy/wredny/podły/nędzny
+opposed - przeciwny
+ordinary - zwycajny/przeciętny
 outcast - odrzucony/wygnany
+painful - bolesny/obolały
+precise - precyzyjny/skrupulatny
+praiseworthy - chwalebny/godny pochwały
+specific - konkretny/szczegółowy/specyzowany
+terrible - fatalny/beznadziejny/straszliwy/przerażający
 unintelligent - nieinteligentny
 well-paid - dobrze płatny
+wise - rozsądny/cwany/chytry
 
 przysłówki:
 barely - ledwie
+deadly - śmiercionośny/całkowity/kompletny/trupi/grobowy
 promptly - bezzwłocznie/natychmiast
 
 czasowniki złożone:
 be over - skończyć/zakończyć się
+bring about sth - spowodować coś/doprowadzić do czegoś
+care about sth - przejmować się czymś/interesować się czymś
+do oneself up - ogarnąćsię
+do up sth - odnowić/udekurować
+get over sth - wyzdrowieć/dochodzić do siebie/przeboleć/radzić sobie
+get sth over - zakończyć się/mieć coś za sobą
+give sth away - rozdawać/wydawać coś
+hand sth in - złożyć/składać/oddawać coś
+make out - powodzić się
+make sth out - dostrzegać/zrozumieć coś
+put in for sth - ubiegać się o coś/zgłaszać się po coś
+put sb in for sth - zgłaszac kogoś do udziału w czymś
+run into sth - wpadać w coś/osiągnąć pewną ilość 
+set off - wyruszyć/rozpocząć
+stand out - odznaczać się/wyróżniać się/być lepszym od czegoś
+take over sth - zdobywać/przejmować/zawładnąć
+turn sth down - odrzucać coś
+wrap sth up - skończyć/zakończyć coś
 
 wyrażenia:
 go as far as to do sth - posunąć się do zrobienia czegoś

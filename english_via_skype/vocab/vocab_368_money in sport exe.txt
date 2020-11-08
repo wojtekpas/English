@@ -1,4 +1,7 @@
 rzeczowniki:
+clerk - sekretarz/urzędnik/zakrystian
+competitor - konkurent/uczestnik
+delight - wielka przyjemność/rozkosz/zachwyt
 detachment - obojętność/dystans/bezstronność/oddział
 disruption - zamęt/zakłocenie/pokrzyżowanie/przerwanie
 examination - rozpatrzenie/przesłuchanie/oględziny
@@ -8,18 +11,24 @@ image - wizurunek/obraz/wyobrażenie
 judgement - osąd/ocena sytuacji
 lawnmower - kosiarka do trawy
 means - środki/zasoby
+movement - ruch/manewr/zmiana/część
+objective - cel/zamiar/dążenie
 outlook - pogląd/pespektywy/widoki
 partaking - branie udziału/uczestniczenie
 priding - ucztowanie/świętowanie/bycie dumnym
+prime - okres rozkwitu/świetlności
 professional - fachowiec/zawodowiec
 rally - zbiórka
+rescue - ratunek
 resignation - rezygnacja/pogodzenie się
 significance - ważność/znaczenie/sens
 vision - widzenie/wizja/idea
 wreckage - szczątki/wrak/gruzy/ruiny
 
 czasowniki:
+admit - dopuszczać/przyjmować
 assemble - montować/składać
+attach - przywiązywać znaczenie/nadawać wazność
 attain - zdobywać/osiągnąć/realizować
 attribute - przypisywac
 challange/podważyc/kwestionować
@@ -28,18 +37,24 @@ devise - opracować/wymyślić
 emerge - wyłaniać się/pojawiać się
 hurry  - spieszyć się/pospieszać
 install - umieszczać/wprowadzać na urząd/stanowisko
+lend - pożyczać
+obtain - uzyskiwac/otrzymywać
 outgrow - wyrosnąć/przerosnąć
 outshine - zaćmić/przyćmić
 outstay - zostac dłużej niż ktoś inny
+retain - zachowywać/zatrzymywać
 
 przymiotniki:
 absorbing - pasjonujący/wciągający
+accomplished - znakomity/utalentowany
 accredited - akredytowany/oficjalny
 admirable - godny podziwu/zachwycający
 bitter - gorzki/dotkliwy/rozgoryczony/przejmujący/zacięty
 brainless - idiotyczny/głupi/bezmózgi
 capable - kompletny/sprawny/zdolny/umiejący coś zrobić
+charmed - oczarowany/zauroczony
 conscious - świadomy
+deserted - opuszczony/porzucony
 desperate - zdesperowany/rozpaczliwy/beznadziejny
 elegant - elegancki/wytrorny/zgrabny
 everlasting - wieczny
@@ -59,6 +74,7 @@ outcast - odrzucony/wygnany
 painful - bolesny/obolały
 precise - precyzyjny/skrupulatny
 praiseworthy - chwalebny/godny pochwały
+puzzled - zdezorientowany/zaintrygowany/zdziwiony
 specific - konkretny/szczegółowy/specyzowany
 terrible - fatalny/beznadziejny/straszliwy/przerażający
 unintelligent - nieinteligentny
@@ -70,7 +86,12 @@ barely - ledwie
 deadly - śmiercionośny/całkowity/kompletny/trupi/grobowy
 promptly - bezzwłocznie/natychmiast
 
+rzeczowniki złożone:
+hard time - męcząca praca/wycisk
+transistor radio - radio tranzystorowe
+
 czasowniki złożone:
+be opposed to sth - być przeciwnym czemuś
 be over - skończyć/zakończyć się
 bring about sth - spowodować coś/doprowadzić do czegoś
 care about sth - przejmować się czymś/interesować się czymś
@@ -80,6 +101,7 @@ get over sth - wyzdrowieć/dochodzić do siebie/przeboleć/radzić sobie
 get sth over - zakończyć się/mieć coś za sobą
 give sth away - rozdawać/wydawać coś
 hand sth in - złożyć/składać/oddawać coś
+have a hard time - mieć trudny okres w życiu
 make out - powodzić się
 make sth out - dostrzegać/zrozumieć coś
 put in for sth - ubiegać się o coś/zgłaszać się po coś
@@ -92,11 +114,18 @@ turn sth down - odrzucać coś
 wrap sth up - skończyć/zakończyć coś
 
 wyrażenia:
+cast a vote - głosować w wyborach
 go as far as to do sth - posunąć się do zrobienia czegoś
+go mad - wścieć się/oszaleć/wariować
+keep sb awake - nie pozwolić komuś zasnąć/pobudzać
+make somebody do sth - zmusić kogoś do zrobienia czegoś
+more and more - coraz bardziej/częściej/więcej
 or else - lub/w przeciwnym wypadku
 pride oneself on sth - szczycić się czymś
+receive education - otrzymać wykształcenie
 right away - natychmiast od razu
 take something into consideration - brać coś pod uwagę
+think of sth - myśleć o czymś/przychodzić do głowy
 under pressure - byc pod presją
 whereas - podczas gdy/natomiast/zważywszy że
 whereby - przez co/przy czym/z powodu którego

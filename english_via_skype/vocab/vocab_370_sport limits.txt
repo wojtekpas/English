@@ -1,0 +1,80 @@
+rzeczwoniki:
+advancement - postęp/rozwój
+alternative - alternatywa/wybór
+ambivalence - ambiwalencja/dwuznaczność/sprzeczność
+apprentice - praktykant
+aptitude - zdolność
+attaining - osiąganie/osiągnięcie
+backlog - zaległości
+betterment - polepszenie/poprawa
+bias - zainteresowanie/talent/nastawienie/uprzedzenie
+breakthrough - punkt zwrotny/przełom
+counterpart - odpowiednik/kopia/duplikat
+craftsmanship - kunszt/mistrzostwo
+discipline - dyscyplina
+enthusiast - entuzjasta/miłosnik
+equivalent - odpowiednik
+expertise - ekspertyza/wiedza specjalistyczna
+fancy - upodobanie/kaprys/fantazja/marzenie/mrzonka
+footmark - ślad
+headway - postęp
+heir - spadkobierca/dziedzic
+handicap - przeszkoda/utrudnienie/przeszkoda
+incentive - bodziec/motywacja/zachęta
+insight - wnikliwość/spostrzeżenie/obserwacja
+inspiration - inspiracja
+novelty - nowość/atrakcja
+preferences - preferencje
+prerequisite - warunek wstępny/zasadniczy/wymóg
+proficiency - wprawa/biegłość/kompetencja
+specifications - dokumentacja/warunki techniczne
+stroke - uderzenie/ruch
+successor - następca/dziedzic/spadkobierca
+taste - gust/upodobanie/przedsmak
+tendency - tendencja/skłonność/kierunek/zwyczaj
+zealot - zapaleniec/entuzjasta
+
+czasowniki:
+advance - rozwijać się/czynić postępy/posuwać się naprzód
+amplify - wzmocnić/zwiększać/rozszerzać
+imitate - imitować/naśladować
+prompt - sugerowac/nasiskać/powodować/doprowadzać/wywoływać
+release - zwolnić/ulzyć
+scrutinize - szczegółowo badać/analizować
+stimulate - przyspieszać/pobudzać/stymulować
+
+przymiotniki:
+ample - pokaźny/dostatecznie duży/sowity/obszerny
+astounding - zdumiewający
+erroneous - błędny/mylny
+enormous - olbrzymi/ogromny
+fabolous - bajeczny/fantastyczny
+keep-fit - gimnastyczny
+implicit - ukryty/bezwarunkowy/niezaprzeczalny
+inborn - wrodzony
+inherent - przyrodzony/nieodłączny
+initiate - zapoczątkować/inicjować/wprowadzać
+intricate - złożony/zawiły/skomplikowany
+invicible - niezwyciężowy/niazachwiany/stały
+inward - skryty/wewnętrzny
+primary - główny/podstawowy
+prodigious - ogromny/kolosalny
+profuse - obfity/wylewny
+remarkable - niezwykły/godny uwagi/wybitny
+superflous - zbędny/nadmiern/niepotrzebny
+superlative - doskonały/znakomity
+ultimate - najlepszy/najwyższy/ostateczny
+
+rzecznowniki złożone:
+flash point - punkt zapalny/krytyczny
+quantum leap - krok milowy
+
+czasowniki złożone:
+amount to sth - wynosic coś/równać się czemuś
+crop up - pojawiać się/przewijać się
+jot sth down - zanotować
+spark sth off - wywołać/wywoływać coś
+spur sb on - ponaglać kogoś/dopingować kogoś
+
+wyrażenia:
+get to the top - dostać się na szczyt

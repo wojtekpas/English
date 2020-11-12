@@ -112,7 +112,7 @@ set off - wyruszyć/rozpocząć
 stand out - odznaczać się/wyróżniać się/być lepszym od czegoś
 take over sth - zdobywać/przejmować/zawładnąć
 turn sth down - odrzucać coś
-wrap sth up - skończyć/zakończyć coś
+wrap up - ubrać
 
 wyrażenia:
 cast a vote - głosować w wyborach

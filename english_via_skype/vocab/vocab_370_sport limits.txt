@@ -1,5 +1,7 @@
 rzeczwoniki:
+abandonment - opuszczenie/porzucenie
 advancement - postęp/rozwój
+allegement - insunuowanie/oskarżenie
 alternative - alternatywa/wybór
 ambivalence - ambiwalencja/dwuznaczność/sprzeczność
 apprentice - praktykant
@@ -9,12 +11,19 @@ backlog - zaległości
 betterment - polepszenie/poprawa
 bias - zainteresowanie/talent/nastawienie/uprzedzenie
 breakthrough - punkt zwrotny/przełom
+carrier - transporter/przewoźnik
 counterpart - odpowiednik/kopia/duplikat
 craftsmanship - kunszt/mistrzostwo
+deployment - wdrożenie/zastosowanie/rozlokowanie
+destruction - zniszczenie/zagłada
 discipline - dyscyplina
+dispute - spór/kłótnia/sprzeczka
+embryology - embriologia
+engineering - inżynieria
 enthusiast - entuzjasta/miłosnik
 equivalent - odpowiednik
 expertise - ekspertyza/wiedza specjalistyczna
+extent - zakres/rozmiar/obszar
 fancy - upodobanie/kaprys/fantazja/marzenie/mrzonka
 footmark - ślad
 headway - postęp
@@ -23,7 +32,11 @@ handicap - przeszkoda/utrudnienie/przeszkoda
 incentive - bodziec/motywacja/zachęta
 insight - wnikliwość/spostrzeżenie/obserwacja
 inspiration - inspiracja
+instalment - rata
+merit - wartość/zaleta/zasługa
 novelty - nowość/atrakcja
+outbreak - wybuch
+partridge - kuropatwa
 preferences - preferencje
 prerequisite - warunek wstępny/zasadniczy/wymóg
 proficiency - wprawa/biegłość/kompetencja
@@ -32,11 +45,16 @@ stroke - uderzenie/ruch
 successor - następca/dziedzic/spadkobierca
 taste - gust/upodobanie/przedsmak
 tendency - tendencja/skłonność/kierunek/zwyczaj
+torpedo - torpeda
+troops - żółnierze/wojsko/oddziały
 zealot - zapaleniec/entuzjasta
 
 czasowniki:
 advance - rozwijać się/czynić postępy/posuwać się naprzód
+allege - zarzucać/pomawiac/utrzymywać/twierdzić
 amplify - wzmocnić/zwiększać/rozszerzać
+dispute - kwestionować/spierać się
+enchant - oczarować/zauroczyć
 imitate - imitować/naśladować
 prompt - sugerowac/nasiskać/powodować/doprowadzać/wywoływać
 release - zwolnić/ulzyć
@@ -46,6 +64,8 @@ stimulate - przyspieszać/pobudzać/stymulować
 przymiotniki:
 ample - pokaźny/dostatecznie duży/sowity/obszerny
 astounding - zdumiewający
+courteous - uprzejmy
+disputed - sporny
 erroneous - błędny/mylny
 enormous - olbrzymi/ogromny
 fabolous - bajeczny/fantastyczny
@@ -57,6 +77,8 @@ initiate - zapoczątkować/inicjować/wprowadzać
 intricate - złożony/zawiły/skomplikowany
 invicible - niezwyciężowy/niazachwiany/stały
 inward - skryty/wewnętrzny
+peacekeeping - pokojowy
+predictable - przewidywalny
 primary - główny/podstawowy
 prodigious - ogromny/kolosalny
 profuse - obfity/wylewny
@@ -66,8 +88,10 @@ superlative - doskonały/znakomity
 ultimate - najlepszy/najwyższy/ostateczny
 
 rzecznowniki złożone:
+aircraft carrier - lotniskowiec
 flash point - punkt zapalny/krytyczny
 quantum leap - krok milowy
+trouble spot - punkt zapalny
 
 czasowniki złożone:
 amount to sth - wynosic coś/równać się czemuś
@@ -77,4 +101,5 @@ spark sth off - wywołać/wywoływać coś
 spur sb on - ponaglać kogoś/dopingować kogoś
 
 wyrażenia:
+court of justice - trybunał sprawiedliwości
 get to the top - dostać się na szczyt

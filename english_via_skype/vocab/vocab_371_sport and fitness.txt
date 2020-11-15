@@ -1,0 +1,31 @@
+rzeczowniki:
+charging - policzenie/pobranie/oskarżanie
+exhaustion - zmęczenie/wyczerpanie/zużycie
+kickabout - kopanie/odbijanie piłki
+lunatic - obłąkaniec/szaleniec/wariat
+undertow - prąd przeciwny podpowierzchniowy/podłoże
+virgin - nowicjusz/kot/żółtodziób
+whacking - łomot
+
+czasowniki:
+drown - topić się/tonąć/zanurzac/zapijać
+hack - ciosać/rąbać/dać radę/poradzić sobie
+
+przymiotniki:
+blasted - cholerny/porażony/zwiędły
+challenging - stawiający wysokie wymagania/ambitny/prowokujący
+obsessive - natrętny/obsesyjny
+off-piste - poza wyznaczonymi trasami
+virgin - dziewiczy
+whacking - gigantyczny/kolosalny
+
+czasowniki złożone:
+fall apart - rozpaść się/zakończyć się
+hack sth down - zrąbać/wyciąć coś
+
+wyrażenia:
+all the way - na całość/aż do skutku
+be obsessive about sth - mieć obsesję na punkcie czegoś
+beat personal best - pobic rekord życiowy
+load of something - mnóstwo/masa czegoś
+the runs - rozwolnienie/biegunka

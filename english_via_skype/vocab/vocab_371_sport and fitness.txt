@@ -1,31 +1,76 @@
 rzeczowniki:
+astonishment - zdumienie/zdziwienie
 charging - policzenie/pobranie/oskarżanie
+crutch - krocze/krok/kula ortopedyczna/oparcie/podpora
+cynicism - cynizm
+delight - wielka przyjemność/zachwyt/rozkosz
+dismay - niepokój/konsternacja/przerażenie
+dissent - różnica zdań/sprzeciw/zdanie odrębne/odstępstwo
 exhaustion - zmęczenie/wyczerpanie/zużycie
+housing - mieszkania/warunki mieszkaniowe/gospodarska mieszkaniowa
 kickabout - kopanie/odbijanie piłki
 lunatic - obłąkaniec/szaleniec/wariat
+mixture - mieszanka/mieszanina
+outrage - oburzenie/obraza/zniewaga
+poverty - bieda/ubóstwo
+pride - duma/pycha
+rife - częsty/powszechny/pełny/obfitujący
+rift - rozdźwięk/rysa
+sum - istota
+tension - napięcie
 undertow - prąd przeciwny podpowierzchniowy/podłoże
 virgin - nowicjusz/kot/żółtodziób
 whacking - łomot
 
 czasowniki:
+breed - rozmnozyć się/hodować/zrodzić/spowodować
+dominate - dominować/wyróżniać się
 drown - topić się/tonąć/zanurzac/zapijać
+extinguish - gasić/tłumić/skasować/zniszczyć
 hack - ciosać/rąbać/dać radę/poradzić sobie
+hail - pochwalić/przywołać/witać się/salutować
+spark - iskrzyć/wzniecać/wyzwalać/stymulować/powodować
 
 przymiotniki:
 blasted - cholerny/porażony/zwiędły
 challenging - stawiający wysokie wymagania/ambitny/prowokujący
+civic - miejski/obywatelski
+civilised - cywilizowany/kulturalny/wyrobiony/przyzwoity
+conversational - gawędziarski/potoczny
+extinguished - wygaszony/ugaszony
 obsessive - natrętny/obsesyjny
+mind-numbing - otępiający/bardzo nudny
+noncompetitive - nieambitny/niekonkurencyjny/niewyczynowy
 off-piste - poza wyznaczonymi trasami
+unprecedented - bezprecedensowy/niespotykany
 virgin - dziewiczy
 whacking - gigantyczny/kolosalny
+widespread - powszechny/rozległy/o szerokim zasięgu
+
+przysłówki:
+purely - tylko/wyłącznie/całkowicie/zupełnie/czysto
+undoubtedly - niewątpliwie/bez wątpienia
+unsurprisingly - spodziewanie
+
+rzeczowniki złożone:
+channel surfing - skakanie po programach
+council tax - podatek lokalny/komunalny
+serious matter - ważna sprawa
 
 czasowniki złożone:
+come to do sth - zacząć coś robić
 fall apart - rozpaść się/zakończyć się
 hack sth down - zrąbać/wyciąć coś
+pick oneself up - podnieść się/wstać
+saddled sb with sth - obciążać/obarczać kogoś czymś
 
 wyrażenia:
 all the way - na całość/aż do skutku
 be obsessive about sth - mieć obsesję na punkcie czegoś
+be rife - szerzyć się/rozpowszechniać się
 beat personal best - pobic rekord życiowy
+drain on sth - obciążenie dla czegoś
+fear of sth - strach przed czymś
+horses for courses - należy wybierać odpowiednie osoby
 load of something - mnóstwo/masa czegoś
 the runs - rozwolnienie/biegunka

@@ -1,23 +1,35 @@
 rzeczowniki:
 astonishment - zdumienie/zdziwienie
+bait - przynęta/pokusa
+banter - prześmiechy/żarty/żarciki
+belt - pasek/pas
 charging - policzenie/pobranie/oskarżanie
+chestnut - kasztan/kasztanowiec
 crutch - krocze/krok/kula ortopedyczna/oparcie/podpora
 cynicism - cynizm
 delight - wielka przyjemność/zachwyt/rozkosz
 dismay - niepokój/konsternacja/przerażenie
 dissent - różnica zdań/sprzeciw/zdanie odrębne/odstępstwo
 exhaustion - zmęczenie/wyczerpanie/zużycie
+goalpost - słupek bramki
 housing - mieszkania/warunki mieszkaniowe/gospodarska mieszkaniowa
 kickabout - kopanie/odbijanie piłki
+landlord - gospodarz/właściciel
+likelihood - prawdopodobieństwo
 lunatic - obłąkaniec/szaleniec/wariat
 mixture - mieszanka/mieszanina
+moron - debil/kretyn
+odds - szanse/prawdopodobieństwo/los/trudności
 outrage - oburzenie/obraza/zniewaga
+possibility - możliwość/prawdopodobieństwo
 poverty - bieda/ubóstwo
 pride - duma/pycha
+probability - prawdopodobieństwo
 rife - częsty/powszechny/pełny/obfitujący
 rift - rozdźwięk/rysa
 sum - istota
 tension - napięcie
+turnout - frekwencja
 undertow - prąd przeciwny podpowierzchniowy/podłoże
 virgin - nowicjusz/kot/żółtodziób
 whacking - łomot
@@ -27,9 +39,14 @@ breed - rozmnozyć się/hodować/zrodzić/spowodować
 dominate - dominować/wyróżniać się
 drown - topić się/tonąć/zanurzac/zapijać
 extinguish - gasić/tłumić/skasować/zniszczyć
+fulfilled - spełniony/zadowolony/zaspokojony
+guess - sądzić
 hack - ciosać/rąbać/dać radę/poradzić sobie
 hail - pochwalić/przywołać/witać się/salutować
+rejuvenate - odnowić/odmłodzić/ożywić
+relegate - degradować/przenosić/spadać do niższej ligi/zsyłać
 spark - iskrzyć/wzniecać/wyzwalać/stymulować/powodować
+subsidise - subwencjować/dotować
 
 przymiotniki:
 blasted - cholerny/porażony/zwiędły
@@ -37,12 +54,23 @@ challenging - stawiający wysokie wymagania/ambitny/prowokujący
 civic - miejski/obywatelski
 civilised - cywilizowany/kulturalny/wyrobiony/przyzwoity
 conversational - gawędziarski/potoczny
+distinct - różny/odmienny/wyraźny/znaczny
 extinguished - wygaszony/ugaszony
+farming - gospodarski
+feeble - słaby/nikły/marny
+gorgous - olśniewający/zachwycający/cudowny
+gutsy - waleczny/odważny/pełen wigoru
 obsessive - natrętny/obsesyjny
 mind-numbing - otępiający/bardzo nudny
 noncompetitive - nieambitny/niekonkurencyjny/niewyczynowy
 off-piste - poza wyznaczonymi trasami
+skinny - chudy/wychudzony
+slender - smukły/szczupły/skromny
+slim - nikły/niewielki/cienki
+tribal - plemienny
+underrated - niedoceniony
 unprecedented - bezprecedensowy/niespotykany
+up-and-coming - dobrze zapowiadający się/obiecujący
 virgin - dziewiczy
 whacking - gigantyczny/kolosalny
 widespread - powszechny/rozległy/o szerokim zasięgu
@@ -55,7 +83,11 @@ unsurprisingly - spodziewanie
 rzeczowniki złożone:
 channel surfing - skakanie po programach
 council tax - podatek lokalny/komunalny
+playing field - boisko sportowe/stadion
+self-belief - wiara w siebie
 serious matter - ważna sprawa
+the runs - rozwolnienie/biegunka
+the weak link - najsłabsze ogiwo
 
 czasowniki złożone:
 come to do sth - zacząć coś robić
@@ -67,10 +99,21 @@ saddled sb with sth - obciążać/obarczać kogoś czymś
 wyrażenia:
 all the way - na całość/aż do skutku
 be obsessive about sth - mieć obsesję na punkcie czegoś
+be par for the course - być do przewidzenia
 be rife - szerzyć się/rozpowszechniać się
 beat personal best - pobic rekord życiowy
+below the belt - poniżej pasa
 drain on sth - obciążenie dla czegoś
 fear of sth - strach przed czymś
 horses for courses - należy wybierać odpowiednie osoby
+in all likelihood/probability - najprawdopodobniej
+keep one's head above  water - utrzymywać się na powierzchni
+level playing field - zapewnienie wszystkim wyrównanych szans
 load of something - mnóstwo/masa czegoś
-the runs - rozwolnienie/biegunka
+move the goalposts - zmieniać reguły gry
+not pull any punches - walić prosto z mostu/obchodzić się z czymś bez ogródek
+off the rails - postrzelony/stuknięty
+over from sth - z jakiegoś miejsca
+rise to the bait - połknąć haczyk
+the ball is in sb's court - czyjść ruch/kolej/piłka jest po czyjejś stronie
+touch base - skontaktować się z kimś/spotkać się z kimś

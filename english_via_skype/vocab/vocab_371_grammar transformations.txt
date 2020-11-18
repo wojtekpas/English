@@ -1,0 +1,32 @@
+rzeczowniki:
+contempt - pogada
+grounds - podstawy/przyczyny/uzasadnienie
+hairdo - fryzura/uczesanie/fryz
+hook - psy/gliny/policja
+miner - górnik
+pinnacle - szczyt/wierzchołek
+pride - duma/pycha
+thumb - kciuk
+treating - rozważanie/zabezpieczanie/leczenie
+vinegar - ocet
+
+czasowniki:
+overstate - przecenić/wyolbrzymić/zawyżyć
+spare - dawać/poświęcać/oszczędzać
+weigh - rozważać/porównywac/ważyć
+
+przymiotniki:
+altered - zmieniony
+proud - dumny/pyszny
+sheer - najwyklejszy/czysty/sam/stromy
+
+czasowniki złożone:
+turn away - odwrócić się
+
+wyrażenia:
+albeit - aczkolwiek/chociaż/jednak
+bear in mind - brać/wziąć pod uwagę
+drop a case - wycofać sprawę z sądu
+in one's view - w czyimś odczuciu
+in sb's view - czyimś zdaniem
+weigh up pros and cons - rozważać za i przeciw

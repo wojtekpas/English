@@ -57,7 +57,7 @@ dispute - kwestionować/spierać się
 enchant - oczarować/zauroczyć
 imitate - imitować/naśladować
 prompt - sugerowac/nasiskać/powodować/doprowadzać/wywoływać
-release - zwolnić/ulzyć
+release - zwolnić/ulżyć
 scrutinize - szczegółowo badać/analizować
 stimulate - przyspieszać/pobudzać/stymulować
 

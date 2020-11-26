@@ -18,7 +18,7 @@ weigh - rozważać/porównywac/ważyć
 przymiotniki:
 altered - zmieniony
 proud - dumny/pyszny
-sheer - najwyklejszy/czysty/sam/stromy
+sheer - najzwyklejszy/czysty/sam/stromy
 
 czasowniki złożone:
 turn away - odwrócić się

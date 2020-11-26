@@ -1,15 +1,19 @@
 rzeczowniki:
+archery - łucznictwo
 astonishment - zdumienie/zdziwienie
 bait - przynęta/pokusa
 banter - prześmiechy/żarty/żarciki
 belt - pasek/pas
 charging - policzenie/pobranie/oskarżanie
 chestnut - kasztan/kasztanowiec
+consumerism - konsumpcjonizm
+counterpart - odpowednik/kopia/duplikat
 crutch - krocze/krok/kula ortopedyczna/oparcie/podpora
 cynicism - cynizm
 delight - wielka przyjemność/zachwyt/rozkosz
 dismay - niepokój/konsternacja/przerażenie
 dissent - różnica zdań/sprzeciw/zdanie odrębne/odstępstwo
+escapism - ucieczka do krainy marzeń
 exhaustion - zmęczenie/wyczerpanie/zużycie
 goalpost - słupek bramki
 housing - mieszkania/warunki mieszkaniowe/gospodarska mieszkaniowa
@@ -25,10 +29,14 @@ possibility - możliwość/prawdopodobieństwo
 poverty - bieda/ubóstwo
 pride - duma/pycha
 probability - prawdopodobieństwo
+release - uwolnienie/wyzwolenie
 rife - częsty/powszechny/pełny/obfitujący
 rift - rozdźwięk/rysa
+roost - grzęda/schronienie
+saturation - nasycenie
 sum - istota
 tension - napięcie
+trampolining - ćwiczenia na trampolinie/batucie
 turnout - frekwencja
 undertow - prąd przeciwny podpowierzchniowy/podłoże
 virgin - nowicjusz/kot/żółtodziób
@@ -39,10 +47,14 @@ breed - rozmnozyć się/hodować/zrodzić/spowodować
 dominate - dominować/wyróżniać się
 drown - topić się/tonąć/zanurzac/zapijać
 extinguish - gasić/tłumić/skasować/zniszczyć
+fuel - podsycać/napędzać
 fulfilled - spełniony/zadowolony/zaspokojony
+grab - łapać/chwytać/brać
 guess - sądzić
 hack - ciosać/rąbać/dać radę/poradzić sobie
 hail - pochwalić/przywołać/witać się/salutować
+lament - opłakiwać/ubolewać
+portray - przestawiać/ukazywać
 rejuvenate - odnowić/odmłodzić/ożywić
 relegate - degradować/przenosić/spadać do niższej ligi/zsyłać
 spark - iskrzyć/wzniecać/wyzwalać/stymulować/powodować
@@ -54,23 +66,32 @@ challenging - stawiający wysokie wymagania/ambitny/prowokujący
 civic - miejski/obywatelski
 civilised - cywilizowany/kulturalny/wyrobiony/przyzwoity
 conversational - gawędziarski/potoczny
+cut-throat - zaciekły/okrutny
+disparate - odmienny/różny
 distinct - różny/odmienny/wyraźny/znaczny
 extinguished - wygaszony/ugaszony
 farming - gospodarski
 feeble - słaby/nikły/marny
 gorgous - olśniewający/zachwycający/cudowny
 gutsy - waleczny/odważny/pełen wigoru
-obsessive - natrętny/obsesyjny
+long-standing - długotrwały
+malign - szkodliwy/złośliwy
 mind-numbing - otępiający/bardzo nudny
 noncompetitive - nieambitny/niekonkurencyjny/niewyczynowy
+obsessive - natrętny/obsesyjny
 off-piste - poza wyznaczonymi trasami
+ruthless - bezlitosny/bezwględny
+salutary - pożyczny/zbawienny
 skinny - chudy/wychudzony
 slender - smukły/szczupły/skromny
 slim - nikły/niewielki/cienki
+terrestrial - ziemski/lądowy/ziemny
 tribal - plemienny
 underrated - niedoceniony
 unprecedented - bezprecedensowy/niespotykany
+unsavoury - podejrzany/nieprzyjemny
 up-and-coming - dobrze zapowiadający się/obiecujący
+utter - kompletny/całkowity
 virgin - dziewiczy
 whacking - gigantyczny/kolosalny
 widespread - powszechny/rozległy/o szerokim zasięgu
@@ -81,6 +102,7 @@ undoubtedly - niewątpliwie/bez wątpienia
 unsurprisingly - spodziewanie
 
 rzeczowniki złożone:
+binge drinking - szybkie picie
 channel surfing - skakanie po programach
 council tax - podatek lokalny/komunalny
 playing field - boisko sportowe/stadion
@@ -93,11 +115,13 @@ czasowniki złożone:
 come to do sth - zacząć coś robić
 fall apart - rozpaść się/zakończyć się
 hack sth down - zrąbać/wyciąć coś
+muscle in - wpakować/wpychać się
 pick oneself up - podnieść się/wstać
 saddled sb with sth - obciążać/obarczać kogoś czymś
 
 wyrażenia:
 all the way - na całość/aż do skutku
+be a good loser - umieć przegrywać
 be obsessive about sth - mieć obsesję na punkcie czegoś
 be par for the course - być do przewidzenia
 be rife - szerzyć się/rozpowszechniać się
@@ -112,9 +136,14 @@ keep one's head above  water - utrzymywać się na powierzchni
 level playing field - zapewnienie wszystkim wyrównanych szans
 load of something - mnóstwo/masa czegoś
 move the goalposts - zmieniać reguły gry
+neck and neck - łeb w łeb/równo
 not pull any punches - walić prosto z mostu/obchodzić się z czymś bez ogródek
 off the rails - postrzelony/stuknięty
+on end - ciągle/bez przerwy
+on top of that - poza tym/w dodatku
 over from sth - z jakiegoś miejsca
 rise to the bait - połknąć haczyk
 the ball is in sb's court - czyjść ruch/kolej/piłka jest po czyjejś stronie
+run-up to sth - ostatnia prosta przed czymś
+throw in the towel - rzucić ręcznik/poddać się
 touch base - skontaktować się z kimś/spotkać się z kimś

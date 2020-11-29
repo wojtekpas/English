@@ -43,9 +43,11 @@ virgin - nowicjusz/kot/żółtodziób
 whacking - łomot
 
 czasowniki:
+blast - spustoszyć/zniszczyć/ryknąć/surowo skrytykować
 breed - rozmnozyć się/hodować/zrodzić/spowodować
 dominate - dominować/wyróżniać się
 drown - topić się/tonąć/zanurzac/zapijać
+enliven - ożywiać/ożywić
 extinguish - gasić/tłumić/skasować/zniszczyć
 fuel - podsycać/napędzać
 fulfilled - spełniony/zadowolony/zaspokojony
@@ -105,6 +107,7 @@ rzeczowniki złożone:
 binge drinking - szybkie picie
 channel surfing - skakanie po programach
 council tax - podatek lokalny/komunalny
+opinion poll - badanie opinii publicznej
 playing field - boisko sportowe/stadion
 self-belief - wiara w siebie
 serious matter - ważna sprawa
@@ -123,6 +126,7 @@ wyrażenia:
 all the way - na całość/aż do skutku
 be a good loser - umieć przegrywać
 be obsessive about sth - mieć obsesję na punkcie czegoś
+be out of one's depth - stracić grunt pod nogami/gubić się
 be par for the course - być do przewidzenia
 be rife - szerzyć się/rozpowszechniać się
 beat personal best - pobic rekord życiowy
@@ -143,6 +147,8 @@ on end - ciągle/bez przerwy
 on top of that - poza tym/w dodatku
 over from sth - z jakiegoś miejsca
 rise to the bait - połknąć haczyk
+saved by the bell - o mały włos
+swim against the tide - płynąć pod prąd
 the ball is in sb's court - czyjść ruch/kolej/piłka jest po czyjejś stronie
 run-up to sth - ostatnia prosta przed czymś
 throw in the towel - rzucić ręcznik/poddać się

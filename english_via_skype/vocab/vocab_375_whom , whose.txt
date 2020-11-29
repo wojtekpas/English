@@ -1,0 +1,34 @@
+rzeczowniki:
+contribution - datek/składka
+loaf - bochenek
+possesive - dopełniacz
+pronoun - zaimek
+proverb - przysłowie
+
+czasowniki:
+please - życzyc sobie/dogadzać/zadowalać
+
+przymiotniki:
+bureaucratic - biurokratyczny
+possesive - dzierżawczy
+
+przysłówki:
+fairly - raczej/całkowicie/prawie
+intensely - intensywnie
+
+zaimki:
+by when - wtedy
+in which - w którym/której
+since when - od kiedy
+whom - kogo/którego
+whose - czyj/czyja/który/którego
+
+rzeczowniki złożone:
+star sign - znak zodiaku
+
+wyrażenia:
+defining relative clause - zdanie przydawkowe określające
+loads of sth - mnóstwo czegoś
+non-defining relative clause - zdanieprzydawkowe opisujące
+several of sth - parę czegoś
+under the circumstances - w takim wypadku

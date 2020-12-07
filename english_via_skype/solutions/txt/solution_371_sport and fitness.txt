@@ -1,5 +1,20 @@
+2)
+1. b
+2. e
+3. c
+4. a
+5. d
+6. f
+
+7. k
+8. j
+9. i
+10. l
+11. g
+12. h
+
 5)
-1. level playing field
+1. playing field
 2. sights
 3. course
 4. punches
@@ -26,9 +41,10 @@ d. small ... will run a marathon someday
 e. Poland's victory during Euro
 
 1)
-1. obsessive, , , virgin
-2. kickabout, , dribbled, hack
-3. , , drown, 
-4. beat,
-5. 
-6. 
+1 - 1. obsessive 2. challenging 3. off-piste 4. virgin
+2 - 1. kickabout 2. charging 3. dribbled 4. hacked 
+3 - 1. flipped 2. undertow 3. dragged under 4. drown
+
+4 - 1. beat
+5 - 1. 
+6 - 1. 

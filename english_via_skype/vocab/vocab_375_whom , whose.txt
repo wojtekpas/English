@@ -1,5 +1,6 @@
 rzeczowniki:
 contribution - datek/składka
+maze - labirynt
 loaf - bochenek
 possesive - dopełniacz
 pronoun - zaimek

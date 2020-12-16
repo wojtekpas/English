@@ -1,0 +1,23 @@
+rzeczowniki:
+bandage - bandaż
+bonfire - ognisko
+farmhouse - zagroda/dom w gospodarstwie
+slate - dachówka/płyta łupkowa
+solicitor - radca prawny/adwokat
+superlative - wyraz największego uznania
+ulcer - wrzód
+
+czasowniki:
+farm - uprawiać rolę
+
+przymiotniki:
+uninhabited - bezludny/opuszczony
+
+rzeczowniki złożone:
+main clause - zdanie główne
+relative clause - zdanie względne
+relative pronoun - zaimek względny
+
+wyrażenia:
+
+drive past - przejeżdzac obok

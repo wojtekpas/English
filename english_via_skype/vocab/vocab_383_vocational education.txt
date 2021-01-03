@@ -1,0 +1,39 @@
+rzeczowniki:
+carpentry - stolarstwo/ciesielstwo
+competence - kwalifikacje/umiejętności
+craftsman - rzemieślnik
+craftsmanship - kunszt/mistrzostwo
+descendant - potomek
+era - era/epoka
+faculty - zdolność/umijętność
+forefather - praojciec/prekursor/przodek
+industrialization - uprzymysłowienie
+proficiency - wprawa/biegłość
+successor - następca
+supremacy - dominacja/przewaga
+weaving - tkactwo
+
+czasowniki:
+educate - kształcić/edukować/instruować/pouczać
+escalate - potęgować/nasilać się/wzrosnąć
+rejoice - radować się
+
+przymiotniki:
+accustomed - przezwyczajony
+adored - uwielbiany/kochany
+composed - opanowany/spokojny
+esteemed - poważany/szanowany
+exclusive - wyłączny/jedyny
+interwoven - wpleciony
+linked - połączony
+preliminary - wstępny/przygotowawczy
+primary - główny/podstawowy/elementarny
+protective - ochronny
+profound - głęboki/gruntowny/całkowity
+requisite - konieczny/niezbędny/wymagany
+rigorous- rygorystyczny/surowy
+rudimentary - elementarny/podstawowy/zasadniczy
+vocational - zawodowy/branżowy
+
+wyrażenia:
+on the job - w czasie pracy

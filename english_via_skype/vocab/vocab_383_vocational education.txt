@@ -1,39 +1,108 @@
 rzeczowniki:
+apprenticeship - praktyka
+aptitude - zdolność
+artisan - rzemieślnik
+associate - wspólnik/partner
 carpentry - stolarstwo/ciesielstwo
+caution - ostrożność/rozwaga
 competence - kwalifikacje/umiejętności
+contribution - datek/składka
+county - hrabstwo/powiat
 craftsman - rzemieślnik
 craftsmanship - kunszt/mistrzostwo
 descendant - potomek
+devotee - entuzjasta/zapaleniec
 era - era/epoka
 faculty - zdolność/umijętność
+forebear - przodek
 forefather - praojciec/prekursor/przodek
+heir - spadkobierca/dziedzic/następca
 industrialization - uprzymysłowienie
+insect - owad
+intermediary - rozjemca/pośrednik
+kinsman - krewny
+machinery - maszyny/maszyneria
+merchant - handlowiec/kupiec/sprzedawca
+misfortune - nieszczęście
+pal - kumpel/kolega
+peer - rówieśnik
+predecessor - poprzednik
 proficiency - wprawa/biegłość
+progenitor - przodek/prekursor
+refreshment - przekąska/posiłek
+retailer - detalista
+strengthening - wzmacnianie
+submerge - zanurzać się/zatapiać
 successor - następca
 supremacy - dominacja/przewaga
 weaving - tkactwo
 
 czasowniki:
+abstain - powstrzymywać/wstrzymywać się
+administer - zaaplikować
+avert - zapobiegać/zapobiec
+collapse - zawalić się/opaść
+commemorate - upamiętnić/uczcić pamięć
+dwindle - kurczyć się/zanikać/zmniejszać się
 educate - kształcić/edukować/instruować/pouczać
 escalate - potęgować/nasilać się/wzrosnąć
+exhaust - wyczerpywać/zyżywać
+fracture - rozłamywać się
+insist - nalegać
+mishandle - nieudoolnie prowadzić
 rejoice - radować się
+renounce - zrzekać się/wypowiadać
 
 przymiotniki:
+abondoned - opuszczony/porzucony
 accustomed - przezwyczajony
 adored - uwielbiany/kochany
+ancestral - rodowy
+apt - zdolny/uzdolniony
+austere - surowy/srogi
+candid - szczery
 composed - opanowany/spokojny
+customary - zwykły/powszechny
+disposed - gotowy/skłonny
+erudite - uczony
 esteemed - poważany/szanowany
 exclusive - wyłączny/jedyny
+exorbitant - nadmierny/przesadny
+ferocious - silny/srogi/nieprzyjemny
+fiscal - fiskalny/skarbowy
+fortuitous - przypadkowy/szcześliwy
+genealogical - genealogiczny
+habitual - zwyczajny/powszedni
+insistent - uparty
 interwoven - wpleciony
+inexhaustible - niewyczerpany
+judicious - rozsądny/roztropny
+knowledgeable - obeznany
+laborious - żmudny/mozolny/pracochłonny
 linked - połączony
+pivotal - kluczowy/decydujący/zasadniczy
 preliminary - wstępny/przygotowawczy
 primary - główny/podstawowy/elementarny
-protective - ochronny
+productive - wydajny/efektywny
 profound - głęboki/gruntowny/całkowity
+protective - ochronny
+repelled - czujący odrazę
 requisite - konieczny/niezbędny/wymagany
+residential - mieszkalny
 rigorous- rygorystyczny/surowy
 rudimentary - elementarny/podstawowy/zasadniczy
+substantial - obfity/znaczący
+undisputed - bezsporny/niepodważalny
+uneasy - zaniepokojny
 vocational - zawodowy/branżowy
 
+rzeczowniki złożone:
+cast iron - żeliwo
+
+czasowniki złożone:
+lag behind - odstawać/opóźniać się
+
 wyrażenia:
+be knowledgeable about sth - dobrze znać się na czymś
 on the job - w czasie pracy
+take precautions - podjąć środki ostrożności

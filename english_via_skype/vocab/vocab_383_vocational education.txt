@@ -12,6 +12,7 @@ craftsman - rzemieślnik
 craftsmanship - kunszt/mistrzostwo
 descendant - potomek
 devotee - entuzjasta/zapaleniec
+disposal - wywóz/pozbycie się
 era - era/epoka
 faculty - zdolność/umijętność
 forebear - przodek
@@ -29,12 +30,16 @@ peer - rówieśnik
 predecessor - poprzednik
 proficiency - wprawa/biegłość
 progenitor - przodek/prekursor
+pronunciation - wymowa
 refreshment - przekąska/posiłek
 retailer - detalista
+sheikh - szejk
 strengthening - wzmacnianie
 submerge - zanurzać się/zatapiać
 successor - następca
 supremacy - dominacja/przewaga
+temptation - pokusa
+vocation - powołanie
 weaving - tkactwo
 
 czasowniki:
@@ -62,6 +67,7 @@ apt - zdolny/uzdolniony
 austere - surowy/srogi
 candid - szczery
 composed - opanowany/spokojny
+considerable - znaczny/niemały
 customary - zwykły/powszechny
 disposed - gotowy/skłonny
 erudite - uczony
@@ -98,11 +104,18 @@ vocational - zawodowy/branżowy
 
 rzeczowniki złożone:
 cast iron - żeliwo
+waste disposal - wywóz odpadów/utylizacja odpadów
 
 czasowniki złożone:
+go at sth - rzucić się na coś
 lag behind - odstawać/opóźniać się
 
 wyrażenia:
+be at one's best - być w swojej najlepszej formie
+be critical of sth - ustosunkowywać się do czegoś krytycznie
 be knowledgeable about sth - dobrze znać się na czymś
+be popular with sb - być popularnym wśród kogoś
+have a vocation for something - mieć powołanie do czegoś
 on the job - w czasie pracy
+remind sb of sth - przypominać komuś coś/o czymś
 take precautions - podjąć środki ostrożności

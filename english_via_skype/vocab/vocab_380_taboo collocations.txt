@@ -1,13 +1,40 @@
 rzeczowniki:
 grip - chwyt/kontrola
+persecutor - prześladowca
 
 czasowniki:
 curse - kląć/przeklinać/zaklinać
+revive - odnawiać/wskrzewać
 
 przymiotniki:
+alleged - rzekomy
 noble - szlachetny
+well-established - powszechnie uznany
+
+rzeczowniki złożone:
+ancient tradition - dawna tradycja
+iron grip - żelazna kontrola
+majority stake - pakiet większościowy
+overwhelming majority - przytłaczająca większość
+physical abuse - znęcanie się fizyczne
+radical change - radykalna zmian
+religious tolerance - tolerancja religijna
+silent majority - milcząca większość
+vast majority - ogromna większość
+verbal abuse - przemoc/zniewaga słowna
+
+czasowniki:
+bleep out - zagłuszyć/ocenzurować
 
 wyrażenia:
+break with tradition - zerwanie z tradycją
+come to grips with sth - zmierzyć/uporać się z czymś
+follow a tradition - kultywować tradycję
+have a grip on sth - mieć kontrolę nad czymś
 hit a raw nerve - trafić w czuły punkt
+hurl abuse at sth - obrzucać kogoś wyzwiskami
+loosen grip - zmniejszyć kontrolę
+loosen one's grip - poluzować uścisk
 slip of the tongue - przejęzyczenie
 stay clear of sth - tryzmać się z dala od czegoś
+term of abuse - obelga

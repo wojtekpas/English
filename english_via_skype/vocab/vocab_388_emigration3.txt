@@ -1,0 +1,32 @@
+rzeczowniki:
+animosity - niechęć/nienawiść
+asylum - przytułek/schronienie/azyl
+deportation - deportacja
+refuge - schronienie/przytułek
+refugee - uchodźca/emigrant
+villager - mieszkaniec/wieśniak
+
+czasowniki:
+deport - deportować/zsyłać
+discriminate - rozróżniać
+emigrate - emigrować
+flee - uciekać
+prejudice - uprzedadzać się/przynosić szkodę
+refuge - schronić sę
+
+przymiotniki:
+native - rodzinny/ojczysty
+prejudiced - uprzedzony/stronniczy
+uprooted - wykorzeniony
+
+rzeczowniki złożone:
+economic migrant - migrant ekonomiczny
+ethnic group - grupa etniczna
+ethnic minority - mniejszość etniczna
+
+czasowniki złożone:
+
+wyrażenia:
+get accustomed to sth - przezwyczaić się do czegoś
+seek asylum/refuge - ubiegać się o azyl
+take refuge - skryć się/szukać schronienia

@@ -2,11 +2,21 @@ rzeczowniki:
 animosity - niechęć/nienawiść
 asylum - przytułek/schronienie/azyl
 deportation - deportacja
+hatred - nienawiść
+hostility - wrogość
+newcomer - nowicjusz/nowo przybyły
+integration - integracja/scalenie/zaadoptowanie się
+integrity - prawość/uczciwość
+quarreling - kłótnie
 refuge - schronienie/przytułek
 refugee - uchodźca/emigrant
+sadness - smutek
+sweating - pocenie się
 villager - mieszkaniec/wieśniak
 
 czasowniki:
+alienate - zrazić/odstręczyć kogoś
+cclimate - zaaklimatyzować/przezwyczaić
 deport - deportować/zsyłać
 discriminate - rozróżniać
 emigrate - emigrować
@@ -16,17 +26,24 @@ refuge - schronić sę
 
 przymiotniki:
 native - rodzinny/ojczysty
+nostalgic - nostalgiczny
 prejudiced - uprzedzony/stronniczy
+stereotypical - stereotypowy
+truthful - szczery/zgodny z prawdą
 uprooted - wykorzeniony
 
+przysłówki:
+sensitively - z wyczuciem/subtelnie
+
 rzeczowniki złożone:
+culture shock - szok kulturowy
 economic migrant - migrant ekonomiczny
 ethnic group - grupa etniczna
 ethnic minority - mniejszość etniczna
 
-czasowniki złożone:
-
 wyrażenia:
+at heart - w głębi duszy/naprawdę
 get accustomed to sth - przezwyczaić się do czegoś
+get the hang of sth - chwytać coś
 seek asylum/refuge - ubiegać się o azyl
 take refuge - skryć się/szukać schronienia

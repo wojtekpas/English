@@ -36,6 +36,7 @@ retailer - detalista
 sheikh - szejk
 strengthening - wzmacnianie
 submerge - zanurzać się/zatapiać
+succession - dziedziczenie/seria
 successor - następca
 supremacy - dominacja/przewaga
 temptation - pokusa
@@ -79,6 +80,7 @@ fiscal - fiskalny/skarbowy
 fortuitous - przypadkowy/szcześliwy
 genealogical - genealogiczny
 habitual - zwyczajny/powszedni
+inconsiderate - bezmyślny
 insistent - uparty
 interwoven - wpleciony
 inexhaustible - niewyczerpany
@@ -100,6 +102,7 @@ rudimentary - elementarny/podstawowy/zasadniczy
 substantial - obfity/znaczący
 undisputed - bezsporny/niepodważalny
 uneasy - zaniepokojny
+unthinkable - nie do pomyślenia/nieprawdopodobne
 vocational - zawodowy/branżowy
 
 rzeczowniki złożone:

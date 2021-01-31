@@ -1,0 +1,33 @@
+rzeczowniki:
+axis - oś
+bullet - punktator
+drawback - wada/minus/mankament
+figure - wykres/rysunek
+figures - liczby
+misconception - błędne mniemanie/pojęcie
+implication - konsekwencja/następstwo/implikacja
+resistance - sprzeciw/opór
+
+czasowniki:
+contrast - przeciwstawiać/kontrastować
+digress - odbiegać od tematu
+envisage - przewidywać
+outline - naszkicować/przedstawiać w skrócie
+reassess - rewidować/powtórnie rozważać
+reassure - utwierdzać/zapewniać
+reiterate - powtarzać coś wielokrotnie
+
+przymiotniki:
+excessive - nadmierny
+superior - lepszy/ponadprzeciętny/wybitny
+
+przysłówki:
+favourably - korzystnie/przychylnie
+presumably - przypuszczalnie/prawdopodobnie
+
+czasowniki złożone:
+as a result of sth - w wyniku czegoś
+get to the point - przejście do sedna sprawy
+move on to sth - przechodzić do czegoś
+so that - po to, aby
+what's more - co więcej

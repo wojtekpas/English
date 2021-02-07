@@ -1,5 +1,14 @@
+rzeczowniki:
+handbook - podręcznik/poradnik
+turnover - obrót/rotacja
+
 czasowniki:
 cope - dać sobie radę
+stress - podkreślić/kłaść akcent/akcentować
+
+przymiotniki:
+remarkable - wybitny/godny uwagi/zdumiewający
+rhetorical - retoryczny
 
 rzeczowniki złożone:
 main point - głowny punkt

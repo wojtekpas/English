@@ -1,0 +1,15 @@
+rzeczowniki:
+asylum - azyl/przytulek/schronienie
+citizenship - obywatelstwo
+embassy - ambasada
+papers - papiery/dokumenty
+
+czasowniki:
+deport - deportować/zsyłać
+
+rzeczowniki złożone:
+asylum seeker - osoba starający się o azyl
+green card - zielona karta
+residence permit - pozwolenie na pobyt stały
+tourist visa - wiza turystyczna
+work permit - pozwolenie na pracę

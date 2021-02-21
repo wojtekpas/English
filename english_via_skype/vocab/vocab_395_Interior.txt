@@ -1,0 +1,78 @@
+rzeczowniki:
+adverbial - okolicznik
+adulthood - dojrzałość/dorosłość
+banging - trzaskanie/łomot
+bedsit - kawalerka
+bravery - męstwo/odwaga
+canteen - stołówka/kantyna
+cleanliness/tidiness - schludność
+cottage - chatka
+darkroom - ciemnia
+elasticity - elastyczność
+exploration - badanie/rozpoznanie
+eyeball - gałka oczna
+greenhouse - szklarnia
+judgement - osąd/rozsądek/orzeczenie
+landlady - właścicielka/gospodyni
+landlord - gospodarz
+landowner - ziemianin/właściciel ziemski
+outskirts - peryferie/obrzeża miasta
+pesticide - pestycyd/środek owadobójczy
+plughole - otwór odpływowy
+plumber - hydraulik
+proprietor - właściciel
+refusal - odmowa
+squatter - nielegalny mieszkaniec/dziki lokator
+staffroom - pokój nauczycielski
+technophobe - technofob
+tenant/lodger - lokator/najemca
+trainee - praktykant/stażysta/kursant
+vase - wazon
+ward - oddział/okręg wyborczy
+wastage - marnotrawstwo/ubytek/strata
+workshop - warsztat
+
+czasowniki:
+confer - nadawać/przyznawać
+hyphenate - napisać z łącznikiem
+ripen - dojrzewać
+
+przymiotniki:
+classy - szykowny/luksusowy
+cowardly - tchórzliwy
+ghastly - koszmarny/potworny
+heroic - bohaterski/heroiczny
+hideous - szkaradny/ohydny/paskudny
+repulsive - odpychający
+tacky - tandetny
+tallish - racze wysoki
+tasteless - niesmaczny
+unattractive - nieatrakcyjny/nieciekawy/nieefektowny
+upwards - zwyżwkowy/wzrostowy
+washable - zmywalny
+wealthy - bogaty/zamożny
+
+rzeczowniki złożone:
+break-in - włamanie
+fitting room - przymierzalnia
+inner city - podupadła część miasta
+terraced house - dom szeregowy
+waiting room - poczekalnia
+
+czasowniki złożone:
+be up - być na nogach/nie spać
+break into sth - włamywac się gdzieś
+drop round - wpadać z wizytą
+get in - wejść
+get out - uciec
+let out - wypuszczać
+let sb in - wpuścić kogoś/porozmawiać z kimś
+lock sb up - zamykać/aresztować kogoś
+pop in - wpaść/zajść/skoczyć
+put sb up - przenocować kogoś
+shut sb in sth - zamknąć/uwięzić kogoś w czymś
+shut sb out - nie wpuszczać kogoś do środka
+sleep in - poleżeć sobie w łóżku/późno wstać
+sleep through sth - przespać coś/spać aż do jakiegoś komentu
+stay in - pozostawać w domu
+stay up - późno się położyć

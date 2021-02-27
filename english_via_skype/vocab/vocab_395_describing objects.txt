@@ -1,0 +1,67 @@
+rzeczowniki:
+fur - futro
+hollow - dziura/wydrążenie
+ornament - ozdoba
+rug - dywanik/koc
+scissors - nożyczki
+sink - zlew
+skirt - spódniczka
+substance - substancja
+tablecloth - obrus
+windscreen - przednia szyba
+
+czasowniki:
+burst - wybuchać
+chip - obijać/wykruczyć sie
+crumble - pokruszyć/rozkruszyć/rozdrobnić
+rip - drzeć
+scrape - zadrapać/zarysować
+scratch - zadrapać
+shatter - niszczyć/roztrzaskać/gruchotać
+snap - pękać/łamać się
+split - podzielic/rozdzielić
+step - nadepnąć
+tear - drzeć
+
+przymiotniki:
+amused - rozbawiony/rozśmieszony
+blunt - tępy/stępiony
+blocked - zapchany
+bruised - stłuczony/poobijany
+chipped - ułamany/wyszczerbiony/obtłuszczony
+cracked - porysowany/popękany/stuknięty
+dented - wgniecony
+filthy - obrzydliwy/bardzo brudny/paskudny
+fizzy - gazowany
+flat - bez powietrza/sflaczały/bez gazu
+frayed - postrzępiony/wytarty
+fraying - strzępienie się
+grimy - brudny/pokryty sadzą
+grubby - brudny/niechlujny
+moth-eaten - zjedzony przez mole/wyliniały
+mouldy - spleśniały/stęchły
+rickety - chwiejny/koślawy
+rusty - zardzewiały
+sharp - ostry
+squalid - brudny/nędzny/obskurny
+stained - poplamiony
+stale - czerstwy/nieświeży
+threadbare - wytarty/znoszony
+
+czasowniki złożone:
+bite into sth - wbić się w coś/przebić się na coś
+peel off - odejść od szyku/odchodzić
+peel sth off - zdzierać coś/sciągać coś z siebie
+
+wyrażenia:
+amazingly - o dziwo/ku mojemu zdziwieniu
+be on one's last legs - rozpadać się/mieć swoje lata
+break sth in half - złamać coś na pół
+cut in half - przeciąć coś na pół
+fall to pieces - rozpaść się na kawałki
+get wet - zmoknąć/zmoczyć
+on one's last legs - mięc resztki sił/ledwo się trzymać
+rip sth to shreds - podrzeć coś na strzępy
+smash something to pieces - rozbić coś na kawałki
+smash sth to smithereens - roztrzaskać coś na kawałki
+sth has seen better days - coś się zniszczyło/zestarzało

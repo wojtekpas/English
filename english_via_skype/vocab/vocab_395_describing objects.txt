@@ -1,16 +1,29 @@
 rzeczowniki:
+bumper - zderzak
+bundle - paczka/pakiet/plik
+handkerchief - chustka
+clothing - odzież
+cutlery - sztućce
+doorway - drzwi
+duster - fartuch/kitel
+entirety - całość
+envelope - koperta/powłoka
 fur - futro
+hinge - zawias
 hollow - dziura/wydrążenie
 ornament - ozdoba
 rug - dywanik/koc
 scissors - nożyczki
 sink - zlew
 skirt - spódniczka
+spoon - łyżka
 substance - substancja
 tablecloth - obrus
 windscreen - przednia szyba
 
 czasowniki:
+batter - zbić/walić/uderzyć
+beckon - skinąć/kusić/wabić
 burst - wybuchać
 chip - obijać/wykruczyć sie
 crumble - pokruszyć/rozkruszyć/rozdrobnić
@@ -18,6 +31,8 @@ rip - drzeć
 scrape - zadrapać/zarysować
 scratch - zadrapać
 shatter - niszczyć/roztrzaskać/gruchotać
+slip - zsunąć/omsknąć się
+smelly - śmierdzący/cuchnący
 snap - pękać/łamać się
 split - podzielic/rozdzielić
 step - nadepnąć
@@ -34,24 +49,32 @@ dented - wgniecony
 filthy - obrzydliwy/bardzo brudny/paskudny
 fizzy - gazowany
 flat - bez powietrza/sflaczały/bez gazu
+flooded - zalany wodą
 frayed - postrzępiony/wytarty
 fraying - strzępienie się
 grimy - brudny/pokryty sadzą
 grubby - brudny/niechlujny
+littered - pokryty śmieciami
 moth-eaten - zjedzony przez mole/wyliniały
 mouldy - spleśniały/stęchły
 rickety - chwiejny/koślawy
+ripped - popruty/poszarpany
 rusty - zardzewiały
 sharp - ostry
 squalid - brudny/nędzny/obskurny
 stained - poplamiony
 stale - czerstwy/nieświeży
 threadbare - wytarty/znoszony
+unshaven - nieogolony/zarośnięty
 
 czasowniki złożone:
 bite into sth - wbić się w coś/przebić się na coś
+come off - odpaść/odejść
+crack into sth - włamać się gdzieś
 peel off - odejść od szyku/odchodzić
 peel sth off - zdzierać coś/sciągać coś z siebie
+put sth down - kłaść coś/zapisać coś
+split off - odłamać/odrywać się
 
 wyrażenia:
 amazingly - o dziwo/ku mojemu zdziwieniu

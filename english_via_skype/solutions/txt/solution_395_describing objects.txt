@@ -1,0 +1,38 @@
+1)
+a. chair
+b. cup
+c. curtains
+d. sink
+e. fork
+f. cola
+g. tyre
+h. cheese
+i. bumper
+j. peach
+k. ceiling
+l. knife
+m. clothing
+n. carpet
+o. bread
+
+1. stale bread, flat cola
+2. flat tyre
+3. threadbare carpet
+4. rickety chair
+5. blocked sink
+6. cracked ceiling
+7. chipped cup
+8. bruised peach
+9. moth-eaten clothing
+10. dented bumper
+11. blunt knife
+12. fraying
+13. mouldy cheese
+14. rusty fork
+
+2)
+1. crumble
+2. 
+3. peeling
+4. split
+

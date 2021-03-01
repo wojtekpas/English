@@ -43,6 +43,7 @@ cowardly - tchórzliwy
 ghastly - koszmarny/potworny
 heroic - bohaterski/heroiczny
 hideous - szkaradny/ohydny/paskudny
+inventive - pomysłowy
 repulsive - odpychający
 tacky - tandetny
 tallish - racze wysoki

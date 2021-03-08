@@ -26,13 +26,32 @@ o. bread
 9. moth-eaten clothing
 10. dented bumper
 11. blunt knife
-12. fraying
+12. fraying curtains
 13. mouldy cheese
 14. rusty fork
 
 2)
-1. crumble
-2. 
-3. peeling
-4. split
+1. d
+2. b
+3. c
+4. a
+5. c
+6. c
+7. a
+8. c
+
+3)
+1. peeling
+2. v
+3. threadbare
+4. frayed
+5. v
+6. v
+7. v
+8. v
+9. chipped
+10. v
+11. v
+12. blocked
+13. legs
 

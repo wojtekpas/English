@@ -1,7 +1,7 @@
 rzeczowniki:
+ashtray - popielniczka
 bumper - zderzak
 bundle - paczka/pakiet/plik
-handkerchief - chustka
 clothing - odzież
 cutlery - sztućce
 doorway - drzwi
@@ -9,6 +9,7 @@ duster - fartuch/kitel
 entirety - całość
 envelope - koperta/powłoka
 fur - futro
+handkerchief - chustka
 hinge - zawias
 hollow - dziura/wydrążenie
 ornament - ozdoba
@@ -19,6 +20,7 @@ skirt - spódniczka
 spoon - łyżka
 substance - substancja
 tablecloth - obrus
+twig - gałązka
 windscreen - przednia szyba
 
 czasowniki:

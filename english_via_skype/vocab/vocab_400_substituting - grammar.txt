@@ -1,0 +1,64 @@
+rzeczowniki:
+combat - walka/bój
+composer - kompozytor
+controversy - kontrowersja
+enquiry - zapytanie/prośba
+fatality - ofiar śmiertelna
+intrusion - wtrącanie się
+paragraphing - tworzenie paragrafów
+records - zapisy/dokumentacja/papiery
+toy - zabawka
+
+czasowniki:
+
+przymiotniki:
+antiquated - staroświecki/przestarzały
+clever - bystry/sprytny
+cumbersome - nieefektywny/uciążliwy/nieporęczny
+cursory - pobieżny/zdawkowy
+enormous - olbrzymi/ogromny
+exhaustive - gruntowny/wyczerpujący/kompletny
+far-reaching - obszerny/daleko-idący
+frivolous - lekkomyślny/frywolny/błahy
+ingenious - pomysłowy
+meticulous - dokładny/drobiazgowy/skrupulatny
+mutual - wzajemny/wspólny
+out-of-date - nieaktualny/staromodny
+painstaking - drobiazgowy/skrupulatny/mozolny
+silly - głupi/dziecinny
+unwarranted - bezpodstawny/niepotrzebny/nieusprawiedliwiony
+
+przysłówki:
+arbitrarily - przypadkowo/losowo
+conclusively - ostatecznie/ponad wszelką wątpliwość
+concurrently - równocześnie
+consecutively - kolejno/z rzędu
+greatly - ogromnie/znacznie
+indiscriminately - ogólnie/bezmyślnie/bez zastanowienia
+interminably - bez końca
+merely - zaledwie/jedynie
+nearly - niemal/prawie/blisko
+prematurely - przedwcześnie/przedterminowo
+remarkably - wybitnie/wielce/niezwykle
+scrupulously - uczciwie/sumiennie/skrupulatnie/dokładnie
+severely - poważnie/ciężko
+single-handedly - samemu/w pojedynkę
+substantially - zasadniczo/znacznie
+
+czasowniki złożone:
+get on with sb - mieć z kimś dobre stosunki
+grow on sb - podobać się komuś coraz bardziej
+reckon on sth - polegać na czymś/liczbyć na coś
+
+wyrażenia:
+at the best of times - w najlepszym razie/wypadku
+be beside the point - nie mieć nic do rzeczy
+by a hair's breadth - o mały włos
+cut and thrust - zacięty
+in every way - pod każdym względem
+ins and outs - na wylot
+make a go of - uczynić coś sukcesem
+rank and file - zwykli żołnierze/szeregowy
+round the bend - szalony/stuknięty
+rule of thumb - sprawdzona zasada
+too much of a good thing - co za dużo to niezdrowo

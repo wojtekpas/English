@@ -2,14 +2,19 @@ rzeczowniki:
 combat - walka/bój
 composer - kompozytor
 controversy - kontrowersja
+dieter - osoba na diecie
 enquiry - zapytanie/prośba
 fatality - ofiar śmiertelna
+inequality - nierówność
+inferiority - niższość
 intrusion - wtrącanie się
+malnutrition - niedożywienie
 paragraphing - tworzenie paragrafów
 records - zapisy/dokumentacja/papiery
+revelation - rewelacja/odkrycie/zaskoczenie
+sex - płeć
+statue - statua/posąg
 toy - zabawka
-
-czasowniki:
 
 przymiotniki:
 antiquated - staroświecki/przestarzały
@@ -22,10 +27,12 @@ far-reaching - obszerny/daleko-idący
 frivolous - lekkomyślny/frywolny/błahy
 ingenious - pomysłowy
 meticulous - dokładny/drobiazgowy/skrupulatny
+mortal - śmiertelny
 mutual - wzajemny/wspólny
 out-of-date - nieaktualny/staromodny
 painstaking - drobiazgowy/skrupulatny/mozolny
 silly - głupi/dziecinny
+unanimous - jednomyślny/jednogłośny
 unwarranted - bezpodstawny/niepotrzebny/nieusprawiedliwiony
 
 przysłówki:
@@ -34,6 +41,7 @@ conclusively - ostatecznie/ponad wszelką wątpliwość
 concurrently - równocześnie
 consecutively - kolejno/z rzędu
 greatly - ogromnie/znacznie
+hopelessly - rozpaczliwie
 indiscriminately - ogólnie/bezmyślnie/bez zastanowienia
 interminably - bez końca
 merely - zaledwie/jedynie
@@ -44,6 +52,10 @@ scrupulously - uczciwie/sumiennie/skrupulatnie/dokładnie
 severely - poważnie/ciężko
 single-handedly - samemu/w pojedynkę
 substantially - zasadniczo/znacznie
+wholly - całkowicie/zupełnie
+
+rzeczowniki złożone:
+mortal combat - walka na śmierć i życie
 
 czasowniki złożone:
 get on with sb - mieć z kimś dobre stosunki
@@ -51,12 +63,15 @@ grow on sb - podobać się komuś coraz bardziej
 reckon on sth - polegać na czymś/liczbyć na coś
 
 wyrażenia:
+all and sundry - wszyscy bez wyjątku
 at the best of times - w najlepszym razie/wypadku
 be beside the point - nie mieć nic do rzeczy
+be lost for words - brakować słów
 by a hair's breadth - o mały włos
 cut and thrust - zacięty
 in every way - pod każdym względem
 ins and outs - na wylot
+leave no stone unturned - poruszyć niebo i ziemię
 make a go of - uczynić coś sukcesem
 rank and file - zwykli żołnierze/szeregowy
 round the bend - szalony/stuknięty

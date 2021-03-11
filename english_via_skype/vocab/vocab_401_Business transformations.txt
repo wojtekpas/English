@@ -1,5 +1,6 @@
 rzeczoniwki:
 department - dział
+disarray - nieład/nieporządek
 disorganization - dezorganizacja
 grievances - pretensje
 infancy - stadium początkowe
@@ -12,6 +13,7 @@ stance - stanowisko/nastawienie
 czasowniki:
 amplify - wzmocnić/zwiększać
 apportion - przydzielać/rozdzielić
+deem - uznać/sądzić/uważać
 illuminate - oświetlać/rozjasniać
 shed - rzucać
 
@@ -28,12 +30,12 @@ unattended - bez opieki/nie pilnowany
 czasowniki złożone:
 conjure up - przywoływać/wywoływać
 dispense with sth - dać sobie z czymś spokój
-fall into place - zgadzać się/ukladać się w logiczną całość
+fall into place - zgadzać się/układać się w logiczną całość
 
 wyrażenia:
 abundant in sth - obfitujący w coś
 dip one's toe in - zaczynać coś/próbować czegoś
-go easy on sth - mało używać czegoś
+go easy on sb - traktować kogoś łagodnie
 hence - stąd
 in keeping with - zgodnie z czymś
 in view of sth - z powodu/racji czegoś

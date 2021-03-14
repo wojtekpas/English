@@ -25,6 +25,7 @@ enormous - olbrzymi/ogromny
 exhaustive - gruntowny/wyczerpujący/kompletny
 far-reaching - obszerny/daleko-idący
 frivolous - lekkomyślny/frywolny/błahy
+genuine - prawdziwy/autentyczny
 ingenious - pomysłowy
 meticulous - dokładny/drobiazgowy/skrupulatny
 mortal - śmiertelny
@@ -60,6 +61,7 @@ mortal combat - walka na śmierć i życie
 czasowniki złożone:
 get on with sb - mieć z kimś dobre stosunki
 grow on sb - podobać się komuś coraz bardziej
+nod off - przysnąć/przysypiać
 reckon on sth - polegać na czymś/liczbyć na coś
 
 wyrażenia:
@@ -67,12 +69,15 @@ all and sundry - wszyscy bez wyjątku
 at the best of times - w najlepszym razie/wypadku
 be beside the point - nie mieć nic do rzeczy
 be lost for words - brakować słów
+beyond any doubt - ponad wszelką wątpliwość
 by a hair's breadth - o mały włos
 cut and thrust - zacięty
 in every way - pod każdym względem
 ins and outs - na wylot
 leave no stone unturned - poruszyć niebo i ziemię
+lose one's touch - stracić swoją umiejętność
 make a go of - uczynić coś sukcesem
+only just - dopiero co/ledwie
 rank and file - zwykli żołnierze/szeregowy
 round the bend - szalony/stuknięty
 rule of thumb - sprawdzona zasada

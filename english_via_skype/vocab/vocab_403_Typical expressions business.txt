@@ -1,0 +1,32 @@
+rzeczowniki:
+inaccuracy - nieścisłość
+liability - zobowiązanie
+reform - poprawa
+
+czasowniki:
+cease - przestać/zaniechać
+disclaim - wypierać się/zrzekać sie
+issue - wydawać
+mitigate - zmniejszać
+render - wyświadczać
+tamper - manipulowac/majstrować
+undertake - zobowiązywać się/podjąć się
+
+przymiotniki:
+adverse - niekorzystny/niepożądany
+consolidated - zbiorczy
+ponowny - repeated
+
+rzeczowniki złożone:
+adverse effect - odwrotny skutek
+
+czasowniki złożone:
+contract out - zlecić wykonanie usługi
+tamper with sth - ingerować w coś
+
+wyrażenia:
+cease to exist - przestać istnieć
+notwithstanding - niezależnie od
+render services - świadczyć usługi
+tacke acount of sth - wziąć coś pod uwagę/uwzględniać coś
+undertake to do sth - zobowiązywać się coś zrobić

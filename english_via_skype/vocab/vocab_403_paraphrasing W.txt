@@ -1,0 +1,24 @@
+rzeczowniki:
+acquisition - nabytek/zdobycie
+consent - zgoda
+provision - świadczenie/dostarczenie
+provisions - zaopatrzenie
+
+czasowniki:
+consent - zgadzać się/pozwalać
+submit - składać/dostarczać
+suffice - wystarczać/zadowalać
+
+przymiotniki:
+abovementioned - wyżej wymieniony
+coupled - sprężony/połączony
+foregone - przesądzony
+revolutionary - rewolucyjny
+
+wyrażenia:
+alike - jednakowo/podobnie
+in accordance with sth - zgodnie z czymś
+in vain - na próżno/na darmo
+pursuant to sth - zgodnie z czymś
+suffice it to say - wystarczy/dość powiedzieć
+upon - od/po

@@ -8,6 +8,7 @@ fatality - ofiar śmiertelna
 inequality - nierówność
 inferiority - niższość
 intrusion - wtrącanie się
+leaflet - ulotka
 malnutrition - niedożywienie
 paragraphing - tworzenie paragrafów
 records - zapisy/dokumentacja/papiery
@@ -33,6 +34,7 @@ mutual - wzajemny/wspólny
 out-of-date - nieaktualny/staromodny
 painstaking - drobiazgowy/skrupulatny/mozolny
 silly - głupi/dziecinny
+sundry - rozmaity/różny
 unanimous - jednomyślny/jednogłośny
 unwarranted - bezpodstawny/niepotrzebny/nieusprawiedliwiony
 
@@ -43,7 +45,9 @@ concurrently - równocześnie
 consecutively - kolejno/z rzędu
 greatly - ogromnie/znacznie
 hopelessly - rozpaczliwie
+inadvertently - nieumyślne/niechący
 indiscriminately - ogólnie/bezmyślnie/bez zastanowienia
+inevitably - nieuchronnie/nieuniknienie
 interminably - bez końca
 merely - zaledwie/jedynie
 nearly - niemal/prawie/blisko
@@ -66,6 +70,7 @@ reckon on sth - polegać na czymś/liczyć na coś
 
 wyrażenia:
 all and sundry - wszyscy bez wyjątku
+at sixes and sevens - urwanie głowy
 at the best of times - w najlepszym razie/wypadku
 be beside the point - nie mieć nic do rzeczy
 be lost for words - brakować słów

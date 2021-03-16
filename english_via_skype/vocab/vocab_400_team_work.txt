@@ -1,24 +1,60 @@
 rzeczowniki:
 chairperson - przewodniczący/prezes
+confrontation - konfrontacja/starcie
+disagreement - różnica zdań/konflikt/rozbieżność
+fairness - bezstronność/sprawiedliwość
+inconsistency - niespójność/niekonsekwencja
+perfectionist - perfekcjonista
 plant - farbyka/wytwórnia/informator
 seeming - wydawanie się
+setback - komplikacja/problem/niepowodzenie
 
 czasowniki:
+assess - oceniać/poddawać ocenie
+deviate - odchylać się/zbaczac/odbiegać
 pursue - dążyć do/realizowac/prowadzić/scigać
 
 przymiotniki:
 boundless - bezgraniczony/nieskończony
+creative - twórczy/kreatywny
+diplomatic - dyplomatyczny
+disciplined - zdyscyplinowany/karny/metodyczny
+fellow - znajomy
+frustrating - denerwujący/irytujący
+minor - drobny/niewielki
+painstaking - drobiazgowy/skrupulatny/staranny
+skilled - wykwalifikowany/zręczny
+specialized - wyspecjalizowany/specjalistyczny
+technicality - strona techniczna
 valued - drogi/ceniony/cenny
 
 przysłówki:
+carelessly - nieostrożnie/beztrosko
+deliberately - umyślnie/celowo
+diplomatically - dyplomatycznie
+passionately - czule/namiętnie/z pasją
+periodically - okresowo
+roughly - prymitywnie/ordynarnie
+satisfactorily - zadowalająco/dostatecznie
+sensibly - mądrze/rozważnie
+smoothly - płynnie/gładko
+thoroughly - gruntownie/dokładnie/całkowicie
+tightly - szczelnie/kurczowo
+understandably - w sposób zrozumiały
+unfairly - niesprawiedliwie/niesłusznie
 vigorously - energicznie
 
 czasowniki złożone:
+cope with sth - radzić sobie z czmyś
+liaise with sth - współpracować z kimś
 spur somebody on - ponaglać/dopingować kogoś
 thrive on sth - rozwijać się na czymś
 
 wyrażenia:
+keep to a schedule - trzymać się harmonogramu
 lose momentum - tracić pęd
 solution to a problem - rozwiązanie problemu
 solution to sth - rozwiązanie czegoś
+steer clear of sth - trzymać się od czegoś z daleka
+take sb's side - stanąć po czyjeś stronie
 the big picture - szersza perspektywa

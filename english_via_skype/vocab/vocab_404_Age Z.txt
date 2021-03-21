@@ -14,7 +14,7 @@ setback - kompilacja/problem/niepowodzenie
 stride - krok/postęp
 teen - nastolatek
 toddler - małe dziecko/berbeć
-twinge - wyrzut/poczucie
+twinge - wyrzut/poczucie/ostry ból/kłucie
 wealth - bogactwo/majątek
 
 czasowniki:
@@ -52,14 +52,18 @@ infantile - infantylny/dziecięcy
 laid-back - wyluzowany/zrelaksowany
 puerile - infantylny/dziecinny
 purposeful - celowy/rozmyślny/sensowny
+sentimental - sentymentalny
 thoughtful - troskliwy
 unconditional - bezwarunkowy
 undivided - niepodzielny
 youthful - młodzieńczy
 
 rzeczowniki złożone:
+midlife crisis - kryzys wieku średniego
 self-esteem - poczucie własnej wartości
+senior moment - skleroza
 the breadline - granica ubóstwa/minimum socjalne
+undivided attention - całkowita uwaga
 
 czasowniki złożone:
 get sb down - zasmucić/zmartwić kogoś
@@ -70,10 +74,14 @@ wyrażenia:
 and yet - a jednak
 be behind - być w plecy
 be in the loop - mieć wiedzę na dany temat/być na biężaco
+become a habit - stać się nawykiem
 carve a niche - znaleźć dla siebie niszę
+come to harm - doznać szkody
+fall into the pattern - wpisywać się w schemat
 find sth difficult - przychodzić coś komuś z trudnością
 get the hang of sth - chwytać coś
 go extra mile - poświęcić się bardziej, żeby osiągnąć cel
+go through a phase - przechodzić przez okres fascynacji czymś lub kimś
 keep abreast of sth - być z czymś na bieżąco
 live life to the full - brać z życia garściami
 live on the breadline - żyć w nędzy/na granicy ubóstwa
@@ -83,5 +91,6 @@ make ends meet - wiązać koniec z końcem
 make light of sth - lekceważyc coś/umniejszać znaczenie czegoś
 notwithstanding - niezależnie od
 rack one's brains - łamać sobie głowę
-take something in one's stride - przyjąć coś bez mrugnięcia okiem
+take sb for granted - nie doceniać kogoś
+take sth in one's stride - przyjąć coś bez mrugnięcia okiem
 with a bad grace - niechętnie/z łaski

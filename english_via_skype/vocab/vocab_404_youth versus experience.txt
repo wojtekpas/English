@@ -1,48 +1,99 @@
 rzeczowniki:
+ageism - dyskryminacja
 angst - niepokój/obawa/lęk
 authoritarian - despota
+beneficiary - beneficjent/spadkobierca
+bigot - osoba nietolerancyjna
 brat - bachor/smarkacz
+bunch - grono/banda/gromada
 canvas - płótno
 centenarian - stulatek
 cheek - tupet/bezczelność
 crowd - tłum/paczka
 demographic - rynek/segment
 expectancy - oczekiwanie/perspektywa/widoki
+gran - babcia
 handful - urwis/rozrabiaka
 pensioner - emeryt
+pittance - nędzne pieniądze/marne grosze
+recollection - wspomnienie/pamięć/spokój
 scrape - draśnięcie/otarcie/zadrapanie
 shrinking - kurczenie się
+snigger - chichot/parsknięcie
+stroke - udar
 tantrum - furia/napad
+teething - ząbkowanie
 
 czasowniki:
+accrue - gromadzić/narastać/powiększać
+bide - zaczekać/wyczekiwać
+burden - obciążać/obarczać
 canvas - przeprowadzić sondaż/debatę
+impose - narzucać/wymuszać
+inflict - wymierzac/zadawać
+nag - zrzędzić/dręczyć/dokuczać
+scant - brakować/ograniczać
 smother - dusić/tłumić
+stink - cuchnąć/śmierdzieć
 
 przymiotniki:
 angst-ridden - przepełniony lękiem
+cheeky - bezczelny/zuchwały
 chubby - pucułowaty/pyzaty
 clingy - przylepny
 comprehensive - wyczerpujący/obszerny
+considerate - taktowny/uprzejmy
 doddery - trzeszący się ze starości
+earnest - szczery/poważny
 fast-growing - szybko rozwijający się
 gangly - wysoki/szczupły
+livid - siny/blady
+overprotective - nadopiekuńczy
+paralysed - sparaliżowany
 patronising - protekcjonalny
+rebelious - nieposłuszny/buntowniczy/niesforny
 sharp - ostry/gwałtowny/nagły
+shoestring - ograniczony/skąpy
 spoilt - zepsuty/rozpieszczony
+sprightly - dziarski/energiczny/żwawy
 stroppy - marudny/zrzędliwy/nerwowy
+supportive - oddany/ofiarny/wspierający
+sweet - słodki/uroczy/rozkoszny
+teeny-weeny - malutki/niewielki
+
+przysłówki:
+psychologically - psychicznie
+remarkably - wybitnie/wielce/niezwykle
+sarcastically - sarkastycznie
+
+rzeczowniki złożone:
+burning desire - paląca chęć
+great-grandchild - prawnuk
+grey pound - pieniądze zaoszędzone w starszym wieku
+hearing aid - aparat słuchowy
+high return - większy zwrot
+high risk - wysokie zagrożenie
+nest egg - zaskórniaki
+scrap heap - złomowisko/skład złomu
 
 czasowniki złożone:
+boil down to sth - sprowadzać się do czegoś
+get to sb - zasmucać/denerwować kogoś
 put sb down - wyśmiewać kogoś/wyszydzać kogoś
 shot up - urosnąć
 
 wyrażenia:
 answer back - odszczekiwać/odpierać/reagować
 at the turn of the century - na przełomie wieków
+be in a mess - panować/być
+bitter and twisted - obrażony na świat
 express anger - wyrażać złość
 get away with murder - uniknąć kary za popełniony czyn
+have no intention of doing sth - nie mieć zamiaru czegoś zrobić
 leave sb be - zostawić kogoś w spokoju
 make a fuss - wybrzydzać/awanturować się
 melt away - znikać/rozpływać się
+refuse to do sth - nie zgodzić się na zrobienie czegoś
 run parallel to something - odpowiadać czemuś/być ekwiwalentem czegoś
 scream blue murder - drzeć się wniebogłosy
 set out to do sth - rozpoczać coś robić

@@ -60,6 +60,7 @@ stroppy - marudny/zrzędliwy/nerwowy
 supportive - oddany/ofiarny/wspierający
 sweet - słodki/uroczy/rozkoszny
 teeny-weeny - malutki/niewielki
+wearing - meczący/denerwujący
 
 przysłówki:
 psychologically - psychicznie

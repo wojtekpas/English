@@ -1,6 +1,7 @@
 rzeczowniki:
 ageism - dyskryminacja
 angst - niepokój/obawa/lęk
+appreciation - uznanie/wdzięczność
 authoritarian - despota
 beneficiary - beneficjent/spadkobierca
 bigot - osoba nietolerancyjna
@@ -41,6 +42,7 @@ angst-ridden - przepełniony lękiem
 cheeky - bezczelny/zuchwały
 chubby - pucułowaty/pyzaty
 clingy - przylepny
+close-knit - zżyty
 comprehensive - wyczerpujący/obszerny
 considerate - taktowny/uprzejmy
 doddery - trzeszący się ze starości
@@ -52,7 +54,9 @@ overprotective - nadopiekuńczy
 paralysed - sparaliżowany
 patronising - protekcjonalny
 rebelious - nieposłuszny/buntowniczy/niesforny
+scant - niedostateczny/ograniczony/znikomy
 sharp - ostry/gwałtowny/nagły
+sheltered - osłonięty/chroniony/pod kloszem
 shoestring - ograniczony/skąpy
 spoilt - zepsuty/rozpieszczony
 sprightly - dziarski/energiczny/żwawy
@@ -63,6 +67,7 @@ teeny-weeny - malutki/niewielki
 wearing - meczący/denerwujący
 
 przysłówki:
+emotionally - emocjonalnie/uczuciowo
 psychologically - psychicznie
 remarkably - wybitnie/wielce/niezwykle
 sarcastically - sarkastycznie
@@ -76,6 +81,7 @@ high return - większy zwrot
 high risk - wysokie zagrożenie
 nest egg - zaskórniaki
 scrap heap - złomowisko/skład złomu
+sheltered accommodation - mieszkanie chronione
 
 czasowniki złożone:
 boil down to sth - sprowadzać się do czegoś
@@ -88,6 +94,7 @@ answer back - odszczekiwać/odpierać/reagować
 at the turn of the century - na przełomie wieków
 be in a mess - panować/być
 bitter and twisted - obrażony na świat
+dog eat dog - bezpardonowa walka
 express anger - wyrażać złość
 get away with murder - uniknąć kary za popełniony czyn
 have no intention of doing sth - nie mieć zamiaru czegoś zrobić

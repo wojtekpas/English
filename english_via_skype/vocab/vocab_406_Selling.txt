@@ -6,6 +6,7 @@ consent - zgadzać się/pozwalać
 
 przymiotniki:
 advisable - celowy/wskazany/stosowny
+excess - dodatkowy/przekraczający dozwoloną normę
 satisfactory - zadowalający
 sole - jedyny/wyłączny
 turbulent - wzburzony/niespokojny/burzliwy
@@ -23,6 +24,7 @@ be concerned - być takim, którego coś dotyczy
 be pressed for time - być pod presją czasu
 be torn between - być rozdartym wewnętrznie
 get authorization - zostać upoważnionym
+given that - biorąc pod uwagę, że
 go along with sth - zgadzać się z czymś
 in lieu of sth - zamiast czegoś
 supposing - jeżeli/zakładając że/przypuszczając/o ile

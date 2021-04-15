@@ -10,7 +10,7 @@ pruning - przycinanie/strzyżenie
 ride - podwózka
 row - awantura/kłótnia
 souvenir - pamiątka/upominek
-trekking - pójscie na wyprawę
+trekking - pójście na wyprawę
 whining - jęczenie/biadolenie
 
 czasowniki:

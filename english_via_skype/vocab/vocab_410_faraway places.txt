@@ -1,0 +1,28 @@
+rzeczowniki:
+aroma - aromat/woń
+filth - paskudztwo/świństwo
+grove - zagajnik/gaj
+hassle - kłopot/zatarg/kłótnia
+throng - chmara/tłum/gromada/natłok
+
+przymiotniki:
+barren - jałowy/nieurodzajny/suchy
+callous - bezduszny/bezwzblędny/okrutny
+contrasting - kontrastujący
+exotic - egzotyczny
+fragrant - aromatyczny/pachnący
+harsh - srogi/nieprzyjemny/surowy
+lush - bujny/luksusowy
+rolling - pofałdowany/falisty
+shocking - wstrząsający/szokujący
+superficial - pobieżny/powierzchowny/pozorny/płytki
+tranquil - cichy - spokojny
+unspoilt - niezepsuty/zachowany w naturalnym stanie
+vibrant - jaskrawy/jasny
+
+przysłówki:
+fabulously - wyjątkowo/niewiarygodnie/bajkowo
+undoubtedly - bez wątpienia
+
+rzeczowniki złożone:
+palm grove - gaj palmowy

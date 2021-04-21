@@ -2,10 +2,12 @@ rzeczowniki:
 annoyance - irytacja/utrapienie/przykrość
 anticipation - oczekiwanie/przewidywanie
 choruse - refren/chór
+coast - wybrzeże
 daze - oszołomienie
 feat - wyczyny/osiągnięcie
 hoard - skarbiec/skrytka/zapas
 lawn - trawnik
+mainland - kontynent/ląd stały
 pruning - przycinanie/strzyżenie
 ride - podwózka
 row - awantura/kłótnia
@@ -30,6 +32,7 @@ far-flung - odległy
 foreseeable - do przewidzenia
 impressive - imponujący
 inevitably - nieuchronnie/nieuniknienie
+inland - krajowy/wewnętrzny/śródlądowy
 odd - okazyjny/sporadyczny
 open-air - na świeżym powietrzu
 requisite - konieczny/niezbędny/wymagany
@@ -44,6 +47,7 @@ hugely - ogromnie/niezwykle
 stately - okazały/majestatyczny
 
 rzeczowniki złożone:
+back street - boczna uliczka
 blazing row - gwałtowna kłótnia
 tap water - woda z kranu
 
@@ -57,9 +61,12 @@ wind sb up - drażnić się z kimś/denerwować kogoś
 
 wyrażenia:
 a spot of sth - odrobina czegoś
+a stone's throw from sth - rzut beretem od czegoś
+as the crow flies - w lini prostej
 first and foremost - przede wszystkim/po pierwsze
 leap at a chance - skorzystać z okazji
 live up to sb's expectations - sprostać oczekiwaniom
 mow the lawn - kosić trawnik
+on balance - po zastanowieniu/namyśle
 on the whole - ogólnie/generalnie
 rant and rave - ciskać gromy

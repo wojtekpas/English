@@ -1,0 +1,50 @@
+rzeczowniki:
+alteration - zmiana/przemiana
+brilliance - błyskotliwość/splendor
+deputy - zastępca/deputowany
+infringing - naruszanie
+niche - nisza
+turmoil - hałas/wrzawa/zamieszanie/chaos
+
+czasowniki:
+aggravate - pogarszać/utrudniać
+alleviate - łagodzić/ulżyć
+coincide - zbiegać się/pokrywać się
+confine - zamykać/ograniczać
+desist - wstrzymywać się/zaprzestawać
+devise - opracować/wymyślić
+differentiate - odróżniać
+diversify - urozmaicać/poszerzyć zakres
+equate - utożsamiać/porównywać
+jeopardize - zagrozić/narażać na szwank
+preserve - utrwalać/zachowywać/kultywować
+reinforce - popierać/wzmacniać 
+seize- chwytać/zawładnąć/przejąć
+slash - gwałtownie redukować
+stifle - udaremniać/spowalniać/tłamsić
+utter - wymawiac/wypowiadać/wyrażać
+
+przymiotniki:
+abundant - obfity/bogaty/liczny
+entrepreneurial - przedsiębiorczy
+exclusive - wyłaczny/jedyny
+flagship - flagowy
+impartial - bezstronny/obiektywny/sprawiedliwy
+inevitable - nieuchronny/to, co nieuniknione
+inundated - zasypany
+misaligned - niedopasowany
+self-proclaimed - samozwańczy
+sluggish - niemrawy/ociężały/ospały/powolny
+sustainable - zrównoważony/długofalowy/trwały
+unforeseeable - nieprzewidywalny
+
+przysłówki:
+regrettably - niestety/na nieszczęście
+scarcely - niewiele/prawie wcale
+
+czasowniki złożone:
+infringe on sth - ingerować w coś
+
+wyrażenia:
+in due time - we właściwym czasie
+stand out from the crowd - wyróżniać się z tłumu

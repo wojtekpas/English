@@ -1,9 +1,27 @@
 rzeczowniki:
+abundance - dostatek/urodzaj
+adjustment - regulacja/nastawienie
+aggravation - pogorszenie/utrudnienie
+alleviation - złagodzenie
 alteration - zmiana/przemiana
 brilliance - błyskotliwość/splendor
 deputy - zastępca/deputowany
+desistance - zaprzestanie/zaniechanie
+devisal - obmyslenie
+differentiation - zróżnicowanie/różnicowanie
+diversification - różnorodność/zróżnicowanie
+empowerment - upoważnienie/wzmocnienie
+exclusivity - wyłączność
+inclusion - włączenie
+inconsistency - niespójność/sprzeczność
 infringing - naruszanie
 niche - nisza
+novelty - nowość/atrakcja
+pursuing - dązenie do
+reinforcement - wzmocnienie/zachęta
+scrutinity - bliższe rozpatrzenie/zbadanie
+seizure - zawładnięcie/przejęcie
+sustainability - zrównoważony rozwój
 turmoil - hałas/wrzawa/zamieszanie/chaos
 
 czasowniki:
@@ -15,6 +33,7 @@ desist - wstrzymywać się/zaprzestawać
 devise - opracować/wymyślić
 differentiate - odróżniać
 diversify - urozmaicać/poszerzyć zakres
+empower - upoważniać
 equate - utożsamiać/porównywać
 jeopardize - zagrozić/narażać na szwank
 preserve - utrwalać/zachowywać/kultywować
@@ -22,7 +41,7 @@ reinforce - popierać/wzmacniać
 seize- chwytać/zawładnąć/przejąć
 slash - gwałtownie redukować
 stifle - udaremniać/spowalniać/tłamsić
-utter - wymawiac/wypowiadać/wyrażać
+utter - wymawiać/wypowiadać/wyrażać
 
 przymiotniki:
 abundant - obfity/bogaty/liczny

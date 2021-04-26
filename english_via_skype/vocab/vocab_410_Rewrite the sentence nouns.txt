@@ -15,14 +15,17 @@ exclusivity - wyłączność
 inclusion - włączenie
 inconsistency - niespójność/sprzeczność
 infringing - naruszanie
+malfunction - awaria/niesprawność
 niche - nisza
 novelty - nowość/atrakcja
 pursuing - dązenie do
+pursuit - pogoń/dążenie
 reinforcement - wzmocnienie/zachęta
 scrutinity - bliższe rozpatrzenie/zbadanie
 seizure - zawładnięcie/przejęcie
 sustainability - zrównoważony rozwój
 turmoil - hałas/wrzawa/zamieszanie/chaos
+utterance - wyraz/sformułowanie
 
 czasowniki:
 aggravate - pogarszać/utrudniać

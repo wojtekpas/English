@@ -41,7 +41,7 @@ equate - utożsamiać/porównywać
 jeopardize - zagrozić/narażać na szwank
 preserve - utrwalać/zachowywać/kultywować
 reinforce - popierać/wzmacniać 
-seize- chwytać/zawładnąć/przejąć
+seize - chwytać/zawładnąć/przejąć
 slash - gwałtownie redukować
 stifle - udaremniać/spowalniać/tłamsić
 utter - wymawiać/wypowiadać/wyrażać

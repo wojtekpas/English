@@ -1,0 +1,63 @@
+rzeczowniki:
+abudance - dostatek/obfitość/urodzaj
+acclaim - uznanie/oklaski/aplauz
+appliance - urządzenie
+batch - grupa/seria/partia
+chase - pościg/pogoń
+crusade - krucjata
+craze - moda/szał
+dash - sprint
+dismay - niepokój/konsternacja/przerażenie
+exhilaration - radość/rozradowanie
+exploit - wyczyn
+fascination - fascynacja/zauroczenie
+gait - chód/krok
+galley - kuchnia na statku
+garment - strój/część garderoby
+hunter - myśliwy/łowca
+inflamation - zapalenie
+marble - marmur
+misinterpretation - błędna interpretacja
+phenomenon - zjawisko
+pursuit - pogoń/dązenie
+rage - wsciekłość/furia
+range - zakres/asortyment/zasięg
+riddle - zagadka/łamigówka
+stack - stos/sterta
+strain - napięcie/stres
+sundial - zegar słoneczny
+toil - harówka
+trauma - obawa/obsesja/uraz
+uproar - hałas/wrzawa
+valuables - kosztowności
+venture - przedsięwzięcie/wyprawa
+variety - różnorodnośc/wybór
+
+czasowniki:
+arouse - rozbudzać/wzniecać
+congest - przeciążyć/zatkać
+imbue - wpajać/moczyć/nasycać
+impose - narzucać/wymuszać
+
+przymiotniki:
+auxilary - pomocniczy/posiłkowy
+buried - zakopany
+drowned - utopiony/zatopiony
+exhausting - wyczerpujący
+immeasurable - niezmierny/kolosalny/diametralny
+impetous - porywczy/impulsywny
+implausible - nieprzekonujący/nieprawdopodobny
+improbable - nieprawdopodobny
+inopportune - nieodpowiedni
+profound - głęboki/gruntowny/wnikliwy
+unbearable - nieznośny/nie do wytrzymania
+vehement - gwałtowny/porywczy
+
+przysłówki:
+invariably - niezmiennie/zawsze
+
+rzeczowniki złożone:
+treasure hunter - poszukiwacz skarbów
+
+wyrażenia:
+beneath - pod/poniżej

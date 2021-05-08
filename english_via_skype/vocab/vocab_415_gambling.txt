@@ -1,27 +1,37 @@
 rzeczowniki:
 abudance - dostatek/obfitość/urodzaj
 acclaim - uznanie/oklaski/aplauz
+aid - pomoc/wsparcie
 appliance - urządzenie
+argument - kłótnia
 batch - grupa/seria/partia
 chase - pościg/pogoń
 crusade - krucjata
 craze - moda/szał
 dash - sprint
 dismay - niepokój/konsternacja/przerażenie
+drought - susza/pragnienie
+engulfing - pochłanianie/zalewanie/ogarnianie
+escalating - potęgowanie/zwiększenie
 exhilaration - radość/rozradowanie
 exploit - wyczyn
 fascination - fascynacja/zauroczenie
+fraud - oszustwo
 gait - chód/krok
 galley - kuchnia na statku
 garment - strój/część garderoby
+housework - prace domowe
 hunter - myśliwy/łowca
 inflamation - zapalenie
 marble - marmur
 misinterpretation - błędna interpretacja
 phenomenon - zjawisko
+pumb - pompa
 pursuit - pogoń/dązenie
 rage - wsciekłość/furia
 range - zakres/asortyment/zasięg
+recruit - rekrut/poborowy/nowicjusz
+reluctance - niechęć/ociąganie się
 riddle - zagadka/łamigówka
 stack - stos/sterta
 strain - napięcie/stres
@@ -35,21 +45,38 @@ variety - różnorodnośc/wybór
 
 czasowniki:
 arouse - rozbudzać/wzniecać
+befall - zdarzać/przydarzać się
+concur - zbiegać się
 congest - przeciążyć/zatkać
 imbue - wpajać/moczyć/nasycać
 impose - narzucać/wymuszać
+unveil - odkrywać/odsłaniać
+verbalize - wyrażać słowami
 
 przymiotniki:
+appalling - przerażający
 auxilary - pomocniczy/posiłkowy
+baffling - zaskakujący/zbijający z tropu
 buried - zakopany
+ceaseless - bezustanny/nieprzerwany
+crippling - wyniszczający/przygniatający
+disclosed - ujawniony
 drowned - utopiony/zatopiony
 exhausting - wyczerpujący
+gruelling - wyczerpujacy/ponad siły
+harsh - srogi/surowy/ostry
 immeasurable - niezmierny/kolosalny/diametralny
 impetous - porywczy/impulsywny
 implausible - nieprzekonujący/nieprawdopodobny
 improbable - nieprawdopodobny
+inestimable - nieoceniony
 inopportune - nieodpowiedni
+overwhelming - przytłaczający/przygniatający
 profound - głęboki/gruntowny/wnikliwy
+rousing - ekscytujacy/pobudzający/porywający
+superfluous - zbędny/nadrmierny/niepotrzebny
+synonymous - bliskoznaczny/równoznaczny
+unaccountable - niewytłumaczalny/niezrozumiały
 unbearable - nieznośny/nie do wytrzymania
 vehement - gwałtowny/porywczy
 
@@ -57,7 +84,24 @@ przysłówki:
 invariably - niezmiennie/zawsze
 
 rzeczowniki złożone:
+lay-by - miejsce na poboczu drogi przeznaczone na odpoczynek
 treasure hunter - poszukiwacz skarbów
+
+czasowniki złożone:
+bring about sth - spowodować coś/doprowadzić do czegoś
+bring sth up - podnosić coś/poruszać coś
+call sth off - odwołać/powstrzymać coś
+carry out - przeprowadzać/realizować/wykonywać coś
+dwell on sth - rozpamiętywać/rozgrzebywać coś
+feel up to sth - być w stanie coś zrobić/czuć się na siłach
+hinge upon - całkowicie zależeć od czegoś
+lay about - leniuchować/obijać się
+poke around - węszyć
+pull up - zatrzymać się
+put sb off - zniechęcać kogoś
+set in - nastać/zapanować
+turn up - podkręcać/zwiększać/pojawiać się
+wave at sb - machać na kogoś
 
 wyrażenia:
 beneath - pod/poniżej

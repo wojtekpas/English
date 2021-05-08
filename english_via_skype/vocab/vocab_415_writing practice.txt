@@ -1,0 +1,87 @@
+rzeczowniki:
+contempt - pogarda
+crop - uprawa/plon/zbiory
+espionage - szpiegostwo
+expedition - ekspedycja/wyprawa/wycieczka
+flop - fiasko/klapa
+identification - identyfikacja
+incompetence - niekompetencja
+liar - kłamca
+mold - forma/odlew
+nepotism - nepotyzm
+notion - myśl/pomysł/kaprys/fantazja
+onset - nadejście/początek
+onslaught - szturm/atak/najazd
+precedent - precedens
+prospering - prosperowanie/kwitnięcie
+rainfall - opad atmosferyczny
+remark - spostrzeżenie/uwaga/komentarz
+reserves - rezerwy/zasoby
+reverse - porażka/przeciwieństwo
+snag - przeszkoda/trudność/haczyk
+stabiliser - stablizator/statecznik
+throughput - wydajność/przepustowość
+
+czasowniki:
+abound - obfitować
+accede - przystąpić/zgadzać się/obejmować
+defer - odraczać/opóźniać/wstrzymywać
+demolish - wyburzyć/rozebrać
+deter - odstraszyć
+dispose - rozkładać/rozporządzać/rozmieszczać
+entail - wiązać się z czymś/pociągać za sobą
+impoverish - zubożyc/wyjaławiać/zniszczyć/osłabić
+steer - sterować/prowadzić/nakierować
+stir - zamieszać/poruszać
+
+przymiotniki:
+austere - prosty/surowy/zwykły
+choosy - wybredny/grymaśny
+contagious - zaraźliwy/zakaźny
+contiguous - graniczący/sąsiadujący
+cosy - przytulny
+deferred - odłożony na później/przełożony
+eventful - ciekawy/burzliwy/obfitujący w wydarzenia
+frigid - chłodny/zimny
+frivolous - lekkomyślny/niepoważny
+imminent - nadciągający/bliski/nieuchronny
+incompetent - niekompetentny
+inept - nieudolny/niezręczny/nieporadny
+inventive - pomysłowy
+jovial - wesoły
+precarious - niebezpieczny/ryzykowny/zagrażający
+rigid - surowy/sztywny/twardy
+snug - przytulny/zaciszny/dopasowany
+stationary - nieruchomy/stacjonarny/stały
+stationery - piśmienny
+successive - kolejny
+unpredictable - nieprzewidywalny/nieobliczalny
+
+przysłówki:
+astonishingly - zadziwiająco
+duly - należycie/jak przewidywano/zgodnie z planem
+intellectually - intelektualnie
+
+czasowniki złożone:
+appeal to sb - podobać się komuś/pociągać kogoś
+collide with sth - kolidować z czymś/zderzyć się z czymś
+decide on sth - zdecydować się na coś
+do with sth - zrobić coś z czymś
+go for sb - lubić kogoś/uganiać się za kimś
+hand sth out - rozdawać coś
+pass on - przekazywać
+put sb through - przełączyć kogoś
+write sth off - skasować coś
+
+wyrażenia:
+be beyond one's scope - przekraczać czyjeś możliwości/kompetencje
+be fitted with sth - wyposażyć coś w coś
+be well-of - być zamożnym/dobrze sytuowanym
+by sight - z widzenia
+commit oneself to sth - zobowiązywać się do czegoś
+in all likelihood - najprawdopodobniej
+let sb down - zawieść kogoś
+on sale - w sprzedaży/przecenie
+prevent sb from doing sth - powstrzymać kogoś przed zrobieniem czegoś
+put sb in jail - umieścic kogoś w więzieniu
+stand a chance - mieć szansę

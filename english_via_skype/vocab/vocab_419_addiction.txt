@@ -1,0 +1,68 @@
+rzeczowniki:
+breakdown - rozpad/awaria
+cluster - grono/zespół/grupa
+cuisine - kuchnia
+handbag - torebka
+head - szef/dyrektor
+parenting - wychowywanie dzieci
+parlour - salon
+priory - klasztor
+substance - kwintesencja/istota
+sunbed - leżak
+tanning - opalanie się
+treatment - zabieg/leczenie
+
+czasowniki:
+fade - znikać/gasnąć
+perceive - postrzegać/zauważać
+tan - opalać się
+
+przymiotniki:
+addictive - uzależniający/wciągający
+anxious - zaniepokojony/zatroskany
+bad-tempered - wybuchowy/szybko irytujący się
+behavioural - behawioralny
+compulsive - niepoprawny/nałogowy/fascynujacy
+despairing - zrozpaczony/rozpaczający/rozpaczliwy
+edgy - podenerowany/zitytowany
+enormous - olbrzymi
+fast-paced - szybki/o szybkim tempie
+fed up - rozdrażniony/znudzony
+harmless - nieszkodliwy/niewinny/niegroźny
+hooked - uzależniony
+obsessed - opanowany przez myśl natrętną
+pale - blady
+pressurized - hermetyczny/zestresowany/spięty
+supportive - wspomagający/pomocny/oddany
+tanning - opalony
+tense - napięty/nerwowy/spięty
+treatable - nadający się do leczenia
+
+przysłówki:
+dangerously - niebezpiecznie/poważnie
+overwhelmingly - niezwykle/ogromnie
+prematurely - przedwcześnie
+temporarily - chwilowo/tymczasowo
+
+rzeczowniki złożone:
+plastic surgery - chirurgia plastyczna
+
+czasowniki wyrażenia:
+hook sb on sth - uzależnić kogoś od czegoś
+look down on sb - patrzeć na kogoś z góry/pogardzać kimś
+split up with sb - rozstać się z kimś
+
+wyrażenia:
+be addicted to sth - być uzależnionym od czegoś
+be dependent on sth - być zależnym od czegoś
+be famous for sth - słynąć z czegoś
+be fed up with sth - mieć dosyć czegoś/powyżej uszu
+be hooked on sth - mieć bzika na punkcie czegoś/być od czegoś uzależnionym
+be keen on sth - być zapalonym/chętnym do czegoś
+be obsessed by/with sth - być opętanym czymś
+be open to sth - być otwartym na coś
+be proud of sth - być dumnym z czegoś
+be sick of sth - mieć czegoś dość/znudzić się czymś
+deep down - w głębi duszy/serca
+helpful on doing sth - pomocny w robieniu czegoś
+out of hand - od ręki

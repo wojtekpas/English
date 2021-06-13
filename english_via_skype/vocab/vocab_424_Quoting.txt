@@ -1,0 +1,61 @@
+rzeczowniki:
+accusation - oskarżenie/zarzut
+allegation - bezpodstawne twierdzenie/zarzut
+assurance - zapewnienie/obietnica
+carton - karton/pudełko
+colon - dwukropek
+compliment - komplement
+connotation - konotacja/skojarzenie
+grain - ziarno
+inference - wniosek/sugestia
+leaflet - ulotka/broszura
+pinch - szczypt
+remark - uwaga/spostrzeżenie
+speck - odrobina/szczypta
+temper - charakter/temperament
+
+czasowniki:
+allege - zarzucać/pomawiać/przytaczać
+assert - twierdzić/zapewniać
+clamour - wrzeszczeć
+conclude - wywnioskować/zakończyć
+confess - przyznawać się/wyznawać
+denote - oznaczać/symbolizować
+dissent - mieć odmienne zdanie/zaoponować
+imply - sugerować/insynuować
+infer - wnioskować
+interpret - interpretować/rozumieć jako
+object - sprzeciwiać się
+paraphrase - parafrazować
+praise - chwalić/błogosławić
+proclaim - obwieszczać/ogłaszać/oznajmiać
+rebut - obalać/opierać
+recant - odwoływać/cofać
+recollect - wspominać/przypominać sobie
+refute - obalać/odpierać/sprostować
+renounce - zrzekać się/wypowiadać
+repudiate - odrzucać/odmawiać
+reminisce - wspominać/wracać pamięcią
+restrain - powstrzymywać/hamować/ograniczać
+withstand - wytrzymywać/być odpornym
+
+przymiotniki:
+merciless - bezlitosny/okrutny
+
+przysłówki:
+utterly - całkowicie/kompletnie
+
+czasowniki wyrażenia:
+drive at sth - zmierzać do czegoś
+infer from sth - wnioskować na podstawie czegoś
+make sth up - wymyślić coś
+take on - przyjmować/nabywać
+take sb in - nabierać/oszukiwać kogoś
+
+wyrażenia:
+drop a hint - dać wskazówkę/rzucić aluzję
+go over sb's head - przechodzić czyjeść pojęcie
+judging by sth - sądząc po czymś
+jump to conclusions - wyciągnąć pochopne wnioski
+make head or tail of - rozumieć w minimalnym stopniu
+

@@ -40,6 +40,7 @@ restrain - powstrzymywać/hamować/ograniczać
 withstand - wytrzymywać/być odpornym
 
 przymiotniki:
+indispensible - niezastąpiony
 merciless - bezlitosny/okrutny
 
 przysłówki:

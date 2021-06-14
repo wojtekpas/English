@@ -1,24 +1,24 @@
 2)
-1. take
+1. signifies
 2. read
-3. signify
+3. denote
 4. dropping
 5. driving
-6. denote
+6. take
 
 1)
 1. read
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
+2. implying
+3. putting
+4. infer
+5. make
+6. conclude
+7. confirm
+8. interpret
 9. jumping
-10. 
-11. 
-12. 
+10. judging
+11. assume
+12. quote
 
 2)
 1. 
@@ -33,12 +33,12 @@
 10. b
 
 3)
-a. 
+a. of
 b. up
-c. 
+c. through
 d. in
 e. tail
 f. head
-g. on
+g. in
 h. up
-i. 
+i. at

@@ -1,0 +1,22 @@
+rzeczowniki:
+blueprint - plan/strategia
+flop - fiasko/klapa
+remark - spostrzeżenie/komentarz/uwaga
+
+czasowniki:
+allocate - przedzielać/przeznaczyć
+assign - przydzielać/wyznaczyć
+devote - poświęcać/angażować
+
+rzeczowniki złożone:
+bottom line - rezultat/wynik
+
+czasowniki złożone:
+dig into sth - wgryźć się w coś
+
+wyrażenia:
+at first sight - na pierwszy rzut oka
+from one's perspective - z własnej perspektywy
+in conclusion - na koniec/podsumowując
+make reference - odnosić się do czegoś/nawiązywac do czegoś
+without a doubt - bez wątpienia

@@ -1,16 +1,33 @@
 rzeczowniki:
+camomile - rumianek
+flattery - pochlebstwo
+headmaster - dyrektor
 hunting - myślistwo
+insecticide - środek owadobójczy
 newcomer - nowy członek/nowicjusz
+notoriety - zła sława
+stance - stanowisko/postawa
+stickler - pedant/służbista
+temptation - pokusa/kuszenie
 
 czasowniki:
+glorify - gloryfikować/wysławiać
+insult - obrażać
 lavish - szafować/nie szczędzić
 liken - porównywać/upodabniać
 marvel - zdumiewać/zachwycać się
 meddle - mieszać/wtrącać się
 plunge - pogrążyć/wpaść/gwałtownie spaść/rzucać się
+succumb - poddawać się/ulegać
 
 przymiotniki:
+alike - podobny
+fair-minded - bezstronny/sprawiedliwy
 powerless - bezradny/bezsilny
+scathing - zjadliwy/cięty
+
+rzeczowniki złożone:
+martial arts - sztuki walki
 
 czasowniki złożone:
 lapse into sth - popadać/wdawać się w coś
@@ -25,6 +42,16 @@ pretend to do sth - udawać, że coś się robi
 prevent sb from doing sth - powstrzymać kogoś przed zrobieniem czegoś
 pride oneself on sth - szczycić/chlubić się czymś
 put sb on - żartować sobie z kogoś
+reconcile oneself to sth - pogodzić się z czymś
+refrain from sth - powstrzymać się przed zrobieniem czegoś
+revel in sth - rozkoszować się czymś
+specialise in sth - specjalizować się w czymś
+stoop to sth - uciekać się do czegoś
+stray from - zbaczać z tematu
+struggle with sth - zmagać się z czymś
+substitute for sb - zastępować kogoś
+survive on sth - wyżyć z czegoś
+take out - uzyskiwać/dostawać/zaciągać
 
 wyrażenia:
 be lacking in sth - nie mieć wystarczająco dużo czegoś
@@ -34,7 +61,14 @@ be opposed to sth - być przeciwnym czemuś
 be popular with sb - być znanym wśród kogoś
 be pressed for time - być pod presją czasu
 be pushed for time - nie mieć czasu
+be racked with pain - zwijać się z bólu
+have a reputation for doing sth - być znanym z robienia czegoś
+make ends meet - wiązać koniec z końcem
 meet with little success - nie powieść się
 notorious for - znany z czegoś złego
 plunged into darkness - ogarnięty ciemnościami
 prior to sth - przed czymś
+reduction in sth - obniżka czegoś
+report on sth - raport o czymś
+solution to sth - rozwiązanie czegoś
+strewn with something - wypełniony/pokryty czymś

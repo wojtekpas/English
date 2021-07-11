@@ -10,10 +10,14 @@ czasowniki:
 articulate - wyrażać
 benefit - zyskiwać/korzystać
 clinch - przesądzić/sfinalizować/przypieczętować
+urge - popędzać/zaganiać/nawoływać do/zalecać
 
 przymiotniki:
 in-depth - dogłębny
 latter - późniejszy/drugi/końcowy
+
+przysłówki:
+promptly - bezzwłocznie/punktualnie/natychmiast
 
 czasowniki złożone:
 beg sb to do sth - błagać kogoś, aby coś zrobił
@@ -22,11 +26,15 @@ bring sth to sb's attention - zwrócić uwagę na coś
 carry sth through - przeprowadzać coś
 cater to sth - zaspokajać/spełniać
 get ahead - wyprzedzić/posuwać się do przodu
+put through sth - proponować coś/przedstawiać coś
+talk through - wytłumaczyć coś krok po kroku/omówić/przedyskutować
 
 wyrażenia:
 be inclined to do sth - mieć skłonność do robienia czegoś
 be on the same wavelength - nadawać na tych samych falach
 clinch the deal - przypieczętować interes
 find common ground - znaleźć wspólny język
+give thought to sth - poddać coś namysłowi
 make reference - nawiązać do czegoś
 meet halfway - pójść na kompromis
+lose sight of sth - stracić coś z oczu

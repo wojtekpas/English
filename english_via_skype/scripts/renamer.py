@@ -10,7 +10,7 @@ path_vocab = "%s\vocab" % path
 print ("Pliki w folderze: ")
 filenames = os.listdir(path_script)
 print (filenames)
-id = 433
+id = 435
 
 for filename in filenames:
     if "py" in filename:

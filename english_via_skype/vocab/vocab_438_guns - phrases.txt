@@ -1,0 +1,38 @@
+rzeczowniki:
+amendment - poprawka
+brawl - awantura/burda
+feud - lenno/spór/sprzeczka
+leisure - czas wolny/rekreacja
+pastime - rozrywka/hobby/zajęcie
+polarising - podzielenie
+rundown - podsumowanie/ograniczenie produkcji
+showcase - gablota/witryna/pokaz
+
+czasowniki:
+arouse - wzbudzać/wzniecać
+pry - węszyć/wścibiać nos/wtrącać się
+
+przymiotniki:
+all-out - całkowity/totalny
+antiquated - staroświecki/przestarzały
+drunken - pijany/pijacki
+dubious - podejrzany/wątpliwy/niepewny/dyskusyjny
+formidable - ogromny/budzący grozę/szacunek
+fuzzy - romzyty/niewyraźny
+implausible - nieprzekonujący/nieprawdopodobny
+inflammatory - podburzający/podżegajacy/zapalny
+law-abiding - praworządny/przestrzegający prawa
+overblown - wyszukany/pretensjonalny/nadęty
+
+przysłówki:
+blissfully - błogo
+
+czasowniki złożone:
+boil down to sth - sprowadzać się do czegoś
+grapple with sth - borykać się z czymś
+rage on - szaleć/kontynuować coś w gwałtowny sposób
+
+wyrażenia:
+arouse controversy - budzić kontrowersje
+put an end to sth - zakończyć coś/kłaść czemuś kres
+warm and fuzzy - ciepły i milutki

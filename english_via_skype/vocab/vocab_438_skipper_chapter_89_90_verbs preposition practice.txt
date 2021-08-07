@@ -3,8 +3,18 @@ bloom - rozkit/kwiat
 captivity - niewola
 cardigan - sweter rozpinany
 caviar - kawior
+closure - zamknięcie
+devaluation - dewaluacja
+extinction - wygaśnięcie/wymarcie/zagłada
 foodstuffs - artykuły/produkty żywnościowe
+fundraising - zbieranie funduszy
+inhabitant - mieszkaniec
+mayonnaise - majonez
+sketch - skecz/szkic
+spate - natłok/lawina
 subsidiary - filia/oddział/spółka córka
+suburbs - przedmieścia
+succession - ciąg/szereg/seria
 
 przymiotniki:
 ailing - bolący/trapiący/chory
@@ -12,6 +22,12 @@ anaesthetic - znieczulający
 compulsory - obowiązkowy/przymusowy
 filthy - bardzo brudny
 hurtful - bolesny/krzywdzący
+scientific - naukowy
+thought-provoking - zastanawiający/dający do myślenia
+well-written - dobrze napisany
+
+rzeczowniki złożone:
+court room - sala rozpraw
 
 czasowniki złożone:
 pull out - wyjeżdzać na drogę
@@ -29,6 +45,13 @@ be in the minority - być w mniejszości
 be in the pipeline - być w przygotowaniu/szykować się
 be in the way - stać komuś na drodze
 be in the wrong - ponosić winę/popełnić błąd
+be on good terms with sb - mieć z kimś dobre relacje
+be on tenterhooks - siedzieć jak na szpilkach
+be on the alert - być w stanie gotowości
+be on the brink of sth - być na krawędzie czegoś
+be on the cards - być pewnym, że coś się wydarzy
+be on the point of doing sth - zamierzać coś zrobić lada moment
+be on the verge of sth - być na skraju czegoś
 bite sb's head off - urwać komuś głowę
 get hold of sth - zacisnąć/chwycić coś
 in a foul mood - w podłym nastroju/humorze
@@ -45,5 +68,28 @@ in the open - jawnie/bez tajemnic
 in the same breath - jednocześnie/równolegle
 in the same vein - w podobnym tonie
 in the wild - na wolności
+live on the breadline - żyć w nędzy
 make do with sth - zadowalać się czymś
+off the air - nienadawany na żywo
+on aggregate - łącznie
+on arrival - po przyjeździe
+on balance - po zastanowieniu
+on behalf of sb - w czyimś imieniu
+on condition that - pod warunkiem że
+on offer - na sprzedaż
+on paper - w teorii/na papierze
+on principle - dla zasady
+on purpose - celowo/umyślnie
+on second thought - po zastanowieniu
+on the air - na antenie
+on the contrary - wprost przeciwnie
+on the dot - punktualnie
+on the grounds that - z powodu, że/na podstawie
+on the house - na koszt firmy
+on the market - na rynku
+on the outskirts of sth - na peryferiach/obrzeżach czegoś
+on the side - na boku/dodatek
+on the trot - z rzędu
+put sth on the line - ryzykować coś
 see sb in the flesh - zobaczyć kogoś na własne oczy
+spate of sth - duża liczba nieprzyjemnych zdarzeń

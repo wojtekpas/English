@@ -1,0 +1,38 @@
+rzeczowniki:
+banker - bankier/pewniak
+battleground - pole walki/pobojowisko
+childcare - opieka przedszkolna
+childminder - niania
+chore - obowiązek
+cleaner - sprzątaczka
+commodity - towar
+dimension - rozmiar/wymiar
+discord - niezgoda/waśń
+jabbing - dźgnięcie
+malaise - apatia/niemoc/marazm
+rudeness - niegrzeczność/nieuprzejmość
+rush - pośpiech/gonitwa
+treadmill - bieżnia
+worthlessness - bezwartościowość/nieprzydatność
+
+czasowniki:
+yearn - tęsknić/współczuć
+
+przymiotniki:
+distant - daleki/odległy
+insistent - uparty/uporczywy
+instant - natychmiastowy/błyskawiczny
+marital - małżeński
+scarce - ograniczony/rzadki
+subtle - subtelny/delikatny
+terrifying - przerażający/straszny
+two-tier - dwupoziomowy
+
+wyrażenia:
+at the crack of dawn - o brzasku/świcie
+for donkey's years - od bardzo dawna
+for old times' sake - ze względu na stare czasy
+in former times - w przeszłości
+in the nick of time - w samą porę/ostatniej chwili
+on the dot - punktualnie
+on the spur of the moment - pod wpływem chwili/spontanicznie

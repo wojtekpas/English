@@ -1,0 +1,56 @@
+rzeczowniki:
+ferocity - dzikość/okrucieństwo/srogość
+foray - krok/próba sił
+handicap - przeszkoda/utrudnienie
+laborer - robotnik
+menace - groźba/zagrożenie
+mystique - aura tajemniczości
+paycheck - koperta z wypłatą
+predisposal - nieszkodliwianie wstępne
+rectitude - prawość/uczciwość
+skull - czaszka
+stock - asortment/zapas
+supply - zapas/zaopatrzenie
+surplus - nadmiar/nadwyżka
+worry - zmartwienie/niepokój
+
+czasowniki:
+abdicate - abdykować
+cede - cedować/zrzekać się/oddawać
+evict - eksmitować
+plump - okrągły/pulchny/puszysty
+quantify - określać ilościowo
+relinquish - odstępować/rezygnować/porzucać
+renounce - zrzekać się/wypowiadać
+scalp - skalpować/oskalpować
+slapped - ciskać/rzucać
+squander - marnować/trwonić
+surrender - poddać się/rezygnować
+yield - skutkować/rodzić/ustępować
+
+przymiotniki:
+disposable - jednorazowy
+engrossed - pochłonięty
+enlarged - powiększony
+grip - ściskać/opanować
+hectic - nerwowy/napięty/gorączkowy
+imposing - imponujący/olśniewający
+lean - chudy/szczupły
+obese - otyły
+overweight - z nadwagą
+palpable - zupełny/kompletny
+pliable - elastyczny/uległy
+sculptured - rzeźbiony
+submerged - zatopiony/pogrążony
+temporary - chwilowy/przejściowy
+tremendous - zawrotny/olbrzymi
+
+przysłówki:
+advisedly - rozmyślnie/świadomie
+conservatively - zachowawczo
+
+rzeczowniki złożone:
+cheap thrill - tania rozrywka
+
+wyrażenia:
+few and far between - rzadko/nieczęsto

@@ -1,35 +1,71 @@
 rzeczowniki:
+conflagration - pożar/konflikt/wojna
+credit - zasługa/uznanie
+decline - upadek/schyłek
+deluge - potop/powódź/ulewa
+destitution - bieda/nędza
+dormitory - akademik
+eloquence - elokwencja/wymowa
+eruption - wysypka
+famine - głód
 ferocity - dzikość/okrucieństwo/srogość
 foray - krok/próba sił
+gale - wichura
+greed - chciwość/żądza
 handicap - przeszkoda/utrudnienie
+insanity - obłęd/szaleństwo
 laborer - robotnik
+malice - złośliwość
+mast - maszt
 menace - groźba/zagrożenie
+merit - wartość/zaleta/zasługa
 mystique - aura tajemniczości
 paycheck - koperta z wypłatą
+plague - plaga/zaraz/dżuma
 predisposal - nieszkodliwianie wstępne
 rectitude - prawość/uczciwość
+reputation - renoma/reputacja
+rescuing - uratowanie
 skull - czaszka
 stock - asortment/zapas
+storehouse - magazyn
+subsidy - subwencja/dotacja
 supply - zapas/zaopatrzenie
 surplus - nadmiar/nadwyżka
 worry - zmartwienie/niepokój
 
 czasowniki:
 abdicate - abdykować
+abduct - uprowadzać/porywać
+ameliorate - doskonalić/ulepszać
 cede - cedować/zrzekać się/oddawać
+convert - przerabiać/przekształcać się
+culminate - osiągać szczyt/zakończyć
+deviate - odchylać/zbaczać
+dispel - rozpędzić/zdementować
 evict - eksmitować
+exaggerate - przesadzać
+favor - faworyzować/wyróżnić
+infer - wniskować
+pinpoint - precyzować/dokladnie określić
 plump - okrągły/pulchny/puszysty
+precipitate - przyspieszać
 quantify - określać ilościowo
 relinquish - odstępować/rezygnować/porzucać
 renounce - zrzekać się/wypowiadać
 scalp - skalpować/oskalpować
+shrink - kurczyć się
 slapped - ciskać/rzucać
+speculate - spekulować
 squander - marnować/trwonić
 surrender - poddać się/rezygnować
 yield - skutkować/rodzić/ustępować
 
 przymiotniki:
+congested - zatłoczony
 disposable - jednorazowy
+dormant - uśpiony/śpiący
+drowning - tonący
 engrossed - pochłonięty
 enlarged - powiększony
 grip - ściskać/opanować
@@ -37,20 +73,34 @@ hectic - nerwowy/napięty/gorączkowy
 imposing - imponujący/olśniewający
 lean - chudy/szczupły
 obese - otyły
+obscure - mało znany
 overweight - z nadwagą
+pale - blady
 palpable - zupełny/kompletny
+passive - bierny
 pliable - elastyczny/uległy
 sculptured - rzeźbiony
 submerged - zatopiony/pogrążony
 temporary - chwilowy/przejściowy
 tremendous - zawrotny/olbrzymi
+untimely - przedwczesny
+wrinkled - pofałdowany/pomięty
 
 przysłówki:
 advisedly - rozmyślnie/świadomie
 conservatively - zachowawczo
+superficially - powierzchownie
 
 rzeczowniki złożone:
 cheap thrill - tania rozrywka
+disposable income - dochód netto
+strong gale - wichura
+
+czasowniki złożone:
+qualify for sth - kwalifikować się do czegoś
 
 wyrażenia:
+at any rate - w każdym razie
 few and far between - rzadko/nieczęsto
+get all the credit for sth - zebrać za coś pochwały
+split the difference - dojść do porozumienia

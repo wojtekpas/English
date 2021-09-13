@@ -55,7 +55,7 @@ relinquish - odstępować/rezygnować/porzucać
 renounce - zrzekać się/wypowiadać
 scalp - skalpować/oskalpować
 shrink - kurczyć się
-slapped - ciskać/rzucać
+slap - ciskać/rzucać
 speculate - spekulować
 squander - marnować/trwonić
 surrender - poddać się/rezygnować
@@ -103,4 +103,5 @@ wyrażenia:
 at any rate - w każdym razie
 few and far between - rzadko/nieczęsto
 get all the credit for sth - zebrać za coś pochwały
+in stock - w zapasie
 split the difference - dojść do porozumienia

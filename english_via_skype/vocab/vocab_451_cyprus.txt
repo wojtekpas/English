@@ -1,0 +1,57 @@
+rzeczowniki:
+abundance - dostatek/urodzaj
+barrack - koszary
+chamber - komora/izba/komnata
+crusader - bojownik/krzyżowiec
+fennel - koper włoski
+flock - groma/stado
+hinterland - strefa przyległa
+marble - marmur
+muddle - zamieszanie/bałagan
+plain - równina
+rampart - wał obronny
+remnant - pozostająca część/resztki
+shepherd - pasterz
+stable - stajnia
+sublime - wzniosłość
+swath - pas/smuga
+treat - przyjemność/rozrywka
+venture - wyprawa
+weed - chwast/wodorosty
+
+czasowniki:
+charm - zaczarować/omamić
+flock - gromadzić się
+head - być na czele/zmierzać
+retain - zachować
+showcase - promować/wystawiać na pokaz
+snake - wić się
+tumble - upadać/przewracać się
+
+przymiotniki:
+coastal - przybrzeżny
+coveted - pożadany
+crumbling - niszczejący/popadający w ruinę
+enviable - godny pozazdroszczenia
+galore - obfite
+grand - okazały/efektowny
+humongous - ogromniasty
+laid-back - wyluzowany
+overzealous - nadgorliwy
+quaint - niezwykły/urokliwy
+picturesque - malowniczy
+rugged - nierówny
+substantial - znaczący/namacalny
+surrounding - otaczający
+tumbling - spadający
+
+przysłówki:
+wonderfully - niezwykle/wspaniale
+
+czasowniki złożone:
+head out - wyjść/wyruszyć
+lop off - odcinać
+
+wyrażenia:
+by far - o wiele zdecydowanie
+the pick of the bunch - najlepszy spośród wszystkich

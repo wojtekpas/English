@@ -1,0 +1,25 @@
+rzeczowniki:
+backdrop - horyzont
+moose - łoś
+sights - widoki/miejsce godne zobaczenia
+walkabout - piesza wycieczka
+
+przymiotniki:
+compelling  - przekonujący/fascynujący
+deserted - bezludny/opustoszały
+illuminated - jasno oświetlony
+mountainous - górzysty
+mundane - nieciekawy/nudny
+rugged - nierówny/wyboisty
+upmarket - z wyższej półki
+
+rzeczowniki złożone:
+best bet - najlepsze rozwiązanie/wyjście
+
+czasowniki złożone:
+set sb back - dużo kogoś kosztować
+
+wyrażenia:
+catch a glimpse of - ujrzeć coś tylko przez moment
+go it alone - robić po swojemu/działać samemu
+out of the ordinary - niezwykły/coś nadzwyczajnego

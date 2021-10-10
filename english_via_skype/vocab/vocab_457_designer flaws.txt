@@ -1,0 +1,66 @@
+rzeczowniki:
+cheerfulness - pogoda ducha/wesołość
+dashboard - deska rozdzielcza
+disposal - rozrządzenie/załatwianie
+fore - przód
+footprint - odcisk stopy
+gel - żel
+gratitude - wdzięczność
+indentation - wgłębienie
+inkling - domysły
+lip - krawędź/brzeg
+midsole - podeszwa środkowa
+overprint - nadruk
+passage - korytarz/ustęp/fragment
+shock - wstrząs
+sneakers - tenisówki
+sole - podeszwa
+tray - taca/tacka
+trill - wibrując dzwięk
+typeface - krój czcionki
+typewriter - maszyna do pisania
+wonder - zdumienie/zdziwienie
+
+czasowniki:
+array - ustawiać/układać
+devour - pożerać/chłonąć
+dree - uzdabiać
+envision - wyraobrazać sobie/przewidywać
+hunt - polować/poszukiwać
+moan - narzekać
+nail - przybić gwoździem
+summon - przywołać/wezwać
+
+przymiotniki:
+dimpled - z dołeczkiem
+fait - słaby/nikły
+furtive - tajemny
+hollow - dziurawy/zapadnięty
+infuriating - doprowadzający do szału
+irksome - denerwujący/męczący
+imbecilic - kretyński
+limitless - bezgraniczny
+manifold - rozmaity/wieloktrotny
+shallow - płytki
+stationary - nieruchomy
+thought-out - przemyślany
+
+przysłówki:
+scrupulously - skrupulatnie/dokładnie/starannie
+
+rzeczowniki złożone:
+conservative estimate  - ostrożny szacunek
+selling point - zalety
+spare change - drobniaki
+
+czasowniki złożone:
+boast about sth - chwalić się czymś
+bring sth down - zmniejszać coś
+call up - powoływać kogoś/przeglądać na komputerze
+get down - położyć/schylić się
+puzzle over sth - łamać sobie głowę nad czymś
+
+wzraenia:
+have an inkling - podejrzewać/przypuszczać
+in either case - tak czy tak
+on the face of it - na pierwszy rzut oka/pozornie

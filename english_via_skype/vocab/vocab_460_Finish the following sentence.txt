@@ -1,0 +1,25 @@
+rzeczowniki:
+commodity - towar
+staple - podstawowy produkt
+
+czasowniki:
+contain - kontrolować/powstrzymać
+scramble - wspinać się
+unveil - odkrywać/ujawniać/wyjaśniać
+
+przymiotniki:
+afflicted - chory/cierpiący
+combustion  - spalinowy
+formidable - budzący szacunek/ogromny
+household - gospodarski
+
+rzeczowniki złożone:
+combustion engine - silnik spalinowy
+
+czasowniki złożone:
+pile up - nagromadzać się/piętrzyć się
+roll out - rozszerzyć działalność
+
+wyrażenia:
+rest on one's laurels - spocząć na laurach
+slash costs - obciąć koszty

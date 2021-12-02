@@ -1,0 +1,37 @@
+rzeczowniki:
+embezzlement - defraudacja
+interest - odsetki
+looming - wyłanianie się
+mismanagement - złe zarządzanie/marnotractwo
+misuse - naużycie
+obstruction - przeszkoda/zablokowanie
+prosecution - oskarżenie
+reimbursement - zwrot kosztów
+scramble - przepychanka/walka
+venture - przedsięwzięcie
+wrongdoing - krzywda/zło/przestępstwo
+
+czasowniki:
+adjourn - zawiesić/przerwać
+contend - rywalizowac/utrzymywać
+contest - zakwestionować/podważyć ważność
+downplay - zbagatelizować
+recant - odwoływać/cofać/wypierać się
+
+przymiotniki:
+indigenous - rdzenny
+serene - pogodny/bezchmurny
+
+rzeczowniki złożone:
+rampant inflation - inflacja rosnąca w gwałtownym tempie
+
+czasowniki złożone:
+grapple with sth - zmagać się z czymś
+preside over sth - nadzorować coś
+
+wyrażenia:
+claim damages - domagać się odszkodowania
+commit embezzlement - dopuścić się defraudacji
+obstruction of justice - utrudnianie działań wymiaru sprawiedliwości
+put one's heart into sth - wkładać w coś całe serce
+statue of limitations - zasada przedawnienia

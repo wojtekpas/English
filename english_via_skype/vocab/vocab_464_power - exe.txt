@@ -1,0 +1,36 @@
+rzeczowniki:
+dictator - dyktator
+mainstream - dominujący trend
+monarch - monarcha
+unrest - niepokój/wzburzenie
+
+czasowniki:
+appear - wydawać się
+bully - zastraszyć
+command - dowodzić
+conquer - podbijać
+dominate - dominować
+enforce - egzektować
+impose - narzucać
+intimidate - wzbudzać strach
+label - naklejać etykietę
+liberate - uwalniać/wyzwalać
+master - opanować/kontrolować/ujarzmiać
+reign - panować/królować
+reinforce - wspierać/umacniać
+resist - opierać się/sprzeciwiać się
+restrict - ograniczać
+summon - przywoływać/wezwać/zwoływać
+victimise - prześladować
+
+przymiotniki:
+benign - łagodny/zbawienny/korzystny
+exempt - wolny/zwolniony
+inferior - gorszy/podwładny
+subjective - subiektywny
+vulnerable - wrażliwy/czuły
+
+czasowniki złożone:
+back sth up - podeprzeć coś
+consent to do sth - zgodzić się coś zrobić
+submit to sth - ulegać czemuś/podporządkowywać się czemuś

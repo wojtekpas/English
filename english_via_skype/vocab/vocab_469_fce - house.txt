@@ -1,0 +1,24 @@
+rzeczowniki:
+bedclothes - pościel
+facilities - udogodnienia
+insurer - ubezpieczyciel
+mishap - nieszczęście/przypadek
+premise - przesłanka/założenie
+
+czasowniki:
+browse - przeglądać/wertować
+
+przymiotniki:
+beloved - ukochany
+grubby - brudny/niechlujny
+quaint - niezwykły/uroczy
+unheard of - niebywały
+
+czasowniki złożone:
+fork out - wyrzucać w błoto
+hand over sth - podawać/przekazywać
+line up - czekać w kolejce
+pull out - wyjeżdzać/opuszczać
+
+wyrażenia:
+be wise to do sth - być roztropnym aby coś zrobić

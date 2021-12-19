@@ -1,6 +1,6 @@
 import os, time
 from shutil import copyfile
-path = "D:\English\english_via_skype"
+path = "C:\English\english_via_skype"
 path_script = "%s\scripts" % path
 path_original_doc = "%s\original_exercises\doc" % path
 path_original_pdf = "%s\original_exercises\pdf" % path
@@ -10,7 +10,7 @@ path_vocab = "%s\vocab" % path
 print ("Pliki w folderze: ")
 filenames = os.listdir(path_script)
 print (filenames)
-id = 469
+id = 472
 
 for filename in filenames:
     if "py" in filename:

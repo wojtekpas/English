@@ -1,12 +1,35 @@
 rzeczowniki:
+alimony - alimenty
+amenities - udogodnienia/wyposażenie
 ancestry - pochodzenie/rodowód
+armistice - rozejm
+avarice - chciwość
+carcass - padlina/tusza
+decapitation - ścięcie głowy
+extortion - wymuszenie/szantaż/wyłudzenie
+greed - chciwość/zachłanność
+impartiality - bezstronność/obiektywność
+impunity - bezkarność
+jackal - szakal
 mentality - mentalność
+mob - tłum/motłoch/banda
+oath - przysięga
+pageantry - wielka gala
+perjury - krzywoprzysięstwo
+piety - pobożność/oddanie
+replica - kopia/replika
+riches - bogactwo
 stock - klasa z której się ktoś wywodzi/zapas
+testimony - zeznanie
+vice - wada/defekt
 
 czasowniki:
+amass - akumulować
 loiter - marudzić/wałęsać się
 
 przymiotniki:
+agreeable - miły/przyjemny
+incapacitated - ubezwłasnowolniony
 lengthy - przydługi/dłużący się/rozwklekły
 long-winded - rozwlekły/nużący
 spellbound - oczarowany/urzeczony
@@ -16,6 +39,7 @@ przysłówki:
 abjectly - żałośnie/pokornie
 absurdly - nieprawdopodobnie/absurdalnie
 avidly - namiętnie/gorliwie
+disorderly - bezładny/niechlujny
 heartily - serdecznie/z ochotą
 invariably - niezmiennie/zawsze
 predominantly - głównie/przeważnie

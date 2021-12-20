@@ -11,16 +11,16 @@ Task Three
 10. b
 
 Task Two
-1. 
+1. b
 2. a
 3. a
-4. 
+4. a
 5. b
 6. a
 7. a
 8. b
 9. b
-10. 
+10. a
 
 Task Three
 1. extortion
@@ -28,7 +28,7 @@ Task Three
 3. impartiality
 4. impunity
 5. amenities
-6. ancestry
+6. pageantry
 7. alimony
 8. perjury
 9. replica

@@ -9,8 +9,8 @@ path_solution_pdf = "%s\solutions\txt" % path
 path_vocab = "%s\vocab" % path
 print ("Pliki w folderze: ")
 filenames = os.listdir(path_script)
-print (filenames)
-id = 473
+print(filenames)
+id = 476
 
 for filename in filenames:
     if "py" in filename:
@@ -21,14 +21,14 @@ for filename in filenames:
         oldname = names[0]
         newname_orig = "%s\lesson_%d_%s_original.docx" % (path_original_doc, id, oldname)
         newname_edit = "%s\lesson_%d_%s_edit.docx" % (path_solution_doc, id, oldname)
-        print newname_orig
+        print(newname_orig)
         copyfile(filename_absolute, newname_orig)
-        print newname_edit
+        print(newname_edit)
         copyfile(filename_absolute, newname_edit)
     else:
         names = str(filename).split(".pdf")
         if len(names) == 2:
             oldname = names[0]
             newname = "%s\lesson_%d_%s.pdf" % (path_original_pdf, id, oldname)
-            print newname
+            print(newname)
             copyfile(filename_absolute, newname)

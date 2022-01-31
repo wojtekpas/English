@@ -1,0 +1,54 @@
+rzeczowniki:
+converse - odwrotność
+historian - historyk
+incidence - częstotliwość
+seriousness - powaga
+
+czasowniki:
+advocate - popierać
+append - dodać/dołączyć
+complement - uzupełniać
+conceive - tworzyć/wobrażać sobie
+convene - zwołać/zebrać się
+deduce - dedukować
+denote - oznaczać
+deviate - odchylać się
+distort - zniekształcać
+govern - rządzić/kierować/wpływać
+infer - wywnioskować
+lie - znajdować się
+negate - zaprzeczać/zmarnować
+overlap - pokrywać się cześćiowo/kolidować
+perceive - zauważać/spostrzegać
+reside - mieszkać/rezydować/przebywać
+trigger - wyzwalać/powodować
+utilise - wykorzystywać
+
+przymiotniki:
+arbitrary - przypadkowy/arbitralny
+authoritative - miarodajny/dobrze poinformowany
+coherent - spójny/zrozumiały
+comprehensive - obszerny/wszechstronny
+contemporary - współczesny
+empirical - empiryczny
+predominant - przeważający
+widespread - powszechny
+
+przysłówki:
+likewise - podobnie
+markedly - wyraźnie
+
+rzeczowniki złożone:
+capital punishment - kara śmierci
+
+czasowniki złożone:
+go against - przeciwstawiać się
+stand for - znaczyć coś
+think up - wymyślać coś
+wipe out - wykończyć
+
+wyrażenia:
+notwithstanding - niezależnie od
+somewhat - nieco
+thereby - wskutek czego
+whereby - przez co

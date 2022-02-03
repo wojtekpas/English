@@ -1,8 +1,8 @@
 82.1
 1. overlap, complement
-2. infer
-3. advocate
-4. deduce
+2. deduce
+3. advocates
+4. infered
 
 82.2
 1. authorative
@@ -14,15 +14,15 @@
 82.3
 1. incidence - b
 2. in sequence: 49, 64 
-3. 
-4. c
-5. yes - arbitrary
+3. the best or the worst
+4. c - misleading fashion
+5. no - randomly - arbitrary
 
 82.4
 1. resides
 2. conceived
 3. denotes
-4. contradict
+4. contradicted
 5. appended
 
 82.5

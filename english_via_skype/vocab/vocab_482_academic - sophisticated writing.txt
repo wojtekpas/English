@@ -1,31 +1,51 @@
 rzeczowniki:
+allusion - aluzja/przytyk
+censorship - cenzura
+citation - cytat
 converse - odwrotność
+epitomist - autor skrótu
 historian - historyk
 incidence - częstotliwość
+preface - przedmowa
 seriousness - powaga
 
 czasowniki:
 advocate - popierać
+allude - zrobić aluzję/nawiązywać do czegoś
 append - dodać/dołączyć
+categorize - sklasyfikować
+cite - cytować/przytoczyć
 complement - uzupełniać
+compose - stanowić
+comprise - składać się/zawierać
 conceive - tworzyć/wobrażać sobie
+conclude - wywnioskować
 convene - zwołać/zebrać się
 deduce - dedukować
 denote - oznaczać
 deviate - odchylać się
 distort - zniekształcać
+embrace - obejmować/zawierać
+epitomise - być uosobieniem/streszczać
+expound - objaśniać
 govern - rządzić/kierować/wpływać
 infer - wywnioskować
 lie - znajdować się
 negate - zaprzeczać/zmarnować
 overlap - pokrywać się cześćiowo/kolidować
 perceive - zauważać/spostrzegać
+preface - poprzedzić przedmową
+posit - zakładać/postulować
+reiterate - powtarzać coś wielokrotnie
 reside - mieszkać/rezydować/przebywać
+subsume - włączyć/ująć
 trigger - wyzwalać/powodować
+underscore - podkreślać
 utilise - wykorzystywać
 
 przymiotniki:
 arbitrary - przypadkowy/arbitralny
+ascending - rosnący
 authoritative - miarodajny/dobrze poinformowany
 coherent - spójny/zrozumiały
 comprehensive - obszerny/wszechstronny
@@ -42,12 +62,19 @@ rzeczowniki złożone:
 capital punishment - kara śmierci
 
 czasowniki złożone:
+account for sth - tłumaczyć/wyjasniać coś
+attend to sth - załatwić coś
 go against - przeciwstawiać się
+lay out - rozstawić/rozłożyć coś
+make up - składać się/stanowić
+stamp sth out - stłumić coś/ugasić coś
 stand for - znaczyć coś
 think up - wymyślać coś
+touch upon sth - wspomnieć o czymś
 wipe out - wykończyć
 
 wyrażenia:
+be beyond one's scope - przekraczać czyjeś możliwości
 notwithstanding - niezależnie od
 somewhat - nieco
 thereby - wskutek czego

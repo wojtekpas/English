@@ -32,6 +32,7 @@ utilised
 contradicts
 demonstrate
 converse
+perceive
 somewhat
 trigger
 notwithstanding
@@ -43,3 +44,29 @@ likewise
 convene
 resides
 appended
+
+83.1
+1. underscores
+2. expounded
+3. account for
+4. posit
+5. reiterate
+6. epitomize
+
+83.3
+category
+preface
+allusion
+citation
+reiteration
+epitomist
+
+83.4
+1. return
+2. brought
+3. touched
+4. address
+5. beyond the scope of
+6. ascending
+7. forced to conclude
+8. preface

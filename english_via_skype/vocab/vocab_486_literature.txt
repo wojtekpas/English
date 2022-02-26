@@ -1,0 +1,65 @@
+rzeczowniki:
+admirer - atorator/wielbiciel
+betrayal - zdrada
+brutality - brutalność/okrócieństwo
+companionship - towarzystwo
+contentment - zadowolenie
+convention - konwenanse
+defiance - prowokacja/bunt/naruszenie
+destruction - zniszczenie/zagłada
+downfall - upadek
+embodiment - uosobienie
+enjoyment - przyjemność
+fate - los/przeznaczenie/fatum
+freethinker - wolnomyśliciel
+insanity - obłęd/szaleństwo/niepoczytalność
+irrationality - irracjonalność
+landowner - ziemianin/właściciel ziemski
+mercy - łaska/litość
+pity - żal/litość/współczucie/szkoda
+portrayal - obraz/przedstawienie
+prosperity - dobrobyt/pomyślność
+protagonist - główny bohater
+rage - furia
+resilience - odporność/wytrzymałość
+stabbing - napad z użyciem noża
+synopsis - streszczenie
+
+czasowniki:
+betray - zdradzić
+convey - przekazywać/komunikować
+defy - przeciwstawiać się
+depict - przedstawiać
+expose - eksponować/ujawniać
+favour - faworyzować/preferować
+represent - reprezentować/symbolizować
+
+przymiotniki:
+affluent - zamożny/bogaty
+alien - obcy/odmienny/dziwny
+defiant - prowokujący/wyzywający/nieposłuszny
+intrinsic - wrodzony/rzeczywisty
+insane - niepoczytalny/obłąkany/szalony
+mad - wściekły/szalony
+madding - irytujący
+merciful - litościwy/miłosierny
+merciless - bezlitosny/okrutny
+murderous - morderczny/zbrodniczy
+noble - szlachetny
+passionate - namiętny/żarliwy
+pitiful - wzruszający/żałosny
+prosperous - zamożny/bogaty
+resilient - odporny
+rural - wiejski/rolniczy
+sane - rozsądny/rozumny
+sympathetic - życzliwy
+
+przysłówki:
+madly - szalenie/wściekle
+
+czasowniki złożone:
+bring about sth - spowodować/wywoływać coś
+
+wyrażenia:
+be inherent in sth - być właściwym dla czegoś
+endowed with something - obdarzony czymś

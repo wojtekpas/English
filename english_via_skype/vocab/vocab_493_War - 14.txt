@@ -1,0 +1,73 @@
+rzeczowniki:
+atrocity - okropność/okrucieństwo
+backlash - ostry sprzeciw
+bitterness - gorycz/zaciekłość
+bombing - atak bombowy
+breeding - chów/hodowla
+ceasefire - zawieszenie broni
+community - społeczność
+conspiration - konspiracja
+criminality - przestępczość
+deescalation - deeskalacja
+disput - kłótnia
+genocide - lódobójstwo
+grievances - pretensje
+hatred - nienawiść
+innocent - niewinny
+internment - internowanie
+liberator - wyzwoliciel
+mainland - kontynent/ląd stały
+regime - rządy autorytarne/reżim
+resentment - gniew/frustracja
+settlement - porozumienie/ugoda
+skirmish - starcie zbrojne
+stalemate - impas
+wartime - czas wojny
+
+czasowniki:
+crush - miażdzyć/przygnieść
+dehumanize - odczłowieczyć
+descend - przeradzać
+foil - udaremnić
+fuel - podsycać/napędzać
+hail - pochwalić/salutować
+indict - oskarzać
+invade - najeżdzać/wtargnąć
+pose - stanowić/udawać
+provoke - prowokować
+
+przymiotniki:
+compulsory - obowiązkowy
+entrenched - głęboko zakorzeniony
+heavy-handed - nietaktowny/surowy
+inhuman - nieludzki
+latent - ukryty/utajony
+peaceful - pokojowy/pojednawczy
+spiralling - gwałtownie wzrastający
+waged - płatny/zatrudniony
+
+przysłówki:
+overwhelmingly - niezwykle/ogromnie
+
+rzeczowniki złożone:
+civil war - wojna domowa
+dispute settlement - rozwiązywanie sporów
+draft dodger - uchylający się od poboru
+lasting peace - trwały spokój
+power-sharing - podział władzy
+rogue state - państwo zbójeckie
+turning point - punkt zwrotny
+
+czasowniki złożone:
+cut sth short - skrócić coś
+give in - poddać się/ugiąć się
+go off - wybuchnąć
+prop sth up - podpierać coś/wspierać
+pull out - wycofać się/oddalić się
+step up - zrobić krok naprzód
+
+wyrażenia:
+at peace - w spokoju
+stick to one's guns - obstawiać przy swoim
+take up arms - chwycić za broń
+way out - daleko poza

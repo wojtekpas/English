@@ -1,0 +1,52 @@
+rzeczowniki:
+animosity - niechęć/nienawiść
+blockade - blokada
+crossfire - krzyżowy ogień/ostrzał
+hostility - wrogość
+hotbed - inspekt/gniazdo
+power - władza/kontrola
+rebellion - bunt/powstanie
+ray - promień
+stability - trwałość/równowaga
+
+czasowniki:
+alleviate - łagodzić
+arise - powstawać
+avert - oddalać/zapobiegać
+deploy - rozmieszczać/rozlokowywać
+desert - opuszczać/porzuczać
+enroll - rekrutować/przyjmować
+escalate - potęgować/powiększać
+flee - uciekać
+launch - rozpoczynać/wystrzelać
+lift - uchylać/znosić/transportować samolotem/znikać
+resistance - sprzeciw/opór/odporność
+retain - zachowywać
+retaliate - mścić się
+seize - chwytać/przejąć/konfiskować
+spark - wywołać
+surround - otaczać
+toll - żniwa
+undergo - ulegać/przechodzić
+withdraw - wycofywać się
+
+przymiotniki:
+fragile - delikatny/kruchy
+heated - ożywiony/gwałtowny
+peacekeeping - pokojowy
+pinpoint - precyzyjny
+pre-emptive - wyprzedzający
+rough - przybliżony
+surgical - operacyjny
+unprovoked - nieuzasadniony
+
+rzeczowniki złożone:
+peace treaty - traktat pokojowy
+
+czasowniki złożone:
+break out - wybuchnąć
+call up - powoływać
+
+wyrażenia:
+come into effect - wchodzić w życie
+offer resistance - stawiać opór

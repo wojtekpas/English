@@ -1,0 +1,50 @@
+rzeczowniki:
+boom - hossa/wzrost popularności
+censorship - cenzura
+childbirth - poród
+currency - waluta
+dictator - dyktrator
+fanatic - fanatyk
+hunt - polowanie/poszukiwanie/obława
+invader - najeźdźca
+liberation - oswobodzenie
+provocation - prowokacja
+
+czasowniki:
+bleed - krwawić
+dictate - nakazywać/rozkazywać
+distract - rozpraszać/dekoncentrować
+drag - wlec/ciągnąć
+grieve - martwić się/rozpaczać
+hack - włamywać się/dać radę
+hail - pochwalić/krzyknąć
+intervene - interweniować/stawać na przeszkodzie
+liberate - uwalniać
+twist - skręcić/skrzywić
+
+przymiotniki:
+bodily - cielesny/fizyczny
+brainwashed - poddany praniu mózgu
+choked - zdenerwowany/wściekły
+demented - bezrozumny/oszalały
+dictatorial - autorytatywny
+gung-ho - napalony/podjarany
+impartial - bezstronny/obiektywny
+starved - wygłodzony/zagłodzony
+
+rzeczowniki złożone:
+natural cause - naturalna przeczyna
+
+czasowniki złożone:
+bring about sth - spowodować coś
+drum up - zdobyć/zyskać
+prop up - wspierać w trudnej sytuacji
+pull out - wyjeżdzać/opuszczać
+step up - uzyskać awans/stanąć na wysokości zadania
+
+wyrażenia:
+drum up business - rozkręcić interesy
+drum up support - pozyskać poparcie
+in the intervening years - w tych latach
+twist sb's arm - nalegać na kogoś/stosować na kimś presję
+twist sb's words - przekręcić czyjeś słowa

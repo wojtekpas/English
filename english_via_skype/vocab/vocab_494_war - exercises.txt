@@ -1,16 +1,25 @@
 rzeczowniki:
+autopsy - seksja zwłok
 boom - hossa/wzrost popularności
+brink - skraj/krawędź
+casualty - ofiara
 censorship - cenzura
 childbirth - poród
+coat - płaszcz/kurtka
 currency - waluta
 dictator - dyktrator
+famine - głód
 fanatic - fanatyk
+guidelines - wytyczne
 hunt - polowanie/poszukiwanie/obława
 invader - najeźdźca
 liberation - oswobodzenie
 provocation - prowokacja
+reparation - zadośćuczynienie/rekompensata
+reporting - sprawozdanie
 
 czasowniki:
+annul - anulować/unieważniać
 bleed - krwawić
 dictate - nakazywać/rozkazywać
 distract - rozpraszać/dekoncentrować
@@ -20,24 +29,34 @@ hack - włamywać się/dać radę
 hail - pochwalić/krzyknąć
 intervene - interweniować/stawać na przeszkodzie
 liberate - uwalniać
+overthrow - obalić/zburzyć
+stab - pchnąć/ugodzić
 twist - skręcić/skrzywić
 
 przymiotniki:
 bodily - cielesny/fizyczny
 brainwashed - poddany praniu mózgu
-choked - zdenerwowany/wściekły
+choked - zdławiony
+crushed - zgnieciony
 demented - bezrozumny/oszalały
 dictatorial - autorytatywny
+dignified - dostojny/poważny
+disputed - sporony
 gung-ho - napalony/podjarany
 impartial - bezstronny/obiektywny
+outlawed - nielegalny
+ruling - panujący/rządzący
 starved - wygłodzony/zagłodzony
 
 rzeczowniki złożone:
+broken heart - złamane serce
+ethnic cleansing - czystka etniczna
 natural cause - naturalna przeczyna
 
 czasowniki złożone:
 bring about sth - spowodować coś
 drum up - zdobyć/zyskać
+force out - usunąć siłą
 prop up - wspierać w trudnej sytuacji
 pull out - wyjeżdzać/opuszczać
 step up - uzyskać awans/stanąć na wysokości zadania
@@ -46,5 +65,6 @@ wyrażenia:
 drum up business - rozkręcić interesy
 drum up support - pozyskać poparcie
 in the intervening years - w tych latach
+lay claim to sth - rościć pretensje do czegoś
 twist sb's arm - nalegać na kogoś/stosować na kimś presję
 twist sb's words - przekręcić czyjeś słowa

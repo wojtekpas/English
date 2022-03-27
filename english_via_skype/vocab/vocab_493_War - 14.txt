@@ -22,9 +22,12 @@ resentment - gniew/frustracja
 settlement - porozumienie/ugoda
 skirmish - starcie zbrojne
 stalemate - impas
+strike - uderzenie
+tyrant - tyran/despota
 wartime - czas wojny
 
 czasowniki:
+censor - cenzurować
 crush - miażdzyć/przygnieść
 dehumanize - odczłowieczyć
 descend - przeradzać
@@ -37,13 +40,19 @@ pose - stanowić/udawać
 provoke - prowokować
 
 przymiotniki:
+biased - stronniczy/tendencyjny
 compulsory - obowiązkowy
 entrenched - głęboko zakorzeniony
+fanatical - fanatyczny
+harrowing - wstrząsający/straszny
 heavy-handed - nietaktowny/surowy
 inhuman - nieludzki
 latent - ukryty/utajony
+obedient - posłuszny
 peaceful - pokojowy/pojednawczy
+sneak - podstępny/przebiegły
 spiralling - gwałtownie wzrastający
+statesmanlike - godny męża stanu
 waged - płatny/zatrudniony
 
 przysłówki:
@@ -51,15 +60,19 @@ overwhelmingly - niezwykle/ogromnie
 
 rzeczowniki złożone:
 civil war - wojna domowa
+collateral damage - straty uboczne
 dispute settlement - rozwiązywanie sporów
 draft dodger - uchylający się od poboru
 lasting peace - trwały spokój
 power-sharing - podział władzy
 rogue state - państwo zbójeckie
 turning point - punkt zwrotny
+war machine - machina wojenna
 
 czasowniki złożone:
+churn out - naprodukować
 cut sth short - skrócić coś
+get behind - spóźniać się
 give in - poddać się/ugiąć się
 go off - wybuchnąć
 prop sth up - podpierać coś/wspierać

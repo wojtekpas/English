@@ -1,0 +1,11 @@
+rzeczowniki:
+
+czasoniki:
+aggravate - pogarszać/utrudniać
+better - ulepszac/poprawiać
+exacerbate - pogarszać
+refurbish - odrestaurować/odnawiać
+streamline - poprawiać/zwiększać/optymalizować
+value - wyceniać
+
+przymiotniki:

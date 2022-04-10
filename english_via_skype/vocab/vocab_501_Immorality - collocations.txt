@@ -1,0 +1,51 @@
+rzeczowniki:
+deed - czyn
+deprivation - ograniczanie/utrata/pozbawienie
+dirt - brud
+disrespect - nieposzanowanie/brak szacunku
+embezzlement - defraudacja/malwersacja
+exhibit - wystawa/dowód rzeczowy
+grace - łaska
+grip - uchwyt/uścisk/kontrola
+laxity - nieprecyzyjność/niedokładność/rozwiązłość
+misdemeanour - występek
+negligence - niedbalstwo/zaniedbanie
+subsidiary - filia/oddział
+uproar - oburzenie/hałas/wrzawa
+wayside - brzeg drogi
+wrongdoing - krzywda/zło/przestępstwo
+
+czasowniki:
+backfire - obracać się przeciw komuś
+badmouth - obgadywać/obmawiać
+cast - rzucać cień
+expunge - skreślić/wymazać z pamięci
+
+przymiotniki:
+deprived - pozbawiony
+despicable - nikczemny/podły
+entrenched - głęboko zakorzeniony/umocniony
+illicit - zabroniony/zakazany
+infamous - owiany złą sławą/niechlubny
+inviable - nieopłacalny/skazany na niepowodzenie
+long-lasting - długotrwały
+pervasive - wszechobecny
+reprehensible - naganny/karygodny
+rotten - zgniły/zepsuty
+unaccounted - niewyjaśniony/nieznany
+widespread - rozległy/powszechny
+
+czasowniki złożone:
+dig sth up - odkopać/odgrzebać coś
+live down - zmazać coś
+make up for sth - wynagrodzić/zrekompensować coś
+
+wyrażenia:
+be in the grip of sth - być ogarniętym czymś
+fall by the wayside - nie dawać sobie rady/schodzić na złą drogę
+in bad taste - w złym guście
+in defiance of - na przekór/wbrew
+in view of sth - z powodu czegoś/z uwagi na coś
+monkey business = machlojki/nielegalne interesy
+put sb on blast - skompromitować kogoś publicznie
+rotten to the core - zepsuty do cna

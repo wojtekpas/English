@@ -1,0 +1,37 @@
+rzeczowniki:
+campsite - pole kempingowe
+concoction - mieszanina
+extinguisher - gaśnica
+fist - pięść
+gator - aligator
+jaws - szczęki
+paramedic - ratownik medyczny
+pooch - psisko/kundel
+powder - proszek
+spectacle - widowisko
+trail - ślad/smuga
+
+czasowniki:
+brag - przechwalać się
+flash - pokazywać na chwilę
+rush - pędzić
+shoplift - kraść w sklepie
+
+przymiotniki:
+regrettable - niefortunny
+self-made - zawdzięczający wszystko samemu sobie
+
+rzeczowniki złożone:
+convenience store - niewielki sklepik
+display cabinet - oszklona szafka
+law enforcement - służby porządkowe
+puncture wound - rana kłuta
+
+czasowniki złożone:
+roll in - napływać/wtoczyć się
+set sth off - zdetonować coś
+smash sth up - demolować coś
+
+wyrażenia:
+flee the scene - zbiec z miejsca wypadku
+take the biscuit - przechodzić ludzkie pojęcie

@@ -1,0 +1,36 @@
+rzeczowniki:
+borough - gmina
+carriage - wagon
+display - wystawa
+eatery - restauracja/bar
+fortress - forteca/twierdza
+heritage - dziedzictwo
+landmark - zabytek
+marvel - cud/zdziwienie
+moat - fosa
+pod - gondola/kapsuła
+raven - kruk
+roundel - medalion/krążek
+showcase - gablota/wizytówka
+
+czasowniki:
+evolve - rozwijać/ewoluować
+relive - ożywiać
+showcase - promować
+
+przymiotniki:
+cantilevered - wspornikowy
+ground-breaking - przełomowy/nowatorskiroundel
+infamous - owiany złą sławą
+intertwined - śliśle ze sobą połaczony
+maritime - nadmorski
+mesmerizing - niesamowity/hipnotyzujacy
+spellbinding - fascynujący/czarujący
+steam - parowy
+underwater - podwodny
+wandering - wędrujacy/błądzący
+
+rzeczowniki złożone:
+padded cell - pokój ze ścianami obitymi gąbką
+wyrażenia:
+featuring - z udziałem/gościnnie

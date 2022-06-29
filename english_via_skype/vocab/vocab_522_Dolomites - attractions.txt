@@ -1,0 +1,73 @@
+rzeczowniki:
+basin - basen/niecka
+burial - pochówek
+cableway - wyciąg
+dairy - nabiał
+elevation - wysokośc/wyniesienie
+familiarity - obeznanie/zażyłość
+fortifications - fortyfikacje
+gateway - wejście
+gourmet - smakosz
+hue - odcień
+hut - chałupa/szałas
+jagged - postrzępiony
+larch - modrzew
+leg - odcinek
+municipality - miasto
+pasture - pastwisko
+refuge - schronienie
+relic - relikwia/pamiątka
+ridgeline - grzebiet
+slashing - nacinanie/rąbanie
+solitary - izolatka/samotnik
+spire - szczyt
+straddle - rozkrok
+swarming - tłoczenie/rojenie się
+trench - okop
+venture - wyprawa
+
+czasowniki:
+afford - oferować/zapewniać
+cradle - tulić/kołysać
+detract - umniejszać
+encompass - obejmować/otaczać
+impose - narzucać
+overlook - wychodzić na coś/wznosić się nad czymś
+undertake - podjąć się
+
+przyiotniki:
+ascending - wznoszący się
+beloved - ukochany
+dazzling - oślepiający/rażący
+enchanting - czarujący
+exhilarating - ekscytujący/porywający/radosny
+fiery - ognisty
+fraught - napięty
+glacial - lodowcowy
+gorgeous - olśniewający
+imposing - imponujący/okazały
+karst - krasowy
+low-key - niewyróżniający się/niewidoczny
+lunar - księżycowy
+marvelous - cudowny
+milky - bojaźliwy/blady
+overnight - nagły/natychmiastowy
+panoramic - panoramiczny
+prominent - znaczący/wybitny
+renowned - sławny/słynny
+roaring - oszałamiający
+rolling - falisty
+sheer - sam/czysty/przezroczysty
+slender - szczupły/smukły
+sprawling - rozciągnięty
+staggering - zdumiewający
+stellar - gwiezdny/doskonały
+turquoise - turkusowy
+
+przysłówki:
+blissfully - błogo
+justifiably - słusznie/nie bez powodu
+
+czasowniki złożone:
+detract from - odwacać/odciągać
+jut out - wystawać/sterczeć

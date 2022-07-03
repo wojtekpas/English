@@ -1,0 +1,70 @@
+rzeczowniki:
+adversity - przeciwności losu
+apprehension - lęk/obawa
+ascensionist - zdobywca górskiego szczytu
+ascent - wspinaczka
+bivouac - biwak
+chagrin - rozgoryczenie
+crag - grań
+delight - zachwyt
+dreamland - kraina snów
+exultation - radość/euforia
+fastness - twierdza/solidność
+footstep - ślad
+hardship - trud/niewygoda
+limestone - wapień
+pilgrimage - pielgrzymka/wędrówka
+piton - hak wspinaczkowy
+relic - relikwia
+tattered - podarty/zużyty
+
+czasowniki:
+endure - znosić/cierpieć
+gaze - wpatrywać się intensywnie
+outstrip - przewyższać
+recount - relacjonować
+strew - zasypywać
+
+przymiotniki:
+appalling - przerażający
+arcane - tajemniczy
+avid - żądny/zapalony
+battered - poturbowany
+disastrous - fatalny/katastrofalny
+drawn-out - rozwlekły
+ferociously - dziko/wściekle
+forbidding - posępny
+grainy - ziarnisty
+grim - groźny/ponury
+haunted - naiwedzony/udręczony
+horrified - przerażony
+incongruous - dziwny/osobliwy
+indistinguishable - nie dający się odróżnić/nieuchwytny
+life-affirming - budzący pozytywny nastawienie do życia
+life-enhancing - poprawiający życie
+lingering - zwlekający
+long-lost - niedawno widziany
+nightmarish - koszmarny
+nonsensical - bezsensowny
+paradoxical - paradoksalny
+pointlessness - bezsensowność
+receptive - otwarty/chłonny
+repellent - wstrętny/odpychający
+replicated - powielony
+scattered - rozrzucony/rozproszony
+seminal - brzemienny w skutki
+single-minded - zdeterminowany/uparty
+sketchy - fragmentaryczny/niepełny
+storm-lashed - smagany burzą
+sumptuous - przepyszny/okazały
+unshakable - niewzruszony
+
+przysłówki:
+mutely - milcząco
+tantalizingly - kusząco/prowokacyjnie
+unrelentingly - bezlitośnie
+vicariously - pośrednio
+
+czasowniki złożone:
+plunge into sth - pogrążyć sięw czymś
+put sb off - zniechęcać kogoś

@@ -32,7 +32,6 @@ avid - żądny/zapalony
 battered - poturbowany
 disastrous - fatalny/katastrofalny
 drawn-out - rozwlekły
-ferociously - dziko/wściekle
 forbidding - posępny
 grainy - ziarnisty
 grim - groźny/ponury
@@ -60,6 +59,7 @@ sumptuous - przepyszny/okazały
 unshakable - niewzruszony
 
 przysłówki:
+ferociously - dziko/wściekle
 mutely - milcząco
 tantalizingly - kusząco/prowokacyjnie
 unrelentingly - bezlitośnie

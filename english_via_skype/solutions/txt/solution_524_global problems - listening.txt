@@ -1,0 +1,9 @@
+7)
+1. cut
+2. put
+3. reverse
+4. bring
+5. make
+6. provide
+7. raise
+8. initiate

@@ -1,0 +1,44 @@
+rzeczowniki:
+altar - ołtarz
+antiquity - starożytność
+burial - pochówek
+canopy - baldachim
+cast - kopiec
+emperor - cesarz/imperator
+highlight - główna atrakcja
+martyr - męczennik
+oval - owal
+populace - populacja/tłum
+sightseer - zwiedzający
+silhouette - sylwetka/zarys
+state - kraj/państwo
+tile - kafelek
+
+czasowniki:
+inaugurate - wprowadzać/rozpoczynać
+intersperse - rozrzucać/urozmaicić
+worship - chwalić/czcić
+
+przymiotniki:
+enlarged - powiększony
+erected - wniesiony
+gilded - ekskluzywny
+handy - użyteczny/przydatny
+harmonious - harmonijny
+pagan - pogański
+papal - papieski
+preserved - zachowany
+splendid - znakomity/genialny
+stripped - prosty/okrojony
+supreme - najwyższy/naczelny
+unquestioned - bezsprzeczny/niekwestionowany
+
+przysłówki:
+remarkably - wybitnie
+
+rzeczowniki złożone:
+dolce vita - słodkie/wygodne życie
+
+czasowniki złożone:
+kick back - wyluzować się
+melt sth down - przetapiać coś

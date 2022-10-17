@@ -1,0 +1,39 @@
+rzeczowniki:
+basking - wygrzewanie
+Christendom - świat chrześcijański
+cobblestone - bruk
+dome - kopuła
+eatery - restauracja/bar
+epiphany - objawienie
+gelato - lody włoskie
+heritage - dziedzictwo
+ivy - bluszcz
+papacy - papiestwo/pontyfikat
+pilgrim - pielgrzym
+respite- odpoczynek/odroczenie
+sight - miejsce godne zobaczenia
+tapestry - obicie
+venture - przedsięwzięcie/wyprawa
+
+czasowniki:
+dine - obiadować
+laud - chwalić
+stroll - przechadzać się
+venture - zapuszczać się
+
+przymiotniki:
+bohemian - artyksyczny/zrelaksowany
+culinary - kulinarny
+expansive - ekspansywny/rozległy
+frenetic - gorączkowy
+incorporated - wkomponowany
+plentiful - liczny/bogaty
+sacred - święty
+seasonal - sezonowy
+sumptuous - przepyszny/okazały
+uncontested - niekwestionowany
+well-trodden - wydeptany/sprawdzony
+world-renowned - światowej sławy
+
+czasowniki złożone:
+spill out - wylewaćsię skądś

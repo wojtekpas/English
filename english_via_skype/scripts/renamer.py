@@ -4,13 +4,13 @@ path = "C:\English\english_via_skype"
 path_script = "%s\scripts" % path
 path_original_doc = "%s\original_exercises\doc" % path
 path_original_pdf = "%s\original_exercises\pdf" % path
+path_original_mp3 = "%s\materials\mp3" % path
 path_solution_doc = "%s\solutions\doc" % path
-path_solution_pdf = "%s\solutions\txt" % path
 path_vocab = "%s\vocab" % path
 print ("Pliki w folderze: ")
 filenames = os.listdir(path_script)
 print(filenames)
-id = 547
+id = 550
 
 for filename in filenames:
     if "py" in filename:
@@ -30,5 +30,11 @@ for filename in filenames:
         if len(names) == 2:
             oldname = names[0]
             newname = "%s\lesson_%d_%s.pdf" % (path_original_pdf, id, oldname)
+            print(newname)
+            copyfile(filename_absolute, newname)
+        names = str(filename).split(".mp3")
+        if len(names) == 2:
+            oldname = names[0]
+            newname = "%s\lesson_%d_%s.mp3" % (path_original_mp3, id, oldname)
             print(newname)
             copyfile(filename_absolute, newname)

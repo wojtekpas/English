@@ -1,0 +1,24 @@
+rzeczowniki:
+bedding - pościel
+fleece -  polar/wełna
+sleeping bag - śpiwór
+
+czasowniki:
+gaze - wpatrywać się intensywnie
+
+przymiotniki:
+contentious - kontrowersyjny
+cumbersome - nieopręczny
+fertile - żyzny/urodzajny/płodny
+indispensable - nieodzowny
+lightweight - lekki
+makeshift - chwilowy/zastępczy
+multi-purpose - wielozadaniowy
+overcrowded - zatłoczony
+rugged - nierówny
+sprawling - rozciągnięty
+sun-kissed - skąpany w słońcu
+vibrant - ekscytujący
+
+rzeczowniki złożone:
+high-altitude - wysoki pułap

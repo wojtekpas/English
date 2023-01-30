@@ -1,21 +1,34 @@
 rzeczowniki:
 bedding - pościel
+craze - moda/szał
+flare - błysk/raca
 fleece -  polar/wełna
+leftovers - resztki
+legacies - pozostałość/spuścizna
 sleeping bag - śpiwór
+urbanite - mieszkaniec
+wasteland - nieużytek/pustkowie
+whim - kaprys
 
 czasowniki:
+decommission - rozbroić/likwidować
 gaze - wpatrywać się intensywnie
+reinvent - wymyślić na nowo
 
 przymiotniki:
 contentious - kontrowersyjny
 cumbersome - nieopręczny
+defunct - wygasły/zlikwidowany
 fertile - żyzny/urodzajny/płodny
+fuelled - podsycany
 indispensable - nieodzowny
 lightweight - lekki
 makeshift - chwilowy/zastępczy
 multi-purpose - wielozadaniowy
 overcrowded - zatłoczony
 rugged - nierówny
+renowned - sławny/głośny
+reputed - rzekomy/uznany
 sprawling - rozciągnięty
 sun-kissed - skąpany w słońcu
 vibrant - ekscytujący

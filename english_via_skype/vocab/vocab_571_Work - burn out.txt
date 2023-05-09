@@ -1,0 +1,26 @@
+rzeczowniki:
+affection - uczucie/sympatia
+cog - trybik/kółko zębate
+disillusion - rozczarowanie
+grudge - niechęć/uraza
+perk - dodatek/gratis
+ranks - szeregi
+resentment - gniew/niechęć
+
+czasowniki:
+assimilate - przyswajać
+mistify - zadziwić
+persevere - wytrwać
+withhold - zatajać
+
+przymiotniki:
+adept - biegły
+elated - upojony/uszczęśliwiony
+flash - szpanerski
+
+rzeczowniki złożone:
+high-flyers - młody wilk
+
+czasowniki złożone:
+hand sth in - składać/złożyć coś
+talk sb out of sth - odiweść kogoś od czegoś/wyperswadować

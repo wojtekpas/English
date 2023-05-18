@@ -1,0 +1,27 @@
+rzeczowniki:
+laughter - śmiech
+necklace - naszyjnik/kolia
+stalemate - pat
+victor - zwycięzca
+weeping - płacz
+
+czasowniki:
+fancy - mieć ochotę/przywidywać sukces
+fidget - wiercić się
+haunt - nawiedzać
+jostle - rozpychać się
+trickle - z wolna napływać
+
+przymiotniki:
+abiding - stały/trwały
+enthralled - zafascynowany
+gangly - wysoki, szczupły i niezgrabny
+incongruous - dziwny/osobliwy
+languid - omdlewający
+partisan - stronniczy
+shattered - zdruzgotany/wyczerpany
+
+przysłówki:
+disarmingly - rozbrajająco
+gravely - poważnie
+inconsolably - niepocieszenie

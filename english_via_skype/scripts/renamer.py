@@ -10,7 +10,7 @@ path_vocab = "%s\vocab" % path
 print ("Pliki w folderze: ")
 filenames = os.listdir(path_script)
 print(filenames)
-id = 595
+id = 596
 
 for filename in filenames:
     if "py" in filename:
@@ -36,5 +36,11 @@ for filename in filenames:
         if len(names) == 2:
             oldname = names[0]
             newname = "%s\lesson_%d_%s.mp3" % (path_original_mp3, id, oldname)
+            print(newname)
+            copyfile(filename_absolute, newname)
+        names = str(filename).split(".wma")
+        if len(names) == 2:
+            oldname = names[0]
+            newname = "%s\lesson_%d_%s.wma" % (path_original_mp3, id, oldname)
             print(newname)
             copyfile(filename_absolute, newname)

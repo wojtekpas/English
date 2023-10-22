@@ -4,37 +4,53 @@ boycott - bojkot/odmowa
 coalition - koalicja/przymierze/sojusz
 dictatorship - dyktatura
 disarray - nieład/nieporządek/zamęt
+exhilaration - rozradowanie
 government - rząd
 hung parliament - parlament mniejszościowy
 landslide - walne zwycięstwo
+liberator - wyzwoliciel
 majority - większość/pełnoletność
 manifesto - manifest
+occupier - okupant
 opposition - sprzeciw/opozycja/przeciwnik/konkurencja
 parliament - parlament
 puppet government - rząd marionetkowy
 rigging - zmanipulowanie/sfałszowanie
 scandal - skandal/afera
+spark - iskra/przebłysk
 
 czasowniki:
 call - ogłaszać/zwoływać
 collapse - zawalić się/runąć/opaść/bankrutować
 form - formować/zakładać/tworzyć/kształtować
-hang - wieszać/powiesić
 invade - najeżdzać/nadchodzić/wtargnąć/naruszać
 outline - naszkicować/przedstawić w skrócie
+preach - głosić/propagować
 
 przymiotniki:
 abandoned - opuszczony/porzucony
 fair - sprawiedliwy/należny/równy/spory
+flustered - zdołowany
 main - główny
 right-wing - prawicowy
 rushed - pochopny/zrobiony w pośpiechu/zabiegany
+shifty - przebiegły
+smarmy - lizusowski
+smooth - spokojny
 
 przysłówki:
 relatively - relatywnie/stosunkowo/względnie
 
-wyrażenia:
+rzeczowniki złożone:
+hung parliament - parlament mniejszościowy
+puppet government - rząd marionetkowy
+
+czasowniki złożone:
 be accused of sth - być oskarżonym o coś
 bring sb down - zmniejszać/obnizać/obalać/doprowadzać coś do upadku
+come across - robić wrażenie
 stand for sth - znaczyć coś/udzielać poparcia czemuś/godzić się z czymś/tolerować coś
 result in sth - kończyć się czymś/doprowadzić do czegoś/spowodować coś
+
+wyrażenia:
+man of the people - człowiek ludu
